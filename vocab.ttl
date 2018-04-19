@@ -52,7 +52,7 @@
 
 :parent_id
   rdf:type owl:DatatypeProperty ;
-  rdfs:domain :Formula ;
+  rdfs:domain :Symbol ;
   rdfs:label "previous_id"^^xsd:string ;
   rdfs:range xsd:string ;
 .
