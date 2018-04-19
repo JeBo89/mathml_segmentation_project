@@ -176,6 +176,7 @@ def make_RDF(contents):
     # We then get a new graph object with our URI from the dataset.
     graph = dataset.graph(graph_uri)
 
+    dataset.default_context.parse("vocab.ttl",format="turtle")
     # IRI baker is a library that reliably creates valid (parts of) IRIs from strings (spaces are turned into underscores, etc.).
     from iribaker import to_iri
 
@@ -194,20 +195,20 @@ def make_RDF(contents):
 
         if ('Formula' in row):
             formula = Literal(row['Formula'], datatype=XSD['string'])
-            graph.add((id, VOCAB['formula'], formula))
+            dataset.add((id, VOCAB['formula'], formula))
 
         if ('Symbol' in row):
             symbol = Literal(row['Symbol'], datatype=XSD['string'])
-            graph.add((id, VOCAB['symbol'], symbol))
+            dataset.add((id, VOCAB['symbol'], symbol))
             parent_id = URIRef((data + str(row['parent_id'])))
-            graph.add((id, VOCAB['part_of'], parent_id))
+            dataset.add((id, VOCAB['part_of'], parent_id))
 
 
         if ('Operator' in row):
             operator = Literal(row['Operator'], datatype=XSD['string'])
-            graph.add((id, VOCAB['operator'], operator))
+            dataset.add((id, VOCAB['operator'], operator))
             parent_id = URIRef((data + str(row['parent_id'])))
-            graph.add((id, VOCAB['part_of'], parent_id))
+            dataset.add((id, VOCAB['part_of'], parent_id))
 
 
         # print
