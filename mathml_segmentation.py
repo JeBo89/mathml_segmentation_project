@@ -142,14 +142,14 @@ def main():
     content = []
     # print ((data['results']['bindings'][0:2]))
     # exit(0)
-    for data_d in data['results']['bindings'][0:1]:
+    for data_d in data['results']['bindings']:
         mathml_xml_string = (data_d['Formula']["value"])
         # print (mathml_xml_string)
         mathml_xml = etree.fromstring(mathml_xml_string)
         math_context = data_d['Label']['value']
         content = content +  (ms.parse_mathml(mathml_xml,math_context))
 
-    pprint(content)
+    # pprint(content)
     make_RDF(content)
 
 
@@ -252,9 +252,9 @@ def make_RDF(contents):
         # graph.add((person, VOCAB['hobby'], hobby))
         # graph.add((hobby, VOCAB['name'], hobby_name))
 
-    # with open('example-simple.trig','w') as f:
-    #     graph.serialize(f, format='trig')
-    print (dataset.serialize(format='trig'))
+    with open('math_db.trig','w') as f:
+        graph.serialize(f, format='trig')
+    # print (dataset.serialize(format='trig'))
 
 if __name__ == '__main__':
     main()
