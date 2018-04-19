@@ -10,20 +10,27 @@
   rdf:type owl:Ontology ;
   owl:versionInfo "Created with my hands!"^^xsd:string ;
 .
+
+:Mathematical_entity
+  rdf:type owl:Class ;
+  rdfs:label "Mathematical_entity"^^xsd:string ;
+  rdfs:subClassOf owl:Thing ;
+.
+
 :Formula
   rdf:type owl:Class ;
-  rdfs:label "Formnula"^^xsd:string ;
-  rdfs:subClassOf owl:Thing ;
+  rdfs:label "Formula"^^xsd:string ;
+  rdfs:subClassOf owl:Mathematical_entity ;
 .
 :Symbol
   rdf:type owl:Class ;
   rdfs:label "Symbol"^^xsd:string ;
-  rdfs:subClassOf owl:Thing ;
+  rdfs:subClassOf owl:Mathematical_entity ;
 .
 :Operator
   rdf:type owl:Class ;
   rdfs:label "Operator"^^xsd:string ;
-  rdfs:subClassOf owl:Thing ;
+  rdfs:subClassOf owl:Mathematical_entity ;
 .
 
 
@@ -36,29 +43,16 @@
 
 :previous_id
   rdf:type owl:DatatypeProperty ;
-  rdfs:domain :Formula ;
+  rdfs:domain :Mathematical_entity ;
   rdfs:label "previous_id"^^xsd:string ;
   rdfs:range xsd:string ;
 .
-:country
-  rdf:type owl:ObjectProperty ;
-  rdfs:label "country"^^xsd:string ;
-.
-:favourite_colour
-  rdf:type owl:ObjectProperty ;
-  rdfs:domain :Person ;
-  rdfs:label "colour"^^xsd:string ;
-  rdfs:range :Colour ;
-.
-:hobby
-  rdf:type owl:ObjectProperty ;
-  rdfs:domain :Person ;
-  rdfs:label "hobby"^^xsd:string ;
-  rdfs:range :Hobby ;
-.
-:place
-  rdf:type owl:ObjectProperty ;
-  rdfs:domain :Person ;
-  rdfs:label "place"^^xsd:string ;
-  rdfs:range :Place ;
+
+
+
+:parent_id
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain :Formula ;
+  rdfs:label "previous_id"^^xsd:string ;
+  rdfs:range xsd:string ;
 .
