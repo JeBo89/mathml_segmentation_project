@@ -27,17 +27,18 @@
 .
 
 
-:address
+:Mathematical_Context
   rdf:type owl:DatatypeProperty ;
-  rdfs:domain :Person ;
-  rdfs:label "address"^^xsd:string ;
+  rdfs:domain :Formula ;
+  rdfs:label "Mathematical_Context"^^xsd:string ;
   rdfs:range xsd:string ;
 .
-:age
+
+:previous_id
   rdf:type owl:DatatypeProperty ;
-  rdfs:domain :Person ;
-  rdfs:label "age"^^xsd:string ;
-  rdfs:range xsd:int ;
+  rdfs:domain :Formula ;
+  rdfs:label "previous_id"^^xsd:string ;
+  rdfs:range xsd:string ;
 .
 :country
   rdf:type owl:ObjectProperty ;
