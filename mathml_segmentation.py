@@ -1,6 +1,9 @@
+import pprint
+
 from lxml import etree
-
-
+import regex as re
+import json
+from pprint import pprint
 
 
 class mathml_segmentation:
@@ -15,7 +18,9 @@ class mathml_segmentation:
         l =[]
         if (mathml_xml.getchildren() != []):
             d = {}
-            d["Mathematical Entity"] = etree.tostring(mathml_xml, encoding="unicode", method="text")
+            s = etree.tostring(mathml_xml, encoding="unicode", method="xml",xml_declaration=False).replace(" ", "").replace("\n", "")
+            # s = re.sub(r'([\\n\s]*?)','', s, flags=re.IGNORECASE)
+            d["Formulas"] = s
             d["id"] = mathml_segmentation.counter
             mathml_segmentation.counter += 1
             l.append(d)
@@ -27,13 +32,13 @@ class mathml_segmentation:
                 # NO CHILDREN
                 if children.tag == '{http://www.w3.org/1998/Math/MathML}mi':
                     d = {}
-                    d["symbol"] =  children.text
+                    d["Symbol"] =  children.text
                     d["id"] = mathml_segmentation.counter
                     mathml_segmentation.counter += 1
                     l.append(d)
                 if children.tag == '{http://www.w3.org/1998/Math/MathML}mo':
                     d = {}
-                    d['operator'] =   children.text
+                    d['Operator'] =   children.text
                     d["id"] = mathml_segmentation.counter
                     mathml_segmentation.counter += 1
                     l.append(d)
@@ -43,6 +48,7 @@ class mathml_segmentation:
 
 
 def main():
+
     mathml_xml_string = """<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>E</mi><mo>=</mo><mi>m</mi><msup><mi>c</mi><mn>2</mn></msup></math>"""
 
     # mathml_xml_string = """
@@ -68,48 +74,48 @@ def main():
     #        </math>
     #        """
 
-    # mathml_xml_string = u"""
-    #     <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-    #       <mrow>
-    #         <mi>x</mi>
-    #         <mo>=</mo>
-    #         <mfrac>
-    #           <mrow>
-    #             <mrow>
-    #               <mo>-</mo>
-    #               <mi>b</mi>
-    #             </mrow>
-    #             <mo>&#xB1;</mo>
-    #             <msqrt>
-    #               <mrow>
-    #                 <msup>
-    #                   <mi>b</mi>
-    #                   <mn>2</mn>
-    #                 </msup>
-    #                 <mo>-</mo>
-    #                 <mrow>
-    #                   <mn>4</mn>
-    #                   <mo>&#x2062;</mo>
-    #                   <mi>a</mi>
-    #                   <mo>&#x2062;</mo>
-    #                   <mi>c</mi>
-    #                 </mrow>
-    #               </mrow>
-    #             </msqrt>
-    #           </mrow>
-    #           <mrow>
-    #             <mn>2</mn>
-    #             <mo>&#x2062;</mo>
-    #             <mi>a</mi>
-    #           </mrow>
-    #         </mfrac>
-    #       </mrow>
-    #     </math>
-    #        """
+    mathml_xml_string = u"""
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+          <mrow>
+            <mi>x</mi>
+            <mo>=</mo>
+            <mfrac>
+              <mrow>
+                <mrow>
+                  <mo>-</mo>
+                  <mi>b</mi>
+                </mrow>
+                <mo>&#xB1;</mo>
+                <msqrt>
+                  <mrow>
+                    <msup>
+                      <mi>b</mi>
+                      <mn>2</mn>
+                    </msup>
+                    <mo>-</mo>
+                    <mrow>
+                      <mn>4</mn>
+                      <mo>&#x2062;</mo>
+                      <mi>a</mi>
+                      <mo>&#x2062;</mo>
+                      <mi>c</mi>
+                    </mrow>
+                  </mrow>
+                </msqrt>
+              </mrow>
+              <mrow>
+                <mn>2</mn>
+                <mo>&#x2062;</mo>
+                <mi>a</mi>
+              </mrow>
+            </mfrac>
+          </mrow>
+        </math>
+           """
     ms = mathml_segmentation()
 
-    mathml_xml = etree.fromstring(mathml_xml_string)
-    print (ms.parse_mathml(mathml_xml))
+    # mathml_xml = etree.fromstring(mathml_xml_string)
+    # pprint(ms.parse_mathml(mathml_xml))
 
     # print ("""@prefix mydb: <http://mydb.org/> .
     # @prefix schema: <http://schema.org/> .
@@ -118,19 +124,34 @@ def main():
     # """)
 
 
-def make_RDF(csv_contents):
+    data = json.load(open('queryResults.json'))
+
+    # pprint(data['results']['bindings'][0]['Formula'])
+    content = []
+    for data_d in data['results']['bindings']:
+        mathml_xml_string = (data_d['Formula']["value"])
+        # print (mathml_xml_string)
+        mathml_xml = etree.fromstring(mathml_xml_string)
+        content.append (ms.parse_mathml(mathml_xml))
+
+    pprint(content)
+    # make_RDF(contents)
+
+
+def make_RDF(contents):
 
     from rdflib import Dataset, URIRef, Literal, Namespace, RDF, RDFS, OWL, XSD
 
+    host  = ""
     # A namespace for our resources
-    data = 'http://data.krw.d2s.labs.vu.nl/group20/resource/'
+    data = host + '/resource/'
     DATA = Namespace(data)
     # A namespace for our vocabulary items (schema information, RDFS, OWL classes and properties etc.)
-    vocab = 'http://data.krw.d2s.labs.vu.nl/group20/vocab/'
-    VOCAB = Namespace('http://data.krw.d2s.labs.vu.nl/group20/vocab/')
+    vocab = host + '/vocab/'
+    VOCAB = Namespace(host + '/vocab/')
 
     # The URI for our graph
-    graph_uri = URIRef('http://data.krw.d2s.labs.vu.nl/group20/resource/examplegraph')
+    graph_uri = URIRef(host+ '/resource/examplegraph')
 
     # We initialize a dataset, and bind our namespaces
     dataset = Dataset()
@@ -145,7 +166,7 @@ def make_RDF(csv_contents):
 
     # Let's iterate over the dictionary, and create some triples
     # Let's pretend we know exactly what the 'schema' of our CSV file is
-    for row in csv_contents:
+    for row in contents:
         # `Name` is the primary key and we use it as our primary resource, but we'd also like to use it as a label
         person = URIRef(to_iri(data + row['Name']))
         name = Literal(row['Name'], datatype=XSD['string'])
