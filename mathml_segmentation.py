@@ -167,7 +167,7 @@ def make_RDF(contents):
     VOCAB = Namespace(host + '/vocab/')
 
     # The URI for our graph
-    graph_uri = URIRef(host+ '/resource/mathentitygraph')
+    graph_uri = URIRef(host+ '/resource/math_entity_graph')
 
     # We initialize a dataset, and bind our namespaces
     dataset = Dataset()
