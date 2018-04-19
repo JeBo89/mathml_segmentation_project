@@ -13,32 +13,36 @@
 #    Object Properties
 #################################################################
 
-###  http://localhost:5820/MATH/vocab#mathematical_context
-:mathematical_context rdf:type owl:ObjectProperty .
+###  http://localhost:5820/MATH/vocab#part_of
+:part_of rdf:type owl:ObjectProperty ,
+                  owl:AsymmetricProperty ;
+         rdfs:domain <http://localhost:5820/MATH/vocab/Operator> ,
+                     <http://localhost:5820/MATH/vocab/Symbol> ;
+         rdfs:range :Formula .
+
+
+###  http://localhost:5820/MATH/vocab#previous_id
+:previous_id rdf:type owl:ObjectProperty ;
+             rdfs:domain <http://localhost:5820/MATH/vocab/Mathematical_entity> .
 
 
 #################################################################
 #    Data properties
 #################################################################
 
-###  http://localhost:5820/MATH/vocab/Mathematical_Context
-<http://localhost:5820/MATH/vocab/Mathematical_Context> rdf:type owl:DatatypeProperty ;
-                                                        rdfs:range xsd:string ;
-                                                        rdfs:label "Mathematical_Context"^^xsd:string .
+###  http://localhost:5820/MATH/vocab#context
+:context rdf:type owl:DatatypeProperty ;
+         rdfs:domain <http://localhost:5820/MATH/vocab/Mathematical_entity> .
 
 
-###  http://localhost:5820/MATH/vocab/parent_id
-<http://localhost:5820/MATH/vocab/parent_id> rdf:type owl:DatatypeProperty ;
-                                             rdfs:domain <http://localhost:5820/MATH/vocab/Symbol> ;
-                                             rdfs:range xsd:string ;
-                                             rdfs:label "previous_id"^^xsd:string .
+###  http://localhost:5820/MATH/vocab#name
+:name rdf:type owl:DatatypeProperty ;
+      rdfs:domain <http://localhost:5820/MATH/vocab/Mathematical_entity> .
 
 
-###  http://localhost:5820/MATH/vocab/previous_id
-<http://localhost:5820/MATH/vocab/previous_id> rdf:type owl:DatatypeProperty ;
-                                               rdfs:domain <http://localhost:5820/MATH/vocab/Mathematical_entity> ;
-                                               rdfs:range xsd:string ;
-                                               rdfs:label "previous_id"^^xsd:string .
+###  http://localhost:5820/MATH/vocab#xml
+:xml rdf:type owl:DatatypeProperty ;
+     rdfs:domain :Formula .
 
 
 #################################################################
@@ -58,13 +62,13 @@
 
 ###  http://localhost:5820/MATH/vocab/Operator
 <http://localhost:5820/MATH/vocab/Operator> rdf:type owl:Class ;
-                                            rdfs:subClassOf :Formula ;
+                                            rdfs:subClassOf <http://localhost:5820/MATH/vocab/Mathematical_entity> ;
                                             rdfs:label "Operator"^^xsd:string .
 
 
 ###  http://localhost:5820/MATH/vocab/Symbol
 <http://localhost:5820/MATH/vocab/Symbol> rdf:type owl:Class ;
-                                          rdfs:subClassOf :Formula ;
+                                          rdfs:subClassOf <http://localhost:5820/MATH/vocab/Mathematical_entity> ;
                                           rdfs:label "Symbol"^^xsd:string .
 
 

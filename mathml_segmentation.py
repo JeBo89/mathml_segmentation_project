@@ -167,7 +167,7 @@ def make_RDF(contents):
     VOCAB = Namespace(host + '/vocab/')
 
     # The URI for our graph
-    graph_uri = URIRef(host+ '/resource/math_entity_graph')
+    graph_uri = URIRef(host+ '/resource/graph')
 
     # We initialize a dataset, and bind our namespaces
     dataset = Dataset()
@@ -182,19 +182,20 @@ def make_RDF(contents):
 
 
     for row in contents:
+
+
         id = URIRef((data + str(row['id']))) # primary key for the object
-        Mathematical_entity = Literal('Mathematical_entity', datatype=XSD['string'])
-        graph.add((id, RDFS.label,Mathematical_entity))
 
         mathematical_context = Literal(row['Mathematical_Context'], datatype=XSD['string'])
-        graph.add((id, VOCAB['mathematical_context'], mathematical_context))
-
+        graph.add((id, VOCAB['Mathematical_Context'], mathematical_context))
+        #
         id_ = URIRef((data + str(row['id_'])))
         graph.add((id, DATA['previous_id'] ,id_))
-
+        # #
         if ('Formula' in row):
-            formula = Literal(row['Formula'], datatype=XSD['string'])
-            graph.add((id, VOCAB['formula'], formula))
+            formula_xml = Literal(row['Formula'], datatype=XSD['string'])
+            graph.add((id, VOCAB['xml'], formula_xml))
+            # graph.add(id,RDFS.type,)
 
         if ('Symbol' in row):
             symbol = Literal(row['Symbol'], datatype=XSD['string'])
@@ -208,6 +209,49 @@ def make_RDF(contents):
             graph.add((id, VOCAB['operator'], operator))
             parent_id = URIRef((data + str(row['parent_id'])))
             graph.add((id, VOCAB['part_of'], parent_id))
+
+
+            # `Name` is the primary key and we use it as our primary resource, but we'd also like to use it as a label
+        # person = URIRef(to_iri(data + row['Name']))
+        # name = Literal(row['Name'], datatype=XSD['string'])
+        # # `Country` is a resource
+        # country = URIRef(to_iri(data + row['Country']))
+        # # But we'd also like to use the name as a label (with a language tag!)
+        # country_name = Literal(row['Country'], lang='en')
+        # # `Age` is a literal (an integer)
+        # age = Literal(int(row['Age']), datatype=XSD['int'])
+        # # `Favourite Colour` is a resource
+        # colour = URIRef(to_iri(data + row['Favourite Colour']))
+        # colour_name = Literal(row['Favourite Colour'], lang='en')
+        # # `Place` is a resource
+        # place = URIRef(to_iri(data + row['Place']))
+        # place_name = Literal(row['Place'], lang='en')
+        # # `Address` is a literal (a string)
+        # address = Literal(row['Address'], datatype=XSD['string'])
+        # # `Hobby` is a resource
+        # hobby = URIRef(to_iri(data + row['Hobby']))
+        # hobby_name = Literal(row['Hobby'], lang='en')
+        #
+        # # All set... we are now going to add the triples to our graph
+        # graph.add((person, VOCAB['name'], name))
+        # graph.add((person, VOCAB['age'], age))
+        # graph.add((person, VOCAB['address'], address))
+        #
+        # # Add the place and its label
+        # graph.add((person, VOCAB['place'], place))
+        # graph.add((place, VOCAB['name'], place_name))
+        #
+        # # Add the country and its label
+        # graph.add((person, VOCAB['country'], country))
+        # graph.add((country, VOCAB['name'], country_name))
+        #
+        # # Add the favourite colour and its label
+        # graph.add((person, VOCAB['favourite_colour'], colour))
+        # graph.add((colour, VOCAB['name'], colour_name))
+        #
+        # # Add the hobby and its label
+        # graph.add((person, VOCAB['hobby'], hobby))
+        # graph.add((hobby, VOCAB['name'], hobby_name))
 
 
     with open('math_db.trig','w') as f:
