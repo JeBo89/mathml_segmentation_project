@@ -12,6 +12,7 @@ from rdflib import Dataset, URIRef, Literal, Namespace, RDF, RDFS, OWL, XSD
 class mathml_segmentation:
     NS = ["http: // www.w3.org / 1998 / Math / MathML"]
     current_id = 0
+    current_formula_id = 0
 
     def __init__(self):
         self.new_id()
@@ -21,29 +22,40 @@ class mathml_segmentation:
         return self.current_id
     def get_id(self):
         return self.current_id
-    def parse_mathml(self,mathml_xml,math_context):
+
+    def reset_formula_id(self):
+        self.current_formula_id = 0
+    def new_formula_id(self):
+        self.current_formula_id = uuid.uuid1()
+        return self.current_formula_id
+    def get_formula_id(self):
+        return self.current_formula_id
+
+    def parse_mathml(self,mathml_xml,label_value='',description_value=''):
         l =[]
         if (mathml_xml.getchildren() != []):
             d = {}
             s = etree.tostring(mathml_xml, encoding="unicode", method="xml",xml_declaration=False).replace(" ", "").replace("\n", "")
             # s = re.sub(r'([\\n\s]*?)','', s, flags=re.IGNORECASE)
             d["Formula"] = s
-            d["Mathematical_Context"] = math_context
-            d["id_"] = self.get_id()
-            d["id"] = self.new_id()
+            d["label"] = label_value
+            d["description"]=description_value
+            d["id_"] = self.get_formula_id()
+            d["id"] = self.new_formula_id()
             parent_id = d["id"]
 
             l.append(d)
         for children in mathml_xml.getchildren():
             if children.getchildren() != []:
                 # HAS CHILDREN
-                l = l + self.parse_mathml(children,math_context)
+                l = l + self.parse_mathml(children,label_value,description_value)
             else:
                 # NO CHILDREN
                 if children.tag == '{http://www.w3.org/1998/Math/MathML}mi':
                     d = {}
                     d["Symbol"] =  children.text
-                    d["Mathematical_Context"] = math_context
+                    d["label"] = label_value
+                    d["description"] = description_value
                     d["id_"] = self.get_id()
                     d["id"] = self.new_id()
                     d["parent_id"] = parent_id
@@ -51,7 +63,8 @@ class mathml_segmentation:
                 elif children.tag == '{http://www.w3.org/1998/Math/MathML}mo':
                     d = {}
                     d['Operator'] =   children.text
-                    d["Mathematical_Context"] = math_context
+                    d["label"] = label_value
+                    d["description"] = description_value
                     d["id_"] = self.get_id()
                     d["id"] = self.new_id()
                     d["parent_id"] = parent_id
@@ -61,202 +74,111 @@ class mathml_segmentation:
 
 
 
+    def make_RDF(self,contents):
+
+
+        host  = "http://localhost:5820/MATH"
+        # A namespace for our resources
+        data = host +'/'# + '/resource/'
+        DATA = Namespace(data)
+        # A namespace for our vocabulary items (schema information, RDFS, OWL classes and properties etc.)
+        vocab = host #+ '/vocab/'
+        VOCAB = Namespace(host + '/vocab/')
+
+        # The URI for our graph
+        graph_uri = URIRef(host)#+ '/graph')
+
+        # We initialize a dataset, and bind our namespaces
+        dataset = Dataset()
+        dataset.bind('data', DATA)
+        dataset.bind('vocab', VOCAB)
+
+        # We then get a new graph object with our URI from the dataset.
+        graph = dataset.graph(graph_uri)
+
+        dataset.default_context.parse("vocab.ttl",format="turtle")
+        # IRI baker is a library that reliably creates valid (parts of) IRIs from strings (spaces are turned into underscores, etc.).
+
+
+        for row in contents:
+
+
+            id = URIRef((data + str(row['id']))) # primary key for the object
+
+
+            #
+            id_ = URIRef((data + str(row['id_'])))
+            # graph.add((id, VOCAB['previous_id'] ,id_))
+            # graph.add((id, RDF.type, OWL.NamedIndividual))
+
+
+            if ('Formula' in row):
+
+                graph.add((id,RDF.type,VOCAB['Formula']))
+                formula_xml = Literal(row['Formula'], datatype=XSD['string'])
+                graph.add((id, VOCAB['xml'], formula_xml))
+                Description = Literal(row['description'], datatype=XSD['string'])
+                graph.add((id,VOCAB['Description'],Description))
+                label = Literal(row['label'], datatype=XSD['string'])
+                graph.add((id,VOCAB['label'],label))
+                if row['id_'] !=0:
+                    parent_id = URIRef((data + str(row['id_'])))
+                    graph.add((id, VOCAB['subFormulaOf'], parent_id))
+
+
+            if ('Symbol' in row):
+                graph.add((id, RDF.type, VOCAB['Symbol']))
+                symbol = Literal(row['Symbol'], datatype=XSD['string'])
+                graph.add((id, VOCAB['label'], symbol))
+                parent_id = URIRef((data + str(row['parent_id'])))
+                graph.add((id, VOCAB['partOf'], parent_id))
+
+
+            if ('Operator' in row):
+                graph.add((id, RDF.type, VOCAB['Operator']))
+                operator = Literal(row['Operator'], datatype=XSD['string'])
+                graph.add((id, VOCAB['label'], operator))
+                parent_id = URIRef((data + str(row['parent_id'])))
+                graph.add((id, VOCAB['partOf'], parent_id))
+
+
+        with open('math_db.trig','w') as f:
+            graph.serialize(f, format='trig')
+        # print (dataset.serialize(format='trig'))
+
+
 def main():
 
-    mathml_xml_string = """<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>E</mi><mo>=</mo><mi>m</mi><msup><mi>c</mi><mn>2</mn></msup></math>"""
 
-    # mathml_xml_string = """
-    #        <math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle f(x+T)=f(x)}\">
-    #            <semantics>
-    #                <mrow class=\"MJX-TeXAtom-ORD\">
-    #                  <mstyle displaystyle=\"true\" scriptlevel=\"0\">
-    #                    <mi>f</mi>
-    #                    <mo stretchy=\"false\">(</mo>
-    #                    <mi>x</mi>
-    #                    <mo>+</mo>
-    #                    <mi>T</mi>
-    #                    <mo stretchy=\"false\">)</mo>
-    #                    <mo>=</mo>
-    #                    <mi>f</mi>
-    #                    <mo stretchy=\"false\">(</mo>
-    #                    <mi>x</mi>
-    #                    <mo stretchy=\"false\">)</mo>
-    #                  </mstyle>
-    #                </mrow>
-    #                <annotation encoding=\"application/x-tex\">{\\displaystyle f(x+T)=f(x)}</annotation>
-    #            </semantics>
-    #        </math>
-    #        """
-
-    mathml_xml_string = u"""
-        <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-          <mrow>
-            <mi>x</mi>
-            <mo>=</mo>
-            <mfrac>
-              <mrow>
-                <mrow>
-                  <mo>-</mo>
-                  <mi>b</mi>
-                </mrow>
-                <mo>&#xB1;</mo>
-                <msqrt>
-                  <mrow>
-                    <msup>
-                      <mi>b</mi>
-                      <mn>2</mn>
-                    </msup>
-                    <mo>-</mo>
-                    <mrow>
-                      <mn>4</mn>
-                      <mo>&#x2062;</mo>
-                      <mi>a</mi>
-                      <mo>&#x2062;</mo>
-                      <mi>c</mi>
-                    </mrow>
-                  </mrow>
-                </msqrt>
-              </mrow>
-              <mrow>
-                <mn>2</mn>
-                <mo>&#x2062;</mo>
-                <mi>a</mi>
-              </mrow>
-            </mfrac>
-          </mrow>
-        </math>
-           """
     ms = mathml_segmentation()
-
-    # mathml_xml = etree.fromstring(mathml_xml_string)
-    # pprint(ms.parse_mathml(mathml_xml))
-
-    # print ("""@prefix mydb: <http://mydb.org/> .
-    # @prefix schema: <http://schema.org/> .
-    # @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-    # @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-    # """)
 
 
     data = json.load(open('queryResults.json'))
 
-    # pprint(data['results']['bindings'][0]['Formula'])
     content = []
-    # print ((data['results']['bindings'][0:2]))
+    # pprint ((data['results']['bindings'][0:1]))
     # exit(0)
-    for data_d in data['results']['bindings'][0:10]:
+    i = 0
+    for data_d in data['results']['bindings']:
         mathml_xml_string = (data_d['Formula']["value"])
+        if (len(mathml_xml_string) < 500 ):
+            i+=1;
+            # print (len(mathml_xml_string))
         # print (mathml_xml_string)
-        mathml_xml = etree.fromstring(mathml_xml_string)
-        math_context = data_d['Label']['value']
-        content = content +  (ms.parse_mathml(mathml_xml,math_context))
+            mathml_xml = etree.fromstring(mathml_xml_string)
+            label_value = data_d['Label']['value']
+            if 'Description' in data_d:
+                description_value = data_d['Description']['value']
+            else:
+                description_value=""
+            ms.reset_formula_id()
+            content = content +  (ms.parse_mathml(mathml_xml,label_value,description_value))
 
     # pprint(content)
-    make_RDF(content)
+    print(i)
+    ms.make_RDF(content)
 
 
-def make_RDF(contents):
-
-
-    host  = "http://localhost:5820/MATH"
-    # A namespace for our resources
-    data = host + '/resource/'
-    DATA = Namespace(data)
-    # A namespace for our vocabulary items (schema information, RDFS, OWL classes and properties etc.)
-    vocab = host + '/vocab/'
-    VOCAB = Namespace(host + '/vocab/')
-
-    # The URI for our graph
-    graph_uri = URIRef(host+ '/resource/graph')
-
-    # We initialize a dataset, and bind our namespaces
-    dataset = Dataset()
-    dataset.bind('data', DATA)
-    dataset.bind('vocab', VOCAB)
-
-    # We then get a new graph object with our URI from the dataset.
-    graph = dataset.graph(graph_uri)
-
-    dataset.default_context.parse("vocab.ttl",format="turtle")
-    # IRI baker is a library that reliably creates valid (parts of) IRIs from strings (spaces are turned into underscores, etc.).
-
-
-    for row in contents:
-
-
-        id = URIRef((data + str(row['id']))) # primary key for the object
-
-        mathematical_context = Literal(row['Mathematical_Context'], datatype=XSD['string'])
-        graph.add((id, VOCAB['Mathematical_Context'], mathematical_context))
-        #
-        id_ = URIRef((data + str(row['id_'])))
-        graph.add((id, DATA['previous_id'] ,id_))
-        # #
-        if ('Formula' in row):
-            formula_xml = Literal(row['Formula'], datatype=XSD['string'])
-            graph.add((id, VOCAB['xml'], formula_xml))
-            # graph.add(id,RDFS.type,)
-
-        if ('Symbol' in row):
-            symbol = Literal(row['Symbol'], datatype=XSD['string'])
-            graph.add((id, VOCAB['symbol'], symbol))
-            parent_id = URIRef((data + str(row['parent_id'])))
-            graph.add((id, VOCAB['part_of'], parent_id))
-
-
-        if ('Operator' in row):
-            operator = Literal(row['Operator'], datatype=XSD['string'])
-            graph.add((id, VOCAB['operator'], operator))
-            parent_id = URIRef((data + str(row['parent_id'])))
-            graph.add((id, VOCAB['part_of'], parent_id))
-
-
-            # `Name` is the primary key and we use it as our primary resource, but we'd also like to use it as a label
-        # person = URIRef(to_iri(data + row['Name']))
-        # name = Literal(row['Name'], datatype=XSD['string'])
-        # # `Country` is a resource
-        # country = URIRef(to_iri(data + row['Country']))
-        # # But we'd also like to use the name as a label (with a language tag!)
-        # country_name = Literal(row['Country'], lang='en')
-        # # `Age` is a literal (an integer)
-        # age = Literal(int(row['Age']), datatype=XSD['int'])
-        # # `Favourite Colour` is a resource
-        # colour = URIRef(to_iri(data + row['Favourite Colour']))
-        # colour_name = Literal(row['Favourite Colour'], lang='en')
-        # # `Place` is a resource
-        # place = URIRef(to_iri(data + row['Place']))
-        # place_name = Literal(row['Place'], lang='en')
-        # # `Address` is a literal (a string)
-        # address = Literal(row['Address'], datatype=XSD['string'])
-        # # `Hobby` is a resource
-        # hobby = URIRef(to_iri(data + row['Hobby']))
-        # hobby_name = Literal(row['Hobby'], lang='en')
-        #
-        # # All set... we are now going to add the triples to our graph
-        # graph.add((person, VOCAB['name'], name))
-        # graph.add((person, VOCAB['age'], age))
-        # graph.add((person, VOCAB['address'], address))
-        #
-        # # Add the place and its label
-        # graph.add((person, VOCAB['place'], place))
-        # graph.add((place, VOCAB['name'], place_name))
-        #
-        # # Add the country and its label
-        # graph.add((person, VOCAB['country'], country))
-        # graph.add((country, VOCAB['name'], country_name))
-        #
-        # # Add the favourite colour and its label
-        # graph.add((person, VOCAB['favourite_colour'], colour))
-        # graph.add((colour, VOCAB['name'], colour_name))
-        #
-        # # Add the hobby and its label
-        # graph.add((person, VOCAB['hobby'], hobby))
-        # graph.add((hobby, VOCAB['name'], hobby_name))
-
-
-    with open('math_db.trig','w') as f:
-        graph.serialize(f, format='trig')
-    print (dataset.serialize(format='trig'))
 
 if __name__ == '__main__':
     main()

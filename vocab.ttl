@@ -7,51 +7,107 @@
 @base <http://localhost:5820/MATH/vocab> .
 
 <http://localhost:5820/MATH/vocab> rdf:type owl:Ontology ;
-                                    owl:versionInfo "Created with my hands!"^^xsd:string .
+                                    owl:versionInfo "Ontology for Mathematical concepts by Arash and Jeroen"^^rdfs:Literal .
 
 #################################################################
 #    Object Properties
 #################################################################
 
-###  http://localhost:5820/MATH/vocab#part_of
-:part_of rdf:type owl:ObjectProperty ,
-                  owl:AsymmetricProperty ;
-         rdfs:domain <http://localhost:5820/MATH/vocab/Operator> ,
-                     <http://localhost:5820/MATH/vocab/Symbol> ;
-         rdfs:range :Formula .
+###  http://localhost:5820/MATH/vocab#subFormulaOf
+:subFormulaOf rdf:type owl:ObjectProperty ;
+              owl:inverseOf <http://localhost:5820/MATH/vocab/partOf> ;
+              rdf:type owl:SymmetricProperty ,
+                       owl:TransitiveProperty ;
+              rdfs:domain <http://localhost:5820/MATH/vocab/Formula> ;
+              rdfs:range <http://localhost:5820/MATH/vocab/Formula> .
 
 
-###  http://localhost:5820/MATH/vocab#previous_id
-:previous_id rdf:type owl:ObjectProperty ;
-             rdfs:domain <http://localhost:5820/MATH/vocab/Mathematical_entity> .
+###  http://localhost:5820/MATH/vocab/contains
+<http://localhost:5820/MATH/vocab/contains> rdf:type owl:ObjectProperty ,
+                                                     owl:TransitiveProperty ;
+                                            rdfs:domain <http://localhost:5820/MATH/vocab/Formula> ;
+                                            rdfs:range <http://localhost:5820/MATH/vocab/Operator> ,
+                                                       <http://localhost:5820/MATH/vocab/Symbol> .
+
+
+###  http://localhost:5820/MATH/vocab/inventedBy
+<http://localhost:5820/MATH/vocab/inventedBy> rdf:type owl:ObjectProperty ;
+                                              rdfs:domain <http://localhost:5820/MATH/vocab/Inventor> ;
+                                              rdfs:range <http://localhost:5820/MATH/vocab/Formula> .
+
+
+###  http://localhost:5820/MATH/vocab/partOf
+<http://localhost:5820/MATH/vocab/partOf> rdf:type owl:ObjectProperty ,
+                                                   owl:SymmetricProperty ,
+                                                   owl:TransitiveProperty ;
+                                          rdfs:domain <http://localhost:5820/MATH/vocab/Operator> ,
+                                                      <http://localhost:5820/MATH/vocab/Symbol> ;
+                                          rdfs:range <http://localhost:5820/MATH/vocab/Formula> .
 
 
 #################################################################
 #    Data properties
 #################################################################
 
-###  http://localhost:5820/MATH/vocab#context
-:context rdf:type owl:DatatypeProperty ;
-         rdfs:domain <http://localhost:5820/MATH/vocab/Mathematical_entity> .
+###  http://localhost:5820/MATH/vocab/Description
+<http://localhost:5820/MATH/vocab/Description> rdf:type owl:DatatypeProperty ;
+                                               rdfs:domain <http://localhost:5820/MATH/vocab/Formula> ,
+                                                           <http://localhost:5820/MATH/vocab/Inventor> ,
+                                                           <http://localhost:5820/MATH/vocab/Operator> ,
+                                                           <http://localhost:5820/MATH/vocab/Symbol> ;
+                                               rdfs:range xsd:string ;
+                                               rdfs:label "Description"^^xsd:string .
 
 
-###  http://localhost:5820/MATH/vocab#name
-:name rdf:type owl:DatatypeProperty ;
-      rdfs:domain <http://localhost:5820/MATH/vocab/Mathematical_entity> .
+###  http://localhost:5820/MATH/vocab/Label
+<http://localhost:5820/MATH/vocab/Label> rdf:type owl:DatatypeProperty ;
+                                         rdfs:domain <http://localhost:5820/MATH/vocab/Formula> ,
+                                                     <http://localhost:5820/MATH/vocab/Inventor> ,
+                                                     <http://localhost:5820/MATH/vocab/Operator> ,
+                                                     <http://localhost:5820/MATH/vocab/Symbol> ;
+                                         rdfs:range xsd:string ;
+                                         rdfs:label "Label"^^xsd:string .
 
 
-###  http://localhost:5820/MATH/vocab#xml
-:xml rdf:type owl:DatatypeProperty ;
-     rdfs:domain :Formula .
+###  http://localhost:5820/MATH/vocab/XML
+<http://localhost:5820/MATH/vocab/XML> rdf:type owl:DatatypeProperty ;
+                                       rdfs:domain <http://localhost:5820/MATH/vocab/Formula> ,
+                                                   <http://localhost:5820/MATH/vocab/Operator> ,
+                                                   <http://localhost:5820/MATH/vocab/Symbol> ;
+                                       rdfs:range xsd:string ;
+                                       rdfs:label "XML"^^xsd:string .
 
 
 #################################################################
 #    Classes
 #################################################################
 
-###  http://localhost:5820/MATH/vocab#Formula
-:Formula rdf:type owl:Class ;
-         rdfs:subClassOf <http://localhost:5820/MATH/vocab/Mathematical_entity> .
+###  http://localhost:5820/MATH/vocab#Person
+:Person rdf:type owl:Class ;
+        rdfs:subClassOf owl:Thing .
+
+
+###  http://localhost:5820/MATH/vocab/Formula
+<http://localhost:5820/MATH/vocab/Formula> rdf:type owl:Class ;
+                                           owl:equivalentClass [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty <http://localhost:5820/MATH/vocab/contains> ;
+                                                                 owl:someValuesFrom <http://localhost:5820/MATH/vocab/Operator>
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty <http://localhost:5820/MATH/vocab/contains> ;
+                                                                 owl:someValuesFrom <http://localhost:5820/MATH/vocab/Symbol>
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty <http://localhost:5820/MATH/vocab/inventedBy> ;
+                                                                 owl:someValuesFrom <http://localhost:5820/MATH/vocab/Inventor>
+                                                               ] ;
+                                           rdfs:subClassOf <http://localhost:5820/MATH/vocab/Mathematical_entity> ;
+                                           rdfs:label "Formula"^^xsd:string .
+
+
+###  http://localhost:5820/MATH/vocab/Inventor
+<http://localhost:5820/MATH/vocab/Inventor> rdf:type owl:Class ;
+                                            rdfs:subClassOf :Person .
 
 
 ###  http://localhost:5820/MATH/vocab/Mathematical_entity
@@ -68,8 +124,97 @@
 
 ###  http://localhost:5820/MATH/vocab/Symbol
 <http://localhost:5820/MATH/vocab/Symbol> rdf:type owl:Class ;
-                                          rdfs:subClassOf <http://localhost:5820/MATH/vocab/Mathematical_entity> ;
-                                          rdfs:label "Symbol"^^xsd:string .
+                                          rdfs:subClassOf <http://localhost:5820/MATH/vocab/Mathematical_entity> .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://localhost:5820/MATH/vocab/aa2b270-4478-11e8-8536-c485087eb494
+<http://localhost:5820/MATH/vocab/aa2b270-4478-11e8-8536-c485087eb494> rdf:type owl:NamedIndividual ,
+                                                                                <http://localhost:5820/MATH/vocab/Symbol> ;
+                                                                       <http://localhost:5820/MATH/vocab/partOf> <http://localhost:5820/MATH/vocab/aa2d989-4478-11e8-87a7-c485087eb494> ;
+                                                                       <http://localhost:5820/MATH/vocab/Description> "quantitative physical property transferred to objects to perform heating or work on them"^^xsd:string ;
+                                                                       <http://localhost:5820/MATH/vocab/Label> "energy"^^xsd:string .
+
+
+###  http://localhost:5820/MATH/vocab/aa2d981-4478-11e8-884f-c485087eb494
+<http://localhost:5820/MATH/vocab/aa2d981-4478-11e8-884f-c485087eb494> rdf:type owl:NamedIndividual ,
+                                                                                <http://localhost:5820/MATH/vocab/Inventor> ;
+                                                                       <http://localhost:5820/MATH/vocab/Label> "Albert Einstein"^^xsd:string .
+
+
+###  http://localhost:5820/MATH/vocab/aa2d983-4478-11e8-8f0b-c485087eb494
+<http://localhost:5820/MATH/vocab/aa2d983-4478-11e8-8f0b-c485087eb494> rdf:type owl:NamedIndividual ,
+                                                                                <http://localhost:5820/MATH/vocab/Symbol> ;
+                                                                       <http://localhost:5820/MATH/vocab/partOf> <http://localhost:5820/MATH/vocab/aa2d989-4478-11e8-87a7-c485087eb494> ;
+                                                                       <http://localhost:5820/MATH/vocab/Description> "speed at which all massless particles and associated fields travel in vacuum"^^xsd:string ;
+                                                                       <http://localhost:5820/MATH/vocab/Label> "speed of light"^^xsd:string .
+
+
+###  http://localhost:5820/MATH/vocab/aa2d985-4478-11e8-90c9-c485087eb494
+<http://localhost:5820/MATH/vocab/aa2d985-4478-11e8-90c9-c485087eb494> rdf:type owl:NamedIndividual ,
+                                                                                <http://localhost:5820/MATH/vocab/Operator> ;
+                                                                       <http://localhost:5820/MATH/vocab/partOf> <http://localhost:5820/MATH/vocab/aa2d989-4478-11e8-87a7-c485087eb494> ,
+                                                                                                                 <http://localhost:5820/MATH/vocab/aa2d98b-4478-11e8-b8bc-c485087eb494> ,
+                                                                                                                 <http://localhost:5820/MATH/vocab/aa2d993-4478-11e8-a697-c485087eb494> ;
+                                                                       <http://localhost:5820/MATH/vocab/Label> "equals"^^xsd:string .
+
+
+###  http://localhost:5820/MATH/vocab/aa2d987-4478-11e8-823f-c485087eb494
+<http://localhost:5820/MATH/vocab/aa2d987-4478-11e8-823f-c485087eb494> rdf:type owl:NamedIndividual ,
+                                                                                <http://localhost:5820/MATH/vocab/Symbol> ;
+                                                                       <http://localhost:5820/MATH/vocab/partOf> <http://localhost:5820/MATH/vocab/aa2d989-4478-11e8-87a7-c485087eb494> ;
+                                                                       <http://localhost:5820/MATH/vocab/Label> "mass"^^xsd:string .
+
+
+###  http://localhost:5820/MATH/vocab/aa2d989-4478-11e8-87a7-c485087eb494
+<http://localhost:5820/MATH/vocab/aa2d989-4478-11e8-87a7-c485087eb494> rdf:type owl:NamedIndividual ,
+                                                                                <http://localhost:5820/MATH/vocab/Formula> ;
+                                                                       <http://localhost:5820/MATH/vocab/inventedBy> <http://localhost:5820/MATH/vocab/aa2d981-4478-11e8-884f-c485087eb494> ;
+                                                                       <http://localhost:5820/MATH/vocab/Description> "physical law: mass and energy are proportionate measures of the same underlying property of an object"^^xsd:string ;
+                                                                       <http://localhost:5820/MATH/vocab/Label> "mass–energy equivalence"^^xsd:string ;
+                                                                       <http://localhost:5820/MATH/vocab/XML> "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle E=mc^{2}}\"> <semantics> <mrow class=\"MJX-TeXAtom-ORD\"> <mstyle displaystyle=\"true\" scriptlevel=\"0\"> <mi>E</mi> <mo>=</mo> <mi>m</mi> <msup> <mi>c</mi> <mrow class=\"MJX-TeXAtom-ORD\"> <mn>2</mn> </mrow> </msup> </mstyle> </mrow> <annotation encoding=\"application/x-tex\">{\\displaystyle E=mc^{2}}</annotation> </semantics> </math>"^^xsd:string .
+
+
+###  http://localhost:5820/MATH/vocab/aa2d98b-4478-11e8-b8bc-c485087eb494
+<http://localhost:5820/MATH/vocab/aa2d98b-4478-11e8-b8bc-c485087eb494> rdf:type owl:NamedIndividual ,
+                                                                                <http://localhost:5820/MATH/vocab/Formula> ;
+                                                                       <http://localhost:5820/MATH/vocab/Description> "conserved physical quantity related to the motion of a body"^^xsd:string ;
+                                                                       <http://localhost:5820/MATH/vocab/Label> "momentum"^^xsd:string ;
+                                                                       <http://localhost:5820/MATH/vocab/XML> "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\mathbf {p} =m\\mathbf {v} }\"> <semantics> <mrow class=\"MJX-TeXAtom-ORD\"> <mstyle displaystyle=\"true\" scriptlevel=\"0\"> <mrow class=\"MJX-TeXAtom-ORD\"> <mi mathvariant=\"bold\">p</mi> </mrow> <mo>=</mo> <mi>m</mi> <mrow class=\"MJX-TeXAtom-ORD\"> <mi mathvariant=\"bold\">v</mi> </mrow> </mstyle> </mrow> <annotation encoding=\"application/x-tex\">{\\displaystyle \\mathbf {p} =m\\mathbf {v} }</annotation> </semantics> </math>"^^xsd:string .
+
+
+###  http://localhost:5820/MATH/vocab/aa2d98d-4478-11e8-aba6-c485087eb494
+<http://localhost:5820/MATH/vocab/aa2d98d-4478-11e8-aba6-c485087eb494> rdf:type owl:NamedIndividual ,
+                                                                                <http://localhost:5820/MATH/vocab/Symbol> ;
+                                                                       <http://localhost:5820/MATH/vocab/partOf> <http://localhost:5820/MATH/vocab/aa2d98b-4478-11e8-b8bc-c485087eb494> ;
+                                                                       <http://localhost:5820/MATH/vocab/Label> "momentum"^^xsd:string .
+
+
+###  http://localhost:5820/MATH/vocab/aa2d98f-4478-11e8-8592-c485087eb494
+<http://localhost:5820/MATH/vocab/aa2d98f-4478-11e8-8592-c485087eb494> rdf:type owl:NamedIndividual ,
+                                                                                <http://localhost:5820/MATH/vocab/Operator> ;
+                                                                       <http://localhost:5820/MATH/vocab/partOf> <http://localhost:5820/MATH/vocab/aa2d989-4478-11e8-87a7-c485087eb494> ;
+                                                                       <http://localhost:5820/MATH/vocab/Label> "squared"^^xsd:string .
+
+
+###  http://localhost:5820/MATH/vocab/aa2d991-4478-11e8-82b6-c485087eb494
+<http://localhost:5820/MATH/vocab/aa2d991-4478-11e8-82b6-c485087eb494> rdf:type owl:NamedIndividual ,
+                                                                                <http://localhost:5820/MATH/vocab/Operator> ;
+                                                                       <http://localhost:5820/MATH/vocab/partOf> <http://localhost:5820/MATH/vocab/aa2d989-4478-11e8-87a7-c485087eb494> ,
+                                                                                                                 <http://localhost:5820/MATH/vocab/aa2d98b-4478-11e8-b8bc-c485087eb494> ;
+                                                                       <http://localhost:5820/MATH/vocab/Label> "product"^^xsd:string .
+
+
+###  http://localhost:5820/MATH/vocab/aa2d993-4478-11e8-a697-c485087eb494
+<http://localhost:5820/MATH/vocab/aa2d993-4478-11e8-a697-c485087eb494> rdf:type owl:NamedIndividual ,
+                                                                                <http://localhost:5820/MATH/vocab/Symbol> ;
+                                                                       <http://localhost:5820/MATH/vocab/partOf> <http://localhost:5820/MATH/vocab/aa2d98b-4478-11e8-b8bc-c485087eb494> ;
+                                                                       <http://localhost:5820/MATH/vocab/Description> "rate of change of the position of an object as a function of time, and the direction of that change"^^xsd:string ;
+                                                                       <http://localhost:5820/MATH/vocab/Label> "velocity"^^xsd:string ;
+                                                                       <http://localhost:5820/MATH/vocab/XML> "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\boldsymbol {\\vec {v}}}={\\frac {d{\\boldsymbol {\\vec {r}}}}{d{\\mathit {t}}}}}\"> <semantics> <mrow class=\"MJX-TeXAtom-ORD\"> <mstyle displaystyle=\"true\" scriptlevel=\"0\"> <mrow class=\"MJX-TeXAtom-ORD\"> <mrow class=\"MJX-TeXAtom-ORD\"> <mover> <mi mathvariant=\"bold-italic\">v</mi> <mo mathvariant=\"bold\" stretchy=\"false\">&#x2192;<!-- → --></mo> </mover> </mrow> </mrow> <mo>=</mo> <mrow class=\"MJX-TeXAtom-ORD\"> <mfrac> <mrow> <mi>d</mi> <mrow class=\"MJX-TeXAtom-ORD\"> <mrow class=\"MJX-TeXAtom-ORD\"> <mover> <mi mathvariant=\"bold-italic\">r</mi> <mo mathvariant=\"bold\" stretchy=\"false\">&#x2192;<!-- → --></mo> </mover> </mrow> </mrow> </mrow> <mrow> <mi>d</mi> <mrow class=\"MJX-TeXAtom-ORD\"> <mrow class=\"MJX-TeXAtom-ORD\"> <mi class=\"MJX-tex-mathit\" mathvariant=\"italic\">t</mi> </mrow> </mrow> </mrow> </mfrac> </mrow> </mstyle> </mrow> <annotation encoding=\"application/x-tex\">{\\displaystyle {\\boldsymbol {\\vec {v}}}={\\frac {d{\\boldsymbol {\\vec {r}}}}{d{\\mathit {t}}}}}</annotation> </semantics> </math>"^^xsd:string .
 
 
 ###  Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi
