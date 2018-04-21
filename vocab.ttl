@@ -13,6 +13,18 @@
 #    Object Properties
 #################################################################
 
+###  http://localhost:5820/MATH/vocab#left
+:left rdf:type owl:ObjectProperty ;
+      rdfs:domain <http://localhost:5820/MATH/vocab/Operator> ;
+      rdfs:range <http://localhost:5820/MATH/vocab/Symbol> .
+
+
+###  http://localhost:5820/MATH/vocab#right
+:right rdf:type owl:ObjectProperty ;
+       rdfs:domain <http://localhost:5820/MATH/vocab/Operator> ;
+       rdfs:range <http://localhost:5820/MATH/vocab/Symbol> .
+
+
 ###  http://localhost:5820/MATH/vocab#subFormulaOf
 :subFormulaOf rdf:type owl:ObjectProperty ;
               owl:inverseOf <http://localhost:5820/MATH/vocab/partOf> ;
@@ -40,7 +52,8 @@
 <http://localhost:5820/MATH/vocab/partOf> rdf:type owl:ObjectProperty ,
                                                    owl:SymmetricProperty ,
                                                    owl:TransitiveProperty ;
-                                          rdfs:domain <http://localhost:5820/MATH/vocab/Operator> ,
+                                          rdfs:domain <http://localhost:5820/MATH/vocab/Formula> ,
+                                                      <http://localhost:5820/MATH/vocab/Operator> ,
                                                       <http://localhost:5820/MATH/vocab/Symbol> ;
                                           rdfs:range <http://localhost:5820/MATH/vocab/Formula> .
 

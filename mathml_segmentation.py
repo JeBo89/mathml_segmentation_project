@@ -14,6 +14,11 @@ class mathml_segmentation:
     current_id = 0
     current_formula_id = 0
 
+    left_symbol = None
+    right_symbol = None
+    operator_add = None
+
+
     def __init__(self):
         self.new_id()
         return None
@@ -46,11 +51,13 @@ class mathml_segmentation:
 
             l.append(d)
         for children in mathml_xml.getchildren():
+
             if children.getchildren() != []:
                 # HAS CHILDREN
                 l = l + self.parse_mathml(children,label_value,description_value)
             else:
                 # NO CHILDREN
+
                 if children.tag == '{http://www.w3.org/1998/Math/MathML}mi':
                     d = {}
                     d["Symbol"] =  children.text
@@ -60,6 +67,22 @@ class mathml_segmentation:
                     d["id"] = self.new_id()
                     d["parent_id"] = parent_id
                     l.append(d)
+
+                    if self.left_symbol == None:
+                        self.left_symbol = d["id"]
+                    elif self.operator_add != None:
+                        self.right_symbol = d["id"]
+                        d["Function_add"] = self.operator_add
+                        d["left"] = self.left_symbol
+                        d["right"] = self.right_symbol
+                        l.append(d)
+                        self.left_symbol = self.right_symbol
+                        self.right_symbol = None
+                        self.operator_add = None
+
+
+
+
                 elif children.tag == '{http://www.w3.org/1998/Math/MathML}mo':
                     d = {}
                     d['Operator'] =   children.text
@@ -69,6 +92,8 @@ class mathml_segmentation:
                     d["id"] = self.new_id()
                     d["parent_id"] = parent_id
                     l.append(d)
+                    if children.text == "+":
+                        self.operator_add = d["id"]
 
         return l
 
@@ -140,6 +165,17 @@ class mathml_segmentation:
                 graph.add((id, VOCAB['label'], operator))
                 parent_id = URIRef((data + str(row['parent_id'])))
                 graph.add((id, VOCAB['partOf'], parent_id))
+
+
+            if ('Function_add' in row):
+                print(row)
+                id = URIRef((data + str(row['Function_add'])))
+                graph.add((id, RDF.type, VOCAB['Operator']))
+                left = URIRef((data + str(row['left'])))
+                graph.add((id, VOCAB['left'], left))
+                right = URIRef((data + str(row['right'])))
+                graph.add((id, VOCAB['right'], right))
+
 
 
         with open('math_db.trig','w') as f:
