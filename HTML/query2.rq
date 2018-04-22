@@ -1,0 +1,14 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?label (COUNT(?label) AS ?count)
+
+WHERE {
+  GRAPH ?g {
+  ?s <http://localhost:5820/MATH/vocab/subFormulaOf> ?o;
+     <http://localhost:5820/MATH/vocab/label> ?label.
+  }
+
+}
+GROUP BY ?label
+ORDER BY desc(?count)
+limit 5

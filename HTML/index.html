@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+  <head>
+    <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <link href="https://cdn.rawgit.com/wouterbeek/Data-Stories/master/deps/yasgui.min.css" rel="stylesheet" type="text/css">
+    <link href="main.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <h1 class="header">
+      <span style="color:black;font-weight:bold">
+         Mathematical Entity Query Page
+      </span>
+    </h1>
+
+<!--
+    <p>
+      First we
+      <span style="color:blue;font-weight:bold">
+         query from wikidata to get formulas.
+      </span>
+    </p>
+    <div data-query data-query-endpoint=https://query.wikidata.org/sparql data-query-sparql="query1.rq"></div>
+
+
+
+    <p>
+      Then we imported it to
+      <span style="color:green;font-weight:bold">
+         localhost stardog
+      </span>
+    </p>
+    <div data-query data-query-endpoint=http://localhost:5820/MATH/query data-query-sparql="query2.rq"></div> -->
+
+
+    <p>
+      <h2>
+      This query shows the application to search for a mathemathical concept and finding all the formulas related to it.
+    </h2>
+    <h3>
+      Formula: Y-Δ transform
+    </h3>
+    <h4>
+      Definition: mathematical technique to simplify the analysis of an electrical network
+    </h4>
+      Formula XML : <math><mrow class="MJX-TeXAtom-ORD"><mfrac><mrow><msub><mi>R</mi><mrow class="MJX-TeXAtom-ORD"><mi>a</mi><mi>c</mi></mrow></msub><msub><mi>R</mi><mrow class="MJX-TeXAtom-ORD"><mi>b</mi><mi>c</mi></mrow></msub></mrow><mrow><msub><mi>R</mi><mrow class="MJX-TeXAtom-ORD"><mi>a</mi><mi>c</mi></mrow></msub><mo>+</mo><msub><mi>R</mi><mrow class="MJX-TeXAtom-ORD"><mi>a</mi><mi>b</mi></mrow></msub><mo>+</mo><msub><mi>R</mi><mrow   class="MJX-TeXAtom-ORD"><mi>b</mi><mi>c</mi></mrow></msub></mrow></mfrac></mrow></math>
+
+    </p>
+    <div data-query data-query-endpoint=http://localhost:5820/MATH/query data-query-sparql="query3.rq"></div>
+
+
+    <p>
+
+    Symbol ..... more here
+    </p>
+    <div data-query data-query-endpoint=http://localhost:5820/MATH/query data-query-sparql="query4.rq"></div>
+
+
+
+    <script src="https://cdn.rawgit.com/wouterbeek/Data-Stories/master/deps/yasgui.min.js?v=1"></script>
+    <script type="text/javascript">YASGUI.sparqlStories();</script>
+
+  </body>
+</html>

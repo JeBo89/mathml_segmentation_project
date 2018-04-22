@@ -17,6 +17,7 @@ class mathml_segmentation:
     left_symbol = None
     right_symbol = None
     operator_add = None
+    operator_subtract = None
 
 
     def __init__(self):
@@ -79,6 +80,14 @@ class mathml_segmentation:
                         self.left_symbol = self.right_symbol
                         self.right_symbol = None
                         self.operator_add = None
+                    elif self.operator_subtract != None:
+                        d["Function_subtract"] = self.operator_subtract
+                        d["left"] = self.left_symbol
+                        d["right"] = self.right_symbol
+                        l.append(d)
+                        self.left_symbol = self.right_symbol
+                        self.right_symbol = None
+                        self.operator_subtract = None
 
 
 
@@ -94,6 +103,8 @@ class mathml_segmentation:
                     l.append(d)
                     if children.text == "+":
                         self.operator_add = d["id"]
+                    elif children.text =="-":
+                        self.operator_subtract = d["id"]
 
         return l
 
@@ -168,7 +179,7 @@ class mathml_segmentation:
 
 
             if ('Function_add' in row):
-                print(row)
+                # print(row)
                 id = URIRef((data + str(row['Function_add'])))
                 graph.add((id, RDF.type, VOCAB['Operator']))
                 left = URIRef((data + str(row['left'])))
@@ -176,7 +187,14 @@ class mathml_segmentation:
                 right = URIRef((data + str(row['right'])))
                 graph.add((id, VOCAB['right'], right))
 
-
+            if ('Function_subtract' in row):
+                print(row)
+                id = URIRef((data + str(row['Function_subtract'])))
+                graph.add((id, RDF.type, VOCAB['Operator']))
+                left = URIRef((data + str(row['left'])))
+                graph.add((id, VOCAB['left'], left))
+                right = URIRef((data + str(row['right'])))
+                graph.add((id, VOCAB['right'], right))
 
         with open('math_db.trig','w') as f:
             graph.serialize(f, format='trig')
@@ -197,7 +215,7 @@ def main():
     i = 0
     for data_d in data['results']['bindings']:
         mathml_xml_string = (data_d['Formula']["value"])
-        if (len(mathml_xml_string) < 500 ):
+        if (len(mathml_xml_string) > 0 ):
             i+=1;
             # print (len(mathml_xml_string))
         # print (mathml_xml_string)

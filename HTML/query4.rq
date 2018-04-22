@@ -1,0 +1,16 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?label ?xml (COUNT(?xml) AS ?count)
+
+WHERE {
+  GRAPH ?g {
+  ?s <http://localhost:5820/MATH/vocab/subFormulaOf> ?o;
+     <http://localhost:5820/MATH/vocab/xml> ?xml;
+     <http://localhost:5820/MATH/vocab/label> "Y-Δ transform".
+  }
+
+}
+GROUP BY ?xml ?label
+ORDER BY asc(?count)
+offset 0
+limit 1

@@ -1,0 +1,21 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX label: <http://purl.org/net/vocab/2004/03/label#>
+PREFIX description: <http://schema.org/description>
+PREFIX ex: <http://example.org/>
+#CONSTRUCT{
+#  ?label a ex:label.
+#}
+
+SELECT distinct ?Label ?Description ?Formula
+
+WHERE {
+  ?s <http://www.wikidata.org/prop/P2534> ?o;
+     rdfs:label ?Label;
+     <http://www.wikidata.org/prop/direct/P2534> ?Formula .
+  optional { ?s description: ?Description FILTER (lang(?Description) = 'en')}
+     FILTER (lang(?Label) = 'en')
+  #clean up code with prefix?
+}
+offset 100
+limit 5
