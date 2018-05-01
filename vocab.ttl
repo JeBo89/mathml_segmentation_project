@@ -28,8 +28,7 @@
 ###  http://localhost:5820/MATH/vocab#subFormulaOf
 :subFormulaOf rdf:type owl:ObjectProperty ;
               owl:inverseOf <http://localhost:5820/MATH/vocab/partOf> ;
-              rdf:type owl:SymmetricProperty ,
-                       owl:TransitiveProperty ;
+              rdf:type owl:TransitiveProperty ;
               rdfs:domain <http://localhost:5820/MATH/vocab/Formula> ;
               rdfs:range <http://localhost:5820/MATH/vocab/Formula> .
 
@@ -50,7 +49,6 @@
 
 ###  http://localhost:5820/MATH/vocab/partOf
 <http://localhost:5820/MATH/vocab/partOf> rdf:type owl:ObjectProperty ,
-                                                   owl:SymmetricProperty ,
                                                    owl:TransitiveProperty ;
                                           rdfs:domain <http://localhost:5820/MATH/vocab/Formula> ,
                                                       <http://localhost:5820/MATH/vocab/Operator> ,
@@ -103,6 +101,10 @@
 ###  http://localhost:5820/MATH/vocab/Formula
 <http://localhost:5820/MATH/vocab/Formula> rdf:type owl:Class ;
                                            owl:equivalentClass [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :subFormulaOf ;
+                                                                 owl:someValuesFrom <http://localhost:5820/MATH/vocab/Formula>
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
                                                                  owl:onProperty <http://localhost:5820/MATH/vocab/contains> ;
                                                                  owl:someValuesFrom <http://localhost:5820/MATH/vocab/Operator>
                                                                ] ,
@@ -111,8 +113,8 @@
                                                                  owl:someValuesFrom <http://localhost:5820/MATH/vocab/Symbol>
                                                                ] ,
                                                                [ rdf:type owl:Restriction ;
-                                                                 owl:onProperty <http://localhost:5820/MATH/vocab/inventedBy> ;
-                                                                 owl:someValuesFrom <http://localhost:5820/MATH/vocab/Inventor>
+                                                                 owl:onProperty <http://localhost:5820/MATH/vocab/partOf> ;
+                                                                 owl:someValuesFrom <http://localhost:5820/MATH/vocab/Formula>
                                                                ] ;
                                            rdfs:subClassOf <http://localhost:5820/MATH/vocab/Mathematical_entity> ;
                                            rdfs:label "Formula"^^xsd:string .
@@ -125,18 +127,38 @@
 
 ###  http://localhost:5820/MATH/vocab/Mathematical_entity
 <http://localhost:5820/MATH/vocab/Mathematical_entity> rdf:type owl:Class ;
+                                                       owl:equivalentClass [ rdf:type owl:Restriction ;
+                                                                             owl:onProperty <http://localhost:5820/MATH/vocab/inventedBy> ;
+                                                                             owl:someValuesFrom <http://localhost:5820/MATH/vocab/Inventor>
+                                                                           ] ;
                                                        rdfs:subClassOf owl:Thing ;
                                                        rdfs:label "Mathematical_entity"^^xsd:string .
 
 
 ###  http://localhost:5820/MATH/vocab/Operator
 <http://localhost:5820/MATH/vocab/Operator> rdf:type owl:Class ;
+                                            owl:equivalentClass [ rdf:type owl:Restriction ;
+                                                                  owl:onProperty :left ;
+                                                                  owl:someValuesFrom <http://localhost:5820/MATH/vocab/Symbol>
+                                                                ] ,
+                                                                [ rdf:type owl:Restriction ;
+                                                                  owl:onProperty :right ;
+                                                                  owl:someValuesFrom <http://localhost:5820/MATH/vocab/Symbol>
+                                                                ] ,
+                                                                [ rdf:type owl:Restriction ;
+                                                                  owl:onProperty <http://localhost:5820/MATH/vocab/partOf> ;
+                                                                  owl:someValuesFrom <http://localhost:5820/MATH/vocab/Formula>
+                                                                ] ;
                                             rdfs:subClassOf <http://localhost:5820/MATH/vocab/Mathematical_entity> ;
                                             rdfs:label "Operator"^^xsd:string .
 
 
 ###  http://localhost:5820/MATH/vocab/Symbol
 <http://localhost:5820/MATH/vocab/Symbol> rdf:type owl:Class ;
+                                          owl:equivalentClass [ rdf:type owl:Restriction ;
+                                                                owl:onProperty <http://localhost:5820/MATH/vocab/partOf> ;
+                                                                owl:someValuesFrom <http://localhost:5820/MATH/vocab/Formula>
+                                                              ] ;
                                           rdfs:subClassOf <http://localhost:5820/MATH/vocab/Mathematical_entity> .
 
 

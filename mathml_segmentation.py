@@ -213,7 +213,7 @@ def main():
     # pprint ((data['results']['bindings'][0:1]))
     # exit(0)
     i = 0
-    for data_d in data['results']['bindings']:
+    for data_d in data['results']['bindings'][0:1]:
         mathml_xml_string = (data_d['Formula']["value"])
         if (len(mathml_xml_string) > 0 ):
             i+=1;
@@ -228,7 +228,7 @@ def main():
             ms.reset_formula_id()
             content = content +  (ms.parse_mathml(mathml_xml,label_value,description_value))
 
-    # pprint(content)
+    pprint(content)
     print(i)
     ms.make_RDF(content)
 
