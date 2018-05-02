@@ -1,17 +1,25 @@
-def duplicate_dictionary_check(d,specific_word=''):
-    for key_a in d:
-       for key_b in d:
-           if key_a == key_b:
-               break
-           for item in d[key_a]:
-               if (item in d[key_b]):
-                   if specific_word:
-                        if specific_word == item:
-                            print key_a,key_b,"found specific word:", specific_word
-                   print key_a,key_b,"found match:",item
+# from urllib import request
+from nltk.corpus import wordnet as wn
+from itertools import product
+
+
+def similarity_score(wordx,wordy):
+    sem1, sem2 = wn.synsets(wordx.decode("utf8")), wn.synsets(wordy.decode("utf8"))
+    maxscore = 0
+    for i, j in list(product(*[sem1, sem2])):
+        score = i.wup_similarity(j)  # Wu-Palmer Similarity
+        maxscore = score if maxscore < score else maxscore
+    return(maxscore)
+
+
+# print (similarity_score('boy','tree') )
+
+# exit(0)
 
 
 
+# def get_content_of(url):
+#     return urllib.request.urlopen(url).read()
 mylabel = "m"
 
 from SPARQLWrapper import SPARQLWrapper, JSON
@@ -80,7 +88,7 @@ for row1 in l:
         if row1['xml'] == row2['xml'] \
                 and row1['uri'] != row2['uri'] \
                 and (row2["uri"],row1["uri"]) not in same_set\
-                and row1['label'] != row2['label']:
+                and similarity_score(row1['label'] , row2['label']) >0.5:
                 # and not is_xml_in_list(same_set,row1["uri"],row2["uri"]):
             # print ("match" , row1["xml"] , row1["label"],row2["label"])
 
