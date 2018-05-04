@@ -138,9 +138,10 @@ def is_xml_in_list(uri1,uri2):
             return True
     return False
 
+
+
 for row1 in l:
     for row2 in l:
-
         if row1['xml'] == row2['xml'] \
                 and row1['uri'] != row2['uri'] \
                 and (row2["uri"],row1["uri"]) not in same_set\
@@ -150,7 +151,8 @@ for row1 in l:
             same_set.add((row1["uri"],row2["uri"]))
             i=i+1
 
-
+            if i % 100 == 0:
+                print ("")
             sys.stdout.write('.')
 
 
