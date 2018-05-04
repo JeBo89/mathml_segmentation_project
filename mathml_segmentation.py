@@ -112,7 +112,6 @@ class mathml_segmentation:
 
     def make_RDF(self,contents):
 
-
         host  = "http://localhost:5820/MATH"
         # A namespace for our resources
         data = host +'/'# + '/resource/'
@@ -141,8 +140,6 @@ class mathml_segmentation:
 
             id = URIRef((data + str(row['id']))) # primary key for the object
 
-
-            #
             id_ = URIRef((data + str(row['id_'])))
             # graph.add((id, VOCAB['previous_id'] ,id_))
             # graph.add((id, RDF.type, OWL.NamedIndividual))

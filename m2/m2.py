@@ -1,25 +1,80 @@
-# from urllib import request
-from nltk.corpus import wordnet as wn
+import sys
+from nltk.corpus import wordnet ,stopwords
 from itertools import product
+from urlparse import urlparse
 
 
-def similarity_score(wordx,wordy):
-    sem1, sem2 = wn.synsets(wordx.decode("utf8")), wn.synsets(wordy.decode("utf8"))
+def nltk_similarity_score(wordx,wordy):
+    sem1, sem2 = wordnet.synsets(wordx.decode("utf8")), wordnet.synsets(wordy.decode("utf8"))
     maxscore = 0
     for i, j in list(product(*[sem1, sem2])):
         score = i.wup_similarity(j)  # Wu-Palmer Similarity
         maxscore = score if maxscore < score else maxscore
     return(maxscore)
 
+def_dic = {}
+import urllib
+def get_def_list(name):
+    if name not in def_dic:
+        url = 'https://hdt.lod.labs.vu.nl/triple?g=%3Chttps%3A//hdt.lod.labs.vu.nl/graph/LOD-a-lot%3E&p=rdfs:label&o=%22'+name+'%22^^%3Chttp://www.w3.org/2001/XMLSchema%23string%3E'
+        results = urllib.urlopen(url).read()
 
-# print (similarity_score('boy','tree') )
+
+        results = results.replace(name,'')
+        results = results.replace('""^^<http://www.w3.org/2001/XMLSchema#string>','')
+        results = results.replace('<https://hdt.lod.labs.vu.nl/graph/LOD-a-lot>','')
+        results = results.replace('<http://www.w3.org/2000/01/rdf-schema#label>','')
+        results = results.replace('owl', '')
+        results = results.replace('<http://lodlaundromat', '')
+        results = results.replace('<http://www', '')
+        results = results.replace('<http://', '')
+        # results = results.replace('\n', '')
+        results = results.replace(r'\s', '')
+        results = results.replace('ontology', '')
+        results = results.replace('ontologies', '')
+        results = results.replace('Ontologie', '')
+        results = results.replace('org', '')
+        results = results.replace('edu', '')
+        results = results.replace('\d', '')
+        results = results.replace('/', ' ')
+        results = results.replace('.', ' ')
+        results = results.replace('#', ' ')
+
+        results = results.split()
+        results = [word for word in results if word not in stopwords.words('english')]
+        def_dic[name]= results
+        # print('query' ,name , results)
+    else:
+        results= def_dic[name]
+    return results
+
+
+
+from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
+def fuzzy_similarity_score(wordx,wordy):
+    return float(fuzz.ratio(wordx, wordy)/100)
+
+def lod_similarity_score(wordx,wordy):
+    maxscore = 0
+    for l1 in get_def_list(wordx):
+        for l2 in get_def_list(wordy):
+            l1 = l1.lower()
+            l2 = l2.lower()
+            score = fuzzy_similarity_score(l1, l2)
+            maxscore = score if maxscore < score else maxscore
+    return float(maxscore)
+
+
+
+# word1 = 'massive'
+# word2 = 'mass'
+#
+# print(lod_similarity_score(word1,word2))
+# print(nltk_similarity_score(word1,word2))
+# print(fuzzy_similarity_score(word1,word2))
 
 # exit(0)
-
-
-
-# def get_content_of(url):
-#     return urllib.request.urlopen(url).read()
 mylabel = "m"
 
 from SPARQLWrapper import SPARQLWrapper, JSON
@@ -77,29 +132,26 @@ i=0
 
 same_set = set()
 
-def is_xml_in_list(l,uri1,uri2):
-    for row1 in l:
-        if (row1['uri1'] == uri1 and row1['uri2'] == uri2)  or  (row1['uri1'] == uri2 and row1['uri2'] == uri1) :
+def is_xml_in_list(uri1,uri2):
+    for row1 in same_set:
+        if (row1[0] == uri1 and row1[1] == uri2)  or  (row1[1] == uri2 and row1[0] == uri1) :
             return True
     return False
 
 for row1 in l:
     for row2 in l:
+
         if row1['xml'] == row2['xml'] \
                 and row1['uri'] != row2['uri'] \
                 and (row2["uri"],row1["uri"]) not in same_set\
-                and similarity_score(row1['label'] , row2['label']) >0.5:
-                # and not is_xml_in_list(same_set,row1["uri"],row2["uri"]):
+                and max(nltk_similarity_score(row1['label'] , row2['label']) , lod_similarity_score(row1['label'] , row2['label'])) > 0.5 \
+                and not is_xml_in_list(row1["uri"],row2["uri"]):
             # print ("match" , row1["xml"] , row1["label"],row2["label"])
-
-            # d = {}
-            # d["uri1"] = row1["uri"]
-            # d["uri2"] = row2["uri"]
-            # d["label1"] = row1["label"]
-            # d["label2"] = row2["label"]
-            # d["xml"] = row1["xml"]
             same_set.add((row1["uri"],row2["uri"]))
             i=i+1
+
+
+            sys.stdout.write('.')
 
 
 
