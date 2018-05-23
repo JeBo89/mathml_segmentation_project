@@ -3,6 +3,105 @@ import sys
 from nltk.corpus import wordnet, stopwords
 from itertools import product
 from urlparse import urlparse
+import pandas as pd
+import urllib
+import csv
+from django.utils.encoding import smart_str, smart_unicode
+from nltk import metrics, stem
+from nltk.tokenize import RegexpTokenizer
+
+
+
+
+from SPARQLWrapper import SPARQLWrapper, JSON
+
+sparql = SPARQLWrapper("http://dbpedia.org/sparql")
+sparql.setQuery("""
+   prefix dbc: <http://dbpedia.org/resource/Category:>
+prefix dct: <http://purl.org/dc/terms/>
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix dbo: <http://dbpedia.org/ontology/>
+select ?subject_Label WHERE
+{
+  	?s rdfs:label "Stokes' law"@en;
+  		dct:subject  ?subject .
+
+  ?subject rdfs:label ?subject_Label . filter(lang(?subject_Label) = "en")
+}limit 10
+""")
+sparql.setReturnFormat(JSON)
+results = sparql.query().convert()
+
+l = []
+for result in results["results"]["bindings"]:
+    print result
+    # d = {}
+    uri =  result["s"]["value"].encode("utf8")
+
+    # d["label"] = result["label"]["value"].encode("utf8")
+    # get_def_list(result["label"]["value"].encode("utf8"))
+    # l.append(get_def_list(result["label"]["value"].encode("utf8")))
+
+
+
+
+exit(0)
+
+
+
+
+stemmer = stem.PorterStemmer()
+
+
+def normalize(s):
+    tokenizer = RegexpTokenizer(r'[^\W_]+|[^\W_\s]+')
+    words = tokenizer.tokenize(s.lower().strip())
+    return ' '.join([stemmer.stem(w) for w in words])
+
+
+def fuzzy_match(s1, s2, max_dist=3):
+    return metrics.edit_distance(normalize(s1), normalize(s2)) <= max_dist
+
+
+
+
+from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
+
+df1 = pd.read_csv('r1.csv',header=0,sep=",")
+df2 = pd.read_csv('r2.csv',header=0,sep=",")
+
+print(list(df1))
+# print(df1['label'])
+print(list(df2))
+# print(df2['label'])
+# print(df1.join(df2,  on='label', how='inner', lsuffix='_left', rsuffix='_right'))
+i=0
+for l1 in  df1['label'].tolist():
+    for l2 in df2['label'].tolist():
+        l1 = l1.replace('theorem', '')
+        l2 = l2.replace('theorem','')
+        l1 = smart_unicode(l1)
+        l1 = normalize(l1)
+        l2 = smart_unicode(l2)
+        l2 = normalize(l2)
+
+        if fuzz.ratio(l1,l2) > 75:
+            print( '{:50}{:}'.format(smart_str(l1) , smart_str(l2)) )
+            print('------------------------------------------------------------------------')
+            i+=1
+
+print ('total count {}').format(i)
+
+
+
+exit(0)
+
+
+
 
 
 def nltk_similarity_score(wordx, wordy):
@@ -15,7 +114,7 @@ def nltk_similarity_score(wordx, wordy):
 
 
 def_dic = {}
-import urllib
+
 
 
 def get_def_list(name):

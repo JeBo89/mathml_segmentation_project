@@ -1,11 +1,13 @@
 import pprint
-
+from lxml import etree, objectify
+from StringIO import StringIO
 from lxml import etree
 import regex as re
 import json
 from pprint import pprint
 import uuid
 from iribaker import to_iri
+from django.utils.encoding import smart_str, smart_unicode
 
 from rdflib import Dataset, URIRef, Literal, Namespace, RDF, RDFS, OWL, XSD
 
@@ -41,8 +43,11 @@ class mathml_segmentation:
         l =[]
         if (mathml_xml.getchildren() != []):
             d = {}
-            s = etree.tostring(mathml_xml, encoding="unicode", method="xml",xml_declaration=False).replace(" ", "").replace("\n", "")
-            # s = re.sub(r'([\\n\s]*?)','', s, flags=re.IGNORECASE)
+            s = etree.tostring(mathml_xml, encoding="unicode", method="xml",xml_declaration=False)#.replace("\n", "")
+            s = re.sub(r' xmlns=\"http://www.w3.org/1998/Math/MathML\"', '', s, flags=re.IGNORECASE)
+            # s = re.sub(r'\s+', ' ', s, flags=re.IGNORECASE) #\t\n\r\f\v
+            # s = re.sub(r'<!-- .*? -->','', s, flags=re.IGNORECASE)
+            s = smart_str(s)
             d["Formula"] = s
             d["label"] = label_value
             d["description"]=description_value
@@ -51,17 +56,16 @@ class mathml_segmentation:
             parent_id = d["id"]
 
             l.append(d)
-        for children in mathml_xml.getchildren():
+        for child in mathml_xml.getchildren():
 
-            if children.getchildren() != []:
+            if child.getchildren() != []:
                 # HAS CHILDREN
-                l = l + self.parse_mathml(children,label_value,description_value)
+                l = l + self.parse_mathml(child,label_value,description_value)
             else:
                 # NO CHILDREN
-
-                if children.tag == '{http://www.w3.org/1998/Math/MathML}mi':
+                if child.tag == '{http://www.w3.org/1998/Math/MathML}mi':
                     d = {}
-                    d["Symbol"] =  children.text
+                    d["Symbol"] =  child.text
                     d["label"] = label_value
                     d["description"] = description_value
                     d["id_"] = self.get_id()
@@ -92,18 +96,18 @@ class mathml_segmentation:
 
 
 
-                elif children.tag == '{http://www.w3.org/1998/Math/MathML}mo':
+                elif child.tag == '{http://www.w3.org/1998/Math/MathML}mo':
                     d = {}
-                    d['Operator'] =   children.text
+                    d['Operator'] =   child.text
                     d["label"] = label_value
                     d["description"] = description_value
                     d["id_"] = self.get_id()
                     d["id"] = self.new_id()
                     d["parent_id"] = parent_id
                     l.append(d)
-                    if children.text == "+":
+                    if child.text == "+":
                         self.operator_add = d["id"]
-                    elif children.text =="-":
+                    elif child.text =="-":
                         self.operator_subtract = d["id"]
 
         return l
@@ -131,7 +135,7 @@ class mathml_segmentation:
         # We then get a new graph object with our URI from the dataset.
         graph = dataset.graph(graph_uri)
 
-        dataset.default_context.parse("vocab.ttl",format="turtle")
+        dataset.default_context.parse("db/vocab.ttl",format="turtle")
         # IRI baker is a library that reliably creates valid (parts of) IRIs from strings (spaces are turned into underscores, etc.).
 
 
@@ -161,7 +165,9 @@ class mathml_segmentation:
 
             if ('Symbol' in row):
                 graph.add((id, RDF.type, VOCAB['Symbol']))
+                # print(row['Symbol'])
                 symbol = Literal(row['Symbol'], datatype=XSD['string'])
+                # print(symbol)
                 graph.add((id, VOCAB['label'], symbol))
                 parent_id = URIRef((data + str(row['parent_id'])))
                 graph.add((id, VOCAB['partOf'], parent_id))
@@ -193,7 +199,7 @@ class mathml_segmentation:
                 right = URIRef((data + str(row['right'])))
                 graph.add((id, VOCAB['right'], right))
 
-        with open('math_db.trig','w') as f:
+        with open('db/math_db.trig','w') as f:
             graph.serialize(f, format='trig')
         # print (dataset.serialize(format='trig'))
 
@@ -204,19 +210,18 @@ def main():
     ms = mathml_segmentation()
 
 
-    data = json.load(open('queryResults.json'))
+    data = json.load(open('db/queryResults.json'))
 
     content = []
-    # pprint ((data['results']['bindings'][0:1]))
-    # exit(0)
     i = 0
-    for data_d in data['results']['bindings'][0:1]:
+    for data_d in data['results']['bindings']:
         mathml_xml_string = (data_d['Formula']["value"])
         if (len(mathml_xml_string) > 0 ):
             i+=1;
-            # print (len(mathml_xml_string))
-        # print (mathml_xml_string)
-            mathml_xml = etree.fromstring(mathml_xml_string)
+            parser = objectify.makeparser(remove_comments=True,ns_clean=True,recover=True,remove_blank_text=True,resolve_entities=True,encoding='utf-8')
+
+            mathml_xml = etree.fromstring(mathml_xml_string,parser=parser)
+
             label_value = data_d['Label']['value']
             if 'Description' in data_d:
                 description_value = data_d['Description']['value']
@@ -225,7 +230,9 @@ def main():
             ms.reset_formula_id()
             content = content +  (ms.parse_mathml(mathml_xml,label_value,description_value))
 
-    pprint(content)
+    # a = u'\xa1'
+    # print smart_str(a)
+    # pprint(content)
     print(i)
     ms.make_RDF(content)
 
