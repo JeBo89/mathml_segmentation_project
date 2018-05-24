@@ -44,7 +44,6 @@ for result in results["results"]["bindings"]:
     d = {}
     d["formula_label"] = result["formula_Label"]["value"].encode("utf8")
     d["symbol_label"] = result["symbol_label"]["value"].encode("utf8")
-    # get_def_list(result["label"]["value"].encode("utf8"))
     l.append(d)
 
 # pprint(l)
@@ -59,8 +58,9 @@ df = pd.DataFrame({'symbol_set' : df.groupby('formula_label').apply(make_set)}).
 
 # print (df.groupby('formula_label').agg('count').sort_values(by=['symbol_label'], ascending=False)) #shows how many symbols in each group
 # print(df)
-
+found_subject_list = []
 def get_broader(subject):
+    global found_subject_list
     if (('sciences' in subject.lower()) or
             ('fields' in subject.lower()) or
             ('theories' in subject.lower()) or
@@ -90,20 +90,27 @@ def get_broader(subject):
     results = sparql.query().convert()
     for result in results["results"]["bindings"]:
         the_result = result["broader_subject_label"]["value"]
-        print 'the_result  ', the_result
+        if the_result in found_subject_list:
+            print '***********************************************************************************'
+            continue
+        found_subject_list.append(the_result)
+        # print 'the_result  ', the_result , ' for ', subject
+
         if (('sciences' in the_result.lower()) or
                 ('fields' in the_result.lower()) or
                 ('theories' in the_result.lower()) or
                 ('branches') in the_result.lower() or
                 ('studies' in the_result.lower())):
             # print 'found'
+            found_subject_list =[]
             return  the_result
         elif (('main topic classifications' in the_result.lower()) or
                   ('academic disciplines' in the_result.lower()) or
                   ('wikipedia' in the_result.lower()) or
                   ('Contents' in the_result.lower()) or
-                  ('Scientific disciplines') in the_result.lower()):
+                  ('disciplines') in the_result.lower()):
             # print 'found'
+            found_subject_list = []
             return subject
         else:
             return get_broader(the_result)
@@ -132,9 +139,10 @@ def get_subject(row):
 
     for result in results["results"]["bindings"]:
         subject = result["subject_Label"]["value"]
-
-        broader = get_broader(subject=subject)
         print '-----------------------------------------------------------------------------'
+        print 'subject = ', subject
+        found_subject_list = []
+        broader = get_broader(subject=subject)
         print 'broader = ' , broader
         return  broader
 

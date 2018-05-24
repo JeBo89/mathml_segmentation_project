@@ -1,0 +1,3149 @@
+,formula_label,symbol_set,subject
+0,'t Hooft–Polyakov monopole,"{i, H}",Gauge theories
+1,"(2,1)-Pascal triangle","{y, x, n}",Life sciences
+2,1 + 1 + 1 + 1 + …,"{n, ∞}",
+3,1 + 2 + 3 + 4 + …,"{n, ∞}",
+4,1 + 2 + 4 + 8 + …,"{n, ∞}",
+5,1 − 1 + 2 − 6 + 24 − 120 + ⋯,"{n, ∞}",
+6,1 − 2 + 3 − 4 + · · ·,"{∞, n}",
+7,1 − 2 + 4 − 8 + …,"{k, ∞, n}",
+8,2-group,"{Π, x, X, π}",Fields of mathematics
+9,2-sided,"{h, M, F}",Fields of mathematics
+10,24-cell honeycomb,{π},Life sciences
+11,277,"{x, sec}",Fields of history
+12,3-manifold,"{S, T}",Fields of mathematics
+13,6₃ knot,{σ},
+14,7₁ knot,"{Δ, t}",Fields of mathematics
+15,88 Aquarii,"{i, X, k, Z, σ}",Society
+16,ADE classification,"{A, E, D, n}",Fields of mathematics
+17,ANF,"{e, g, f, h, n, r, w, x}",
+18,ARGUS distribution,"{c, r, M, G}",Life sciences
+19,ASC CDL,"{i, o, p, s, u, t}",People
+20,Abel–Ruffini theorem,"{a, x, c, b}",Fields of mathematics
+21,Abraham–Minkowski controversy,"{c, h, M, n, p, ν}",Hermann Minkowski
+22,Absolute Galois group,"{lim, Z, n}",Fields of mathematics
+23,Absolute presentation of a group,"{S, R, G}",Fields of mathematics
+24,Absolutely integrable function,{f},Physical sciences
+25,Accelerator effect,"{I, x, K, d, n}",Applied sciences
+26,Acceptance set,"{A, t, T, V}",Fields of mathematics
+27,Accumulation function,"{A, a, k, t}",Fields of mathematics
+28,Acid value,"{A, b, e, i, l, o, N, q, W, V}",Life sciences
+29,Ackermann function,"{A, m, n}",Fields of mathematics
+30,Acoustic ohm,"{a, P, s, m, Ω}",Subfields of physics
+31,Acousto-optic modulator,"{F, m, f}",Glass engineering and science
+32,Action angle coordinates,"{a, ∀, k, n, φ}",Physical sciences
+33,Actuarial notation,"{i, v}",Fields of mathematics
+34,Actuarial present value,"{e, i, T, v, Z, δ}",Fields of mathematics
+35,Acutance,"{A, n, D, G, N}",Applied sciences
+36,Adams operation,"{χ, k, ρ, g, ψ}",Fields of mathematics
+37,Adaptive Simpson's method,"{a, c, b, ϵ, S}",Physical sciences
+38,Adaptive quadrature,"{a, Q, b, x, f}",Physical sciences
+39,Added mass,"{c, D, F, v, ρ, p, u, t, V, d}",Physical sciences
+40,Additive model,"{E, f, i, j, p, y, x, β}",Applied sciences
+41,Additive state decomposition,"{p, s, P, n}",Life sciences
+42,Adiabatic theorem,"{x, t, ψ}",Fields of mathematics
+43,Adjoint filter,"{h, k}",Applied sciences
+44,Adjunction formula,"{i, Ω, Y, I, X}",Fields of mathematics
+45,Affine combination,"{i, x, n, α}",Fields of mathematics
+46,Affine hull,"{i, aff, S, R, x, α, k}",Fields of mathematics
+47,Affine involution,"{I, A}",Fields of mathematics
+48,Affine monoid,"{m, Z, M, n}",Fields of mathematics
+49,Affine q-Krawtchouk polynomials,"{A, f, K, n, q, p, x, ϕ, N}",Fields of mathematics
+50,Affine term structure model,"{A, B, I, k, M, ρ, N, U}",Fields of mathematics
+51,Aggregate modulus,"{g, G, j, n, P, r, x, X, deg}",Life sciences
+52,Agoh–Giuga conjecture,"{p, B, mod}",Branches of philosophy
+53,Air flow bench,"{H, d, V}",Applied sciences
+54,Air-to-cloth ratio,"{A, v, Δ, t, V}",Professional studies
+55,Airborne particulate radioactivity monitoring,{v},Political science theories
+56,Akbulut cork,"{int, A, K, M, W}",Fields of mathematics
+57,Albers projection,"{θ, x, sin, ρ}",Political science theories
+58,Aleksandrov–Clark measure,"{H, C, D}",Fields of mathematics
+59,Alexander's trick,"{x, J, t, f}",Fields of mathematics
+60,Alexander–Spanier cohomology,"{i, p, f, d, x}",Cohomology theories
+61,Algebraic character,"{dim, c, e, h, μ, V}",Fields of mathematics
+62,Allan variance,"{y, τ, σ}",Applied sciences
+63,Almost convergent sequence,"{p, ∞, L, n, x}",Fields of mathematics
+64,Alpha process,"{i, A, j}",Subfields of physics
+65,Alternating sign matrix,"{j, m, l, s, μ, z}",Fields of mathematics
+66,Amitsur–Levitzki theorem,"{x, S, σ, n}",Fields of mathematics
+67,Ampère's circuital law,{J},Subfields of physics
+68,Analyticity of holomorphic functions,"{a, c, f, n, ∞, z}",WikiProjects
+69,Andreotti–Norguet formula,"{∂, n, z, α, f}",Fields of mathematics
+70,Andronov–Pontryagin criterion,"{x, v}",Fields of mathematics
+71,Angular aperture,"{a, f, D, arctan}",Fields of mathematics
+72,Anisotropy,"{Ω, d, i, n, P, v, γ}",Fields of mathematics
+73,Annual percentage yield,"{A, P, Y, i, N}",Humanities
+74,Antenna factor,"{A, V, E, F}",Subfields of physics
+75,Antenna gain-to-noise-temperature,"{e, d, G, f, φ, π, θ, r, T, sin}",Subfields of physics
+76,Apollonius point,"{a, c, b}",Fields of mathematics
+77,Apollonius' theorem,"{A, C, B, D}",Fields of mathematics
+78,Applied element method,"{a, E, d, K, n, T}",Glass engineering and science
+79,Apply,"{Y, Z}",Duality theories
+80,Apéry's constant,"{∞, ζ, n}",Life sciences
+81,Archimedean circle,"{r, ρ}",Fields of mathematics
+82,Archimedes' quadruplets,{r},Fields of mathematics
+83,Archimedes' twin circles,"{a, b, d}",
+84,Area theorem,"{a, d, H, Σ, m, π}",
+85,Arf invariant of a knot,"{i, v, g, mod}",Fields of mathematics
+86,Arg max,"{a, g, f, ∀, m, S, r, x, y, X}",Fields of mathematics
+87,Arithmetic coding,"{i, p, log}",Applied sciences
+88,Arithmetic–geometric mean,{s},Life sciences
+89,Arnold tongue,"{Ω, K, n, θ, π, sin}",Life sciences
+90,Arnold–Givental conjecture,"{b, H, k, L, n, φ, Z}",Fields of mathematics
+91,Arrhenius equation,"{a, A, E, k, R, T, e}",Subfields of physics
+92,Arterial resistivity index,"{a, e, d, i, l, o, I, s, R, t, v, y}",Applied sciences
+93,Arthur–Selberg trace formula,"{γ, d, G, f, R, y, x, ϕ, Γ, ∖}",Fields of mathematics
+94,Artinian ring,"{A, y, k, I, a}",Fields of mathematics
+95,Artin–Mazur zeta function,"{f, n, exp, ∞, z, ζ}",Fields of mathematics
+96,Artin–Schreier curve,"{y, x, p, f}",Fields of mathematics
+97,Associate family,"{c, d, φ, k, ℜ, x, z, ζ}",Fields of mathematics
+98,Asymptotic gain model,"{T, G, ∞}",Subfields of physics
+99,Asymptotic theory,"{A, x, C, B, y}",Fields of mathematics
+100,Atkinson–Stiglitz theorem,"{j, L, q, T, w, x, t}",Society
+101,Atkin–Lehner theory,"{a, c, b, d, Z, N, Γ, mod}",Fields of mathematics
+102,Atom probe,"{ϕ, F, e, ∇, n}",Applied sciences
+103,"Atomic, molecular, and optical physics","{k, n, L, π}",Subfields of physics
+104,Autocatalysis,"{A, B, τ, σ, T, α, β}",Physical sciences
+105,Autocorrelation,"{cos, m, ρ, n, R, ϕ, Z}",Fields of mathematics
+106,Automated Readability Index,"{e, v}",
+107,Automatic basis function construction,"{P, γ, r, v}",Applied sciences
+108,Autonomous consumption,"{Y, c, C, d}",Society
+109,Avogadro's law,"{k, V, n}",Life sciences
+110,Axial multipole moments,"{x, C, E, ∀}",Subfields of physics
+111,Axiom of extensionality,"{A, X, B, ∀}",Fields of mathematics
+112,Axiom of pairing,"{A, C, B, D, ∀, ∃}",Fields of mathematics
+113,Axiom schema of replacement,"{A, B, ∀, ∃, n, w, φ, x}",Fields of mathematics
+114,Azuma's inequality,"{X, k, c}",Fields of mathematics
+115,BCMP network,"{s, D, L, N}",Applied sciences
+116,BD09,"{a, cos, b, e, d, g, n, θ, s, r, t, ϕ, sin}",
+117,BEST theorem,"{G, v, ec, t, w, V, deg}",Fields of mathematics
+118,BET theory,"{p, c, m, v}",Environmental studies
+119,Ba space,"{N, Σ, B, μ, f}",Fields of mathematics
+120,Baby Monster group,{∂},
+121,Background field method,"{x, ϕ, B, η}",Subfields of physics
+122,Balance wheel,"{I, κ, T, π}",Applied sciences
+123,Balanced budget,"{Y, I, c, T, G}",Applied sciences
+124,Balanced prime,"{p, n}",Fields of mathematics
+125,Balian–Low theorem,"{a, b, e, g, i, m, π, x, n}",Fields of mathematics
+126,Banach manifold,"{i, φ, j, U}",Fields of mathematics
+127,Banach–Alaoglu theorem,"{y, x, ∞, ρ, n}",Fields of mathematics
+128,Banach–Mazur compactum,"{log, T, Y, X, GL, δ}",Fields of mathematics
+129,Bapat–Beg theorem,"{a, c, b, e, d, g, f, h, ψ}",Fields of mathematics
+130,Barcan formula,"{∀, ◻, x, F}",Branches of philosophy
+131,Bark scale,"{e, g, F}",Branches of philosophy
+132,Barnett effect,"{χ, γ, M, ω}",Subfields of physics
+133,Barotropic vorticity equation,"{η, D, t}",Life sciences
+134,Barratt–Priddy theorem,"{H, S, Σ, k, n}",Fields of mathematics
+135,Barth–Nieto quintic,{x},Fields of mathematics
+136,Bartlett's bisection theorem,"{I, c, Z, E, o}",Subfields of physics
+137,Batalin–Vilkovisky algebra,"{a, b, Δ}",
+138,Batchelor vortex,"{h, b, e, t}",Life sciences
+139,Bateman polynomials,"{x, F}",Fields of mathematics
+140,Baum–Sweet sequence,"{o, n, s, λ, t, α}",Fields of mathematics
+141,Baum–Welch algorithm,"{a, A, i, j, P, t, X}",Applied sciences
+142,Bayes factor,"{M, D}",Auxiliary sciences of history
+143,Bayes' theorem,"{A, P, B}",Fields of mathematics
+144,Bayesian average,"{i, x, C, m, n}",Auxiliary sciences of history
+145,Bayesian hierarchical modeling,"{y, θ, P}",Auxiliary sciences of history
+146,Bayesian inference,"{P, E, H}",Auxiliary sciences of history
+147,Bayesian tool for methylation analysis,"{A, C, f, m, c, p, r, ν, ϕ}",Auxiliary sciences of history
+148,Beal's conjecture,"{A, C, B, y, x, z}",
+149,Beam propagation method,"{H, γ, G, ◻}",Applied sciences
+150,Beatty sequence,"{B, r, n}",Life sciences
+151,Beilinson regulator,"{D, H, K, n, Q, p, X}",Fields of mathematics
+152,Bejan number,"{B, e, g, P, L, n, p, S, μ, T, Δ, ν}",Physical sciences
+153,Bellard's formula,"{∞, n, π}",Fields of history
+154,Belleville washer,"{i, k, K, g, n}",Professional studies
+155,Bending stiffness,"{p, K, w}",Professional studies
+156,Benford's law,"{P, log, d}",Life sciences
+157,Bennett's inequality,"{Var, X, σ, i, n}",Fields of mathematics
+158,Bernoulli distribution,"{q, X, p}",Life sciences
+159,Bernoulli's principle,"{p, z, g, ρ, v}",Life sciences
+160,Bernstein polynomial,"{x, b, ν, n}",Life sciences
+161,Bessel filter,"{θ, H, s, ω, n}",Life sciences
+162,Bessel's correction,"{x, n}",Life sciences
+163,Bessel's inequality,"{x, k, e, ∞}",Fields of mathematics
+164,Beta prime distribution,"{x, β, B, f, α}",Life sciences
+165,Better-quasi-ordering,"{A, B, g, ω, f, X}",Fields of mathematics
+166,Beurling–Lax theorem,"{θ, H, C, D}",Fields of mathematics
+167,Bevan point,"{α, cos, γ, β}",Fields of mathematics
+168,Bhabha scattering,{e},Fields of mathematics
+169,Bhatia–Davis inequality,"{μ, M, m}",Auxiliary sciences of history
+170,Biaxial nematic,"{p, γ, T}",Branches of biology
+171,Bicoherence,"{B, F, f}",Fields of mathematics
+172,Bicubic interpolation,"{a, i, j, p, y, x}",Applied sciences
+173,Bidomain,"{d, g, f, k, M, r, y, x, K}",
+174,Bilinear filtering,"{p, r, t, f}",Subfields of physics
+175,Bimonster group,"{i, B, Z, M}",Fields of mathematics
+176,Binary octahedral group,"{i, k, j}",Fields of mathematics
+177,Binary tetrahedral group,"{i, k, j}",Fields of mathematics
+178,Binet–Cauchy identity,"{e, d, f, v, r, w, V, Γ}",Life sciences
+179,Binomial series,"{α, k, ∞, x}",Fields of mathematics
+180,Binomial sum variance inequality,"{Var, p, s, Z, n}",Fields of mathematics
+181,Birks' Law,"{B, E, d, k, L, x}",Life sciences
+182,Birnbaum–Orlicz space,"{log, f, n, R, ∞, x, d}",Fields of mathematics
+183,Bishop–Gromov inequality,"{i, K, R, c, n}",Fields of mathematics
+184,Bismut connection,"{Γ, S, T, α, β, γ}",Fields of mathematics
+185,Bispherical coordinates,"{a, cos, τ, σ, cosh, sinh, y, x, ϕ, z, sin}",Life sciences
+186,Bivector,"{a, c, b}",Fields of mathematics
+187,Black's equation,"{A, e, F, k, j, M, n, Q, T}",Applied sciences
+188,Black–Derman–Toy model,"{d, ln, σ, θ, r, t, W}",Professional studies
+189,Blade Element Momentum Theory,"{I, ∞, R, gr, n}",
+190,Blahut–Arimoto algorithm,"{x, t, p}",Fields of mathematics
+191,Blake number,"{B, D, h, ρ, μ, u, ϵ}",Life sciences
+192,Bland–Altman plot,"{y, x, S}",Life sciences
+193,Blaschke product,"{a, n, ∞}",Fields of mathematics
+194,Bloch equations,"{B, d, M, t, x, γ, T}",Life sciences
+195,Bloch wave,"{e, ψ, i, k, r, u}",Subfields of physics
+196,Bloom filter,{m},Applied sciences
+197,Bogdanov-Takens bifurcation,"{Q, U, Δ, T, A}",
+198,Bohr compactification,"{b, G, h, o, r, B}",Fields of mathematics
+199,Bolometric correction,"{C, B, M, l, o, b, V}",Branches of philosophy
+200,Bolt thrust,"{A, a, b, e, F, i, m, l, o, n, P, r, t, x}",
+201,Boltzmann constant,"{k, R, N}",Fields of mathematics
+202,Bond valence method,"{V, v}",Physical sciences
+203,Bondareva–Shapley theorem,"{α, S, N, ∅, v}",Life sciences
+204,Bondy's theorem,"{X, k}",Fields of mathematics
+205,Bony–Brezis theorem,"{a, X, C, b}",Fields of mathematics
+206,Boolean satisfiability algorithm heuristics,"{f, i, H, K, V, ℓ, arg, y, x, γ}",Fields of mathematics
+207,Booth's multiplication algorithm,"{′, M}",
+208,Borel right process,"{E, f, i, j, o, n, r, Y, X}",Applied sciences
+209,Borel–Cantelli lemma,"{n, E, ∞}",Life sciences
+210,Born–Mayer equation,"{A, E, π, M, ρ, N, r, e, ϵ, z}",Subfields of physics
+211,Bose-Einstein statistics,"{q, V, n, N}",
+212,Boundary-layer thickness#Momentum thickness,"{y, u, o}",
+213,Bounded quantifier,"{ϕ, t, ∃, n}",Fields of mathematics
+214,Boussinesq approximation,"{g, ∂, ρ, p, ∇, u, t, v, x, T, Δ, η}",
+215,Boussinesq number,"{a, c, B, g, G, I, L, o, P, R, T, v, α, β, r, Δ}",
+216,Box–Cox distribution,"{H, s, E, log}",Life sciences
+217,Boyle temperature,"{a, R, b, T}",Branches of thermodynamics
+218,Boyle's law,"{P, k, V}",Life sciences
+219,Branch-decomposition,"{k, b}",Fields of mathematics
+220,Branching quantifier,"{Q, x, n}",Branches of philosophy
+221,Bray–Curtis dissimilarity,"{i, C, j, S, B}",Branches of biology
+222,Breit equation,"{i, a, B, r, j}",Life sciences
+223,Breusch–Pagan test,"{A, H, B}",Applied sciences
+224,Brier score,"{B, f, o, N, S, t}",Life sciences
+225,Brinell scale,"{P, π, d, D, BHN}",Life sciences
+226,Brocard's conjecture,"{a, c, b, y, x, z}",Branches of philosophy
+227,Bromley equation,"{A, b, log, I, β, γ}",Life sciences
+228,Brownian motion,"{c, k, B, Δ, T}",
+229,Buddhabrot,"{c, z, n}",Life sciences
+230,Bulk Richardson number,"{B, g, v, N, θ, R, U, T, V, z, Δ}",Physical sciences
+231,Bullet-nose curve,"{y, a, b, x}",Fields of mathematics
+232,Bundle adjustment,"{c, L, ρ, P, s, γ}",Political science theories
+233,Burgers' equation,"{y, x, ∂, t, d}",Life sciences
+234,Burmester's theory,"{A, d, i, W, T, w}",Physical sciences
+235,Bézier curve,"{P, B, t}",Life sciences
+236,Bézout's identity,"{a, C, b, d, G, ∀, ∃, y, x, D}",Life sciences
+237,C parity,"{C, ψ}",Subfields of physics
+238,C0-semigroup,"{A, x, I, T, t}",Fields of mathematics
+239,COSMO Solvation Model,"{q, ε, f}",Applied sciences
+240,CT Value,"{C, ln, n, Λ, t, W, N}",Subfields of physics
+241,CW complex,"{x, C, log, P}",Fields of mathematics
+242,Caccioppoli set,"{a, B, i, j, p, Δ}",Fields of mathematics
+243,Cache-oblivious matrix multiplication,"{a, c, b, i, k, j, m}",
+244,Cake number,"{k, n}",Life sciences
+245,Calabi conjecture,"{ϕ, d, ω}",Fields of mathematics
+246,Calabi–Eckmann manifold,"{C, e, m, n, t, x, y, α, ∖}",Fields of mathematics
+247,Calibration of radiocarbon dates,"{a, c, b, e, i, m, σ, l, o, p, s, t}",Subfields of physics
+248,Camber,"{d, g, i, j, ♭, X, x}",
+249,Camera matrix,"{y, x, C}",Applied sciences
+250,Canonical coordinates,"{i, p, j, δ, q}",Life sciences
+251,Cantor number,"{c, n}",
+252,Cantor set,"{a, C, d, n}",
+253,Capillary number,"{a, σ, C, μ, V}",Life sciences
+254,Capillary pressure,"{p, c}",Physical sciences
+255,Cardy formula,"{c, S, L, π}",Subfields of physics
+256,Carhart four-factor model,"{i, K, j, m, π}",Life sciences
+257,Carleman's inequality,"{a, ∞, e, n}",Fields of mathematics
+258,Carlitz exponential,"{q, i, T}",Fields of mathematics
+259,Carnot's theorem,"{H, C, T, η}",Fields of mathematics
+260,Carol number,"{i, n}",Fields of mathematics
+261,Cartesian oval,"{a, c, b, o, n, p, s, r, t, y, x}",Fields of mathematics
+262,Cash accumulation equation,"{i, y, t, d, F}",Fields of mathematics
+263,Catalan number,"{C, n}",Life sciences
+264,Catalan's constant,"{β, n, G, ∞}",Fields of mathematics
+265,Catalan's triangle,"{C, k, n}",Life sciences
+266,Category utility,"{cos, n, θ, P, W, Y, X, sin}",Life sciences
+267,Cauchy condensation test,"{∞, f, n}",Fields of mathematics
+268,Cauchy distribution,"{x, γ, f, π}",Life sciences
+269,Cauchy horizon,"{B, ν, v}",Life sciences
+270,Cauchy principal value,"{a, c, b, d, f, x, ε}",Fields of mathematics
+271,Cauchy stress tensor,"{i, j, σ, T, n}",Physical sciences
+272,Cauchy–Riemann equations,"{y, x, ∂, u, v}",Categories by parameter
+273,Cauchy–Schwarz inequality,"{u, v}",Fields of mathematics
+274,Cavalieri's quadrature formula,"{a, x, d, n}",Physical sciences
+275,Cavity optomechanics,"{m, ω}",Subfields of physics
+276,Cellular algebra,"{A, λ, Λ, M, C}",Fields of mathematics
+277,Center manifold,"{A, t, d}",Fields of mathematics
+278,Central binomial coefficient,{n},Fields of mathematics
+279,Central limit theorem for directional statistics,"{C, e, i, m, n, θ, S, R, E, z}",Fields of mathematics
+280,Cesàro mean,"{i, a, c, s, n}",Fields of mathematics
+281,Chandrasekhar limit,"{c, ω, G, i, m, ℏ, M, l, π, μ, t}",Subfields of physics
+282,Change of rings,"{S, R, f}",Fields of mathematics
+283,Change of variables,"{S, ∂, t, V}",Fields of mathematics
+284,Channel reliability,"{a, C, h, o, s, R, T}",Applied sciences
+285,Channel surface,"{x, c, Φ, f}",Life sciences
+286,Chaos computing,"{x, r, n}",Applied sciences
+287,Charge invariance,"{c, γ, v}",Subfields of physics
+288,Charles's law,"{y, p, V, T, n}",Life sciences
+289,Chazy equation,"{y, x, d}",Fields of mathematics
+290,Chebotarev's density theorem,"{c, e, i, m, l, o, p, s, t, y}",Fields of mathematics
+291,Chebychev–Grübler–Kutzbach criterion,"{f, i, j, M, n, N}",Subfields of physics
+292,Chebyshev function,"{p, log, ϑ, x}",Fields of mathematics
+293,Chebyshev rational functions,"{e, d, f, n, R, T, x}",Fields of mathematics
+294,Chemical reaction model,"{J, i, ∂, ∇, S, R, ρ, v, Y, t}",Physical sciences
+295,Chemisorption,"{H, S, Δ, T, G}",Physical sciences
+296,Chen model,"{d, σ, θ, r, t, W, α}",Fields of mathematics
+297,Chern–Weil homomorphism,"{H, C, M, G, g}",Fields of mathematics
+298,Chi-square distribution,"{d, i, N, q, χ, Z}",
+299,Chladni's law,"{p, C, f, m, n}",Subfields of physics
+300,Chloridometer,"{C, l, n, s, u, t}",Life sciences
+301,Choked flow,"{p, k}",Professional studies
+302,Chomsky–Schützenberger enumeration theorem,"{a, x, k, f, ∞}",Fields of mathematics
+303,Chowla–Mordell theorem,"{χ, a, ζ, G}",Cyclotomic fields
+304,Chromatic adaptation,"{c, S, D, T, f}",Political science theories
+305,Chézy formula,"{i, C, R, v}",Physical sciences
+306,Circle criterion,"{A, x, B, w}",Applied sciences
+307,Circular-arc graph,"{I, C, n}",Fields of mathematics
+308,Circumgon,"{A, B, G}",Life sciences
+309,Class membership probabilities,"{y, x, f}",
+310,Classical Hamiltonian quaternions,"{q, S, V}",Fields of mathematics
+311,Classical nucleation theory,"{B, G, k, j, N, S, R, T, exp, Z, Δ}",Categories by parameter
+312,Classification of electromagnetic fields,"{a, λ, r, b, F}",Fields of mathematics
+313,Clausius theorem,"{Q, δ, T}",Life sciences
+314,Clearing the neighbourhood,"{a, k, Λ, m}",Physical sciences
+315,Clebsch–Gordan coefficients,"{Q, C, B, s}",Fields of mathematics
+316,Clenshaw algorithm,"{a, k, n, S, x, ϕ}",Applied sciences
+317,Clifton-Pohl torus,"{y, x, d, g}",
+318,Closed graph theorem,"{y, x, Y, T, X}",Fields of mathematics
+319,Closeness,"{A, p, d}",
+320,Coble creep,"{D, C, b, e, d, g, σ, l, o, Q, R, t, ϵ, T}",Applied sciences
+321,Cochran's C test,"{i, C, j, S, N}",Applied sciences
+322,Cochrane–Orcutt estimation,"{t, α, y, X, β, ε}",Applied sciences
+323,Cocks IBE scheme,"{Δ, ∂, u, Ω, f}",Sociological theories
+324,Cocurvature,"{Y, P, R, Id, X}",Fields of mathematics
+325,Coefficient of determination,"{y, i, n}",Auxiliary sciences of history
+326,Coefficient of restitution,"{k, s, F}",Physical sciences
+327,Coefficient of variation,"{σ, c, μ, v}",Auxiliary sciences of history
+328,Coercive function,"{x, ∞, f}",Fields of mathematics
+329,Cofibration,"{i, A, X}",Fields of mathematics
+330,Cogeneration,"{i, h, o, n, Q, u, t, W, η}",Environmental studies
+331,Cohen-Daubechies-Feauveau wavelet,"{A, Q, X}",Applied sciences
+332,Coherence time,"{τ, c, λ, Δ, ν}",Fields of mathematics
+333,Coherent states,"{a, α}",Subfields of physics
+334,Coherent states in mathematical physics,"{d, I, H, ν, X, x}",Fields of mathematics
+335,Cohomotopy group,"{lim, k, Σ, S, π, p, s, X}",Fields of mathematics
+336,Cole–Cole equation,"{y, k, σ, d}",Electric and magnetic fields in matter
+337,Collateralized mortgage obligation,{%},Professional studies
+338,Collision theory,"{a, E, k, ρ, R, T, exp, Z}",Physical sciences
+339,Collocation,"{θ, e, f}",Humanities
+340,Collocation method,"{y, t, f}",Fields of mathematics
+341,Colpitts oscillator,"{C, f, L, π}",Life sciences
+342,Comb filter,"{p, C, Σ, K, π}",Professional studies
+343,Combinant,"{X, M, log, G, t}",Life sciences
+344,Combinatorial species,"{B, F}",Fields of mathematics
+345,Combined gas law,"{P, k, T, V}",Life sciences
+346,Commensurate line circuit,"{tan, k, ω}",Subfields of physics
+347,Common-mode rejection,"{A, c, d, m, o, V}",
+348,Commutant lifting theorem,"{H, n, P, S, R, U, T, ∀}",Fields of mathematics
+349,Comodule,"{C, M, ρ}",Fields of mathematics
+350,Comoving distance,"{χ, a, c, e, t}",Life sciences
+351,Compact closed category,"{A, d, i, ρ, λ, α, ε, η}",Fields of mathematics
+352,Compact convergence,"{Y, X, n, f, N}",Fields of mathematics
+353,Comparison of topologies,{τ},Fields of mathematics
+354,Compartmental modelling of dendrites,"{a, c, b, e, f, i, h, m, l, o, n, p, s, r, t, V}",Fields of mathematics
+355,Compartmental models in epidemiology,"{d, I, N, S, t, β}",Auxiliary sciences of history
+356,Competitiveness,"{I, C, T}",Social sciences
+357,Complete quotient,"{c, γ, k, T, V}",Fields of mathematics
+358,Completely multiplicative function,"{δ, D, n}",Fields of mathematics
+359,Complex beam parameter,"{z, i, π, q, λ, w, R, n}",Subfields of physics
+360,Complex cobordism,"{x, C, E, P, ∞}",Fields of mathematics
+361,Complex normal distribution,"{c, d, i, k, j, m, P}",Life sciences
+362,Complex space,"{a, p, k}",
+363,Complex squaring map,"{z, n}",Life sciences
+364,Complexification,"{C, G, o, R, V, Γ}",Fields of mathematics
+365,Compression theorem,"{C, f, i, φ, Φ, R, ∞, x, ∀}",Life sciences
+366,Compton wavelength,"{h, c, λ, m}",Subfields of physics
+367,Computational formula for the variance,"{Var, X, E}",
+368,Computational indistinguishability,"{A, E, D, n, x, δ}",Formal sciences
+369,Computer representation of surfaces,"{x, u, v}",Subfields of physics
+370,Concentration inequality,"{a, X, Φ}",Fields of mathematics
+371,Conditional probability,"{A, P, B}",Auxiliary sciences of history
+372,Conductance,"{a, i, S, j, φ}",
+373,Conference graph,{v},Fields of mathematics
+374,Configural frequency analysis,"{c, e, i, m, n, p}",Auxiliary sciences of history
+375,Conformal gravity,"{a, c, b, d, g, C, S, x}",Theories of gravitation
+376,Conformational entropy,"{i, Σ, l, n, p, S, R}",Branches of biology
+377,Congruence coefficient,"{y, x, f}",Auxiliary sciences of history
+378,Congruence lattice problem,"{x, F, ∞, n}",Fields of mathematics
+379,Conjugate index,"{q, p}",Fields of mathematics
+380,Conjugated system,"{E, ℏ, m, L, π, n}",Physical sciences
+381,Conjunction introduction,"{Q, P}",Fields of mathematics
+382,Connection form,"{α, k, e, ξ}",Fields of mathematics
+383,Conoid,{r},Life sciences
+384,Consensus theorem,"{y, x, z}",Fields of mathematics
+385,Constant factor rule in integration,"{y, x, d}",Physical sciences
+386,Content,{x},
+387,Continued fraction factorization,"{k, Z, n}",Sociological theories
+388,Continuous Ranked Probability Score,"{C, H, m, N, P, V, y, n}",
+389,Continuous knapsack problem,"{i, x, W}",Fields of mathematics
+390,Continuous-wave radar,"{c, v, r, t, f}",Fields of mathematics
+391,Contract curve,"{x, u}",Life sciences
+392,Contraposition,"{¬, A, B}",Fields of mathematics
+393,Controllability,"{A, x, B, u, t}",Applied sciences
+394,Controlled NOT gate,{CNOT},Subfields of physics
+395,Convergent matrix,"{A, k, ∞}",Fields of mathematics
+396,Convex combination,"{x, α, n}",Duality theories
+397,Convex metric space,"{y, x, z, d}",Fields of mathematics
+398,Convolution,"{e, d, g, f, τ, t, ∞}",Fields of mathematics
+399,Convolution power,"{x, δ, n}",Fields of mathematics
+400,Conway group,"{E, g, f, i, N, x}",Fields of mathematics
+401,Cooley–Tukey FFT algorithm,"{e, i, π, k, N, X, x, n}",Articles with example code
+402,Cooling flow,"{a, e, d, m, n, s, r, t, y, x}",Extragalactic astronomy
+403,Coordinate rotations and reflections,"{a, χ, ζ, G}",Fields of history
+404,Cophenetic correlation,"{χ, ϕ, ψ}",Fields of mathematics
+405,Coplanarity,{x},Fields of mathematics
+406,Correlated equilibrium,"{Ω, ω, i, q, s, u, ϕ}",Fields of mathematics
+407,Correlation swap,"{ρ, N}",Society
+408,Cosmic censorship hypothesis,"{ℏ, E, ω}",Political science theories
+409,Cosmic neutrino background,"{σ, T, g}",Fields of mathematics
+410,Cost-of-living index,"{p, C, u, K, P}",Applied sciences
+411,Couette flow,"{y, x, f, V}",Physical sciences
+412,Coulomb's law,"{e, F, k, π, q, r, ε}",Subfields of physics
+413,Coupon collector's problem,"{L, q, p, u, T, W, X}",Fields of mathematics
+414,Courant–Friedrichs–Lewy condition,"{Δ, x, C, u, t}",Fields of mathematics
+415,Cousin prime,{B},Fields of mathematics
+416,Covering problem of Rado,"{I, X, S, F}",Life sciences
+417,Cramér's theorem,"{X, k, N, n}",Fields of mathematics
+418,Cramér–Rao bound,"{p, S}",Auxiliary sciences of history
+419,Craps principle,"{P, E}",Auxiliary sciences of history
+420,Critical heat flux,"{q, h, T, w, f}",Subfields of physics
+421,Critical ionization velocity,"{e, i, v, m, o, n, V}",Subfields of physics
+422,Critical speed,"{g, ω, i, n, w, y}",Subfields of physics
+423,Critical state soil mechanics,"{∂, q, p, s, ν, ε}",Applied sciences
+424,Critical variable,"{e, G, K, R, T, Δ}",Subfields of physics
+425,Cross Gramian,"{A, C, B, e, d, t, W, ∞, X}",Fields of mathematics
+426,Cross-ratio,"{A, C, B, D}",Fields of mathematics
+427,Crosswind kite power,"{A, a, C, D, L, ρ, P, V}",Applied sciences
+428,Crowther Criterion,"{π, m, D, d}",
+429,Crystal momentum,"{p, ℏ, k}",Subfields of physics
+430,Cuckoo search,"{x, s, E, t}",Life sciences
+431,Current algebra,"{a, c, b, f, i, ρ, y, x, δ}",Fields of mathematics
+432,Curve sketching,"{a, x, y}",Life sciences
+433,Curve25519,"{y, x}",Fields of mathematics
+434,Customer lifetime value,"{i, r, d, n}",Applied sciences
+435,Cuthill–McKee algorithm,"{i, A, R, Adj}",Life sciences
+436,Cycle rank,"{r, V, G, v}",Fields of mathematics
+437,Cyclostationary process,"{τ, R, E, t, x}",Applied sciences
+438,D'Alembert's formula,"{c, g, h, u, t, x}",Fields of mathematics
+439,DBAR problem,"{∂, z, g, f}",Fields of mathematics
+440,DIIS,"{i, m, c, e}",Fields of mathematics
+441,Daraf,{Ω},Subfields of physics
+442,Darcy's law,"{a, A, b, L, Q, p, κ, μ}",Subfields of physics
+443,Dark state,{H},Subfields of physics
+444,Data validation and reconciliation,"{dim, s, R}",Applied sciences
+445,Davenport constant,"{i, p, C, e, G}",Fields of mathematics
+446,Davis distribution,"{b, e, f, n, μ, x, Γ, ζ}",Life sciences
+447,De Boor's algorithm,"{d, i, n, p, s, x, N}",Applied sciences
+448,De Bruijn graph,"{S, n, m, s, V}",Applied sciences
+449,De Sitter–Schwarzschild metric,"{d, f, θ, s, r, t, ϕ, sin}",Fields of mathematics
+450,Dean number,"{c, R, e, D}",Life sciences
+451,Debye function,"{e, d, n, t, x, D}",Fields of mathematics
+452,Debye–Waller factor,"{q, i, u, exp}",Subfields of physics
+453,Decoding methods,"{y, P, x}",Fields of mathematics
+454,Decoherence-free subspaces,"{I, H, S, B}",Subfields of physics
+455,Decomposition of spectrum,"{p, c, r, σ, T}",
+456,Deduction theorem,"{S, E, n}",Life sciences
+457,Degen's eight-square identity,"{A, a, c, b, e, d, g, F, H, f, C, $, G, B, h, E, D}",Fields of mathematics
+458,Degree,"{v, V, E, deg}",
+459,Degree of an algebraic variety,"{d, i, m, L, n, V}",Fields of mathematics
+460,Dehn twist,"{I, S}",Fields of mathematics
+461,Delta neutral,"{s, ϵ, C}",Fields of mathematics
+462,Delta operator,"{Q, x, a, g, f}",Fields of mathematics
+463,Deltoid curve,"{a, x, cos, t}",Fields of mathematics
+464,Demand for money,"{d, M, L, P, R, Y}",Society
+465,Demographic gravitation,"{F, d, N}",Fields of mathematics
+466,Denny's paradox,"{σ, c, m, ρ, g}",Life sciences
+467,Denoising Algorithm based on Relevance network Topology,"{A, Ψ, B, log, f, H}",Branches of biology
+468,Denotational semantics of the Actor model,"{⊥, e, D, g, i, S, o, n, p, s, r, t, ∞}",Fields of mathematics
+469,Depletion,"{A, C, B, D, S, R}",
+470,Depreciation,"{y, a, s, r, e}",Professional studies
+471,Deriche edge detector,"{e, ω, f, i, S, n, s, x, α}",Applied sciences
+472,Derivative of the exponential map,"{e, d, t, exp, Y, X, Z}",Fields of mathematics
+473,Derjaguin approximation,"{e, F, h, f, π, R, W}",
+474,Detective quantum efficiency,"{S, I, s, T}",Applied sciences
+475,Determinantal point process,"{i, K, j, ρ, n, x}",Applied sciences
+476,Detrended fluctuation analysis,"{i, x, t, X}",Life sciences
+477,Dewetting,"{S, γ}",Environmental studies
+478,Diagnostic odds ratio,"{P, F, T, N}",Auxiliary sciences of history
+479,Diamond anvil cell,"{A, p, F}",Subfields of physics
+480,Dichromatic reflectance model,"{c, b, m, L, s, λ}",Fields of mathematics
+481,Diesel cycle,"{a, c, e, f, i, h, m, l, n, s, r, t, y, η}",Applied sciences
+482,Difference quotient,"{h, x, f}",Fields of mathematics
+483,Difference-map algorithm,"{y, x, n, ∞, F}",Political science theories
+484,Differential entropy,"{log, f, h, x, X, d}",Branches of philosophy
+485,Differential optical absorption spectroscopy,"{h, z, n, F}",Applied sciences
+486,Diffraction efficiency,"{P, η}",Branches of biology
+487,Diffraction-limited system,"{θ, sin, λ, d, n}",Branches of biology
+488,Diffusion creep,"{x, C, J, Δ, D}",Applied sciences
+489,Digital topology,"{M, g}",Fields of mathematics
+490,Dihedral group of order 6,"{a, r}",Fields of mathematics
+491,Dilution assay,"{e, F, z, u, f}",Pharmaceutical sciences
+492,Dimension reduction,"{A, cos, L, n, x, ϕ, π}",
+493,Dimensional regularization,"{p, m, d, π}",Subfields of physics
+494,Diophantine set,"{∃, m, N, P, S, n, k}",Life sciences
+495,Diophantus II.VIII,"{b, d, f, ρ, R, u, t, V, x}",Life sciences
+496,Dirac constant,"{i, p, h}",
+497,Dirac delta function,"{x, f, δ, d, ∞}",Fields of mathematics
+498,Dirac equation,"{Ψ, c, i, ℏ, ∂, m, p, t, α, β}",Fields of mathematics
+499,Dirac equation in curved spacetime,"{Ψ, a, e, D, i, m, μ, γ}",Fields of mathematics
+500,Dirac equation in the algebra of physical space,"{A, Ψ, e, i, ∂, m}",Fields of mathematics
+501,Dirac operator,"{Δ, D}",Fields of mathematics
+502,Direct multiple shooting method,"{y, a, b, t, f}",Fields of mathematics
+503,Direct sum,"{a, b}",Fields of mathematics
+504,Dirichlet L-function,"{χ, s, n, L, ∞}",Fields of mathematics
+505,Dirichlet algebra,"{X, S, R}",Fields of mathematics
+506,Dirichlet process,"{X, α, D, H, P}",Applied sciences
+507,Dirichlet series,"{a, s, ∞, n}",Fields of mathematics
+508,Dirichlet's principle,"{Δ, u, f}",Fields of mathematics
+509,Dirichlet's unit theorem,{log},Fields of mathematics
+510,Discounted utility,"{x, β, u, t}",Society
+511,Discrete series representation,"{ρ, g, w, v}",Fields of mathematics
+512,Discrete-time Fourier transform,"{e, G, s, S, x, α}",Applied sciences
+513,Discretization,"{A, B, u, t, w, x}",Fields of mathematics
+514,Disk integration,"{a, b, d, π, R, x}",
+515,Dispersion relation,"{λ, v}",Physical sciences
+516,Dispersionless equation,"{y, x, u, t}",Fields of mathematics
+517,Distributive law between monads,"{S, l, T}",Duality theories
+518,Diversification,"{E, i, n, P, R, x}",
+519,Dividing a circle into areas,"{i, n, f}",Physical sciences
+520,Dixon's Q test,{Q},Formal sciences
+521,Dixon's identity,"{a, k}",Fields of mathematics
+522,Dodgson condensation,"{j, m, l, s, μ, z}",Fields of mathematics
+523,Dolbear's Law,"{C, N, T, F}",
+524,Dominator,"{n, o, Dom}",
+525,Doomsday rule,"{a, c, D, h, m, o, n, s, r, y, d}",Applied sciences
+526,Doppler broadening,"{c, f, ln, σ, k, m, T, Δ}",Subfields of physics
+527,Doppler effect,"{c, f, v}",Subfields of physics
+528,Dot gain,"{a, D, G}",Political science theories
+529,Douady rabbit,"{γ, M, z, n}",Fields of mathematics
+530,Double Fourier sphere method,"{cos, f, π, θ, λ, sin}",Political science theories
+531,Double coset,"{H, K, G, ∖}",Fields of mathematics
+532,Double integrator,"{p, add, r, n}",
+533,Double origin topology,"{y, x, R, n, N}",Fields of mathematics
+534,Double-layer capacitance,"{E, U, d}",Professional studies
+535,Double-well potential,"{A, a, c, h, n, r, t}",Subfields of physics
+536,Dow Jones Industrial Average,"{p, d}",
+537,Downforce,"{D, F, H, ρ, W, v}",Applied sciences
+538,Drude model,"{B, E, d, τ, m, q, p, t}",Subfields of physics
+539,Dual basis,"{α, B, m}",Fields of mathematics
+540,Dual curve,"{f, ∂, q, p, r, y, x, z}",Life sciences
+541,Dual quaternion,"{i, k, j}",Fields of mathematics
+542,Dubins–Spanier theorems,"{i, X, j, M, V}",Cross-cultural studies
+543,Dukhin number,"{a, D, σ, K, m, κ, u}",Physical sciences
+544,Dulong–Petit law,"{K, M, c}",Life sciences
+545,Dunford–Pettis property,"{e, n}",Fields of mathematics
+546,Dynamic mechanical analysis,"{a, c, e, ω, f, i, l, o, n, q, s, r, u, t, y}",Physical sciences
+547,Dynamic modulus,"{a, c, e, ω, f, i, h, l, o, n, q, s, r, u, t, w, y, π}",Physical sciences
+548,Dynamic structure factor,"{d, ω, F, i, k, π, S, t, ∞}",Subfields of physics
+549,Dynamical system,"{U, M, T, Φ}",Fields of mathematics
+550,Dynamo theory,"{B, ∂, ∇, u, t, η}",Subfields of physics
+551,Dynamometer,"{P, τ, ω}",Subfields of physics
+552,Earnings surprise,"{E, σ, Q, S, U, t}",Professional studies
+553,Earth potential rise,"{d, g, f, I, i, r, V, Z}",Applied sciences
+554,Earth's magnetic field,"{B, ∂, ∇, u, t, η}",Political science theories
+555,Eckert IV projection,"{p, v, x}",Political science theories
+556,Econometric model,"{a, C, b, e, t, Y}",Fields of mathematics
+557,Edge crush test,"{C, B, E, d, U, T}",Applied sciences
+558,Edge detection,"{f, I, σ, l, erf, r, x}",Applied sciences
+559,EdgeRank,"{e, d, g, s, u, w}",Applied sciences
+560,Edwards curve,"{y, x, d}",Fields of mathematics
+561,Effective number of bits,"{A, B, E, D, I, O, N, S}",Branches of philosophy
+562,Efficiency wage,"{P, E, L, w, V}",Fields of history
+563,Ehrenfest model,"{log, i, H, π, P, t, X}",Branches of thermodynamics
+564,Ehrenfeucht–Mycielski sequence,"{i, f, ∞}",Fields of mathematics
+565,Eigendecomposition of a matrix,"{A, Λ, V}",Fields of mathematics
+566,Einselection,"{Ψ, log, H, Tr, ρ, t}",Subfields of physics
+567,Einstein field equations,"{c, G, g, π, Λ, μ, ν, T}",
+568,Einstein notation,"{y, i, c, x}",Fields of mathematics
+569,Einstein relation,"{k, B, μ, D, T}",
+570,Eisenbud–Levine–Khimshiashvili signature formula,"{x, ∂, f, X, n}",Fields of mathematics
+571,Eisenstein prime,"{a, b, e, ω, i, π, z}",Cyclotomic fields
+572,Eisenstein triple,"{a, c, b}",Life sciences
+573,Ekman velocity,"{∂, f, τ, ∇, u, ϕ, z}",Subfields of physics
+574,ElGamal encryption,"{y, h, c, m, g}",Applied sciences
+575,ElGamal signature scheme,"{H, k, m, p, s, r, x, mod}",Applied sciences
+576,Elasticity of intertemporal substitution,"{c, U, t, u, β, T}",Society
+577,Electric field gradient,"{i, x, j, ∂, V}",Subfields of physics
+578,Electric-field screening,"{F, π, q, R, r, ε}",Subfields of physics
+579,Electrical length,"{p, ϵ, κ, c, v}",Subfields of physics
+580,Electroacoustic phenomena,"{A, C, E, d, I, m, ρ, p, S, μ, V, ϕ}",Physical sciences
+581,Electrokinematics theorem,"{A, Ω, J, d, F, ∂, Φ, q, S, r, t, ε}",Branches of philosophy
+582,Electromagnetic wave equation,"{d, g, θ, t, ℓ, sin}",Fields of mathematics
+583,Electron affinity,"{a, A, C, E, c, v}",Subfields of physics
+584,Electron magnetic dipole moment,"{μ, m, L, e}",
+585,Electron nuclear double resonance,"{E, F, H, N, Q, S, Z}",Subfields of physics
+586,Electrophile,"{χ, ω, η}",Physical sciences
+587,Electrovacuum solution,"{a, B, E, F, I, b}",Life sciences
+588,Elementary matrix,"{i, R, j}",Fields of mathematics
+589,Ellipsoid method,"{E, n, P, R, T, x, z}",Fields of mathematics
+590,Ellipsoidal coordinates,"{a, c, b, λ, μ, ν, y, x, z}",Life sciences
+591,Ellipsometry,"{Ψ, e, i, ρ, p, s, r, tan, Δ}",Applied sciences
+592,Elliptic Gauss sum,"{χ, m, π, p, t, ϕ}",Fields of mathematics
+593,Ellis wormhole,"{c, τ, σ, t, d}",Subfields of physics
+594,Embree–Trefethen constant,"{∀, σ, n, ∞, x, β}",Fields of mathematics
+595,Empirical distribution function,{A},Applied sciences
+596,Empirical process,"{F, i, ∞, n, I, x, X}",Applied sciences
+597,Empty lattice approximation,"{E, G, ℏ, m, n, k}",Subfields of physics
+598,End correction,"{r, Δ, D, L}",Subfields of physics
+599,Energetic space,"{a, B, E, f, i, l, o, n, r, u, v, Y}",Fields of mathematics
+600,Engine efficiency,"{a, b, e, d, h, k, o, n, Q, s, r, t, w, η}",Applied sciences
+601,Enriques surface,"{y, x, z, Q, w}",Fields of mathematics
+602,Ensemble Kalman filter,"{Q, p, μ, T, exp, x}",Subfields of physics
+603,Ensemble interpretation,{ψ},Society
+604,Entanglement witness,"{A, B, i, k, ρ, p, ξ}",Formal sciences
+605,Entropy in thermodynamics and information theory,"{B, i, ln, k, p, S}",Fields of mathematics
+606,Entropy rate,"{∞, X, n, H}",Applied sciences
+607,Enumerator polynomial,"{A, C, #, c, t, w}",Fields of mathematics
+608,Enveloping von Neumann algebra,"{A, U, Φ, π}",Fields of mathematics
+609,Epistemic modal logic,"{i, φ, K, ψ}",Applied sciences
+610,Equation-free modeling,"{U, u, t, d}",Applied sciences
+611,Equianharmonic,"{Γ, π}",Fields of mathematics
+612,Equidistributed sequence,"{a, c, b, d, n, s, ∞}",Life sciences
+613,Equinumerosity,"{A, B, r, o}",Life sciences
+614,Equivalence class,"{a, x, S}",Fields of mathematics
+615,Equivalent impedance transforms,"{q, m}",Subfields of physics
+616,Equivalent noise resistance,"{e, f, k, n, R, T, Δ}",Branches of philosophy
+617,Erdős–Borwein constant,"{n, B, E, ∞}",Life sciences
+618,Erdős–Rényi model,"{p, M, n}",Paul Erdős
+619,Erdős–Turán inequality,"{a, C, m, n, θ, x, sin}",Fields of mathematics
+620,Ergodic sequence,"{A, k, N, q, t, ∞}",Life sciences
+621,Ermakov–Lewis invariant,"{q, Ω, t, H, p}",Subfields of physics
+622,Error analysis for the Global Positioning System,"{σ, R, m}",Categories by parameter
+623,Essential manifold,"{H, K, n, M, π}",Fields of mathematics
+624,Essential supremum and essential infimum,"{a, X, f, x, ∞}",Physical sciences
+625,Eternal dominating set,"{∞, H, γ, G, ◻}",Fields of mathematics
+626,Euclidean quantum gravity,"{a, e, D, g, m, L, R, r, t, exp, x, ϕ, d}",Subfields of physics
+627,Euler characteristic,"{b, E, F, χ, k, V}",Fields of mathematics
+628,Euler equations,"{g, ∂, ρ, p, ∇, t, v}",
+629,Euler method,"{f, τ, N, U, t, v, n}",Fields of mathematics
+630,Euler tour technique,"{x, g, v}",Life sciences
+631,Euler's Disk,"{a, M, π, μ, t, α}",Fields of mathematics
+632,Euler's criterion,"{Q, I, T}",Life sciences
+633,Euler's formula,"{i, x, cos, e, sin}",Life sciences
+634,Euler's identity,"{i, e, π}",Fields of mathematics
+635,Euler's sum of powers conjecture,"{i, a, k, b, n}",Life sciences
+636,Euler's theorem,"{α, cos, e, κ, sin}",Life sciences
+637,Euler's totient function,"{p, φ, n}",Fields of mathematics
+638,Eulerian number,"{A, k, m, t, n}",Fields of mathematics
+639,Euler–Maclaurin formula,"{a, b, d, f, k, m, R, x, B}",Fields of mathematics
+640,Euler–Tricomi equation,"{y, x, u}",Life sciences
+641,European Commission number,"{N, R, mod}",
+642,Evenly spaced integer topology,"{a, k, λ, Z}",Fields of mathematics
+643,Event calculus,"{C, D, G, F}",Fields of history
+644,Evolvability,"{Perf, f, n, r, X, x, D}",Branches of biology
+645,Examples of generating functions,"{x, n, G, ∞}",Life sciences
+646,Excess demand function,"{P, t, λ, d, f}",Society
+647,Excursion probability,"{P, u, t, T, f}",Applied sciences
+648,Existential generalization,"{Q, x, ∃, a}",Life sciences
+649,Explicit algebraic stress model,"{b, G, i, j, λ, T}",Subfields of physics
+650,Exponential decay,"{t, λ, d, N}",Fields of mathematics
+651,Exponential factorial,{n},Fields of mathematics
+652,Exponential object,"{y, x, λ, g}",Fields of mathematics
+653,Exponential sheaf sequence,"{M, O, exp}",Fields of mathematics
+654,Exponential smoothing,"{a, A, f, k, n, x}",Applied sciences
+655,Exponential utility,"{a, u, c, e}",Society
+656,Exponentially modified Gaussian distribution,"{e, c, B, M, ω}",Life sciences
+657,Extended Kalman filter,"{x, k, u, w, f}",Professional studies
+658,Extensions of symmetric operators,"{i, z}",Fields of mathematics
+659,Extouch triangle,"{A, C, B, T, csc}",Life sciences
+660,Extremal graph theory,{n},Fields of mathematics
+661,Extreme learning machine,"{f, i, h, L, x, β}",Life sciences
+662,F-algebra,"{e, f, i, H, Q, P, E, Γ, Δ, ε}",Fields of mathematics
+663,F-distribution,"{p, K, t, x}",Auxiliary sciences of history
+664,FEE method,"{I, A, L}",Applied sciences
+665,FIDSAM,"{A, τ, e, t, F}",
+666,Factor graph,"{g, f, j, m, n, S, X}",Fields of mathematics
+667,Fan-out,"{I, min}",Applied sciences
+668,Faraday constant,"{A, F, e, N}",Physical sciences
+669,Faraday's law of induction,"{A, B, d, Σ, Φ, r, t}",Fields of mathematics
+670,Faro shuffle,{σ},Political science theories
+671,Farrell–Jones conjecture,"{K, R, G, n}",Fields of mathematics
+672,Fast marching method,"{Ω, u, x, ∇, f}",Fields of mathematics
+673,Fatou–Lebesgue theorem,"{SO, Spin}",Fields of mathematics
+674,Favard constant,"{K, π, r, k, ∞}",Fields of mathematics
+675,Federal Bridge Gross Weight Formula,"{ℓ, w, n}",Applied sciences
+676,Feller's coin-tossing constants,"{s, Alph}",Fields of mathematics
+677,Fermat curve,"{y, x, n}",Fields of mathematics
+678,Fermat's little theorem,"{a, p, mod}",Fields of mathematics
+679,Fermi level,"{A, μ, B, e, V}",Subfields of physics
+680,Fermion doubling,"{d, ψ, ∂, m, S, x}",Subfields of physics
+681,Fermi–Dirac statistics,"{A, B, i, j, S, X}",Auxiliary sciences of history
+682,Fermi–Walker transport,"{d, F, s, V, X, D}",Fields of mathematics
+683,Fiber Bragg grating,"{e, B, λ, Λ, n}",Applied sciences
+684,Fibonacci coding,"{i, k, N, d, F}",Society
+685,Fibonacci series,"{x, F, n, f}",
+686,Field electron emission,"{γ, M, F}",Subfields of physics
+687,Filbert matrix,"{i, j, f, F}",
+688,Filtration,"{t, F}",Humanities
+689,Final value theorem,"{f, t, ∞}",Fields of mathematics
+690,Financial correlation,"{d, σ, S, μ, t, z}",Fields of mathematics
+691,Fineness modulus,"{a, e, d, F, i, f, m, l, o, n, s, r, u, t}",Physical sciences
+692,First break picking,"{arcsin, t, sin}",Subfields of physics
+693,First fundamental form,"{I, x, y}",Fields of mathematics
+694,First law of thermodynamics,"{Q, E, d, W, t}",Life sciences
+695,Fischer group Fi24,"{x, N, T, n}",Fields of mathematics
+696,Fisher consistency,"{θ, F, T, n}",Auxiliary sciences of history
+697,Fisher-Kolmogorov equation,"{k, ∂, q, u, t, α, x}",
+698,Fitting subgroup,"{H, K, C, G, Fit}",Fields of mathematics
+699,Flatness problem,"{a, c, G, H, k, ρ, π}",Subfields of physics
+700,Fleming–Tamao oxidation,"{Ω, ∂, Δ, u, f}",Life sciences
+701,Flipped SU(5),"{a, c, d, l, n, p, s, u}",Subfields of physics
+702,Foldback,"{a, e, d, g, p, I, i, l, o, n, P, s, r, u, t, V}",
+703,Folded unipole antenna,"{I, P, R}",Subfields of physics
+704,Forces on sails,"{E, D, F, L, R, T, V}",Applied sciences
+705,Foreign-exchange option,"{c, e, d, f, K, N, S, r, T}",
+706,Form factor,"{σ, N, q, κ, μ, ν, α, β, γ, ε}",
+707,Fouling,"{P, k, d, t}",Professional studies
+708,Foundational relation,"{A, ∀, ∃, ∅, S, R, x}",Fields of mathematics
+709,Four-acceleration,"{A, a, c, d, τ, U, u, γ}",Physical sciences
+710,Four-current,"{J, j, μ, c, ρ}",Subfields of physics
+711,Four-frequency,"{a, N, ν, n}",Fields of mathematics
+712,Fourt-Woodlock equation,"{H, M, R, U, T, V}",
+713,Fractional Brownian motion,"{H, s, B, E, t}",Applied sciences
+714,Fractional Schrödinger equation,"{log, k, m, N, S, r}",Physical sciences
+715,Fractional coloring,"{χ, f, b, G, ∞}",Fields of mathematics
+716,Fracture toughness,"{P, S, L, O, d}",Physical sciences
+717,Frame problem,{¬},
+718,Fransén–Robinson constant,"{x, F, Γ, d, ∞}",Fields of mathematics
+719,Free boundary problem,"{∂, ∇, Q, T, α, t}",
+720,Free cash flow,"{C, B, F, I, O, t}",Professional studies
+721,Free energy perturbation,"{s, d, sinh, cosh}",Applied sciences
+722,Free regular set,"{Ω, τ, Γ, H}",Fields of mathematics
+723,Free variables and bound variables,"{k, f, n}",Political science theories
+724,Free-air gravity anomaly,"{b, g, F, o, s, λ, δ}",Subfields of physics
+725,Free-electron laser,"{K, r, u, γ, λ}",Applied sciences
+726,Freiheitssatz,"{x, r, G, n}",Fields of mathematics
+727,Frequency offset,"{c, f, h, L, o, p, s}",Applied sciences
+728,Fresnel integral,"{cos, d, C, S, t, x, sin}",Life sciences
+729,Fresnel number,"{a, λ, L, F}",Branches of biology
+730,Friedmann–Lemaître–Robertson–Walker metric,"{a, d, χ, k, s, t, x}",Life sciences
+731,Friedrichs extension,"{T, ξ, dom}",Fields of mathematics
+732,Frobenius norm,"{A, F}",
+733,Frobenius pseudoprime,"{k, n, Q, P, U, mod}",Applied sciences
+734,Frobenius theorem,"{f, i, k, n, R, r}",Science disambiguation pages
+735,Frobenius–Schur indicator,"{χ, g, μ, d, G}",Fields of mathematics
+736,Frontogenesis,"{A, a, b, h, q, T}",Branches of meteorology
+737,Froude–Krylov force,"{c, Λ, m, κ}",Physical sciences
+738,Fuchsian model,"{A, L, ρ, P, S, R, Γ}",Fields of mathematics
+739,Fuel fraction,"{Δ, ζ, W}",Professional studies
+740,Fugacity,"{P, φ, f}",Branches of thermodynamics
+741,Fuhrmann circle,"{a, c, R, b}",Life sciences
+742,Fujiki class C,"{C, d, ω, i, M, m}",Fields of mathematics
+743,Functional integration,"{a, b, d, f, J, L, x}",Fields of mathematics
+744,Fundamental domain,"{H, z, U}",Life sciences
+745,Fundamental increment lemma,"{a, h, f}",Fields of mathematics
+746,Future value,"{P, r, V, t, F}",Fields of mathematics
+747,Fσ set,"{y, A, r, R, Q}",Fields of mathematics
+748,G Scorpii,"{a, λ, e, d, F, i, m, l, π, s, r, μ, T, ϕ, tan}",Applied sciences
+749,G.711,"{y, e, s, m}",Applied sciences
+750,GC-content,"{A, C, T, G}",Life sciences
+751,GCJ02,"{π, ϕ, sin, θ, _, a, c, e, d, g, i, k, l, o, n, p, s, r, t, w, y, x, Δ}",
+752,Galilean invariance,"{r, t, v}",Galileo Galilei
+753,Galilei number,"{a, g, ν, G, L}",Life sciences
+754,Gall–Peters projection,"{A, i, n}",Political science theories
+755,Galois connection,"{B, G, g, ∀, ∅, o, r, x, X}",Duality theories
+756,Galois module,"{K, r, C, W}",Fields of mathematics
+757,Galton–Watson process,"{X, j, ξ, n}",Humanities
+758,Gambler's ruin,"{P, n}",Branches of philosophy
+759,Gamma diversity,"{α, β, γ}",Branches of biology
+760,Gas-phase ion chemistry,"{A, B, e}",Applied sciences
+761,Gauss's law,"{Q, E, ε, Φ}",Carl Friedrich Gauss
+762,Gauss's law for magnetism,"{A, B, ∇}",Subfields of physics
+763,Gaussian function,"{a, c, b, e, f, x}",Fields of mathematics
+764,Gaussian orbital,"{m, l, Φ, θ, R, Y, ϕ, r}",Subfields of physics
+765,Gaussian process,"{X, k, t}",Applied sciences
+766,Gaussian q-distribution,"{c, E, q, s, ν, x}",Fields of mathematics
+767,Gaussian quadrature,"{d, f, i, n, w, x}",Physical sciences
+768,Gaussian year,"{k, π}",Political science theories
+769,Gauss–Jacobi quadrature,"{x, β, d, α, f}",Physical sciences
+770,Gauss–Kuzmin distribution,"{p, k, log}",Fields of mathematics
+771,Gauss–Laguerre quadrature,"{x, ∞, e, d, f}",Physical sciences
+772,Gay-Lussac's law,"{P, k, T}",Life sciences
+773,Gecko feet,"{A, F, D, π}",Life sciences
+774,Gelfand–Naimark theorem,"{x, π, ξ, f}",Fields of mathematics
+775,Gelfond's constant,"{i, e, π}",Fields of mathematics
+776,Gell-Mann matrices,"{i, k, j, g, f}",Fields of mathematics
+777,Gell-Mann–Okubo mass formula,"{a, I, S, M}",Subfields of physics
+778,Gene expression programming,"{a, c, b, d}",Life sciences
+779,General Leibniz rule,"{k, f, C, g, n}",Fields of mathematics
+780,General linear methods,"{y, t, f}",Fields of mathematics
+781,General linear model,"{Y, X, B, U}",Auxiliary sciences of history
+782,Generalization error,"{x, d, f, I, ρ, n, Y, V, y, X}",Applied sciences
+783,Generalized Clifford algebra,"{k, j, e, ω}",Fields of mathematics
+784,Generalized Fourier series,"{a, b, F, φ, Φ, n, ∞}",Fields of mathematics
+785,Generalized Verma module,"{p, M, U, g, V}",Fields of mathematics
+786,Generalized continued fraction,"{a, x, b}",Fields of mathematics
+787,Generalized eigenvector,"{I, A, λ, m, x}",Fields of mathematics
+788,Generalized estimating equation,"{∂, i, k, j, N, μ, V, Y, U, β}",Applied sciences
+789,Generalized flag variety,"{k, V}",Fields of mathematics
+790,Generalized hypergeometric function,"{a, b, F, n, q, p, ∞, β, z}",Fields of mathematics
+791,Generalized quadrangle,"{q, H, s, t}",Fields of mathematics
+792,Generalized second-price auction,"{α, k}",Professional studies
+793,Generalized symmetric group,"{C, d, G, S, ∞, y, x, z}",Fields of mathematics
+794,Genetic algebra,"{e, Z, B, U, K}",Fields of mathematics
+795,Genetic load,"{L, w}",Subfields of evolutionary biology
+796,Genotype frequency,"{χ, γ, M, ω}",Subfields of evolutionary biology
+797,Geometric dimensioning and tolerancing,"{A, ◻}",
+798,Geometric feature learning,"{a, x, ∃, F}",Applied sciences
+799,Geometric mean theorem,"{q, h, p}",Life sciences
+800,Geometric phase,"{C, i, ∇, n, R, t, γ}",Physical sciences
+801,Geometric separator,"{j, intersect, n}",Applied sciences
+802,Geometrical frustration,"{G, I, H, k, S, μ, ν}",Subfields of physics
+803,Giant Magneto Resistance,"{H, R, δ}",
+804,Gibbs free energy,"{G, p, S, U, T, V}",Environmental studies
+805,Gibbs isotherm,"{γ, Γ, μ, d}",Subfields of physics
+806,Gibbs' phase rule,"{P, C, F}",
+807,Gijswijt's sequence,"{i, a, ∞, n}",Fields of mathematics
+808,Gilbert–Varshamov bound,"{q, A, d, n}",Fields of mathematics
+809,Gilbreath's conjecture,"{p, d, n}",Branches of philosophy
+810,Gimel function,"{ℷ, c, κ, f}",Life sciences
+811,Gingerbreadman map,"{i, d, o, f}",Fields of mathematics
+812,Glomerular filtration rate,"{R, G, F}",
+813,Glossary of category theory,"{C, D, G, F, Hom, Y, X}",Glossaries of mathematics
+814,Glossary of game theory,"{i, R, N, Σ, π}",Glossaries of mathematics
+815,Glossary of module theory,"{M, ∀, m, n, s, r, R}",Glossaries of mathematics
+816,Glove problem,"{M, N}",Fields of mathematics
+817,Goertzel algorithm,"{M, log, N}",Applied sciences
+818,Goldbach's conjecture,"{ln, m, n}",Fields of mathematics
+819,Goldstine theorem,"{C, φ, Φ, n, X, x}",Fields of mathematics
+820,Golomb sequence,"{a, φ, n}",Fields of mathematics
+821,Goodstein's theorem,"{a, k, m, n}",Life sciences
+822,Goormaghtigh conjecture,"{y, x, m, n}",Branches of philosophy
+823,Gottlieb polynomials,"{e, F, k, n, λ, ℓ, x}",Fields of mathematics
+824,Gradient network,"{h, R, J, N}",Physical sciences
+825,Graham's law,{M},Life sciences
+826,Gramian matrix,"{j, d, G, f, i, τ, t, ℓ}",Fields of mathematics
+827,Grandi's series,"{∞, n}",Fields of mathematics
+828,Granger causality,"{ln, r, m}",Branches of philosophy
+829,Graph dynamical system,"{i, x, F, n, f}",Fields of mathematics
+830,Grassmann integral,"{a, b, d, g, f, θ}",Fields of mathematics
+831,Greeks,"{d, ln, K, τ, σ, q, S, r}",Humanities
+832,Green's matrix,"{X, x, t, n}",Fields of mathematics
+833,Griffiths group,"{a, g, h, k, m, l, o, Griff, X, Z}",Fields of mathematics
+834,Griffiths inequality,"{A, H, J, σ}",Fields of mathematics
+835,Grigorchuk group,"{s, log, η}",Fields of mathematics
+836,Gross–Koblitz formula,"{f, i, τ, π, q, p, s, r, Γ}",Fields of mathematics
+837,Grothendieck inequality,"{a, i, s, j, t}",Fields of mathematics
+838,Grothendieck topology,"{A, α, β, X, F}",Fields of mathematics
+839,Grothendieck universe,"{x, c, U}",Life sciences
+840,Grothendieck–Hirzebruch–Riemann–Roch theorem,"{X, K}",
+841,Grothendieck–Ogg–Shafarevich formula,"{C, g, F, χ, n, S, w, x, X}",Fields of mathematics
+842,Group code,"{i, I, cos, θ}",Fields of mathematics
+843,Growth curve,"{A, C, B, E, Σ, X}",
+844,Grötzsch graph,{x},Fields of mathematics
+845,Grünwald–Letnikov derivative,"{x, h, f}",Fields of mathematics
+846,Gudermannian function,"{X, k, t}",Fields of mathematics
+847,Gumbel distribution,"{x, β, μ, e, F}",Applied sciences
+848,Göbel's sequence,"{x, n}",Fields of mathematics
+849,Gödel numbering,"{p, c, e, x, n}",Fields of mathematics
+850,Gδ set,"{Q, A, r, R, y}",Fields of mathematics
+851,HOMFLY polynomial,"{k, o, n, P, u, t}",Fields of mathematics
+852,Hacoversine,"{θ, hacoversin, sin}",Fields of mathematics
+853,Hadamard matrix,"{I, H, T, n}",Fields of mathematics
+854,Hadamard's dynamical system,"{g, i, H, j, m, q, p}",Life sciences
+855,Hadjicostas's formula,"{d, s, y, x, Γ, ζ, log}",Fields of mathematics
+856,Hadwiger conjecture,"{i, s, n, K, v}",
+857,Hadwiger–Finsler inequality,"{a, c, b, T}",Fields of mathematics
+858,Hagen number,"{d, g, H, L, ρ, p, ν, x}",Life sciences
+859,Hahn polynomials,"{F, N, Q, x, α, β, n}",Fields of mathematics
+860,Hall algebra,"{g, q, λ, μ, ν, Z}",Fields of mathematics
+861,Hall effect,"{q, F, B, E, v}",Subfields of physics
+862,Halting problem,"{X, R}",Fields of mathematics
+863,Hamiltonian,"{a, x, m, f}",Science disambiguation pages
+864,Hamiltonian matrix,"{A, p, n, P, x}",Fields of mathematics
+865,Hamilton–Jacobi equation,"{Y, X, Z, n}",Physical sciences
+866,Hammer projection,"{a, e, φ, l, λ, x}",Political science theories
+867,Hamming scheme,"{x, e, O, g, V}",Fields of mathematics
+868,Hardy's inequality,"{a, p, n, ∞}",Fields of mathematics
+869,Hardy–Littlewood circle method,"{a, n, z, f}",Fields of mathematics
+870,Harish-Chandra's c-function,"{s, λ, c}",Fields of mathematics
+871,Harmonic coordinate condition,"{γ, g, σ, x, α, β, Γ}",Life sciences
+872,Harmonious set,"{u, v}",Life sciences
+873,Hartmann number,"{a, B, H, σ, L, μ}",Subfields of physics
+874,Hasegawa–Mima equation,"{y, P, t, x, ∀}",Life sciences
+875,Hasse's theorem on elliptic curves,"{q, N}",Fields of mathematics
+876,Hasse–Weil zeta function,"{Q, s, Z, V}",Fields of mathematics
+877,Hat operator,"{y, H}",Life sciences
+878,Hauptvermutung,"{H, κ, Z, M}",Fields of mathematics
+879,Hausdorff density,"{a, B, Θ, s, r, μ}",Fields of mathematics
+880,Hausdorff moment problem,"{m, n, μ, d, x}",Society
+881,Hausner ratio,"{H, B, T, ρ}",Pharmaceutical sciences
+882,Hawking radiation,"{H, M, T, π}",Stephen Hawking
+883,Hayashi track,"{j, σ, T}",Subfields of physics
+884,Heaps' law,"{n, β, R, K, V}",Life sciences
+885,Heat generation in integrated circuits,"{C, g, ∂, ∇, t, κ, ρ, T}",Subfields of physics
+886,Heat index,"{I, H, c, R, T}",Branches of thermodynamics
+887,Heat kernel signature,"{Ψ, E, ℏ, m, ∇, r, V}",Fields of mathematics
+888,Heat-affected zone,"{c, E, f, I, n, Q, i, S, V, y, e}",Environmental studies
+889,Heath–Jarrow–Morton framework,"{e, d, f, P, s, t, T}",Fields of mathematics
+890,Heaviside cover-up method,"{a, A, C, B, m, c, n, b, ℓ, x}",Fields of mathematics
+891,Heavy Rydberg system,"{μ, m}",Subfields of physics
+892,Heavy traffic approximation,"{X, E, t, n}",Applied sciences
+893,Heegaard splitting,"{f, M, W, V}",Fields of mathematics
+894,Heilbronn triangle problem,"{c, f, Δ, n}",Fields of mathematics
+895,Heine–Borel theorem,"{K, C, U, T}",Fields of mathematics
+896,Heinz mean,"{A, H, B, x}",Fields of mathematics
+897,Helicity,"{p, r, L}",
+898,Helly–Bray theorem,"{d, g, F, n, R, ∞, x}",Fields of mathematics
+899,Helmholtz decomposition,"{A, Φ, ∇, F}",Hermann von Helmholtz
+900,Helmholtz equation,"{A, k, ∇}",Fields of mathematics
+901,Helmholtz free energy,"{A, S, U, T}",Hermann von Helmholtz
+902,Helmholtz's theorems,"{A, c, d, ω, n, s, u, Γ}",Hermann von Helmholtz
+903,Herbrand–Ribet theorem,"{a, ω, σ, n, p, ϵ}",Cyclotomic fields
+904,Hereditarily finite set,"{k, ∞, ω, V}",Fields of mathematics
+905,Herglotz–Zagier function,"{′, log, F, n, ∞, x, Γ}",Fields of mathematics
+906,Hermite's cotangent identity,"{a, A, cot, k, j, n}",Fields of mathematics
+907,Hermite's identity,"{x, k, n}",Life sciences
+908,Hermite–Minkowski theorem,"{K, π, d, n}",Fields of mathematics
+909,Hermitian matrix,{A},Fields of mathematics
+910,Heron's formula,"{A, a, c, b}",Fields of mathematics
+911,Heron's method,"{a, x, n}",
+912,Herschel–Bulkley fluid,"{γ, τ, k, n}",Life sciences
+913,Hesse normal form,"{d, H, n, R, v, x}",Fields of mathematics
+914,Hessenberg matrix,"{h, n}",Fields of mathematics
+915,Hessian form of an elliptic curve,"{Y, X, a}",Fields of mathematics
+916,Heston model,"{x, p}",Fields of mathematics
+917,Heterodyne detection,"{cos, E, ω, g, i, φ, s, t}",Applied sciences
+918,Hick's law,"{n, b, log, T}",Experimental social sciences
+919,Hicks-neutral technical change,"{A, Y, K, L, F}",Professional studies
+920,Hierarchical generalized linear model,"{Q, S, r, d, T}",Applied sciences
+921,Hierarchical network model,"{P, k, γ, c}",Physical sciences
+922,High energy nuclear physics,"{p, γ, T}",Subfields of physics
+923,High-frequency ventilation,"{I, p, Δ, E, P}",Life sciences
+924,High-valent iron,"{e, F, I, h, L, O, n, P}",Subfields of physics
+925,Highly abundant number,"{σ, m, n}",Fields of mathematics
+926,Highly structured ring spectrum,"{Ω, X}",Fields of mathematics
+927,Hilbert's Nullstellensatz,{J},Fields of mathematics
+928,Hilbert's irreducibility theorem,"{f, n, s, r, Y, X}",Political science theories
+929,Hilbert's seventh problem,{Q},Political science theories
+930,Hilbert's theorem,"{ψ, φ, p, S, R, exp}",
+931,Hilbert–Burch theorem,"{I, R, m, n}",Fields of mathematics
+932,Hilbert–Schmidt integral operator,"{Ω, d, k, ∞, y, x}",Fields of mathematics
+933,Hilbert–Schmidt theorem,"{i, λ, ∞}",Fields of mathematics
+934,Hill differential equation,"{y, d, t, f}",Fields of mathematics
+935,Himmelblau's function,"{y, x, f}",Life sciences
+936,Hirzebruch surface,"{O, n}",Fields of mathematics
+937,Histogram equalization,"{i, p, x, L, n}",Applied sciences
+938,History of general relativity,"{R, μ, ν, T}",
+939,History of quaternions,"{i, k, j}",Fields of mathematics
+940,Hit-or-miss transform,"{A, C, c, B, D}",Applied sciences
+941,Hitchin–Thorpe inequality,"{χ, τ, M}",Fields of mathematics
+942,Hoeffding's inequality,"{P, i, H, k, n, p}",Fields of mathematics
+943,Hollomon–Jaffe parameter,"{C, log, H, p, T, t}",Life sciences
+944,Holonomy,"{E, G, Hol, L, ∇, P, x, γ}",Fields of mathematics
+945,Holor,"{i, x, ∂, σ, v}",Fields of mathematics
+946,Holt graph,{x},Fields of mathematics
+947,Homogeneous differential equation,"{d, F, M, N, y, x}",Fields of mathematics
+948,Homological integration,"{α, T}",Physical sciences
+949,Homothetic center,"{y, x, r}",Life sciences
+950,Hong–Ou–Mandel effect,"{a, b}",Applied sciences
+951,Hooke's atom,"{H, k, r, ∇}",Subfields of physics
+952,Hooke's law,"{X, k, F}",Physical sciences
+953,Hoover index,"{B, E, π}",Fields of mathematics
+954,Hopkinson's law,"{Θ, R, m, Φ}",
+955,Hotelling's rule,"{P, δ, t}",Applied sciences
+956,Hough transform,"{cos, θ, r, y, x, sin}",Applied sciences
+957,Householder's method,"{a, e, d, f, K, m, o, n, s, r, x}",Fields of mathematics
+958,How Long Is the Coast of Britain? Statistical Self-Similarity and Fractional Dimension,"{M, L, G, D}",Categories by parameter
+959,Hubbert linearization,"{d, K, Q, P, R, U, t}",Society
+960,Hubble–Reynolds law,"{I, H, R}",Subfields of physics
+961,Humbert polynomials,"{a, e, n, t, exp, x, β}",Fields of mathematics
+962,Hume-Rothery rules,"{e, l, o, n, s, r, u, t, v, %}",Physical sciences
+963,Hurwitz polynomial,{x},Fields of mathematics
+964,Hydrodynamical helicity,"{H, u, d, ∇, V}",Physical sciences
+965,Hydrogel encapsulation of quantum dots,"{λ, D}",Subfields of physics
+966,Hydrostatic stress,"{g, i, h, σ, ρ, n}",Physical sciences
+967,Hyperbolic growth,"{x, c, t}",Life sciences
+968,Hyperbolic quaternion,"{a, c, b, d, i, k, j, q, R}",Fields of mathematics
+969,Hyperbolic set,"{E, M, s, Λ, u, T}",Fields of mathematics
+970,Hyperdeterminant,"{a, c, b, f}",Fields of mathematics
+971,Hypoexponential distribution,"{μ, B, Δ, H}",Life sciences
+972,Hölder's inequality,"{q, p, g, f}",Fields of mathematics
+973,IP (complexity),"{P, L, w, V}",Life sciences
+974,Ideal chain,"{b, e, f, i, h, m, l, o, n, s, r, u, t, w, N, L}",Subfields of physics
+975,Idealized greenhouse model,"{τ, b, g, f}",Subfields of physics
+976,Idealizer,"{I, S, s, T}",Fields of mathematics
+977,Idempotent measure,"{A, d, μ, ν, X, x}",Fields of mathematics
+978,Image moment,"{d, f, M, q, p, ∞, y, x}",Applied sciences
+979,Imaging spectroscopy,"{A, x, p}",Subfields of physics
+980,Immersed boundary method,"{k, M, n}",Fields of mathematics
+981,Impact parameter,"{b, d, i, ∞, m, π, θ, r, U, v, n}",Physical sciences
+982,Implicational propositional calculus,"{p, log, ϑ, x}",Life sciences
+983,Implicit curve,"{y, x, F}",Applied sciences
+984,Incidence structure,"{I, p, B}",Fields of mathematics
+985,Indeterminate,"{x, g, f}",
+986,Indeterminate form,"{x, c, g, f}",Fields of mathematics
+987,Index of dispersion,"{μ, σ, D}",Branches of philosophy
+988,Inertance,"{A, I, ρ, ℓ}",Environmental studies
+989,Information gain in decision trees,"{a, G, I, H, l, s, T, v, x}",Applied sciences
+990,Information theory and measure theory,"{d, f, h, R, X, x, log}",Formal sciences
+991,Inhomogeneous electromagnetic wave equation,"{c, μ, ε}",Subfields of physics
+992,Initial condition,"{a, x, k, t}",Fields of mathematics
+993,Inner model,{L},Fields of mathematics
+994,Instrumental magnitude,"{m, log, f}",Physical sciences
+995,Integer programming,"{A, g, i, σ, n, ln, μ, exp}",Fields of mathematics
+996,Integrating ADC,"{a, C, i, l, o, n, R, u, t, V}",Subfields of physics
+997,Integration along fibers,"{b, k, m, π, w, α, β}",Fields of mathematics
+998,Integration by reduction formulae,"{I, x, n, f}",Physical sciences
+999,Intermediate Jacobian,"{H, C, R, M, n}",Fields of mathematics
+1000,Intrinsic value,"{e, f, I, h, m, o, n, u, t, V, y}",
+1001,Introduction to entropy,"{q, S, δ, T}",Fields of mathematics
+1002,Invariance mechanics,"{x, R}",Subfields of physics
+1003,Inverse gas chromatography,"{F, j, m, o, R, t, V, T}",Life sciences
+1004,Inverse-gamma distribution,"{d, ψ, ∂, m, S, x}",Auxiliary sciences of history
+1005,Ising model,"{j, i, h, J, σ, μ, H}",Fields of mathematics
+1006,Iso-damping,"{c, G, ω, ∠, j, s, d}",Applied sciences
+1007,Isotypic component,"{i, N, V}",Fields of mathematics
+1008,Isserlis' theorem,"{A, C, B}",Fields of mathematics
+1009,Itō isometry,"{E, d, t, W, X, T}",
+1010,J-homomorphism,"{J, O, π, q, S, r}",Fields of mathematics
+1011,J1 J2 model,"{i, H, S, J, j}",Subfields of physics
+1012,Jackson network,"{j, i, J, p, λ, α}",Applied sciences
+1013,Jackson q-Bessel function,"{J, q, ν, ∞, x, ϕ}",Fields of mathematics
+1014,Jacobi elliptic functions,"{d, φ, m, θ, u, sin}",Fields of mathematics
+1015,Jacobi identity,"{a, ∀, S, b, c}",Fields of mathematics
+1016,Jacobi triple product,"{i, π, R, Σ, N}",Fields of mathematics
+1017,Jacobian conjecture,{b},Fields of mathematics
+1018,Jacobian ideal,"{x, J, ∂, f, n}",Fields of mathematics
+1019,Jacobian matrix,"{J, f, m, ∂, M, n, x}",
+1020,Jacobsthal number,"{J, n}",Fields of mathematics
+1021,Janko group J1,"{y, x, z, d}",Fields of mathematics
+1022,Jefimenko's equations,"{c, B, E, d, J, ρ, π, r, μ, t, ∂, ϵ}",Fields of mathematics
+1023,Jensen's inequality,"{x, t, f}",Fields of mathematics
+1024,Jet group,"{k, R, m, S, W}",Fields of mathematics
+1025,Jiles-Atherton model,"{α, M, H}",Subfields of physics
+1026,Johnson SU distribution,"{z, sinh, λ, ξ, x, γ, δ}",
+1027,Joint quantum entropy,"{A, B, log, Tr, ρ, S}",Formal sciences
+1028,Joint spectral radius,"{Y, X, B, L, W}",Applied sciences
+1029,Jordan curve theorem,"{H, k, n, q, Y, Z}",Life sciences
+1030,Jordan's lemma,"{C, e, i, π, θ, R}",Life sciences
+1031,Jurin's law,"{cos, g, h, ρ, θ, r, γ}",Physical sciences
+1032,Just-noticeable difference,"{I, k, Δ}",Life sciences
+1033,Jørgensen's inequality,"{A, B}",Fields of mathematics
+1034,K-convex function,"{K, b, u, z, g}",Fields of mathematics
+1035,K-function,"{Γ, d, ln, K, π, t, exp, z}",Fields of mathematics
+1036,Kalai–Smorodinsky bargaining solution,"{B, e, d, F, s, μ, t}",Cross-cultural studies
+1037,Kalman–Yakubovich–Popov lemma,"{A, P, Q, T}",Life sciences
+1038,Kamal,"{s, S, d, D}",
+1039,Kaplansky density theorem,"{a, α, f}",Fields of mathematics
+1040,Kaplan–Yorke conjecture,"{i, λ, j}",Fields of mathematics
+1041,Karhunen–Loève theorem,"{e, k, t, ∞, X, Z}",Fields of mathematics
+1042,Karmarkar's algorithm,"{n, L, O, log}",Fields of mathematics
+1043,KeeLoq,"{a, c, b, e, d, F}",
+1044,Kepler orbit,"{θ, a, cos, r, e}",Johannes Kepler
+1045,Kernel,"{X, x, w, f}",
+1046,Key encapsulation,"{m, c, mod, e, n}",Sociological theories
+1047,Khinchin integral,"{a, d, g, f, t, x}",Physical sciences
+1048,Khmaladze transformation,"{x, F, n, v}",Fields of mathematics
+1049,Killing spinor,"{X, λ, ∇, ψ}",Fields of mathematics
+1050,Kinetic Monte Carlo,"{′, d, ln, k, Q, u, t, Δ}",Subfields of physics
+1051,Kirchhoff's diffraction formula,"{e, d, i, k, ∂, s, n, P, S, U, π}",Branches of biology
+1052,Kirwan map,"{H, M, G, p}",Fields of mathematics
+1053,Klecka's tau,"{c, i, τ, o, n, p, r, T, N}",Auxiliary sciences of history
+1054,Klein cubic threefold,"{Y, X, Z, W, V}",Fields of mathematics
+1055,Klein quartic,"{y, x, z}",Fields of mathematics
+1056,Klein–Gordon equation,"{c, ψ, ℏ, ∂, m, ∇, t}",Life sciences
+1057,Kobayashi metric,"{y, x, d, ρ, f}",Fields of mathematics
+1058,Koide formula,"{Q, e, τ, μ, m}",Life sciences
+1059,Kolchuga passive sensor,"{d, h, k, m, r, t}",Professional studies
+1060,Kolmogorov structure function,"{log, h, K, S, x, α}",Formal sciences
+1061,Koopman–von Neumann classical mechanics,"{i, ∂, L, ρ, p, t, x}",Articles containing video clips
+1062,Korringa–Kohn–Rostoker approximation,"{c, E, m, k, M, l}",
+1063,Kosmann lift,"{q, E, i, τ, Q, T, v}",Fields of mathematics
+1064,Koszul algebra,"{i, R, k, b}",Fields of mathematics
+1065,Koszul duality,"{A, R, T, V}",Fields of mathematics
+1066,Kronecker limit formula,"{E, log, τ, O, π, s, y, γ, η}",Fields of mathematics
+1067,Kronecker's lemma,"{x, s, m, ∞}",Life sciences
+1068,Krylov–Bogolyubov theorem,"{A, μ, F}",Fields of mathematics
+1069,Kullback–Leibler divergence,"{log, i, K, L, Q, P, D}",Fields of mathematics
+1070,Kuratowski embedding,"{X, C, b, Φ}",Fields of mathematics
+1071,Kynea number,{n},Fields of mathematics
+1072,L-infinity,"{x, C, f, ∞}",Fields of mathematics
+1073,L-notation,"{c, e, ln, L, o, n, α}",Fields of mathematics
+1074,L-reduction,"{A, B, f, O, P, T, α, x}",Applied sciences
+1075,LPBoost,"{c, f, k, n, r, z}",Applied sciences
+1076,LSZ reduction formula,"{f, i, o, n, q, p, S, u, t}",Subfields of physics
+1077,LU decomposition,"{A, U, L}",Fields of mathematics
+1078,Lagged Fibonacci generator,"{a, b, i, k, m, X, mod}",Fields of mathematics
+1079,Lagrange multiplier,"{g, f, L, ∇, λ, y, x}",Fields of mathematics
+1080,Lagrange's theorem,"{H, G}",
+1081,Lagrangian and Eulerian specification of the flow field,"{x, u, t}",Professional studies
+1082,Laguerre form,"{a, D, w, L}",Fields of mathematics
+1083,Lahun Mathematical Papyri,"{h, d, V}",Political science theories
+1084,Lamb waves,"{A, e, ω, f, i, k, t, ξ, x, z}",Political science theories
+1085,Lamplighter group,"{Z, ∞}",Fields of mathematics
+1086,Lanczos approximation,"{A, Γ, e, g, π, z}",Articles with example code
+1087,Landau pole,"{ln, β, Λ, m, g}",Subfields of physics
+1088,Landau prime ideal theorem,"{X, r, ′}",Fields of mathematics
+1089,Landau theory,"{a, Ψ, F, H, s, r}",Subfields of physics
+1090,Landau–Lifshitz–Gilbert equation,"{α, s, γ, M, λ}",Life sciences
+1091,Landé g-factor,"{S, J, L, g}",Subfields of physics
+1092,Langer correction,"{E, d, ℏ, m, r, V, R}",Subfields of physics
+1093,Langevin dynamics,"{B, k, M, ∇, R, U, t, X, γ, T}",Physical sciences
+1094,Laplace formula,"{b, P, r, t, α, Δ}",Physical sciences
+1095,Laplace number,"{a, σ, L, ρ, S, μ, u}",Life sciences
+1096,Laplace operator,{∇},Fields of mathematics
+1097,Laplace operators in differential geometry,"{Δ, T, ∇}",Fields of mathematics
+1098,Laplace principle,"{A, e, d, φ, ∞, x}",
+1099,Laplace transform,"{e, d, F, f, s, t, ∞}",Fields of mathematics
+1100,Laplace–Beltrami operator,"{∇, f}",Fields of mathematics
+1101,Laplacian matrix,"{d, H, s, u, v, y, x}",Fields of mathematics
+1102,Laplacian of the indicator,"{a, o, E, f, i, ∂, ρ, n, q, S, R, u, t, ∇, e, ϕ, Γ, grad}",Fields of mathematics
+1103,Lapse Function,"{L, g, N}",
+1104,Large deviations theory,"{i, X, M, N}",Fields of mathematics
+1105,Latent class model,"{i, p, j, t, T}",Applied sciences
+1106,Latin square,"{k, L, n}",Applied sciences
+1107,Laughlin wavefunction,"{y, x, d, a, t}",Subfields of physics
+1108,Laurent polynomial,"{X, k, p, F}",Fields of mathematics
+1109,Laurent series,"{a, c, f, n, ∞, z}",Fields of mathematics
+1110,Law of demand,"{Q, P, ′, x, f}",Applied sciences
+1111,Law of total cumulance,"{B, i, π, κ, Y, X, n}",Fields of mathematics
+1112,Lax–Friedrichs method,"{a, x, u, t}",Fields of mathematics
+1113,Lead–lag compensator,"{Y, X, s, z, p}",Applied sciences
+1114,Least-squares spectral analysis,"{x, ϕ}",Applied sciences
+1115,Lebesgue integration,"{d, x, μ, t, f}",Physical sciences
+1116,Lee distance,"{i, q, x, y, n}",Fields of mathematics
+1117,Left quotient,"{x, ∃, L, w, ∖}",Fields of mathematics
+1118,Legendre symbol,"{a, p, mod}",Fields of mathematics
+1119,Legendre's theorem,"{a, c, b, y, x, z}",
+1120,Legendre–Clebsch condition,"{a, b, d, L, t, x}",Fields of mathematics
+1121,Lehmer matrix,"{i, A, j}",Fields of mathematics
+1122,Lehmer random number generator,"{X, k, g, n}",Fields of mathematics
+1123,Leibniz formula for determinants,"{a, A, i, σ, n, S, sgn}",Life sciences
+1124,Leibniz formula for π,"{∞, n, π}",Life sciences
+1125,Lemaître coordinates,"{d, g, θ, s, r, t, ϕ, sin}",Life sciences
+1126,Lemaître–Tolman metric,"{Ω, E, d, s, R, t, r}",Life sciences
+1127,Lemoine point,"{A, a, C, B, c, b, sin}",Fields of mathematics
+1128,Lens clock,"{s, ϕ, D, n}",Life sciences
+1129,Leonardo number,"{L, n}",Fields of mathematics
+1130,Leray projection,"{u, Δ, ∇, P}",Fields of mathematics
+1131,Leray's theorem,"{q, X, U, H, F}",Fields of mathematics
+1132,Leslie matrix,"{A, G, n}",Fields of mathematics
+1133,Levi-Civita connection,"{R, M, n}",Fields of mathematics
+1134,Levinson recursion,"{y, x, M}",Fields of mathematics
+1135,Lidstone series,"{A, C, f, k, π, N, n, ∞, z, sin}",Fields of mathematics
+1136,Lie algebra representation,"{g, l, ρ, V}",Fields of mathematics
+1137,Lieb's square ice constant,"{n, ∞, f}",Fields of mathematics
+1138,Lieb–Liniger model,"{s, r, ℓ}",Auxiliary sciences of history
+1139,Light cone coordinates,"{d, i, j, s, t, x, δ}",
+1140,Light scattering by particles,"{x, r, λ, π}",Subfields of physics
+1141,Likelihood ratios in diagnostic testing,"{R, L}",Auxiliary sciences of history
+1142,Limit cardinal,"{ℵ, ℶ}",Life sciences
+1143,Limit comparison test,"{a, c, b, ε, n}",Fields of mathematics
+1144,Lindström quantifier,"{A, x, ϕ, a}",Branches of philosophy
+1145,Linear canonical transformation,"{A, α, S, U, V}",Applied sciences
+1146,Linear classifier,"{y, x, j, w, f}",Applied sciences
+1147,Linear matrix inequality,"{y, LMI, A, m}",Life sciences
+1148,Linear network coding,"{g, i, k, M, S, X}",Fields of mathematics
+1149,Linear probability model,"{Y, x, β, X}",Applied sciences
+1150,Linear-quadratic regulator,"{A, x, B, u}",Applied sciences
+1151,Linearity of differentiation,"{x, β, f, g, α}",Fields of mathematics
+1152,Linearized gravity,"{h, g, η}",Fields of mathematics
+1153,Lineweaver–Burk plot,"{K, m, S, V}",Physical sciences
+1154,Link budget,"{x, u, Δ, t}",Society
+1155,Liouville's theorem,"{a, c, D, n, u, v}",
+1156,Liouville–Neumann series,"{x, ϕ, n, λ, ∞}",Fields of mathematics
+1157,Lipophilic efficiency,"{C, I, g, p, i, L, o, P, E}",Pharmaceutical sciences
+1158,Lippmann Schwinger equation,"{E, ψ, i, H, V, ϕ, ϵ}",
+1159,Lipschitz domain,"{B, n, p, r, x, R}",Fields of mathematics
+1160,Lissajous knot,"{cos, n, t, y, x, ϕ, z}",Fields of mathematics
+1161,List of integrals of logarithmic functions,"{a, ln, x, log, d}",Physical sciences
+1162,Littlewood conjecture,"{α, β, n, ∞}",Life sciences
+1163,Littlewood's 4/3 inequality,"{i, B, j, e, ∞}",Fields of mathematics
+1164,Liu Hui's π algorithm,"{A, D, N}",Categories by parameter
+1165,Live variable analysis,"{y, x, N}",Life sciences
+1166,Liénard equation,"{x, t, d, g, f}",Fields of mathematics
+1167,Loading dose,"{C, d, F, p, S, V}",Pharmaceutical sciences
+1168,Local boundedness,"{x, M, f}",Fields of mathematics
+1169,Local field,"{a, X, μ}",Fields of mathematics
+1170,Local martingale,"{X, k, τ, t}",Applied sciences
+1171,Local volatility,"{d, σ, S, r, t, W}",Professional studies
+1172,Locally compact quantum group,"{I, y, C, z, ℑ}",Fields of mathematics
+1173,Lockhart–Martinelli parameter,"{I, y, J, d, x}",Life sciences
+1174,Log amplifier,"{ln, K, V}",Applied sciences
+1175,Log area ratio,"{A, k, r, log}",Applied sciences
+1176,Logarithmic Loss,"{log, g, i, l, o, N, p, s, y}",
+1177,Logarithmic convolution,"{a, d, l, s, r, t, ∞}",Fields of mathematics
+1178,Logarithmically concave measure,"{A, λ, B, μ}",Fields of mathematics
+1179,London equations,"{j, e, ∂, m, ∇, n, s, B, t, E}",Life sciences
+1180,London penetration depth,"{m, L, n, q, λ, μ}",Subfields of physics
+1181,Long-tail traffic,"{α, k, ρ}",Applied sciences
+1182,Longest common subsequence problem,"{i, O, n}",Life sciences
+1183,Loomis–Whitney inequality,"{R, j, d, π}",Fields of mathematics
+1184,Loop algebra,"{C, S, g, ∞}",Fields of mathematics
+1185,Loop quantum gravity,"{y, ∀, z, x}",Subfields of physics
+1186,Loop representation in gauge theories and quantum gravity,"{i, k, j, T, f}",Gauge theories
+1187,Loop theorem,"{∂, M, D, f}",Fields of mathematics
+1188,Loop-erased random walk,{i},Applied sciences
+1189,Lorden's inequality,"{X, R, b, E}",Fields of mathematics
+1190,Lorentz force,"{q, B, v, E, F}",Physical sciences
+1191,Lorentz–Lorenz equation,"{α, N, n, π}",Subfields of physics
+1192,Lorenz gauge condition,"{A, ∂, μ}",Physical sciences
+1193,Lottery mathematics,"{k, n}",Fields of mathematics
+1194,Low Exercise Price Option,"{e, D, L, n, S, r, y, X}",Professional studies
+1195,Low level injection,"{Δ, n}",Subfields of physics
+1196,Low-discrepancy sequence,"{d, f, i, N, u, x}",Life sciences
+1197,Low-energy electron microscopy,"{B, f, k, ∇, s, T, x}",Subfields of physics
+1198,Lower convex envelope,"{t, E, d, ∞}",Fields of mathematics
+1199,Lower hybrid oscillation,"{i, p, e, ω, Ω}",Subfields of physics
+1200,Lucas primality test,"{a, mod, n}",Applied sciences
+1201,Lucas pseudoprime#Fibonacci pseudoprimes,"{δ, D, n}",
+1202,Lucas sequence,"{Q, P, n, U, V}",Fields of mathematics
+1203,Lucas–Kanade method,"{I, q, t, V, y, x}",Applied sciences
+1204,Luce's choice axiom,"{i, P, j, w}",Life sciences
+1205,Luminosity,"{D, G, g, s, α, β}",Subfields of physics
+1206,Lusin's theorem,"{a, C, b, f}",Fields of mathematics
+1207,Luttinger's theorem,"{D, ω, k, π, G, p, n, d}",Subfields of physics
+1208,Lyapunov–Schmidt reduction,"{x, λ, f}",Fields of mathematics
+1209,Lyman series,"{h, R, c, λ, n}",Subfields of physics
+1210,Lévy arcsine law,"{cos, i, k, j, θ, r, sin}",Paul Lévy (mathematician)
+1211,Lévy's continuity theorem,"{e, i, φ, n, R, t, ∀, X, N, E}",Fields of mathematics
+1212,Löb's theorem,"{A, #, B, e, f, i, h, n, P, t, w}",Branches of philosophy
+1213,Löwenheim–Skolem theorem,"{φ, n, M, f}",Life sciences
+1214,M. Riesz extension theorem,"{x, K, ϕ, F}",Fields of mathematics
+1215,M2-brane,"{θ, c, r, M, G}",Life sciences
+1216,MICEX 10,"{i, P, k}",Professional studies
+1217,MacMahon Master theorem,"{x, S, r, R}",Fields of mathematics
+1218,Macaulay brackets,{x},Fields of mathematics
+1219,Macaulay's method,"{y, ln}",Professional studies
+1220,Maclaurin's inequality,"{S, n}",Fields of mathematics
+1221,Macrodiversity,"{y, x, H, n}",Subfields of physics
+1222,Madelung equations,"{∇, ∂, u, t, ρ}",Fields of mathematics
+1223,Magic cube,"{M, n}",Applied sciences
+1224,Magnetic anisotropy,"{E, K, θ, V, γ, sin}",Subfields of physics
+1225,Magnetic dipole,"{A, m, r, μ, π}",Subfields of physics
+1226,Magnetoelectric effect,"{i, H, k, j, P, α, β}",Subfields of physics
+1227,Magnetorheological fluid,"{d, H, τ, v, y, z, η}",Professional studies
+1228,Mahler polynomial,"{e, g, n, t, exp, x}",Fields of mathematics
+1229,Maintenance dose,"{p, C, L, F}",Pharmaceutical sciences
+1230,Malliavin calculus,"{d, f, λ, ∞, x, ε}",Fields of mathematics
+1231,Malthusian growth model,"{P, r, e, t}",Life sciences
+1232,Mandel Q Parameter,"{Q, Δ, g, n}",
+1233,Mandelbrot set,"{c, z, n}",Articles containing video clips
+1234,Mandelstam variables,"{p, s}",Subfields of physics
+1235,Manning formula,"{h, k, n, S, R, V}",Physical sciences
+1236,Mann–Whitney U,"{U, z, m, σ}",
+1237,Marconi's law,"{H, c, D}",Life sciences
+1238,Margaria-Kalamen power test,"{h, m, t, g, P}",Applied sciences
+1239,Marginal product,"{Y, Δ, L}",Applied sciences
+1240,Marginal propensity to save,"{P, S, M}",Applied sciences
+1241,Marginal revenue productivity theory of wages,"{P, R, M}",Applied sciences
+1242,Market concentration,"{f, Q, P, S, R, x}",Branches of philosophy
+1243,Markov additive process,"{J, E, g, f, F, s, t, X}",Applied sciences
+1244,Markov process,"{A, F, P, s, t, X}",
+1245,Markovian arrival processes,"{y, x, F, ′, α}",
+1246,Markup rule,"{Q, P, C, π}",Social sciences terminology
+1247,Martingale central limit theorem,"{x, d, τ, Φ, π, P, R, u, ν, exp, ∞, X}",Fields of mathematics
+1248,Martingale difference sequence,"{a, E, d, n, t, ∞, X}",Applied sciences
+1249,Mason's invariant,"{d, H, n, s, ∞, Z}",Applied sciences
+1250,Mason–Stothers theorem,"{a, c, b, rad, deg}",Fields of mathematics
+1251,Mason–Weaver equation,"{a, C, i, h, o, P, T, Δ}",Applied sciences
+1252,Mass action law,"{i, p, n}",
+1253,Mass attenuation coefficient,"{m, μ, ρ}",Physical sciences
+1254,Massieu function,"{Y, Ψ, r, i, X}",Subfields of physics
+1255,Master stability of the synchronized state,"{A, g, f, i, j, σ, N, x}",
+1256,Material failure theory,"{H, N}",Physical sciences
+1257,Material implication,"{Q, P, ¬}",
+1258,Material requirements planning,"{i, x, J}",Professional studies
+1259,Matsumoto zeta function,"{A, p, ϕ, s}",Fields of mathematics
+1260,Matérn covariance function,"{h, r, V, π}",Applied sciences
+1261,Mauchly's sphericity test,"{H, σ}",Auxiliary sciences of history
+1262,Maximum a posteriori estimation,"{θ, x, f}",Auxiliary sciences of history
+1263,Maximum entropy spectral estimation,"{α, k, R, x}",Fields of mathematics
+1264,Maximum length sequence,"{ξ, F, σ, μ, exp, x}",Fields of mathematics
+1265,Maximum likelihood sequence estimation,"{p, r, L, x}",Applied sciences
+1266,Maximum-margin hyperplane,"{y, x, c, v}",
+1267,Maxwell's equations,"{B, E, J, ∂, ρ, ∇, μ, t, ε}",Subfields of physics
+1268,Maxwell–Boltzmann distribution,"{e, f, k, m, π, T, v}",Life sciences
+1269,Maxwell–Jüttner distribution,"{i, P, F, V}",Environmental studies
+1270,Mazur–Ulam theorem,"{f, W, V}",Fields of mathematics
+1271,Mean Directional Accuracy,"{A, g, F, i, N, s, t, n}",
+1272,Mean absolute error,"{A, e, f, i, M, n, y, E}",Auxiliary sciences of history
+1273,Mean circulatory filling pressure,"{A, M, P, S, R, V}",
+1274,Mean curvature,"{H, κ}",Fields of mathematics
+1275,Mean curvature flow,"{x, c, λ, u, v}",Fields of mathematics
+1276,Mean log deviation,"{i, Q, Rep, d, V}",Auxiliary sciences of history
+1277,Mean reciprocal rank,"{Q, i}",Auxiliary sciences of history
+1278,Mean square weighted deviation,"{i, x, N}",
+1279,Mean value analysis,"{k, m, L}",Applied sciences
+1280,Measurable Riemann mapping theorem,"{∂, μ, z, f}",Categories by parameter
+1281,Measure-preserving dynamical system,"{X, B, μ, T}",Fields of mathematics
+1282,Mehler–Fock transform,"{d, f, i, F, P, t, ∞, x}",Fields of mathematics
+1283,Mellin transform,"{d, f, φ, M, s, ∞, x}",Fields of mathematics
+1284,Mercator series,"{ln, x}",Fields of mathematics
+1285,Mersenne number,"{M, n}",Fields of mathematics
+1286,Mersenne prime,"{e, i, M, m, n, p, r}",Life sciences
+1287,Meschersky equation,"{d, F, m, M, u, t, v}",
+1288,Meshedness coefficient,"{α, m, n}",Fields of mathematics
+1289,Mesopic vision,"{x, λ, m, V}",Branches of biology
+1290,Metadynamics,"{H, T, V}",Subfields of physics
+1291,Metal-induced gap states,"{C, B, E, V}",Subfields of physics
+1292,Method of distinguished element,"{A, x}",Fields of mathematics
+1293,Methods of contour integration,"{γ, Γ, n}",Fields of mathematics
+1294,Metropolis–Hastings algorithm,"{dim, Ann, R, M}",Subfields of physics
+1295,Mex,{∅},
+1296,Microcanonical ensemble,"{P, W}",Auxiliary sciences of history
+1297,Microdispensing,"{e, D, σ, ρ, W, v}",Applied sciences
+1298,Microplasma,"{A, B, d, ln, p, b, V, γ}",Subfields of physics
+1299,Mie-Grüneisen equation of state,"{p, Γ, e, d, V}",
+1300,Miles per gallon gasoline equivalent,"{G, P, M, e, E}",Professional studies
+1301,Milner–Rado paradox,"{α, β, γ, X, n}",Life sciences
+1302,Milnor number,"{C, n, f}",Fields of mathematics
+1303,Milstein method,"{a, b, d, t, W, X}",Fields of mathematics
+1304,Minimax approximation algorithm,"{a, p, b, x, f}",Applied sciences
+1305,Minimum overlap problem,"{A, k, B, M, n}",Fields of mathematics
+1306,Minkowski's bound,"{D, K, M, π, r, n}",Hermann Minkowski
+1307,Minkowski's second theorem,"{x, K, λ, g, R}",Fields of mathematics
+1308,Mired,"{M, T}",Political science theories
+1309,Misorientation,"{A, B, Δ, g}",Life sciences
+1310,Misunderstandings of p-values,"{α, m}",Life sciences
+1311,Mittag-Leffler polynomials,"{z, t, g, n}",Fields of mathematics
+1312,Mixing ratio,"{i, r, t, o, n}",Physical sciences
+1313,Modal companion,"{a, b, e, f, i, ◻, l, o, n, p, s, r, T, v, y, t}",Branches of philosophy
+1314,Model rocket motor classification,"{a, ′, e, d, F, h, P, s, r, u, T, v, t}",Applied sciences
+1315,Models of DNA evolution,"{i, P, j, t}",Applied sciences
+1316,Modified hyperbolic tangent,"{a, c, b, e, d, x, mtanh}",Fields of mathematics
+1317,Modular elliptic curve,"{y, x, b, a, n}",Fields of mathematics
+1318,Modus tollens,"{¬, Q, P}",Life sciences
+1319,Molecular Hamiltonian,"{A, C, B, D}",Subfields of physics
+1320,Mollifier,"{d, f, φ, Φ, n, R, y, x, ϵ}",Fields of mathematics
+1321,Moment problem,"{d, m, n, μ, ∞, x}",Fields of mathematics
+1322,Monadic predicate calculus,"{B, D, ¬, ∀, ∃, M, y, x, z}",Applied sciences
+1323,Monge–Ampère equation,"{a, c, b, ∂, y, x, ϕ, z}",Fields of mathematics
+1324,Monoid ring,"{k, ϕ, g, ℓ, ψ}",Fields of mathematics
+1325,Monoidal natural transformation,"{a, C, D, G, F, I, J, m, n, d}",Fields of mathematics
+1326,Monotonicity,"{i, X, R, v}",
+1327,Moore graph,"{i, k, d}",Fields of mathematics
+1328,Moore matrix,"{q, α, j, M, i}",Fields of mathematics
+1329,Morava K-theory,"{Y, X, K, n}",Cohomology theories
+1330,Morita equivalence,"{M, S, R, e, n}",Duality theories
+1331,Morphological skeleton,"{X, S, B, μ, ρ}",Applied sciences
+1332,Morse potential,"{a, r, e, D, V}",Physical sciences
+1333,Morse/Long-range potential,"{e, D, f, p, r, u, V, y, β}",Physical sciences
+1334,Motion ratio,"{a, c, e, D, g, i, m, M, l, n, p, s, R, t, W, h, r, S}",Professional studies
+1335,Motor variable,"{f, j, R, u, v, y, x, z}",Fields of mathematics
+1336,Mountain pass theorem,"{H, C, Γ, g, v}",Fields of mathematics
+1337,Moving cluster method,"{a, c, e, d, i, n, θ, s, u, t, v}",
+1338,Muller's method,"{x, k, w, f}",Fields of mathematics
+1339,Multi-index notation,"{α, n}",Life sciences
+1340,Multidimensional systems,"{A, e, t}",
+1341,Multinomial logistic regression,"{i, X, k, score, β}",Applied sciences
+1342,Multiplication theorem,"{Γ, e, d, f, F, i, π, k, ψ, m, ∇, Li, q, s, n, t, ξ, ∞, z, ζ, log}",Fields of mathematics
+1343,Multiplicative order,"{a, k, mod, n}",Fields of mathematics
+1344,Multiplicity of infection,"{P, e, m, n}",Life sciences
+1345,Multiplier-accelerator model,"{I, Y, C, t, g}",Applied sciences
+1346,Multiply–accumulate operation,"{a, c, b}",Fields of mathematics
+1347,Multisymplectic integrator,"{K, L, ∇, S, t, x, z}",Fields of mathematics
+1348,Multivariate probit model,"{C, g, L, o, n, R, ∖}",Applied sciences
+1349,Murnaghan-Nakayama rule,"{χ, h, ρ, λ, t, T}",
+1350,Møller scattering,"{i, θ, N}",Fields of mathematics
+1351,N-electron valence state perturbation theory,"{Ψ, A, C, I, m, S}",Applied sciences
+1352,N-ellipse,"{d, i, n, R, u, v, y, x}",Fields of mathematics
+1353,"NTRU Cryptosystems, Inc.","{x, R, N}",Applied sciences
+1354,Naimark's dilation theorem,"{i, C, S, o, L}",Fields of mathematics
+1355,Nakajima-Zwanzig equation,"{i, H, ℏ, ∂, L, ρ, t}",
+1356,Nanothermometry,"{Q, S, r, d, T}",Applied sciences
+1357,Naor-Reingold Pseudorandom Function,"{a, g, F, f, n, p, x}",Sociological theories
+1358,Napierian logarithm,"{a, log, g, L, o, N, p, x}",Fields of mathematics
+1359,Napkin ring problem,"{h, V, π}",Life sciences
+1360,Nash embedding theorem,"{d, g, f, w, v, ϵ}",Fields of mathematics
+1361,Nash equilibrium,"{i, ∀, S, f, x}",
+1362,Navier–Stokes equations,"{y, x, A, t}",Life sciences
+1363,Near-field scanning optical microscope,"{A, λ, d, N}",Applied sciences
+1364,Nearly completely decomposable Markov chain,"{log, ′, z, f}",Applied sciences
+1365,Nearly free electron model,"{Ω, e, ψ, i, k, r}",Subfields of physics
+1366,Necklace polynomial,"{α, M, d, n}",Fields of mathematics
+1367,Negative refraction,"{ϵ, r, μ}",Articles containing video clips
+1368,Nekhoroshev estimates,"{I, n, ε, t}",Fields of mathematics
+1369,Nernst-Einstein equation,"{Λ, D, F, m, R, T, z, ν}",
+1370,Nesbitt's inequality,"{a, c, b}",Fields of mathematics
+1371,Nested RAID levels,"{a, c, e, D, f, i, o, n, s, r, t, v}",Applied sciences
+1372,Network performance,"{c, m, s, t}",Formal sciences
+1373,Neumann series,"{k, T, ∞}",Fields of mathematics
+1374,Neural cryptography,"{i, x, j}",Sociological theories
+1375,Neural modeling fields,"{X, d, D, n}",Applied sciences
+1376,Neutral density filter,"{I, d}",
+1377,New Keynesian economics,"{a, i, π, r, t, y}",Fields of history
+1378,Newey–West estimator,"{e, d, f, i, l, o, n, w, r, t, ℓ, L}",Applied sciences
+1379,Newman–Keuls method,"{A, B, E, M, n, q, S, X}",Applied sciences
+1380,Newman–Shanks–Williams prime,"{S, m}",Fields of mathematics
+1381,Newton's identities,"{i, x, k, n, p}",Fields of mathematics
+1382,Newton's law of cooling,"{A, d, h, Q, t, Δ, T}",Subfields of physics
+1383,Newton's law of universal gravitation,"{m, d, G, F}",Articles containing video clips
+1384,Newton's rings,"{R, r, λ, N}",Subfields of physics
+1385,Newton's second law of motion,"{a, m, F}",
+1386,Newtonian gauge,"{Ψ, a, b, d, Φ, s, t, x, δ}",Life sciences
+1387,Newtonian potential,"{x, ρ, V}",Fields of mathematics
+1388,Neyman–Pearson lemma,"{θ, x, Λ, L, η}",Auxiliary sciences of history
+1389,No free lunch in search and optimization,"{a, d, f, m, P, y}",Life sciences
+1390,Nodal period,"{I, P, B, t, F}",Professional studies
+1391,Nodary,"{a, E, k, u, sn, x}",Life sciences
+1392,Node influence metric,"{log, i, h, j, p, κ, exp}",Fields of mathematics
+1393,Noether inequality,"{X, c, g, p}",Fields of mathematics
+1394,Noetherian ring,"{I, k}",Fields of mathematics
+1395,Non-associative algebra,"{y, x, z}",Fields of mathematics
+1396,Non-circular gear,"{θ, a, r}",Professional studies
+1397,Non-exact solutions in general relativity,"{g, h, O, μ, ν, η}",Fields of mathematics
+1398,Non-local means,"{Ω, C, d, f, q, p, u, v}",Applied sciences
+1399,Non-random two-liquid model,"{a, c, b, d, f, i, τ, j, ln, T}",Subfields of physics
+1400,Noncototient,"{q, φ, p, n}",Fields of mathematics
+1401,Nonlinear Schrödinger equation,"{d, ψ, H, ∂, κ, x}",Fields of mathematics
+1402,Nonlinear autoregressive exogenous model,"{y, F, u, t, ε}",Applied sciences
+1403,Nonlinear eigenproblem,"{A, x, λ}",Fields of mathematics
+1404,Nordström's theory of gravitation,"{ϕ, u, d, ∇, t}",Categories by parameter
+1405,Normal family,"{n, z, f}",Fields of mathematics
+1406,Normal force,"{θ, cos, m, g, N}",Subfields of physics
+1407,Normal probability plot,"{i, a, z, Φ, n}",Fields of mathematics
+1408,Normalization,"{I, N}",
+1409,Normalized Compression Distance,"{y, x, K, p}",
+1410,Normalized frequency,"{A, a, π, N, λ, V, n}",
+1411,Normally distributed and uncorrelated does not imply independent,"{C, d, h, m, o, D}",Fields of mathematics
+1412,Norton's theorem,"{x, t}",Subfields of physics
+1413,Nowhere-zero flow,"{δ, e, φ, v}",Fields of mathematics
+1414,Nuclear cross section,"{a, b, j, σ, p, B, T, v}",Subfields of physics
+1415,Nuclear density,"{A, π, R, n}",Environmental studies
+1416,Number theoretic Hilbert transform,"{c, i, m, N, ln, S, R, x, Δ}",Applied sciences
+1417,Numerical methods in fluid mechanics,"{x, Δ, f}",Subfields of physics
+1418,Nusselt number,"{h, k, u, L, N}",Physical sciences
+1419,Nyquist ISI criterion,"{h, s, T, n}",Applied sciences
+1420,Nyquist stability criterion,"{k, s, T, G}",Applied sciences
+1421,Nyström method,"{a, b, d, h, k, n, w, x}",Life sciences
+1422,Néel relaxation theory,"{K, τ, T, exp, V, k}",Branches of thermodynamics
+1423,Néron differential,"{a, x, y}",Fields of mathematics
+1424,Observed information,"{log, f, i, n, θ, ℓ, X}",Applied sciences
+1425,Octave,"{a, c, e, log, f, o, s, t, v}",Society
+1426,Ohm's law,"{I, R, V}",Subfields of physics
+1427,Ohnesorge number,"{h, σ, L, O, μ, ρ}",Life sciences
+1428,Old quantum theory,"{f, i, J, M, R, α, β}",Categories by parameter
+1429,On shell and off shell,"{p, c, E, m}",Subfields of physics
+1430,On-balance volume,"{h, c, R, E, n}",Life sciences
+1431,One-loop Feynman diagram,"{ln, S, r, T, ϕ, Γ}",Fields of mathematics
+1432,One-sided limit,"{a, x, r, o, f}",Fields of mathematics
+1433,One-way compression function,"{i, H, E, m}",Applied sciences
+1434,Onsager reciprocal relations,"{d, M, P, S, μ, T, V, U}",Life sciences
+1435,Open-circuit time constant method,"{C, ω, j, O, R, V}",Life sciences
+1436,Optical autocorrelation,"{A, E, d, τ, t, ∞}",Applied sciences
+1437,Optical medium,"{y, H, E, x, η}",Electric and magnetic fields in matter
+1438,Optical modulation amplitude,{P},Applied sciences
+1439,Optical properties of carbon nanotubes,"{a, π, m, d, n}",Professional studies
+1440,Optical transfer function,"{e, F, i, h, M, O, P, T, ν}",Subfields of physics
+1441,Optical window in biological tissue,"{a, C, b, ln, H, O, λ, μ, ε}",
+1442,Optimal stopping,"{E, G, τ, T, V, t}",Fields of mathematics
+1443,Optional stopping theorem,"{X, τ, E}",Fields of mathematics
+1444,Orbit phasing,"{e, π, T, E, sin, t}",Professional studies
+1445,Orbit portrait,"{c, z, f}",Fields of mathematics
+1446,Orbital state vectors,"{u, t, v}",Fields of mathematics
+1447,Orientation of a vector bundle,"{π, ϕ, R, U, n}",Fields of mathematics
+1448,Ornstein–Uhlenbeck operator,"{i, Δ, d, ∇, v}",Fields of mathematics
+1449,Orthogonal trajectory,"{g, ∇, f}",Fields of mathematics
+1450,Orthogonality,"{y, x, ρ, g, f}",Fields of mathematics
+1451,Orthonormal basis,"{x, B, b}",Fields of mathematics
+1452,Oscillator linewidth,"{A, c, f, π, S, v}",Subfields of physics
+1453,Oscillator representation,"{α, β}",Fields of mathematics
+1454,Oscillatory integral,"{a, e, d, f, i, ξ, x, ϕ}",Fields of mathematics
+1455,Oseen equations,"{K, m, G, n}",Life sciences
+1456,Ostrowski's theorem,"{x, c, K}",Fields of mathematics
+1457,Ostrowski–Hadamard gap theorem,"{p, λ, j}",Fields of mathematics
+1458,Oudin coil,"{C, π, L, f}",Professional studies
+1459,Outer measure,"{i, φ, A, ∞}",Fields of mathematics
+1460,Output power of an analog TV transmitter,"{e, d, i, P, t, T}",Applied sciences
+1461,Overlap,"{y, x, ρ, g, f}",
+1462,Overlap–save method,"{E, f, i, m, R, β}",Fields of mathematics
+1463,Overspill,"{f, ∀, ∃, R, h, x, ϵ, δ, ε}",Life sciences
+1464,P versus NP problem,"{P, N}",
+1465,P-adic L-function,"{χ, p, s, L, n}",Fields of mathematics
+1466,P-adically closed field,"{q, γ, z, π}",Fields of mathematics
+1467,PCP theorem,"{C, log, O, N, P, n}",Life sciences
+1468,PDF417,"{K, b, mod}",Society
+1469,PH,"{P, k, N, Δ, H}",Physical sciences
+1470,PI curve,"{I, α, β, e, P}",Physical sciences
+1471,Padovan sequence,"{x, n, P, f}",Fields of mathematics
+1472,Paillier cryptosystem,"{r, N, m, c, mod}",Applied sciences
+1473,Pairing function,"{N, π}",
+1474,Palladium-hydrogen electrode,"{a, H, s, b, d}",Professional studies
+1475,Panjer recursion,"{f, i, h, k, P, X}",Fields of mathematics
+1476,Paper bag problem,"{h, V, w, π}",Life sciences
+1477,Pappus' area theorem,"{A, C, B, E, D, G, F, M, L}",
+1478,Paradox of enrichment,"{d, f, K, t, y, x}",Fields of mathematics
+1479,Paradox of the pesticides,"{m, K, λ, μ, s}",Life sciences
+1480,Parallel axis theorem,"{J, m, d}",People
+1481,Paris–Harrington theorem,"{k, m, n, P, S, R, N}",Fields of mathematics
+1482,Parry point,"{a, c, b}",
+1483,Parshall flume,"{Q, a, C, H, n}",Applied sciences
+1484,Partial residual plot,{X},Political science theories
+1485,Particle in a ring,"{m, ℏ, E, ∇, ψ}",Physical sciences
+1486,Particle shower,"{ln, X, c, E}",Subfields of physics
+1487,Particular point topology,"{P, c, r, N}",Fields of mathematics
+1488,Partition function,"{e, d, i, J, S, x, ϕ, Z, D}",
+1489,Pascal matrix,"{i, r, j, S, n}",Fields of mathematics
+1490,Pascal's triangle,"{y, x, k, n}",Scholars and academics by discipline
+1491,Pauli equation,"{A, ψ, i, m, ℏ, ∂, σ, q, p, t, ϕ}",Subfields of physics
+1492,Pauli group,"{c, E, F, ln, K, n, R, T}",Fields of mathematics
+1493,Peak signal-to-noise ratio,"{E, I, M, K, j, m, n, i, S}",Branches of philosophy
+1494,Pearson product-moment correlation coefficient,"{Y, X, σ, ρ, cov}",Auxiliary sciences of history
+1495,Peek's law,"{e, g, ln, m, S, r, v}",Subfields of physics
+1496,Peierls transition,"{i, M, m, e, T}",Subfields of physics
+1497,Pell's equation,"{y, x, n}",Fields of mathematics
+1498,Penning ionization,"{I, E}",Applied sciences
+1499,Peregrine soliton,"{i, τ, ∂, ξ, ψ}",Fields of mathematics
+1500,Perlin noise,"{a, x, smoothstep, f}",Branches of philosophy
+1501,Permutation polynomial,"{x, α, D, p, n}",Fields of mathematics
+1502,Perovskite solar cell,"{p, J, e, t, V}",Branches of biology
+1503,Perplexity,"{H, log, p, x}",Fields of mathematics
+1504,Perron–Frobenius theorem,"{i, a, r, j}",Applied sciences
+1505,Persymmetric matrix,"{a, ∀, j, i, n}",Fields of mathematics
+1506,Pest insect population dynamics,"{x, l, L}",Life sciences
+1507,Phase correlation,"{a, b, G, g, F}",Applied sciences
+1508,Phase retrieval,"{x, e, d, f, i, k, F, π, ∞, ψ}",Branches of biology
+1509,Photochemical Reflectance Index,"{I, P, R, ρ}",Branches of biology
+1510,Photon Doppler velocimetry,"{a, j, E, i, ∂, n, x}",Fields of mathematics
+1511,Photon diffusion,"{c, F, σ, ∇, π, U}",Branches of thermodynamics
+1512,Photon entanglement,"{Ψ, H, V}",
+1513,Phylogenetic comparative methods,"{y, x, r, n}",Subfields of evolutionary biology
+1514,Piano key frequencies,"{a, E, R, U, W, V, Δ}",Society
+1515,Picard–Fuchs equation,"{j, d, g, f}",Fields of mathematics
+1516,Picard–Lindelöf theorem,"{y, t, f}",Fields of mathematics
+1517,Piecewise linear continuation,"{y, x, s, t}",Applied sciences
+1518,Pillai's arithmetical function,"{P, k, n}",Fields of mathematics
+1519,Pincherle polynomials,"{a, e, n, t, exp, x, β}",Fields of mathematics
+1520,Plancherel theorem for spherical functions,"{d, G, f, χ, φ, π, g, λ}",Fields of mathematics
+1521,Planck charge,"{c, e, ℏ, π, q, α, ϵ}",Subfields of physics
+1522,Planck time,"{P, ℏ, c, G, t}",Max Planck
+1523,Plane of rotation,"{a, b}",Fields of mathematics
+1524,Plug flow,"{u, s, δ, ν}",Physical sciences
+1525,Plummer model,"{a, M, ρ, π, P, r}",Subfields of physics
+1526,Pluriharmonic function,"{a, C, b, z, n}",Fields of mathematics
+1527,Plücker's conoid,"{y, x, z}",Life sciences
+1528,Pneumatic cylinder,"{Ψ, ∂, i, ℏ, j, m, x}",Physical sciences
+1529,Pochhammer symbol,"{x, n}",
+1530,Pocket set theory,"{Y, ∀, z, X}",Life sciences
+1531,Poincaré group,"{S, R, O}",Fields of mathematics
+1532,Poincaré inequality,"{Ω, C, L, ∇, p, u}",Fields of mathematics
+1533,Poincaré–Lelong equation,"{i, ∂, u, ρ}",Fields of mathematics
+1534,Poinsot's ellipsoid,"{V, v}",Subfields of physics
+1535,Point accepted mutation,"{n, N, j, f}",Fields of mathematics
+1536,Poisson binomial distribution,"{i, p, μ, n}",Life sciences
+1537,Poisson distribution,"{X, k, λ, e, p}",Life sciences
+1538,Poisson kernel,"{cos, e, Re, i, n, θ, P, r, ∞}",Fields of mathematics
+1539,Poisson sampling,"{i, j, π}",Auxiliary sciences of history
+1540,Poisson–Boltzmann equation,"{c, B, e, ψ, k, ρ, T, y, x, z}",Subfields of physics
+1541,Polar sine,"{Π, Ω, psin, n, v}",Life sciences
+1542,Polarization identity,"{b, μ, T, exp}",Fields of mathematics
+1543,Poloidal toroidal decomposition,"{∇, F}",
+1544,Polygamma function,"{z, d, ψ, ln, m, Γ}",Fields of mathematics
+1545,Polynomial basis,"{a, A, λ, i, k, m, ρ, n, I, r}",Sociological theories
+1546,Polynomial long division,{x},Fields of mathematics
+1547,Ponderal index,"{a, C, e, g, i, h, m, I, s, t}",
+1548,Pontryagin duality,"{e, G, χ, T, v, x}",Duality theories
+1549,Pontryagin's maximum principle,"{f, ∀, λ, u, t, H, x, U}",Fields of mathematics
+1550,Pore water pressure,"{p, s, w, g, h}",Applied sciences
+1551,Position operator,"{x, ψ, d, ∞}",Subfields of physics
+1552,Positive and negative sets,"{A, n, ∞}",Fields of mathematics
+1553,Positive-real function,"{A, C, B}",Fields of mathematics
+1554,Possibility theory,"{U, pos, ω}",Life sciences
+1555,Post-modern portfolio theory,"{t, r, d, f, ∞}",Professional studies
+1556,Potential method,"{a, o, c, b, e, d, f, C, m, l, Φ, i, S, r, u, t, z, T}",Applied sciences
+1557,Potts model,"{J, g, i, H, j, s, h, β, δ}",Fields of mathematics
+1558,Power number,"{D, P, ρ, N, p, n}",Life sciences
+1559,Power series solution of differential equations,"{a, z, f}",Fields of mathematics
+1560,Power transform,"{M, e, V}",Auxiliary sciences of history
+1561,Power-law fluid,"{∂, K, τ, n, u, y}",Environmental studies
+1562,Power-law index profile,"{θ, P, S, cos}",Applied sciences
+1563,Poynting vector,"{H, S, E}",Fields of mathematics
+1564,Poynting's theorem,"{J, E, ∂, ∇, S, u, t}",Subfields of physics
+1565,Practical number,"{i, j, d, n}",Categories by parameter
+1566,Prandtl number,"{c, P, k, ρ, p, r, μ, ν, α}",Physical sciences
+1567,Precipitation hardening,"{A, r, b, π}",Life sciences
+1568,Precision tests of QED,"{c, e, ℏ, m, π, R, ∞, α}",Fields of mathematics
+1569,Predicative programming,"{Q, P, b, ∀}",Applied sciences
+1570,Price of fairness,"{a, e, D, F, i, f, l, o, n, P, s, r, O, w, v}",Cross-cultural studies
+1571,Primary pseudoperfect number,"{p, N}",Categories by parameter
+1572,Prime-factor FFT algorithm,"{A, k, z, M, W}",Applied sciences
+1573,Primitive element theorem,"{x, n, α, f}",Fields of mathematics
+1574,Principal axis theorem,"{Q, A, T, x}",Fields of mathematics
+1575,Principal homogeneous space,"{x, g}",Fields of mathematics
+1576,Principal value,"{z, e, w}",Fields of mathematics
+1577,Principle of distributivity,"{A, C, B}",Fields of mathematics
+1578,Principle of explosion,"{Q, ∀, ¬, P}",Life sciences
+1579,Principle of indifference,"{V, ∂, L, f}",Fields of mathematics
+1580,Prior probability,"{A, P, B, i, j}",Auxiliary sciences of history
+1581,Probability measure,"{Ω, μ}",Fields of mathematics
+1582,Probit model,"{Y, X, β, x}",Applied sciences
+1583,Procept,"{a, c, e, d, g, f, i, h, m, l, o, n, p, s, r, u, t, w}",Society
+1584,Product integral,"{a, b, d, f, i, x, Δ}",Physical sciences
+1585,Product of rings,"{p, k, n}",Fields of mathematics
+1586,Product rule,"{g, f}",Life sciences
+1587,Product state,{ρ},Subfields of physics
+1588,Proizvolov's identity,"{A, B, N}",Society
+1589,Projection-valued measure,"{X, id, H, π}",Fields of mathematics
+1590,Projective frame,"{λ, v, n}",Fields of mathematics
+1591,Prony equation,"{a, b, D, f, h, L, V}",Life sciences
+1592,Prony's method,"{A, cos, e, f, i, M, σ, π, t, ϕ}",Applied sciences
+1593,Proof of Bertrand's postulate,{n},WikiProjects
+1594,Proof of knowledge,"{a, b, g, K, P, y, x}",Life sciences
+1595,Proof sketch for Gödel's first incompleteness theorem,"{y, P, q, G, ∀}",Fields of mathematics
+1596,Proofs related to chi-squared distribution,"{J, ∞, u, V}",WikiProjects
+1597,Propulsive efficiency,"{Q, h, c, d, W}",Professional studies
+1598,Protein precipitation,"{H, S, Δ, T, G}",Applied sciences
+1599,Prune and search,"{p, S, T, n}",Applied sciences
+1600,Pseudo-random number sampling,"{i, F, j, f}",Subfields of physics
+1601,Pseudo-spectral method,"{ψ, i, ∂, t, V, x}",Applied sciences
+1602,Pseudolikelihood,"{a, c, E, f, i, h, j, l, o, r, w, X, x}",Auxiliary sciences of history
+1603,Pseudometric space,"{x, d, g, f}",Fields of mathematics
+1604,Pseudorandom binary sequence,"{a, f, j, o, N, r}",Fields of mathematics
+1605,Pseudoscalar,{e},Fields of mathematics
+1606,Pseudospectrum,"{A, C, E, λ, ∃, n, Λ, x, ϵ}",Fields of mathematics
+1607,Ptolemy's table of chords,"{θ, chord, sin, π}",Fields of mathematics
+1608,Pulmonary compliance,"{a, c, e, P, i, m, l, o, n, p, V, C, Δ}",Life sciences
+1609,Pulse repetition frequency,{T},Fields of mathematics
+1610,Pulse-Doppler radar,{C},Airfields
+1611,Pulsed EPR,"{B, γ, L, ω}",
+1612,Purcell effect,"{c, F, n, Q, P, λ, V, π}",Subfields of physics
+1613,Pure submodule,"{a, i, j, m, n, y, x}",Fields of mathematics
+1614,Purification of quantum state,"{r, B, t, ρ, ψ}",Fields of mathematics
+1615,Putnam model,{B},Political science theories
+1616,Pythagorean theorem,"{a, c, b}",Life sciences
+1617,Pythagorean trigonometric identity,"{θ, cos, sin}",Life sciences
+1618,Pythagorean triple,"{a, c, b, m, n}",Life sciences
+1619,Péclet number,"{P, e}",Physical sciences
+1620,Pólya enumeration theorem,"{c, G, g, m, Y, X}",Fields of mathematics
+1621,Q-Pochhammer symbol,"{q, a, k, n}",Fields of mathematics
+1622,Q-Vandermonde identity,"{q, k, j, m, n}",Fields of mathematics
+1623,Q-analog,"{q, n}",Fields of mathematics
+1624,Q-gamma function,"{a, x, b, d, f}",Fields of mathematics
+1625,Q10,"{Q, R, T}",
+1626,Quadratic integer,"{P, U, p}",Fields of mathematics
+1627,Quadratic residue,"{q, x, n, mod}",Fields of mathematics
+1628,Quadratic sieve,"{ln, e, L, o, n}",Sociological theories
+1629,Quadratrix,"{a, y, π, cot, x}",Physical sciences
+1630,Quadratrix of Hippias,"{a, x, f, cot, π}",Physical sciences
+1631,Quadrature amplitude modulation,"{i, j, w, n}",Applied sciences
+1632,Quadrifolium,"{i, n, s, r, y, x, ϕ}",Fields of mathematics
+1633,Quantile regression,"{Y, Q, τ, y, F}",Applied sciences
+1634,Quantized state systems method,"{A, i, R, B, N}",Fields of mathematics
+1635,Quantum circuit,"{H, QB, ℓ, n}",Applied sciences
+1636,Quantum cloning,"{A, U, B, e, ψ}",Subfields of physics
+1637,Quantum concentration,"{ℏ, M, n, Q, T, π, k}",Auxiliary sciences of history
+1638,Quantum convolutional code,"{a, y, x}",Subfields of physics
+1639,Quantum excitation,"{d, K, π, S, ξ, ∞}",
+1640,Quantum limit,"{ℏ, Δ, O, F}",Subfields of physics
+1641,Quantum nonlocality,"{a, A, B, y, b, X, Y, x}",Subfields of physics
+1642,Quantum phase estimation algorithm,"{x, ψ, n}",Applied sciences
+1643,Quantum reflection,"{c, g, i, o, n, p, s, ν, t}",Subfields of physics
+1644,"Quantum stirring, ratchets, and pumping","{d, G, I, Q, t, X}",Subfields of physics
+1645,Quark–lepton complementarity,"{C, K, M, N, θ, P, S}",Subfields of physics
+1646,Quarter period,"{d, K, m, π, θ, sin}",Fields of mathematics
+1647,Quasi-Frobenius Lie algebra,"{β, g}",Fields of mathematics
+1648,Quasi-Hopf algebra,"{a, c, b, i, S, α, ε}",Fields of mathematics
+1649,Quasi-continuous function,"{G, f, ∀, y, x, ϵ}",Fields of mathematics
+1650,Quasi-finite field,"{K, Gal, ϕ, Z, s}",Fields of mathematics
+1651,Quasi-relative interior,"{A, c, e, qri, o, n, x}",Fields of mathematics
+1652,Quasiconvex function,"{y, x, λ, f}",Fields of mathematics
+1653,Quasilinear utility,"{θ, x, u, L}",Society
+1654,Quasinormal mode,"{cos, ′, e, ω, ψ, t}",Branches of biology
+1655,Quasiprobability distribution,"{H, G, O, N}",Auxiliary sciences of history
+1656,Quincunx matrix,{A},Fields of mathematics
+1657,Quotient rule,"{x, f, g, h}",Life sciences
+1658,Quotient stack,"{X, G}",Fields of mathematics
+1659,RANDU,"{j, V}",Applied sciences
+1660,RKKY interaction,"{cos, i, H, k, j, m, π, I, R, sin, Δ, ℏ}",Subfields of physics
+1661,RSA,"{m, n, e, d, mod}",
+1662,Rabi problem,"{a, E, ω, τ, m, r, t, x, e}",Subfields of physics
+1663,Racks and quandles,"{a, c, b}",Fields of mathematics
+1664,Radiant exposure,"{A, E, d, H, ∂, Q, t, e, T}",Physical sciences
+1665,Radical polymerization,"{d, f, I, k, M, i, t, v}",Physical sciences
+1666,Radon–Riesz property,"{x, n}",Fields of mathematics
+1667,Rail adhesion,"{k, λ, r, d, π}",
+1668,Rainflow-counting algorithm,"{N, k, B, f}",Physical sciences
+1669,Rainville polynomials,"{e, I, n, p, w, z}",Fields of mathematics
+1670,Ramanujan prime,"{x, R, n, π}",Categories by parameter
+1671,Ramanujan's master theorem,"{x, k, f, ϕ, ∞}",Categories by parameter
+1672,Ramanujan–Soldner constant,"{ln, μ, t, d}",Categories by parameter
+1673,Ramberg–Osgood relationship,"{a, c, e, i, m, S, l, s, r, t, n, ε}",Physical sciences
+1674,Ramification group,{G},Fields of mathematics
+1675,Ramsey–Cass–Koopmans model,"{c, g, f, k, n, δ}",Fields of mathematics
+1676,Randolph diagram,"{¬, Q, P}",
+1677,Range accrual,"{i, P, N}",Fields of mathematics
+1678,Range expansion index,"{k, j, m, S, n, s}",Life sciences
+1679,Rankine vortex,"{Γ, π, θ, R, u, r}",Life sciences
+1680,Rao–Blackwell theorem,"{i, n, f}",Auxiliary sciences of history
+1681,Rassias conjecture,{p},
+1682,Rate of return on a portfolio,"{A, r, n}",Fields of mathematics
+1683,Rate-monotonic scheduling,"{i, C, U, T, n}",Applied sciences
+1684,Ratio test,"{a, n, ∞}",Fields of mathematics
+1685,Rational expectations,"{P, ϵ}",Applied sciences
+1686,Raven paradox,"{a, E, F, n, P, λ}",Life sciences
+1687,Ray transfer matrix analysis,"{A, C, B, D, θ, x}",Subfields of physics
+1688,Rayl,"{a, C, b, d, G, S, c, k, m, M, l, N, P, s, R, g, y, n, K}",Life sciences
+1689,Rayleigh,"{I, L, π}",
+1690,Rayleigh distribution,"{e, f, σ, x}",Life sciences
+1691,Rayleigh number,"{a, b, g, L, R, u, T, α, β, ν}",Physical sciences
+1692,Rayleigh sky model,"{a, cos, m, x, γ, δ, sin}",Subfields of physics
+1693,Rayleigh–Bénard convection,"{ρ, g, χ, ∂, ∇, t, p, ν, v, div, Δ, β, T}",Physical sciences
+1694,Reactions on surfaces,"{A, C, d, k, θ, S, r, t}",Subfields of physics
+1695,Reaction–diffusion system,"{D, ∂, ∇, q, R, t}",Fields of mathematics
+1696,Real analytic Eisenstein series,"{E, m, n, s, y, z}",Fields of mathematics
+1697,Real gas,"{a, b, P, R, T, V}",Environmental studies
+1698,Real point,"{u, n}",Fields of mathematics
+1699,Real projective plane,"{X, cos, r, u, v}",Fields of mathematics
+1700,Reality structure,"{i, R, V}",Fields of mathematics
+1701,Recessional velocity,"{H, D, v}",Branches of philosophy
+1702,Reciprocal Fibonacci constant,"{∞, k, ψ, F}",Fields of mathematics
+1703,Reciprocal Gamma function,"{Γ, z, f}",
+1704,Reciprocal distribution,"{a, b, e, log, f, x}",Life sciences
+1705,Reciprocal rule,"{x, d, g}",Fields of mathematics
+1706,Recrystallization,"{b, E, d, G, ρ, s, r, o, γ, Δ}",
+1707,Recurrence period density entropy,"{x, τ, M, X, n}",Fields of mathematics
+1708,Recursive tree,"{T, n}",Fields of mathematics
+1709,Recursively enumerable set,"{p, K, t, x}",Fields of mathematics
+1710,Reduced form,"{Q, Z, e, π}",Auxiliary sciences of history
+1711,Reduced homology,"{x, f}",Fields of mathematics
+1712,Reduced product,"{I, i, S}",Fields of mathematics
+1713,Reductions with hydrosilanes,"{r, B, n}",Life sciences
+1714,Reference dose,"{a, o, E, D, g, f, i, h, k, m, L, O, N, r, U, t, y, e, R, n, d}",Branches of biology
+1715,Reference range,"{e, d, i, m, L, o, l, s, r, t, w, n}",Wikipedia articles with sections published in WikiJournal of Medicine
+1716,Reflectance difference spectroscopy,"{C, D, S, R, α, β, r}",Life sciences
+1717,Regularity theorem for Lebesgue measure,"{A, △, B, N}",Fields of mathematics
+1718,Regulated function,"{f, φ, t, ∞, X, δ, T}",Fields of mathematics
+1719,Reid index,"{a, d, g, I, l, n, R, w}",Life sciences
+1720,Reinforced solid,"{A, x, r, ρ}",Professional studies
+1721,Relational quantum mechanics,"{a, x, f, t, y}",Society
+1722,Relative biological effectiveness,"{X, R, B, E, D}",Subfields of physics
+1723,Relative viscosity,"{s, r, η}",Environmental studies
+1724,Relativistic Doppler effect,"{c, f, s, λ, t, v, β}",Subfields of physics
+1725,Relativistic Euler equations,"{μ, ν, ∇, T}",Life sciences
+1726,Remez algorithm,"{b, e, f, i, h, n, r, w, x, E}",Fields of mathematics
+1727,Removal of Hell Gate rocks,"{C, L}",Categories by parameter
+1728,Representation of a Lie group,"{G, g, F, J, L, n, q, p, S, t}",Fields of mathematics
+1729,Representativeness heuristic,"{P, D, H}",Life sciences
+1730,Reproducing kernel Hilbert space,"{x, ∀, L, H, f}",Fields of mathematics
+1731,Reptation,"{A, e, n}",Subfields of physics
+1732,Residual (numerical analysis),"{x, r, n, g, F}",Applied sciences
+1733,Residual-resistance ratio,"{K, R, ρ}",Subfields of physics
+1734,Resolution proof compression by splitting,"{p, add, r, n}",Auxiliary sciences of history
+1735,Resolvent formalism,"{I, A, R, z}",Life sciences
+1736,Respiratory minute volume,"{V, T, f}",Branches of biology
+1737,Restricted representation,"{f, N}",Fields of mathematics
+1738,Resultant force,"{i, n, F}",Physical sciences
+1739,Retina Display,"{tan, r, d}",Applied sciences
+1740,Retkes convergence criterion,"{Π, k, n, s, ∞, z}",Fields of mathematics
+1741,Returns-based style analysis,"{i, m, I, R, t, α, β, ϵ}",Fields of mathematics
+1742,Reverberation,"{a, c, ln, m, s, S, R, T, V}",Society
+1743,Reynolds number,"{R, e, ν, L, V}",Physical sciences
+1744,Rhind Mathematical Papyrus,"{h, d, V}",Political science theories
+1745,Ribaucour curve,"{y, x, c, d, n}",
+1746,Ribbon Hopf algebra,"{S, u, ε, ν}",Fields of mathematics
+1747,Riccati equation,"{y, x, q}",Fields of mathematics
+1748,Ricci scalars,"{a, m, l, n}",
+1749,Ricco's law,"{a, A, C, e, K, o, n, s, r, t}",Applied sciences
+1750,Rice distribution,"{f, I, σ, ν, exp, x}",Life sciences
+1751,Richards equation,"{h, K, ∂, θ, t, z}",Subfields of physics
+1752,Ricker model,"{k, r, e, t, N}",Fields of mathematics
+1753,Riemann curvature tensor,"{R, u, ∇, w, v}",Fields of mathematics
+1754,Riemann zeta function,"{s, n, ζ, ∞}",Fields of mathematics
+1755,Riemann–Hurwitz formula,"{P, S, e, g, N}",Fields of mathematics
+1756,Riemann–Siegel theta function,"{log, i, π, θ, t, arg, Γ}",Categories by parameter
+1757,Riemann–von Mangoldt formula,"{log, N, T, O, π}",Categories by parameter
+1758,Riesz mean,"{λ, k, n, s, R, δ}",Fields of mathematics
+1759,Riesz rearrangement inequality,"{d, g, f, I, h, n, R, y, x}",Fields of mathematics
+1760,Riesz's lemma,"{Y, y, d, x}",Fields of mathematics
+1761,Right quotient,"{x, ∃, L, w}",Fields of mathematics
+1762,Rijndael key schedule,"{i, b}",Applied sciences
+1763,Ring Learning with Errors,"{a, x, n}",Life sciences
+1764,Risk management in Indian banks,"{p, R}",Political science theories
+1765,Risk-neutral measure,"{Q, P, E, T, H}",Fields of mathematics
+1766,Robbins constant,"{a, c, σ, l, T, α}",Fields of mathematics
+1767,Robin boundary condition,"{a, Ω, b, g, ∂, n, u}",Fields of mathematics
+1768,Robust regression,"{c, e, i, σ, N, ε}",Applied sciences
+1769,Roche limit,"{M, R, m, d, ρ}",Fields of mathematics
+1770,Rogers–Szegő polynomials,"{q, h, k, x, n}",Fields of mathematics
+1771,Rokhlin's theorem,"{Q, H, Z, M}",Fields of mathematics
+1772,Root-mean-square speed,"{M, m, s, r, T, v, R}",Environmental studies
+1773,Rose–Vinet equation of state,"{V, η}",Physical sciences
+1774,Roshko number,"{o, R, L, ν, f}",Life sciences
+1775,Rossby parameter,"{a, c, d, ω, f, i, ∂, o, n, s, y, β, ϕ}",Political science theories
+1776,Rotating unbalance,"{U, ω, F}",Physical sciences
+1777,Rotation operator,{e},
+1778,Rotational spectroscopy,"{α, B, v}",Physical sciences
+1779,Rota–Baxter algebra,"{y, θ, R, x}",Fields of mathematics
+1780,Rothe–Hagen identity,"{y, x, k, z, n}",Fields of mathematics
+1781,Round-trip gain,"{a, d, g, G, y, x, z}",Applied sciences
+1782,Routhian,"{i, q, t, d, L}",
+1783,Row and column spaces,"{Ω, e, d, I, O, N, i, R, U, o, T}",Fields of mathematics
+1784,Roy's safety-first criterion,"{i, R}",Portfolio theories
+1785,Rubber elasticity,"{b, d, n, P, r, exp, π}",Subfields of physics
+1786,Rubin causal model,"{Y, c, u, t, T}",Branches of philosophy
+1787,Ruelle zeta function,"{θ, x, cos, r}",Fields of mathematics
+1788,Rugosity,"{A, f}",Professional studies
+1789,Runge–Kutta method,"{a, b, d, t, W, X}",
+1790,Rutherford backscattering spectrometry,"{k, E}",Ernest Rutherford
+1791,Rössler attractor,"{a, c, b}",Life sciences
+1792,S-plane,"{C, e, d, f, s, t, ∞}",Fields of mathematics
+1793,SL2(R),"{a, R, c, b, d}",Fields of mathematics
+1794,STO-nG basis sets,"{c, G, ψ, S, O, s, T, ϕ}",Subfields of physics
+1795,Saha ionization equation,"{B, e, g, i, k, n, Λ, T, exp, ϵ}",Subfields of physics
+1796,Sammon projection,"{i, j, E, d}",
+1797,Sample complexity,"{E, d, h, L, o, y, s, ρ, X, Y, x}",Applied sciences
+1798,Samuelson's inequality,"{x, n}",Auxiliary sciences of history
+1799,Sangaku,{r},Fields of history
+1800,Sard's theorem,"{n, R, m, f}",Fields of mathematics
+1801,Sauerbrey equation,"{A, f, m, ρ, q, μ, Δ}",Subfields of physics
+1802,Scalar curvature,"{S, Ric, g}",Fields of mathematics
+1803,Scalar-tensor theory,"{Ψ, c, g, ω, m, ∂, σ, L, Φ, S, R, μ, ν, V, x, d}",
+1804,Scale factor,"{a, d, t}",Fields of mathematics
+1805,Scale space,"{e, g, π, t, y, x}",Applied sciences
+1806,Scale-invariant feature transform,"{A, d, φ, ℏ, q, P, x}",Applied sciences
+1807,Scale-space axioms,"{a, b, f, h, t, T}",Applied sciences
+1808,Scatchard equation,"{a, K, r, L, n}",Branches of biology
+1809,Scatter matrix,"{x, j, n}",Fields of mathematics
+1810,Schatten norm,"{p, s, T, n}",Fields of mathematics
+1811,Schauder basis,"{n, v, b, α, ∞}",Fields of mathematics
+1812,Scherk surface,"{n, R, u, π}",Fields of mathematics
+1813,Schmidt number,"{S, c, D, ν}",Life sciences
+1814,Schnirelmann density,"{A, n, Z, d, π}",Fields of mathematics
+1815,Schoen–Yau conjecture,"{y, x, R, H}",Fields of mathematics
+1816,Schottky effect,"{A, e, G, F, k, J, T, W, Δ}",Subfields of physics
+1817,Schottky's theorem,"{z, log, f}",Fields of mathematics
+1818,Schreier refinement theorem,"{S, Z, id}",Fields of mathematics
+1819,Schreier's lemma,"{H, g}",Fields of mathematics
+1820,Schrödinger equation,"{Ψ, i, H, ℏ, ∂, r, t}",Fields of mathematics
+1821,Schrödinger group,"{i, ϵ, J, k, j}",Fields of mathematics
+1822,Schur complement,"{A, C, S, B, D}",Fields of mathematics
+1823,Schur orthogonality relations,"{α, β, g, G}",Fields of mathematics
+1824,Schur–Horn theorem,"{i, N, λ, d, n}",Fields of mathematics
+1825,Schwarzschild radius,"{s, r, M, c, G}",Political science theories
+1826,Schwarz–Christoffel mapping,"{C, Im, ζ}",Fields of mathematics
+1827,Secchi disk,"{I, k, z, e}",Life sciences
+1828,Second-order arithmetic,"{∀, m, n, S, φ, X}",Formal theories of arithmetic
+1829,Secondary plot,"{λ, j, L, π}",
+1830,Secondary polynomials,"{d, ρ, n, q, p, R, t, x}",Fields of mathematics
+1831,Secondary vector bundle structure,"{λ, E, T}",Fields of mathematics
+1832,Segre class,"{A, P, R, t}",Fields of mathematics
+1833,Seiberg–Witten invariant,"{A, ϕ, D}",Fields of mathematics
+1834,Seiche,"{h, L, g, T}",Applied sciences
+1835,Self-concordant function,"{x, f}",Life sciences
+1836,Self-consistent mean field,"{k, u}",
+1837,Self-energy,"{Σ, G}",Fields of mathematics
+1838,Self-focusing,"{c, λ, n, P, r, α, π}",Applied sciences
+1839,Self-ionization of water,"{a, e, H, K, O, q}",Physical sciences
+1840,Self-phase modulation,"{A, γ, d, z, j}",Subfields of physics
+1841,Semi-differentiability,"{I, x, ∂, a, f}",Life sciences
+1842,Semi-implicit Euler method,"{d, x, v, t, f}",Fields of mathematics
+1843,Semi-orthogonal matrix,"{I, A, T}",Fields of mathematics
+1844,Semimartingale,"{A, X, M, t}",Applied sciences
+1845,Semiparametric model,"{A, α, S, U, V}",Fields of mathematics
+1846,Sensitivity analysis,"{C, π, L, f}",Professional studies
+1847,Separation logic,"{Q, h, s, P}",Life sciences
+1848,Separation principle,"{a, e, g, i, h, l, n, p, s, r, u, t}",Applied sciences
+1849,Separative Work Unit,"{F, f, p, P, S, U, t, W, V, x, T}",
+1850,Sequence logo,"{a, H, i, log, f}",Fields of mathematics
+1851,Sequent,"{A, B, m, n}",Society
+1852,Sequential quadratic programming,"{i, C, f, N}",Applied sciences
+1853,Sequential space,"{A, a, ∃, n, X, x}",Fields of mathematics
+1854,Serpentine curve,"{a, x, b, y}",Life sciences
+1855,Serre's modularity conjecture,"{Q, ρ, L, G, F}",Fields of mathematics
+1856,Set theory of the real line,"{a, d}",Fields of mathematics
+1857,Set-theoretic limit,"{A, j, n}",Fields of mathematics
+1858,Shannon–Hartley theorem,"{C, S, B, log, N}",Applied sciences
+1859,Shape context,"{#, i, h, k, q, p}",Applied sciences
+1860,Shapiro delay,"{c, log, G, M, R, t, x, Δ}",Applied sciences
+1861,Shapiro–Wilk test,"{i, a, x, W, n}",Fields of mathematics
+1862,Shapley value,"{a, i, j, l, p, S, v, x, ϕ}",Cross-cultural studies
+1863,Sharpe ratio,"{a, b, E, σ, S, r, v, R}",Auxiliary sciences of history
+1864,Shell theorem,"{d, G, F, m, M, s}",Subfields of physics
+1865,Shifted Gompertz distribution,"{x, b, e, f, η}",Life sciences
+1866,Shifted log-logistic distribution,"{σ, x, μ, ξ, F}",Life sciences
+1867,Shockley Ramo theorem,"{i, q, E, v}",
+1868,Short circuit test,"{a, c, e, d, f, i, h, l, o, p, s, r, u, t, W}",
+1869,Shorted monopole antenna,"{c, b, f, r, w, ε}",
+1870,Sierpiński's constant,"{ln, k, n, r, ∞, π, K}",Fields of mathematics
+1871,Sigma Andromedae,{X},Political science theories
+1872,Signal reconstruction,"{i, k, e, t, π}",Applied sciences
+1873,Signal velocity,"{c, s, r, ε, v}",Fields of mathematics
+1874,Signature operator,"{Ω, M, d, p}",Fields of mathematics
+1875,Signorini problem,"{a, i, h, k, j, W, x, ε}",Fields of mathematics
+1876,Silicon bandgap temperature sensor,"{i, x, U, n}",Applied sciences
+1877,Simpson's rule,"{a, x, b, d, f}",Articles with example code
+1878,Simultaneous localization and mapping,"{x, m, t, o, P}",Applied sciences
+1879,Singleton bound,"{y, x, C, d}",Fields of mathematics
+1880,Singly and doubly even,"{q, a, b, ν}",Fields of mathematics
+1881,Singular measure,"{x, e, d, H, f}",Physical sciences
+1882,Singular perturbation,"{ψ, φ, N, x, n, δ, ε}",Fields of mathematics
+1883,Singular solution,"{y, x}",Fields of mathematics
+1884,Singularity function,"{x, m, w, N}",Fields of mathematics
+1885,Sinhc function,"{Sinhc, z, sinh}",Fields of mathematics
+1886,Situation calculus,"{c, e, d, ¬, k, l, o, n, p, s, r, u, t}",
+1887,Six exponentials theorem,"{d, i, j, l, exp, y, x}",Branches of philosophy
+1888,Sliced inverse regression,"{a, b, U}",Applied sciences
+1889,Sliding mode control,"{i, ϕ, R, U, n}",Applied sciences
+1890,Sliding window based part-of-speech tagging,"{γ, Γ}",Applied sciences
+1891,Sloped armour,"{c, L, o, N, θ, s, T}",Applied sciences
+1892,Slowly varying function,"{a, x, L, ∞}",Fields of mathematics
+1893,Small-angle approximation,"{θ, sin}",Fields of mathematics
+1894,Small-bias sample space,"{λ, c, n, P, r, α, π}",Branches of philosophy
+1895,Smith–Minkowski–Siegel mass formula,"{Λ, m, Aut, f}",Hermann Minkowski
+1896,Smooth number,"{Ψ, B, log, π, p, x}",Fields of mathematics
+1897,Snell envelope,"{X, U, N}",Fields of mathematics
+1898,Snell's law,"{θ, λ, v, sin, n}",Subfields of physics
+1899,Snellius–Pothenot problem,"{C, π, α, y, x, β}",Society
+1900,Sobolev inequality,"{q, p, k, ℓ, n}",Fields of mathematics
+1901,Sodium adsorption ratio,"{a, C, M, g, N}",Environmental studies
+1902,Sol-air temperature,"{a, I, h, l, o, Q, i, s, r, T, Δ}",Applied sciences
+1903,Solar balloon,"{S, N, F, π}",Applied sciences
+1904,Solenoid,"{I, B, μ, l, N}",Professional studies
+1905,Solid-state nuclear magnetic resonance,"{d, ℏ, π, r, μ, γ}",Branches of biology
+1906,Soliton distribution,"{X, k, Ad, v}",Fields of mathematics
+1907,Solvency ratio,"{a, e, i, m, n, p, s, r, u, t, w}",Fields of mathematics
+1908,Solving the geodesic equations,"{a, c, b, d, s, x, Γ}",Fields of mathematics
+1909,Sommerfeld identity,"{v, z, u, f}",Fields of mathematics
+1910,Sound energy density,"{V, w, W, d}",Applied sciences
+1911,Souček space,"{Ω, k, m, L, R, u, ∞}",Fields of mathematics
+1912,Space cardioid,"{cos, k, j, t, X, sin}",Life sciences
+1913,Spatial multiplexing,"{s, r, t, N}",
+1914,Spearman's rank correlation coefficient,"{cov, σ, ρ, s, r, rg, Y, X}",Fields of mathematics
+1915,Specific fan power,"{q, P, S, v, F}",Subfields of physics
+1916,Specific force,"{a, c, e, g, F, i, M, l, o, n, s, r, t, v}",Physical sciences
+1917,Specific relative angular momentum,"{h, m, L}",Professional studies
+1918,Specker sequence,"{i, a, q, n}",Fields of mathematics
+1919,Spectral abscissa,"{A, λ, e, i, R, η}",Fields of mathematics
+1920,Spectral asymmetry,"{B, ω, n, t, exp, sgn}",Fields of mathematics
+1921,Spectral invariants,"{a, H, x, α}",Fields of mathematics
+1922,Spectral risk measure,"{d, F, M, p, X, ϕ}",Fields of mathematics
+1923,Spectral theory of compact operators,"{Y, i, k, C, n}",Fields of mathematics
+1924,Spectrum of a matrix,"{A, λ, n}",Fields of mathematics
+1925,SpeedStep,"{P, C, V, f}",Professional studies
+1926,Sphere of influence,"{a, I, m, M, O, S, r}",Political science theories
+1927,Sphere–cylinder intersection,"{y, x, r}",Fields of mathematics
+1928,Spherical pendulum,"{A, cos, ω, ψ, φ, k, t, x}",People
+1929,Spherical sector,"{h, r, π, V}",Applied sciences
+1930,Spieker center,"{a, c, b}",Fields of mathematics
+1931,Spike-triggered covariance,"{A, C, i, S, n, s, T, y, x}",Life sciences
+1932,Spin glass,"{χ, V, E, F}",Subfields of physics
+1933,Spin network,"{A, G, M, π, r, U, y}",Subfields of physics
+1934,Spin-exchange interaction,"{A, B}",Subfields of physics
+1935,Spinning drop method,"{s, γ, E, k}",Environmental studies
+1936,Spinodal decomposition,"{y, x, ∂, z, ∇}",Subfields of physics
+1937,Spitzer's formula,"{v, n, u, t, exp, ∞, α, β, ϕ}",Fields of mathematics
+1938,Spring (mathematics),"{cos, r, u, v, x, R}",Life sciences
+1939,Squeeze mapping,"{a, y, x}",Fields of mathematics
+1940,Squeeze operator,"{a, e, i, θ, S, r, exp, z}",Subfields of physics
+1941,Stabilizer code,"{c, E, F, ln, K, n, R, T}",Fields of mathematics
+1942,Stagnation point,"{q, p, C, ∞}",Physical sciences
+1943,Stagnation pressure,"{P, ρ, v}",Physical sciences
+1944,Stagnation temperature,"{h, V}",Physical sciences
+1945,Standard Reference Method,"{A, S, R, M, D}",Health
+1946,Standard Weight in Fish,"{a, b, L, W}",
+1947,Standard asteroid physical characteristics,"{a, μ, ν, d}",Political science theories
+1948,Standard linear solid model,"{E, s, σ, ε}",Environmental studies
+1949,Standard normal table,"{μ, Z, σ, X}",Fields of history
+1950,Standard probability space,"{A, B, m, p, mes, Z}",Fields of mathematics
+1951,Standard translation,"{∀, ◻, p, S, R, T, y, x}",Branches of philosophy
+1952,Standardized moment,"{x, ∞, E, t, d}",Auxiliary sciences of history
+1953,Static forces and virtual-particle exchange,"{A, t, T, V}",Subfields of physics
+1954,Stationary phase approximation,"{e, d, g, f, I, k, i, x}",Fields of mathematics
+1955,Stefan–Boltzmann law,"{h, k, σ, c, π}",Life sciences
+1956,Stein factorization,"{g, f}",Fields of mathematics
+1957,Stein's example,"{θ, X, N}",Applied sciences
+1958,Stein's method,"{y, x, e, L}",Auxiliary sciences of history
+1959,Steinhart–Hart equation,"{A, C, B, ln, R, T}",Subfields of physics
+1960,Steinhaus theorem,"{A, a, b}",Fields of mathematics
+1961,Sterling ratio,"{a, A, C, B, %, d, g, m, l, o, n, p, S, R, u, O, v, D}",Professional studies
+1962,Stewart–Walker lemma,"{h, L, O, T, X, ϵ}",Life sciences
+1963,Sticking coefficient,"{a, P, m, d}",Subfields of physics
+1964,Stieltjes constants,"{∞, s, γ, ζ, n}",Fields of mathematics
+1965,Stirling numbers of the second kind,"{k, j, n}",Fields of mathematics
+1966,Stirling's approximation,"{ln, O, n}",Fields of mathematics
+1967,Stochastic Eulerian Lagrangian method,"{a, A, c, B, f, F, M, o, r, T, V, t}",Fields of mathematics
+1968,Stochastic chains with memory of variable length,"{P, ε, ξ, n}",Fields of mathematics
+1969,Stochastic control,"{Q, S, R, u, t, y, T}",Applied sciences
+1970,Stochastic processes and boundary value problems,"{D, g, ∂, u, y, x, Δ}",Fields of mathematics
+1971,Stock and flow,"{D, g, I, K, n, t, d}",Professional studies
+1972,Stokes flow,"{P, ∇, f}",Life sciences
+1973,Stokes number,"{S, k, u, t, l}",Physical sciences
+1974,Stokes wave,"{A, E, t, ρ, v}",Physical sciences
+1975,Stokes' law,"{d, F, π, R, μ, V}",Physical sciences
+1976,Stokes' paradox,"{a, z, f, n}",Life sciences
+1977,Stolz–Cesàro theorem,"{a, ∞, b, n}",Fields of mathematics
+1978,Stone's theorem on one-parameter unitary groups,"{R, U, t}",Fields of mathematics
+1979,Strain rate,"{ϵ, L, t}",Physical sciences
+1980,Strategic complements,"{y, p, U, x, F}",Fields of mathematics
+1981,Stream power law,"{A, E, K, m, n, S}",Earth sciences
+1982,Streaming algorithm,"{h, m, L}",Applied sciences
+1983,Stretched exponential function,"{β, e, t, f}",Fields of mathematics
+1984,Strictly positive measure,"{∀, μ, U, ∅, T}",Fields of mathematics
+1985,String operations,"{s, Alph}",Fields of mathematics
+1986,Strong topology,"{Y, X, σ}",Fields of mathematics
+1987,Strophoid,"{a, cos, ρ, y, x, ϕ}",Life sciences
+1988,Sturmian word,"{θ, x, w, n}",Fields of mathematics
+1989,Sub-Gaussian random variable,"{e, d, n, s, ∞, x, Γ}",Life sciences
+1990,Subnormal operator,"{A, C, B, N}",Fields of mathematics
+1991,Subnormal subgroup,"{H, k, G}",Fields of mathematics
+1992,Subobject classifier,"{x, c, g, f}",Fields of mathematics
+1993,Subquotient,"{ϕ, J, G, g, ψ}",Fields of mathematics
+1994,Subsequence,"{a, A, C, B, E, D, G, n, X, d}",Fields of mathematics
+1995,Subspace topology,"{S, τ, U}",Fields of mathematics
+1996,Substructural logic,"{Σ, Γ}",Life sciences
+1997,Subtractor,"{i, Y, B, D, X}",Fields of mathematics
+1998,Sudan function,"{y, x, F}",Fields of mathematics
+1999,Sulston score,"{C, E, G, j, m, P, t}",Fields of mathematics
+2000,Summation equation,"{f, i, k, m, n, s, t, x}",Life sciences
+2001,Super-resolution optical fluctuation imaging,"{C, log, f, L, N, ∞}",Fields of mathematics
+2002,Supercommutative algebra,"{y, x}",Fields of mathematics
+2003,Superdense coding,"{A, B}",Subfields of physics
+2004,Superellipse,"{y, x, b, a, n}",Life sciences
+2005,Superellipsoid,"{y, x, r, t, z}",Political science theories
+2006,Supermembranes,"{k, σ, O, θ, μ, X, x}",Fields of mathematics
+2007,Supermodule,{E},Fields of mathematics
+2008,Superpartient number,"{a, n}",
+2009,Superperfect number,"{σ, n}",Fields of mathematics
+2010,Supersingular elliptic curve,"{p, r, Z, E, K}",Fields of mathematics
+2011,Supersolvable group,"{H, s, G}",Fields of mathematics
+2012,Surface photovoltage,"{b, e, d, f, k, τ, l, s, u}",Life sciences
+2013,Suspension polymerization,"{C, d, k, m, l, N, s, R, ν, v, ϵ, D}",Physical sciences
+2014,Swap regret,"{a, i, j, L, s, w}",Fields of mathematics
+2015,Sylow theorems,"{p, mod}",Life sciences
+2016,Symbolic Cholesky decomposition,"{y, x, z}",Articles with example code
+2017,Symmetric closure,"{y, x, S, R}",Applied sciences
+2018,Symmetric decreasing rearrangement,"{A, x, R, ω, n}",Fields of mathematics
+2019,Symmetric spectrum,"{p, S, n, X}",Fields of mathematics
+2020,Symmetrically continuous function,"{x, h, f}",Fields of mathematics
+2021,Symmetry in quantum mechanics,"{Ω, r, t, ψ}",Fields of mathematics
+2022,Symplectic integrator,"{q, H, ∂, p}",Fields of mathematics
+2023,Symplectic manifold,"{d, H, L, ω, V}",Fields of mathematics
+2024,Symplectic representation,"{F, ω, V}",Fields of mathematics
+2025,Synchronization of chaos,"{y, α, ′, x, F}",Life sciences
+2026,Synchrotron function,"{d, F, K, t, ∞, x}",Fields of mathematics
+2027,Synthetic Aperture Ultrasound,"{m, ′, M, g}",Subfields of physics
+2028,Szegő kernel,"{P, z, f}",Fields of mathematics
+2029,T pad,"{a, c, e, d, g, f, i, h, m, o, n, p, r, t, Z}",Subfields of physics
+2030,T-J model,"{θ, a, r, sec}",Subfields of physics
+2031,T-aerial,"{h, λ, R, π}",
+2032,T-duality,"{c, e, i, φ, m, n, θ, R, x}",Subfields of physics
+2033,TITAN2D,"{a, k, s, n}",Earth sciences
+2034,TRevPAR,"{A, a, b, e, i, m, l, o, n, P, s, R, u, T, v, t}",Professional studies
+2035,Tangent half-angle formula,"{α, tan, sin}",Fields of mathematics
+2036,Tangential and normal components,{v},Fields of mathematics
+2037,Tanh-sinh quadrature,"{x, π, t, sinh, tanh}",Physical sciences
+2038,Tanner graph,"{R, r, m}",Fields of mathematics
+2039,Target Motion Analysis,"{A, B, O, S, R, r}",Applied sciences
+2040,Tautological one-form,"{θ, p, q, i, d}",Physical sciences
+2041,Taylor circle,"{cos, R, T, α, β, γ, sin}",
+2042,Taylor series,"{a, x, f}",Fields of mathematics
+2043,Technological theory of social production,"{k, E, O, n}",
+2044,Teichmüller character,"{x, ∞, ω, p, n}",Fields of mathematics
+2045,Teichmüller space,"{C, z, Im}",Fields of mathematics
+2046,Telescoping Markov chain,"{θ, k, S, N}",Applied sciences
+2047,Tellegen's theorem,"{k, b, W, F}",Subfields of physics
+2048,Temperature dependence of liquid viscosity,"{b, μ, T, exp}",Environmental studies
+2049,Temperature jump,"{d, ln, H, K, o, R, T, Δ}",Physical sciences
+2050,Tensor density,"{∇, f}",Fields of mathematics
+2051,Tensor-hom adjunction,"{Y, X, Z, Hom}",Fields of mathematics
+2052,Tent map,"{x, μ, f}",Life sciences
+2053,Term symbol,"{i, P, l}",Subfields of physics
+2054,Texture,"{d, g, F, O, V, D}",
+2055,The Complexity of Songs,"{S, ϵ, k, V}",Society
+2056,The Magnificent Seven,"{R, σ, D, T, F}",
+2057,The Product Space,"{i, x, ϕ, j}",Humanities
+2058,Theorem on friends and strangers,{R},Fields of mathematics
+2059,Theory of reasoned action,"{A, B, I, N, S, W}",Political science theories
+2060,Thermal de Broglie wavelength,"{A, E, d, τ, t, ∞}",Auxiliary sciences of history
+2061,Thermal history modelling,"{Q, k, z, d, T}",Subfields of geology
+2062,Thermal mass,"{C, h, Q, t, Δ, T}",Subfields of physics
+2063,Thermal shock,"{E, k, σ, R, T, α, ν}",Applied sciences
+2064,Thermodynamic integration,"{A, B, λ, U}",Applied sciences
+2065,Thermodynamic limit,"{V, ∞, N}",Physical sciences
+2066,Thin set,"{H, N, log, O, n}",
+2067,Thom conjecture,"{d, g}",Life sciences
+2068,Thompson groups,"{i, A, B, d}",Fields of mathematics
+2069,Thomson problem,"{e, i, k, j, N, r, U}",Subfields of physics
+2070,Thomson scattering,"{i, K, N, p, T, v}",Subfields of physics
+2071,Thue–Siegel–Roth theorem,"{q, α, ε, p}",
+2072,Time of flight detector,"{c, m, L, p, t, v, δ}",Humanities
+2073,Time value of money,"{P, r, F, V}",Fields of mathematics
+2074,Time–frequency analysis,"{σ, ψ, e, t, π}",Applied sciences
+2075,Tisserand's criterion,"{i, a, cos, e}",
+2076,Titration curve,"{a, H, K, log, p}",Life sciences
+2077,Toda bracket,"{g, f, h, W, Y, X, Z}",Fields of mathematics
+2078,Toda–Smith complex,{S},Fields of mathematics
+2079,Tonelli's theorem,"{Ω, d, F, f, u, x}",
+2080,Topological conjugacy,"{h, g, f}",Fields of mathematics
+2081,Topological indistinguishability,"{y, x, X}",Fields of mathematics
+2082,Topology optimization,"{Ω, ϕ, d, ρ}",Professional studies
+2083,Torricelli's equation,"{a, d, f, i, v, Δ}",Physical sciences
+2084,Torsion of a curve,"{κ, b, t, n}",Life sciences
+2085,Total curvature,"{a, s, k, b, d}",Life sciences
+2086,Total maximum daily load,"{A, D, M, L, O, S, T, W}",Environmental studies
+2087,Touschek effect,"{A, a, C, b, tan}",Subfields of physics
+2088,TraPPE force field,"{log, d, i, W, t, ξ, X, γ, ν}",Subfields of physics
+2089,Trace distance,"{r, σ, T, ρ}",Subfields of physics
+2090,Tractive effort,"{c, d, P, s, t, D}",Professional studies
+2091,Transconductance,"{I, m, Δ, g, V}",Cultural studies
+2092,Transfer operator,"{g, f, L, Φ, y, x}",Fields of mathematics
+2093,Transfer-matrix method,"{cos, n, θ, P, W, Y, X, sin}",Auxiliary sciences of history
+2094,Translation operator,"{x, r, T}",
+2095,Transmission disequilibrium test,"{i, h, j, b}",Branches of biology
+2096,Transvectant,"{Q, Ω, r, t, n}",Fields of mathematics
+2097,Treynor–Black model,"{F, i, M, R, α, ϵ, r, β}",Fields of mathematics
+2098,Trident curve,"{a, c, b, d, y, x}",Fields of mathematics
+2099,Trigamma function,"{ln, Γ, d, z, ψ}",Fields of mathematics
+2100,Trivialism,"{∀, T, p}",Life sciences
+2101,Trochoidal wave,"{ϕ, ψ}",Physical sciences
+2102,Trouton's ratio,"{a, b, g, i, K, J, m, l, o, L, p, T, v, n}",Environmental studies
+2103,True arithmetic,"{a, #, d, f, i, φ, l, o, n, θ, y, N}",Formal theories of arithmetic
+2104,Trust region,"{a, c, f, l, u, t, x, Δ}",Life sciences
+2105,Tschirnhausen cubic,"{a, cos, θ, r, y, x}",Life sciences
+2106,Tsiolkovsky rocket equation,"{ln, m, f, Δ, v}",Professional studies
+2107,Tsirelson's bound,"{A, B}",Subfields of physics
+2108,Tukey lambda distribution,"{ω, σ, Φ, n, P, μ, X}",Life sciences
+2109,Tunnell's theorem,"{ω, g, i, n, w, y}",Life sciences
+2110,Turbine Inlet Air Cooling,"{A, e, p, i, Θ, P, u, v, x}",
+2111,Tutte matrix,"{A, E, i, ∀, j, u, v, x}",Fields of mathematics
+2112,Tweedie distribution,"{a, Var, Y, E, p}",Life sciences
+2113,Two-dimensional flow,"{i, j, t, v, y, x, z}",Physical sciences
+2114,Two-photon absorption,"{I, x, c, e, α}",Subfields of physics
+2115,Two-point tensor,"{Q, p, e, q}",Fields of mathematics
+2116,Ultrafinitism,{e},Epistemological theories
+2117,Ultralimit,"{x, ϵ, d, ω, n}",Fields of mathematics
+2118,Ultrametric space,"{R, M, d}",Fields of mathematics
+2119,Ultraviolet photoelectron spectroscopy,"{I, h, K, E, ν}",Subfields of physics
+2120,Unary coding,"{P, n}",Fields of mathematics
+2121,Undersampling,"{H, s, n, L, f}",Applied sciences
+2122,Uniform boundedness principle,"{Y, x, ∞, T, F}",Life sciences
+2123,Uniformization theorem,"{E, d, G, F, s, y, x}",Fields of mathematics
+2124,Uniformly Cauchy sequence,"{d, g, f, S, u, x}",Fields of mathematics
+2125,Uniformly distributed measure,"{B, r, μ, ∞, y, x}",Fields of mathematics
+2126,Unimodular lattice,"{a, b, m, n}",Fields of mathematics
+2127,Unit disk,"{Q, P, D}",Fields of mathematics
+2128,Unitary representation,"{H, U, G, π}",Fields of mathematics
+2129,Univalent function,"{a, ϕ, z}",Fields of mathematics
+2130,Upper hybrid oscillation,"{B, e, k, n, T, ϕ}",Subfields of physics
+2131,Upper-convected Maxwell model,"{η, λ, T, ∇, D}",Environmental studies
+2132,Upwind scheme,"{a, i, n, u, t, x, Δ}",Fields of mathematics
+2133,Urania Propitia,"{e, M, sin, E}",Political science theories
+2134,Ursell number,"{H, λ, U, h}",Physical sciences
+2135,V-statistic,"{θ, chord, sin, π}",Fields of mathematics
+2136,Vacuum angle,"{Ψ, A, ϕ, U, d}",Subfields of physics
+2137,Vague topology,"{I, X, μ, d, f}",Fields of mathematics
+2138,Value product,"{o, c, G, P, f, s, C, O, n, p, S, r, u, t, V}",Political science theories
+2139,Van Houtum distribution,"{a, p, b, δ}",Life sciences
+2140,Van Hove singularity,"{n, k, λ, L, π}",Subfields of physics
+2141,Van der Pol oscillator,"{x, μ, t, d}",Life sciences
+2142,Van der Waals equation,"{a, b, k, p, T, v}",Life sciences
+2143,Van der Waerden's theorem,"{k, ε, W}",Fields of mathematics
+2144,Vandermonde polynomial,"{i, X, V, j, n}",Fields of mathematics
+2145,Vantieghems theorem,"{k, n, mod}",Fields of mathematics
+2146,Vapnik–Chervonenkis theory,"{Q, d, f}",Life sciences
+2147,Variable hybridization,"{i, r, λ, o}",
+2148,Variable kernel density estimation,{ln},Applied sciences
+2149,Varian's theorems,"{y, x, A, u}",Life sciences
+2150,Vector algebra relations,{A},Fields of mathematics
+2151,Vector area,"{S, n}",Fields of mathematics
+2152,Vector calculus identities,"{A, grad, ∇}",Fields of mathematics
+2153,Vector optimization,"{x, S, C, f}",Life sciences
+2154,Veech surface,"{j, m, d, g}",
+2155,Vehicle-specific power,"{a, g, ψ, V, P, S, v, ϕ, sin, ζ}",Applied sciences
+2156,Venn diagram,"{i, N, y, x, n, sin}",Fields of mathematics
+2157,Versor,{i},Fields of mathematics
+2158,Vickers hardness test,"{A, d, sin}",Applied sciences
+2159,View factor,"{i, S, j, F, n}",Subfields of physics
+2160,Vinculum,"{a, c, b}",
+2161,Virasoro algebra,"{m, c, δ, L, n}",Subfields of physics
+2162,Virbhadra–Ellis lens equation,"{D, θ, s, α, tan, β, d}",Subfields of physics
+2163,Virtual displacement,"{ϵ, ∂, δ}",Physical sciences
+2164,Vis viva,"{i, m, v}",Categories by parameter
+2165,Viscosity solution,"{x, u, D, F}",Fields of mathematics
+2166,Vitale's random Brunn–Minkowski inequality,"{R, K, n, v}",Fields of mathematics
+2167,Vitali covering lemma,"{J, B, j}",Life sciences
+2168,Viviani's curve,"{a, x, z, y}",Life sciences
+2169,Volatility smile,"{a, A, C, F, M, l, R, T, y, x}",Fields of mathematics
+2170,Volodin space,"{B, σ, n, R, U, X}",Fields of mathematics
+2171,Volterra integral equation,"{a, d, f, K, s, t, x}",Life sciences
+2172,Von Neumann algebra,"{′, M, N}",Fields of mathematics
+2173,Von Neumann entropy,"{S, Tr, log, ρ}",Fields of mathematics
+2174,Von Neumann's theorem,{T},Fields of mathematics
+2175,Von Zeipel theorem,"{g, G, F, M, L, π, P}",Stellar astronomy
+2176,Wallis product,"{∞, π, n}",Life sciences
+2177,Wallis' integrals,"{d, n, W, x, π, sin}",Physical sciences
+2178,Wannier function,"{e, ψ, i, k, r, u}",Subfields of physics
+2179,Washburn's equation,"{d, g, h, K, S, T}",Life sciences
+2180,Water splitting,"{a, H, e, t, O}",Applied sciences
+2181,Wave field synthesis,"{A, d, G, ∂, n, P, w, z}",Life sciences
+2182,Wave front set,"{C, f, N, ξ, ϕ, Γ}",Fields of mathematics
+2183,Wavelet vanishing moment,"{f, K, p, t, v, α, ε}",Applied sciences
+2184,Waveshaper,"{a, x, t, y, f}",Political science theories
+2185,Weak convergence,"{y, x, n}",
+2186,Weak solution,"{x, ∂, u, t}",Fields of mathematics
+2187,Weak topology,"{Y, X, σ}",Fields of mathematics
+2188,Weibull distribution,"{x, k, λ, e, f}",Applied sciences
+2189,Weierstrass factorization theorem,"{a, e, f, h, n, p, λ, exp, ∞, z}",Fields of mathematics
+2190,Weierstrass point,"{P, L}",Fields of mathematics
+2191,Weierstrass substitution,"{Q, P, z, f}",
+2192,Weighted average cost of carbon,"{a, C, E, L, o, V}",Professional studies
+2193,Weighted sum model,"{a, A, i, j, m, n, w}",Fields of mathematics
+2194,Weil cohomology theory,"{i, X, C, n, H}",Cohomology theories
+2195,Weil restriction,"{e, S, k, L, s, R, X}",Fields of mathematics
+2196,Weinberg angle,"{G, F, i, m, M, p, s, R}",Subfields of physics
+2197,Weinberg–Witten theorem,"{e, H, r, T, ∞, β}",Fields of mathematics
+2198,Weingarten equations,"{∂, r, u, v}",Fields of mathematics
+2199,Weyl tensor,"{C, g, i, k, m, n, R, ℓ}",Fields of mathematics
+2200,Weyl's inequality,"{a, q, c, t}",Life sciences
+2201,Weyl–Brauer matrices,"{q, p, k, n}",Fields of mathematics
+2202,Wheeler–Feynman absorber theory,"{J, O, π, q, S, r}",Subfields of physics
+2203,White noise,"{a, w, r, t, W, d}",Branches of philosophy
+2204,White's law,"{k, n, K, N}",Humanities
+2205,Wick rotation,"{d, s, t, y, x, z}",Subfields of physics
+2206,Widom scaling,"{f, M, o, r, t, β}",Subfields of physics
+2207,Wiedemann–Franz law,"{κ, σ, L, T}",Subfields of physics
+2208,Wien's displacement law,"{λ, b, T}",Subfields of physics
+2209,Wiener equation,"{x, t, d, g, v}",Fields of mathematics
+2210,Wiener–Hopf method,"{C, d, i, Φ, π, α, z}",Fields of mathematics
+2211,Wigner quasiprobability distribution,"{C, e, d, p, i, φ, ℏ, π, q, P, μ, t, ∞, y, x}",Articles containing video clips
+2212,Wigner's theorem,"{Ψ, e, i, H, ∅, R, α}",Fields of mathematics
+2213,Wilhelmy plate,"{θ, cos, γ, l, F}",Applied sciences
+2214,Wilkinson matrix,"{q, B, v, F}",Fields of mathematics
+2215,Wilkinson's polynomial,"{i, x, w}",Applied sciences
+2216,Williams %R,"{a, c, e, d, g, i, h, l, o, N, s, R, t, w, y, %}",Life sciences
+2217,Williams' p + 1 algorithm,"{A, j, V}",Sociological theories
+2218,Wiman's sextic,"{y, x, z}",Fields of mathematics
+2219,Wind chill,"{a, C, I, T, W, V}",Branches of thermodynamics
+2220,Wirtinger inequality,"{k, ω, ζ}",
+2221,Wishart distribution,"{i, N, p, X, V, x}",Life sciences
+2222,Wold's decomposition,"{A, α, S, U, V}",Fields of mathematics
+2223,Wold's theorem,"{b, j, t, ∞, Y, ε, η}",Auxiliary sciences of history
+2224,Wolfram axiom,"{a, c, b}",Fields of mathematics
+2225,Womersley number,"{α, μ, ρ, ω, L}",Life sciences
+2226,Wonderland model,"{y, x, z}",Fields of mathematics
+2227,Wood method,"{i, c, K, η}",Professional studies
+2228,Woodall number,"{W, n}",Fields of mathematics
+2229,Woodbury matrix identity,"{A, C, U, V}",Life sciences
+2230,Wrapped Lévy distribution,"{i, x, ϕ, j}",Life sciences
+2231,Y-Δ transform,"{a, R, c, b}",Subfields of physics
+2232,YIQ,"{B, G, I, Q, R, Y}",Applied sciences
+2233,Yang–Mills theory,"{a, g, f, F, Tr, L, μ, ν}",Gauge theories
+2234,Yang–Mills–Higgs equations,"{A, D, Φ, F}",Fields of mathematics
+2235,Yield,"{y, σ}",
+2236,Young symmetrizer,"{P, S, λ, g, n}",Fields of mathematics
+2237,Young tableau,"{dim, h, k, o, n, λ, Y, x, π}",Fields of mathematics
+2238,Yukawa interaction,"{g, ψ, i, V, ϕ, γ}",Subfields of physics
+2239,Yukawa potential,"{e, g, k, m, r, V}",Subfields of physics
+2240,Z-matrix,"{i, Z, z, j}",
+2241,Z-test,"{E, S, σ, n}",Fields of mathematics
+2242,Z-transform,"{z, ∞, n, x, X, Z}",Pierre-Simon Laplace
+2243,Zadoff–Chu sequence,"{j, π, q, N, u, x, n}",Applied sciences
+2244,Zariski topology,"{A, f, ∀, n, S, V, x}",Fields of mathematics
+2245,Zeller's congruence,"{q, h, K, J, m}",Applied sciences
+2246,Zero-crossing rate,"{c, z, s, R, t, r, T}",Fields of mathematics
+2247,Zero-fuel weight,"{B, F, O, T, W, Z}",Professional studies
+2248,Zeta distribution,"{k, s, ζ, f}",Applied sciences
+2249,Zeuthen strategy,"{λ, z}",Applied sciences
+2250,Zipf's law,"{f, H, k, N, s, n}",Humanities
+2251,Zolotarev's lemma,"{a, p}",Fields of mathematics
+2252,Zone melting,"{a, o, c, e, g, f, i, k, O, n, S, r, t}",Physical sciences
+2253,absolute condition number,"{x, K, D, g}",
+2254,absolute deviation,"{i, x, m, D, X}",
+2255,absolute difference,"{Y, X}",
+2256,absolute magnitude,"{lg, m, M, d}",
+2257,absorbance (chemistry),"{A, e, log, i, Φ, T, t}",
+2258,absorbing set,"{F, ∀, S, r, α, x}",
+2259,acceleration of the universe,"{a, c, G, ρ, π, P}",
+2260,acentric factor,"{a, log, ω, p, s, r, t, T}",
+2261,acid dissociation constant,"{A, H, K, a, O}",
+2262,activity,"{a, e, i, R, μ, T}",
+2263,adaptation,"{a, o, e, d, i, h, l, O, n, p, s, R, t}",
+2264,adaptive system,"{P, S, E}",
+2265,additive function,"{a, b, f}",
+2266,admissable set (well-posed problem),"{x, ∃, D, g, F}",
+2267,admittance,"{R, G}",
+2268,adsorption,"{x, k, m, P, n}",
+2269,aeroelasticity,"{d, G, J, M, θ, y}",
+2270,affine rotation,"{Q, P, r, Ω}",
+2271,affine transformation,"{Q, φ, P, f}",
+2272,aggregate demand,"{A, C, D, G, I, M, X}",
+2273,airport reference temperature,"{a, m, T}",
+2274,algebra over a field,"{A, B, H, K, m, o}",
+2275,algebraic curve,"{a, i, k, P, y, x}",
+2276,algebraic cycle,"{Y, f}",
+2277,algebraic extension,"{y, p, N}",
+2278,algebraic torus,"{d, F, L, q, S, u, t}",
+2279,almost Mathieu operator,"{cos, ω, H, n, λ, u, α, π}",
+2280,almost everywhere,"{a, x, b, d, f}",
+2281,amplitude versus offset,"{Z, R}",
+2282,analysis of algorithms,{T},
+2283,analytic torsion,"{i, s, λ, ζ, j}",
+2284,angular resolution,"{θ, λ, D, sin}",
+2285,angular velocity,"{θ, d, ω, t}",
+2286,annihilator,"{A, ∀, S, n, s, R, r}",
+2287,antisymmetric relation,"{a, ∀, R, b, X}",
+2288,arc length,"{f, i, L, N, r, t, ∞}",
+2289,arcoth,"{ln, x, arcoth}",
+2290,arcsch,"{ln, x, arcsch}",
+2291,area of a disk,"{A, r, π}",
+2292,arithmetic mean,"{i, A, a, n}",
+2293,arithmetico-geometric sequence,"{a, r, b, d, n}",
+2294,arsech,"{ln, x, arsech}",
+2295,arsinh,"{ln, arsinh, x}",
+2296,associative algebra,"{y, x, r}",
+2297,astroid,"{y, x, R}",
+2298,asymmetric relation,"{a, b, ¬, ∀, R, X}",
+2299,asymptote,"{x, ∞}",
+2300,asymptotic equipartition property,"{log, H, n, p, ∞, X}",
+2301,at rest,{v},
+2302,atlas,"{I, i, S, U}",
+2303,atomic layer deposition,"{a, b, F, s, S, R}",
+2304,axiom of union,"{A, c, B, D, ∀, ∃}",
+2305,axion,"{ln, r, T}",
+2306,balance spring,"{I, κ, T, π}",
+2307,band matrix,"{a, i, k, j}",
+2308,barycentric coordinate system,"{α, n, M, P}",
+2309,baryon number,"{B, n}",
+2310,base,"{χ, x, X}",
+2311,basic hypergeometric series,"{a, b, k, j, m, n, q, ∞, ϕ, z}",
+2312,basis,"{a, b}",
+2313,beam,"{a, A, B, e, m, L, O}",
+2314,bel,"{ln, p, B, N}",
+2315,belief propagation,"{i, x, p, X}",
+2316,bending,"{E, d, I, M, w, x}",
+2317,beta-binomial distribution,"{H, #, E, C, F}",
+2318,bifolium,"{a, x, y}",
+2319,big O notation,"{x, f, O, g, ∞}",
+2320,binary function,"{Y, X, Z, f}",
+2321,binary logarithm,"{x, log, n}",
+2322,binomial coefficient,"{k, n}",
+2323,binomial theorem,"{y, x, n}",
+2324,birefringence,"{Δ, e, o, n}",
+2325,birthday problem,"{p, None, n, P}",
+2326,bisymmetric matrix,"{a, c, b, e, d, g, f, i, h}",
+2327,blind signature,"{e, d, m, o, N, r}",
+2328,blood flow,"{a, I, d, i, m, l, o, n, P, s, t, v, y, e}",
+2329,blood volume,"{P, C, B, H, V}",
+2330,bolted joint,"{e, d, P, K, p, r, T}",
+2331,bounded function,"{x, M, f}",
+2332,braid group,"{i, σ, B, j, n}",
+2333,brightness,"{B, R, μ, G}",
+2334,brightness temperature,"{c, e, I, h, k, T, ν}",
+2335,buffer capacity,"{H, β, n, d, p}",
+2336,bulk density,"{b, M, ρ, s, t, V}",
+2337,capital accumulation,"{Y, s, K, Δ, k}",
+2338,cardinal number,"{ℵ, α, n}",
+2339,cardioid,"{a, cos, φ, r, y, x}",
+2340,cartesian product,"{a, A, B, b}",
+2341,cas function,"{cas, θ, cos, sin}",
+2342,catenary,"{y, x, a, cosh}",
+2343,catenoid,"{c, cos, cosh, u, v, x}",
+2344,center of mass,"{i, r, R, m, n}",
+2345,centered hexagonal number,{n},
+2346,centered square number,"{C, n}",
+2347,centrifuge,"{r, ω, g}",
+2348,centrosymmetric matrix,"{a, A, b, i, j, n}",
+2349,chain homotopy,"{A, B, d, g, f, h, n}",
+2350,chain rule,"{g, f}",
+2351,change of basis,"{S, r, E, C}",
+2352,character table,"{α, β, g, G}",
+2353,characteristic energy,"{a, c, C, o, n, s, r, μ, t, v, ϵ}",
+2354,characteristic equation,"{I, A, λ}",
+2355,characteristic polynomial,"{A, p, λ, I}",
+2356,charge conservation,"{I, O, N, Q, U, t, T}",
+2357,chord,"{c, d, cos, θ, r, sin}",
+2358,circle bundle,"{A, F, d, π}",
+2359,circle map,"{Ω, K, π, θ, n, sin}",
+2360,circular cone,"{a, y, z, b, x}",
+2361,circular cylinder,"{a, y, x}",
+2362,circular hyperboloid of one sheet,"{a, x, b, y, z}",
+2363,circular hyperboloid of two sheets,"{y, x, b, z, a}",
+2364,circular paraboloid,"{a, y, z, x}",
+2365,circumference,"{C, r, d, π}",
+2366,circumradius,"{a, R, c, b}",
+2367,cis(x),"{i, x, cos, cis, sin}",
+2368,cissoid of Diocles,"{a, cos, φ, ρ, y, x, sin}",
+2369,class (set theory),"{A, x}",
+2370,classifying space for U(n),"{E, i, H, j, n, U, e, δ}",
+2371,closed interval from −π/2 to +π/2,{π},
+2372,closed-loop transfer function,"{Y, X, s, G, H}",
+2373,codimension,"{codim, dim, W, V}",
+2374,codomain,"{A, B, f}",
+2375,coherence,"{c, τ, Δ, f}",
+2376,cohomology operation,"{q, n, G, π}",
+2377,cohomology ring,"{H, k, R, ℓ, X}",
+2378,collaborative filtering,"{′, i, r, u, aggr, U}",
+2379,color histogram,"{y, x, μ, H, f}",
+2380,combination,"{k, n}",
+2381,common logarithm,"{ln, x, log}",
+2382,commutator,"{y, x}",
+2383,comparative statics,"{a, x, f}",
+2384,complement,"{A, x, B}",
+2385,complementary cumulative distribution function,"{P, F, X, x}",
+2386,complete metric space,"{X, x, d, g, f}",
+2387,complex conjugate,"{i, z}",
+2388,complex quadratic polynomial,"{θ, i, c, e, π}",
+2389,compressible flow,"{i, d, v}",
+2390,compression ratio,"{c, b, e, h, π, s, r, w, V}",
+2391,conchoid of de Sluze,"{a, cos, θ, r, sec, y, x}",
+2392,condition number,"{x, K, D, g}",
+2393,configuration,"{p, γ, ℓ, π}",
+2394,conformal dimension,"{dim, C, d, G, i, H, m, Y, X}",
+2395,conformational isomerism,"{e, G, K, R, T, Δ}",
+2396,conic section,"{A, C, B, E, D, F, y, x}",
+2397,conical surface,"{a, c, b, y, x, z}",
+2398,conifold,"{z, ψ}",
+2399,connection,"{H, C, T, η}",
+2400,conservation of angular momentum,"{c, i, L, o, n, s, t}",
+2401,conserved current,"{Q, ∂, t}",
+2402,conserved quantity,"{H, t, d}",
+2403,consistent numerical method,"{x, n, g, F}",
+2404,constant-recursive sequence,"{s, c, d, n}",
+2405,context-free grammar,"{G, S, Σ, L, w}",
+2406,continued fraction,"{a, None, b}",
+2407,continuum hypothesis,"{ℵ, S}",
+2408,convection–diffusion equation,"{c, D, ∂, ∇, R, t, v}",
+2409,convergent numerical method,"{g, F, ∀, ∃, l, N, x, n, δ, ε}",
+2410,convex lattice polytope,"{c, v, o, n}",
+2411,convex set,"{u, k, λ, r, S}",
+2412,copositive matrix,"{A, x, T}",
+2413,core,"{C, e, H, s, o, S, r}",
+2414,correlation function,"{d, G, r, exp, ξ, η}",
+2415,cosecant,{cosec},
+2416,cosine,{cos},
+2417,cosmic distance ladder,"{m, M, log, D}",
+2418,covariance,"{C, E, o, v, Y, X}",
+2419,coversine,"{θ, sin, coversin}",
+2420,creep,"{C, b, e, d, m, k, σ, Q, T, ε, t}",
+2421,cross product,"{a, θ, b, sin, n}",
+2422,cross section,"{j, σ, d, N}",
+2423,crossed module,"{H, d, G}",
+2424,crossing number,"{K, m, n}",
+2425,cubic Hermite spline,"{p, m, t}",
+2426,cubic function,"{a, c, b, d, f, R, x}",
+2427,cumulative distribution function,"{X, F, x, P}",
+2428,curve of constant width,"{A, C, L, π}",
+2429,curved mirror,"{i, d, o, f}",
+2430,cycle graph,"{C, n}",
+2431,cyclic homology,"{A, Ω, C, d, i, H, n, R, V, D}",
+2432,cyclic quadrilateral,"{α, β, γ, δ, π}",
+2433,dagger compact category,"{A, σ, ε, η}",
+2434,damping coefficient,"{τ, δ}",
+2435,damping ratio,{ζ},
+2436,de Moivre's formula,"{i, x, cos, sin, n}",
+2437,decay energy,{Q},
+2438,decimal representation,"{a, i, r, ∞}",
+2439,deformation,"{E, σ, ε}",
+2440,degree of freedom,{N},
+2441,delayed neutron,"{E, d, F, Q, P, s, r, T, exp, t}",
+2442,delta-functor,"{′, M}",
+2443,dense graph,"{E, D, V}",
+2444,dense set,"{a, ∀, A, n}",
+2445,density,"{m, ρ, V}",
+2446,depth,"{dim, e, d, h, M, p, t}",
+2447,derivative,"{a, x, Δ, f}",
+2448,derived category,"{Q, A, X, H}",
+2449,determinant,"{A, a, i, σ, n, S, sgn}",
+2450,dew point,"{a, b, H, p, R, T, γ}",
+2451,diagonalizable matrix,"{A, D, ∃, n, S, GL, K}",
+2452,dielectric loss,"{j, ε}",
+2453,differential,"{y, x, d}",
+2454,differintegral,"{q, D, f}",
+2455,digamma function,"{ln, x, Γ, d, ψ}",
+2456,digital filter,"{A, a, B, H, M, N, b, z}",
+2457,dihedral group,"{i, s, r, j}",
+2458,dilation,"{A, B, b}",
+2459,direct product,"{h, g, n}",
+2460,direct sum,"{W, V}",
+2461,directivity,"{D, π, θ, P, U, ϕ}",
+2462,discrete valuation ring,"{y, x, ν}",
+2463,dispersion,"{c, v, n}",
+2464,distance,"{y, x, z, Δ, d}",
+2465,distance geometry,"{w, v}",
+2466,distributive property,"{y, x, z}",
+2467,divergence,"{F, ∂, ∇, n, x, div}",
+2468,divisible group,"{r, G, o, T}",
+2469,divisor,"{a, b}",
+2470,divisor set,"{n, d, T, N}",
+2471,dodecagonal number,{n},
+2472,dominical letter,"{y, c}",
+2473,double Mersenne number,"{a, e, d, i, M, m, n, p, s, r}",
+2474,double factorial,"{k, n}",
+2475,drag equation,"{A, C, D, F, ρ, v}",
+2476,dragon curve,"{i, z, f}",
+2477,drift velocity,"{μ, u, E}",
+2478,drop,"{γ, π, d, F}",
+2479,dynamic pressure,"{q, u, ρ}",
+2480,e,"{n, e, ∞}",
+2481,eccentricity vector,"{e, r, μ, v}",
+2482,effect size,"{S, η}",
+2483,effective potential,"{E, U}",
+2484,effective radius,"{log, π, T, O, N}",
+2485,efficiency gap,"{A, B, E, G, o, t, w, v}",
+2486,efficient energy use,"{a, c, B, E, d, g, i, m, l, o, n, s, r, u, t, y, e}",
+2487,eigenvectors and eigenvalues,"{λ, T, v}",
+2488,elastic energy,"{U, k, Δ, x}",
+2489,elastic modulus,{λ},
+2490,electric dipole moment,"{q, p, d}",
+2491,electric potential energy,"{E, d, f, q, s, r, U, e}",
+2492,electric power,"{I, P, R, U}",
+2493,electric susceptibility,"{χ, P, E, ε}",
+2494,electrical conductance,"{I, R, G, V}",
+2495,electrical reactance,"{X, C, π, ω, f}",
+2496,electrical resistance,"{I, R, V}",
+2497,electro-osmosis,"{U, ∇}",
+2498,electromagnet,"{A, C, F, I, l, n}",
+2499,electromotive force,"{A, c, B, E, d, s, ℓ}",
+2500,electron,"{λ, v, f}",
+2501,electron acceptor,"{A, I, Δ, E}",
+2502,electron density,"{ρ, P, r, μ, ν, ϕ}",
+2503,electronvolt,{c},
+2504,electropermanent magnet,"{A, C, F, i, H, M, l, o, L, N}",
+2505,electrostatic force microscope,"{a, c, e, F, i, ∂, l, o, s, r, t, V, C, z, Δ}",
+2506,ellipse,"{y, x, b, a}",
+2507,ellipsoid,"{a, c, b, y, x, z}",
+2508,elliptic cone,"{a, c, b, y, x, z}",
+2509,elliptic cylinder,"{a, x, b, y}",
+2510,elliptic differential equation,"{A, C, B, E, D, G, F, u, y, x}",
+2511,elliptic function,"{z, Λ, ℘, ω}",
+2512,elliptic hyperboloid of one sheet,"{a, c, b, y, x, z}",
+2513,elliptic hyperboloid of two sheets,"{a, c, b, y, x, z}",
+2514,elliptic orbit,{ϵ},
+2515,elliptic paraboloid,"{a, x, b, y, z}",
+2516,elliptic rational function,"{c, d, K, L, n, R, ξ, x}",
+2517,empty product,"{i, a, m, P}",
+2518,endergonic reaction,"{Δ, G}",
+2519,energy efficiency,"{Q, A, η}",
+2520,entire function,"{a, n, f, z, ∞}",
+2521,entropy,"{Q, S, δ, T}",
+2522,epicycloid,"{θ, x, r, R, cos}",
+2523,equaliser,"{E, g, f, q, X, x}",
+2524,equation of exchange,"{Q, P, M, V}",
+2525,equivalence relation,"{k, n, e, B, ∞}",
+2526,error function,"{e, d, π, erf, t, x}",
+2527,estimator,"{θ, x, e}",
+2528,etale cohomology,"{Γ, F}",
+2529,eutectic,"{α, β}",
+2530,evolute,"{E, s, N, κ, R, γ}",
+2531,excosecant,"{θ, excsc, csc}",
+2532,expansive homeomorphism,{ε},
+2533,expected value,"{X, k, E, p, x}",
+2534,expenditure function,"{A, x, δ}",
+2535,exponential family,"{A, f, h, θ, T, exp, X, x, η}",
+2536,exponential function,"{x, b, f}",
+2537,exponential growth,"{x, r, t}",
+2538,exposure,"{H, E, t, e}",
+2539,exsecant,"{θ, exsec, sec}",
+2540,extensive function,"{A, a, f, ∀}",
+2541,exterior derivative,"{d, g, i, φ, k, I, x}",
+2542,factorial,"{k, n}",
+2543,ferromagnetism,"{a, c}",
+2544,fiber bundle,"{B, E, π}",
+2545,figure-eight knot,"{cos, t, y, x, z, sin}",
+2546,filling radius,"{a, C, d, F, i, l, R}",
+2547,filter,"{H, B, μ}",
+2548,fine-structure constant,"{c, e, ℏ, ε, π, R, μ, α, Z, k}",
+2549,finite difference method,"{f, h, n, R, x, Δ}",
+2550,finitely generated abelian group,"{q, Z, t, n}",
+2551,first law of thermodynamics,"{Q, U, Δ, W}",
+2552,fixed-rate mortgage,"{P, c, r, N}",
+2553,flag,"{k, V}",
+2554,flattening,"{a, b, f}",
+2555,flip and flop,"{X, K, m, O, f}",
+2556,fluctuation-dissipation theorem,"{k, B, μ, D, T}",
+2557,folding,"{D, F}",
+2558,folk psychology,"{i, P, s, E, k}",
+2559,force,"{a, d, F, m, p, t}",
+2560,force of infection,{λ},
+2561,forcing,{V},
+2562,fossil-fuel power station,"{h, c, T, η}",
+2563,four-momentum,"{c, E, p, μ, y, x, z}",
+2564,four-vector,{X},
+2565,fractal dimension,"{ϵ, N, D, log}",
+2566,fracture,"{a, c, E, i, h, σ, l, o, r, t, e, γ}",
+2567,free fall,"{t, g, v}",
+2568,free group,"{a, c, b}",
+2569,frequency,"{T, f}",
+2570,frequency mixer,"{e, D, I, k, n, q, S, T, V}",
+2571,frequency modulation,"{A, c, d, f, τ, cos, π, t, y}",
+2572,frequency multiplier,"{A, f, π, t, x, sin}",
+2573,function,"{Y, X, f}",
+2574,function composition,"{C, g, f}",
+2575,function series,"{∞, x, f, n}",
+2576,functional equation,"{A, X, C, Φ}",
+2577,fundamental group,"{x, X, f}",
+2578,fundamental matrix,"{A, x, t}",
+2579,fundamental theorem of linear programming,"{x, c, T, P}",
+2580,galvanostat,"{I, R, U}",
+2581,gamma function,"{Γ, e, d, t, ∞, z}",
+2582,gas,"{P, R, V, T, n}",
+2583,gas constant,"{c, e, P, i, f, m, n, p, s, R, T, V}",
+2584,gas law,"{P, r, o, V}",
+2585,gauge,"{n, d, π}",
+2586,gauge anomaly,"{ϵ, δ, F}",
+2587,gear ratio,"{A, B, ω, M, N, r, v}",
+2588,general Dirichlet series,"{a, e, n, s, λ, ∞}",
+2589,general linear group,"{A, K, GL, n}",
+2590,generalized mean,"{i, p, M, x, n}",
+2591,generating function,"{a, x, n, G, ∞}",
+2592,geometric distribution,"{X, k, p}",
+2593,geometric lattice,"{y, x, r}",
+2594,geometric mean,"{i, x, n}",
+2595,geopotential,"{C, W}",
+2596,global-warming potential,"{a, A, b, e, d, g, F, i, h, l, n, p, s, R, t, y}",
+2597,golden ratio,{φ},
+2598,graded Lie algebra,"{i, Z, g}",
+2599,graded vector space,"{V, n, N}",
+2600,gradient descent,"{a, γ, b, ∇, F}",
+2601,granny knot,"{Δ, t}",
+2602,granulometry,"{k, B}",
+2603,graph isomorphism,"{H, f, G, V}",
+2604,gravitational lensing,"{θ, c, r, M, G}",
+2605,gray,"{G, g, k, J, m, s, y}",
+2606,group,{G},
+2607,groupoid,"{y, x, G}",
+2608,half-space,"{a, x, b, n}",
+2609,halved cube graph,"{Q, n}",
+2610,happy number,"{m, n}",
+2611,harmonic mean,"{i, x, H, n}",
+2612,harmonic series,"{n, ∞}",
+2613,harshad number,"{A, X, m, i, a}",
+2614,hash chain,"{x, h, n}",
+2615,haversine,"{θ, haversin, cos}",
+2616,heat equation,"{α, ∂, u, t, ∇}",
+2617,helicoid,"{cos, None, u, v, y, x, z, sin}",
+2618,helium atom,"{e, i, H, ℏ, M, ∇, π, r, μ, ϵ, Z}",
+2619,heptagonal pyramidal number,{n},
+2620,high-leg delta,"{α, S, ∀, x}",
+2621,hippopede,"{y, x, c, m, d}",
+2622,history of logarithms,"{α, β, cos}",
+2623,holomorphic function,"{z, f}",
+2624,homogeneous polynomial,"{P, λ, d, n, x}",
+2625,homogeneous space,"{A, C, G, ρ, u, t, X}",
+2626,homography,"{a, b, d, φ, K, λ, y, x}",
+2627,homomorphism,"{i, k, m, n}",
+2628,horn antenna,"{a, H, λ, E, L}",
+2629,hydraulic radius,"{A, h, R, P}",
+2630,hydrogen spectral series,"{λ, R, z, n}",
+2631,hyperbolic arccosine,"{ln, x, arcosh}",
+2632,hyperbolic arctangent,"{ln, x, artanh}",
+2633,hyperbolic cosecant,"{x, e, cosech, sinh}",
+2634,hyperbolic cosine,"{x, e, cosh}",
+2635,hyperbolic cotangent,"{x, ctgh, e, sinh, cosh}",
+2636,hyperbolic cylinder,"{y, x, b, a}",
+2637,hyperbolic geometry,"{R, r, sinh, π}",
+2638,hyperbolic motion,"{α, c, u, t, d}",
+2639,hyperbolic paraboloid,"{y, a, b, z, x}",
+2640,hyperbolic secant,"{x, sech, e, cosh}",
+2641,hyperbolic sine,"{x, e, sinh}",
+2642,hyperbolic tangent,"{x, tanh, e, sinh, cosh}",
+2643,hyperboloid,"{a, c, b, y, x, z}",
+2644,hyperboloid model,"{Q, x, n}",
+2645,hypercharge,"{C, B, S, ′, T, Y}",
+2646,hypercone,"{y, x, z, w}",
+2647,hyperfactorial,"{H, k, n}",
+2648,hyperfocal distance,"{H, c, f, N}",
+2649,hypergeometric function,"{a, c, Γ, F, k, b, ∞, z}",
+2650,hyperoperation,"{a, b, m}",
+2651,hyperplane,"{H, n, p, s, R, u, x}",
+2652,icosahedral number,{n},
+2653,ideal gas,"{P, R, V, T, n}",
+2654,ideal gas law,"{P, V, R, T, n}",
+2655,idempotent function,{f},
+2656,idempotent matrix,{A},
+2657,image,"{A, B, f, ∃, y, x}",
+2658,impedance of free space,"{c, Z, μ}",
+2659,impedance parameters,"{I, Z, V}",
+2660,incidence algebra,"{a, x, b, g, f}",
+2661,incidence geometry,"{m, O, n}",
+2662,inclusion map,"{A, x, B, ι}",
+2663,incompressible flow,"{i, d, v}",
+2664,indicated airspeed,"{a, A, C, c, q, P, S}",
+2665,inductance,"{i, d, t, L, v}",
+2666,induction motors modelling in ABC frame of reference,"{A, e, d, i, φ, r, t}",
+2667,infinite alleles model,"{u, F, e, N}",
+2668,information flow,"{h, l, w, o}",
+2669,input-output model,"{a, b, i, n, y, x}",
+2670,inradius,"{A, p, r}",
+2671,inseparable differential equation,"{q, p, y, d, x}",
+2672,integer function,"{X, Z, f}",
+2673,integral equation,"{a, b, d, f, φ, K, t, x}",
+2674,intensive function,"{A, ∀, a, f}",
+2675,interaction,"{a, x, c, b, Y}",
+2676,interior point method,"{c, B, log, f, i, m, μ, x}",
+2677,intermodulation,"{a, c, b, f, M, π, t, x, ϕ, sin}",
+2678,interquartile range,{Q},
+2679,intertemporal choice,"{C, U}",
+2680,interval,"{f, log, n}",
+2681,intransitive relation,"{a, c, b, ¬, ∀, R}",
+2682,inverse Laplace transform,"{F, s, f, t, L}",
+2683,inverse distance weighting,"{d, i, N, u, w, x}",
+2684,inverse function,"{y, x}",
+2685,inverse matrix,"{A, E}",
+2686,invertible matrix,"{A, e, t, d}",
+2687,involutory matrix,"{I, A}",
+2688,ion transport number,"{i, I, t, o}",
+2689,ionic product of water,{K},
+2690,irreducible fraction,"{q, p}",
+2691,isogonal conjugate,"{a, c, b, y, x, z}",
+2692,isotomic conjugate,"{a, c, b, y, x, z}",
+2693,iterative deepening depth-first search,"{b, d}",
+2694,j-invariant,"{i, j, e, π}",
+2695,jounce,"{a, d, ȷ, s, r, t, v}",
+2696,kinetic theory,"{f, i, m, p, v, x, Δ}",
+2697,laser diode rate equations,"{e, d, G, I, τ, M, N, P, μ, t, V, n}",
+2698,law of sines,"{A, a, c, B, C, b, sin}",
+2699,leaky bucket,"{M, τ, δ, T}",
+2700,lemniscate of Bernoulli,"{c, φ, cos, ρ, y, x}",
+2701,lens,"{R, n, d, f}",
+2702,level,"{Q, r, L, log}",
+2703,level of a field quantity,"{ln, L, F}",
+2704,level of a power quantity,"{ln, P, n, l, L}",
+2705,limit,"{∞, o, c, b, d, f, F, i, H, ∃, J, m, L, O, n, s, t, ∀, x, ϵ}",
+2706,limit set,"{ω, f, k, N, x, n}",
+2707,linear energy transfer,"{x, Δ, L, E}",
+2708,linear equation,"{y, x, b, m}",
+2709,liquid bubble,"{f, ρ, π, p, R, γ}",
+2710,load transfer,"{a, e, w, g, f, i, h, m, o, n, r, t, W, Δ}",
+2711,local parameter,"{P, ord, m, d, f}",
+2712,local quantum field theory,"{A, i, U, V}",
+2713,logarithmic decrement,"{Λ, δ, T}",
+2714,logarithmic derivative,{f},
+2715,logarithmically concave function,{x},
+2716,logic equality,"{q, p, u}",
+2717,logical equivalence,"{q, p}",
+2718,logistic function,"{x, k, e, L, f}",
+2719,logistic map,"{x, r, n}",
+2720,loss function,"{a, Θ, d, L, ρ, π, θ}",
+2721,luminiferous aether,"{c, n, v}",
+2722,luminosity function,"{e, d, v, m, l, Φ, λ, W, ∞, y}",
+2723,lumped element model,"{∂, ϕ, B, t}",
+2724,magma,{M},
+2725,magnet,"{A, B, μ, F}",
+2726,magnetic energy,"{p, B, m, E}",
+2727,magnetic flux,"{S, B, Φ, Σ}",
+2728,magnetic induction,{B},
+2729,magnetic levitation,"{a, B, g, m, P, μ}",
+2730,magnetic moment,"{τ, B, μ}",
+2731,magnetomotive force,"{R, Φ, F}",
+2732,magnification,"{A, e, d, f, M, o, tan, ε}",
+2733,magnitude,"{M, m, d, log}",
+2734,margin of error,"{p, n}",
+2735,marginalism,"{Δ, S, U}",
+2736,mass index,"{A, a, E, g, f, i, h, M, s, o, l, m, S, u, w}",
+2737,mass matrix,"{q, M, T}",
+2738,mass–energy equivalence,"{m, c, E}",
+2739,matching,"{A, B}",
+2740,mathematical principles of reinforcement,"{τ, b, e, t}",
+2741,matrix,"{A, a, i, K, j, m, n}",
+2742,matrix function,"{x, f}",
+2743,matrix polynomial,"{A, a, P, I, n, i}",
+2744,matrix space,"{a, i, K, j, m, n}",
+2745,maximal or minimal element,"{y, x, B}",
+2746,mean absolute difference,"{Y, X, M, D, E}",
+2747,mean anomaly,"{n, T, π}",
+2748,mean squared error,"{i, Y, MSE, n}",
+2749,mean value theorem,"{a, b, ξ, f}",
+2750,measurable function,"{E, f, ∀, Σ, T, x, X}",
+2751,measurable space,"{A, Ω}",
+2752,measure,"{∅, k, μ, E, ∞}",
+2753,mechanical advantage,"{A, M, E, L, F}",
+2754,median,"{P, m, X}",
+2755,median absolute deviation,"{i, f, T, N}",
+2756,mediant,"{a, c, b, d}",
+2757,melting,"{c, d, g, f, ln, H, S, R, T}",
+2758,membrane potential,"{E, F, ln, K, o, q, i, R, T, e, z}",
+2759,meridian arc,"{a, e, d, φ, M, m, sin}",
+2760,metabolic engineering,"{x, m, G, V}",
+2761,metric,"{X, d, ∞}",
+2762,metric map,"{d, f, Y, x, y, X}",
+2763,microclimate,"{A, B, Λ, O}",
+2764,mixing,"{A, B, P, s, t, α, ∞, X}",
+2765,mixture model,"{A, C, O, n}",
+2766,modern portfolio theory,"{i, p, R, E, w}",
+2767,modified Allan variance,"{i, τ, σ, n, y, x, mod}",
+2768,modular exponentiation,"{a, i, e, n}",
+2769,modus ponens,"{Q, P}",
+2770,molality,"{b, e, m, l, o, n, s, u, t, v}",
+2771,molar conductivity,"{κ, Λ, m, c}",
+2772,molar mass,"{i, x, M}",
+2773,moment of inertia,"{d, I, M, m, n, r}",
+2774,momentum,"{p, m, v}",
+2775,money multiplier,"{a, C, e, d, i, m, c, o, n, s, r, u, t, v, y, R, D}",
+2776,monic polynomial,"{x, c, n}",
+2777,monochromatic electromagnetic plane wave,"{C, d, ω, v, q, s, u, ∞, y, x}",
+2778,monodomain model,"{C, Σ, I, i, ∂, m, ∇, χ, λ, t, v}",
+2779,monoid,"{e, M}",
+2780,monoidal monad,"{I, C, T}",
+2781,monomial basis,"{i, x, d, a}",
+2782,motivation,"{a, i, M, o, n, t, v}",
+2783,movable cellular automaton,"{C, d, ψ, i, h, k, j, m, l, p, t, α}",
+2784,multilinear form,"{K, n, V, f}",
+2785,multiset,"{A, M, m, N}",
+2786,n-tuple,"{a, n}",
+2787,natural exponential function,"{x, e, exp, f}",
+2788,natural logarithm,"{ln, x, e, log}",
+2789,natural logarithm of 2,{ln},
+2790,natural number object,"{A, q, f}",
+2791,negative base,"{i, a, r, d, n}",
+2792,negative pedal curve,"{y, x, X}",
+2793,negative temperature,"{c, r, m, K, n}",
+2794,neper,"{ln, e}",
+2795,network analysis,"{a, R, c, b}",
+2796,noise,"{Q, x, R, z, Re}",
+2797,noise temperature,"{A, λ, T, G, F}",
+2798,non-empty set,"{∅, M}",
+2799,non-equilibrium thermodynamics,"{I, i, S, ∂, E}",
+2800,non-positive real number,{R},
+2801,noncentral F-distribution,"{q, a, S, ∞, n}",
+2802,noncommutative projective geometry,"{q, x, k, y}",
+2803,normal distribution,"{e, f, σ, π, μ, x, N}",
+2804,normal matrix,{A},
+2805,normal mode,"{A, y, B, d, x}",
+2806,nth root,"{x, r, n}",
+2807,nuclear thermal rocket,"{e, ln, v, m, V, Δ}",
+2808,null set,"{A, ∀, ∃, n, U, ∞, ϵ}",
+2809,nullor,"{Ω, k, m, L, R, u, ∞}",
+2810,number density,"{N, n, V}",
+2811,number of divisors,"{a, i, τ, σ, n, r}",
+2812,numerical differentiation,"{x, h, f}",
+2813,numerical method,"{x, n, F, g, N}",
+2814,odds,"{logit, p, log}",
+2815,one-form,"{x, R, M, T, α}",
+2816,online machine learning,"{E, d, f, I, p, V, y, x}",
+2817,opacity,"{e, I, ρ, κ, ν, x}",
+2818,open interval from 0 to π,{π},
+2819,operating temperature,"{a, j, D, J, P, R, T}",
+2820,ophiurid,"{y, a, b, x}",
+2821,optical aberration,"{cos, c, θ, u, v, y, x, ϕ, sin, tan}",
+2822,orbit,"{A, r, m, G}",
+2823,orbital eccentricity,"{e, E, m, L, α}",
+2824,orbital period,"{a, μ, T, π}",
+2825,ordered pair,"{a, b}",
+2826,orientation,"{e, ω, m, π, p, n}",
+2827,orthocentre,"{A, cos, S, B, C}",
+2828,orthocentric system,"{A, H, C, B, R}",
+2829,orthogonal group,"{A, I, K, O, n, T}",
+2830,orthogonal matrix,"{Q, I, T}",
+2831,orthogonal transformation,"{u, T, v}",
+2832,orthographic projection,"{b, e, d, l, T, w, ϵ}",
+2833,outer automorphism group,"{ϕ, λ, v}",
+2834,oxygen balance,"{c, B, %, d, f, M, m, l, O, n, p, u, o, w, Y, X, Z, t}",
+2835,pH,{log},
+2836,pOH,{K},
+2837,pairing,"{e, r, m, n}",
+2838,parabolic cylinder,"{a, y, z, x}",
+2839,parabolic differential equation,"{A, C, B, E, D, F, u, y, x}",
+2840,parabolic fractal distribution,"{c, b, log, f, n, exp}",
+2841,parabolic trajectory,{ϵ},
+2842,paraboloid,"{a, c, b, y, x, z}",
+2843,parallelogram law,"{A, C, B, D}",
+2844,parasitic drag,"{A, a, C, D, g, F, q, s, r, d}",
+2845,parimutuel betting,"{i, T, W, n}",
+2846,partial fraction decomposition,"{x, g, f}",
+2847,partial function,"{Z, g}",
+2848,particle decay,"{P, τ, γ, e, t}",
+2849,particle size,"{V, D, π}",
+2850,pascal,"{a, g, k, m, N, P, s}",
+2851,path integral formulation,"{H, L, q, p, t, ϵ}",
+2852,pentagonal number,{n},
+2853,percentile rank,"{i, f, %, ℓ, N}",
+2854,periodic function,"{x, T, f}",
+2855,permutation,"{σ, n}",
+2856,phase-shift keying,"{e, d, π, Q, erfc, t, ∞, x}",
+2857,plane,"{r, n}",
+2858,plane wave,"{A, c, f, n, t, x}",
+2859,plastic number,{ρ},
+2860,platonic solid,"{q, p, V, E, F}",
+2861,point process,"{Z, B, ϱ, N}",
+2862,point reflection,"{a, p, R, e, f}",
+2863,pointed set,"{y, Y, f, x, X}",
+2864,polar set,"{A, o, n, y, R, u, Y, x}",
+2865,polylogarithm,"{∞, s, z, k, Li}",
+2866,polynomial,"{a, x, k, n, P}",
+2867,polynomial identity ring,"{P, r, N}",
+2868,polytrope,"{P, K, ρ, n}",
+2869,polytropic process,"{p, C, v, n}",
+2870,pooled variance,"{i, p, s, k, n}",
+2871,positive linear functional,"{f, v}",
+2872,positive-definite matrix,"{A, x, T}",
+2873,potential flow,"{ϕ, ∇, v}",
+2874,power,"{P, E, t}",
+2875,power of a point,"{h, s, r}",
+2876,power series,"{a, x, n, ∞}",
+2877,power set,"{P, U, X}",
+2878,power-weighted mean,"{i, x, q, w, n}",
+2879,pressure,"{p, S, F}",
+2880,prime number theorem,"{x, ∞, log, π}",
+2881,principal bundle,"{p, C, π, G, X}",
+2882,principal component analysis,"{i, x, k, t, w}",
+2883,probability,"{A, P}",
+2884,probability amplitude,"{d, ψ, ∞, μ, X, x}",
+2885,probability mass function,"{x, s, f, S, X}",
+2886,probit,"{p, z, probit, Φ}",
+2887,product,"{Y, X, Z}",
+2888,projection,"{Π, a, R, t, n}",
+2889,projective module,"{A, P, B}",
+2890,projective object,"{C, e, Hom, P, S, t}",
+2891,projective plane,"{x, K, k}",
+2892,projective space,"{i, x, U, n}",
+2893,pronic number,{n},
+2894,propositional logic,"{Q, P}",
+2895,pseudo-Riemannian manifold,"{p, R, M, T, g}",
+2896,pseudosphere,"{sech, ∞, t, tanh}",
+2897,pseudovector,"{a, p, b}",
+2898,pycnometer,"{P, c, r, s, V}",
+2899,quadratic equation,"{a, x, c, b}",
+2900,quadratic form,"{y, x}",
+2901,quadratic formula,"{a, x, c, b}",
+2902,quadratic function,"{a, c, b, e, d, g, f, i, h, j, y, x, z}",
+2903,quadric,"{A, c, b, n, Q, R, T, x}",
+2904,quantum fluctuation,"{h, Δ, t, E, π}",
+2905,quantum stochastic calculus,"{ω, H, κ, n, q, p, s, y, X, Z}",
+2906,quantum superposition,{c},
+2907,quantum teleportation,"{α, C, β, ψ}",
+2908,quasi-arithmetic mean,"{x, k, M, φ, n}",
+2909,quasi-isometry,"{C, d, ∀, K, s, R, t, ϕ}",
+2910,quaternion,"{i, k, j}",
+2911,quiver diagram,"{M, N}",
+2912,quotient ring,"{Y, X, R}",
+2913,radian,"{r, π}",
+2914,radio propagation,"{P, r, ρ}",
+2915,radius of convergence,"{a, c, f, n, ∞, z}",
+2916,random element,"{F, t, T}",
+2917,random graph,"{i, V, j, n}",
+2918,range,"{g, G, F, n, t, ∞, x}",
+2919,range of a projectile,"{cos, d, g, θ, v, y, sin}",
+2920,rapidity,"{A, c, ln, h, θ, r, t, v}",
+2921,rational normal curve,"{P, s, t, ν, n}",
+2922,rational number,"{a, Q, Z, b, N}",
+2923,rational root theorem,"{a, x, n}",
+2924,rational singularity,"{Y, X, f}",
+2925,reaction rate,"{A, Q, b, d, P, q, p, r, t, a, B}",
+2926,reaction rate constant,"{A, B, k, m, n, r, T}",
+2927,real numbers without multiples of π,"{k, R, π}",
+2928,real numbers without odd multiples of π/2,"{k, R, π}",
+2929,rectangle,"{A, P, C, B, D}",
+2930,rectifier,"{x, f}",
+2931,recurrence plot,"{i, x, j}",
+2932,reduced ring,"{r, n}",
+2933,reduction,"{Y, X, C, Σ}",
+2934,redundancy,"{i, p, n}",
+2935,refractive index,"{c, v, n}",
+2936,regular measure,"{A, μ, F}",
+2937,relative humidity,"{H, ϕ, O, p}",
+2938,rename,"{a, R, b, t, ρ}",
+2939,rendering equation,"{Ω, e, d, f, i, L, o, n, r, w, x}",
+2940,replicator equation,"{f, i, j, n, x, ϕ}",
+2941,representable functor,"{i, A, u, d, Φ}",
+2942,representation theory of finite groups,"{h, g}",
+2943,residence time distribution,"{∞, E, t, d}",
+2944,residual sum of squares,"{f, i, n, S, R, y, x}",
+2945,resolvent (direct problem),"{y, x, g, F}",
+2946,resonator,"{λ, d, N}",
+2947,retract,"{A, X, r}",
+2948,right kite,"{a, A, tan, b, C}",
+2949,right triangle,"{a, b, T}",
+2950,rigid rotor,"{B, E, H, k, Φ, n, T, Z}",
+2951,ring of integers,"{i, a, b, n, x}",
+2952,risk assessment,"{i, p, R, L}",
+2953,rocket engine nozzle,"{e, M, p, R, T, v, γ}",
+2954,root mean square,"{a, s, n}",
+2955,root of unity,"{z, n}",
+2956,rose,"{θ, cos, r, k}",
+2957,rotary variable differential transformer,"{θ, G, V}",
+2958,rotation group SO(4),"{a, c, b, d, i, k, j, q, p, s, r, u, y, x, z}",
+2959,rotational invariance,"{y, x, f}",
+2960,scalar field theory,"{C, i, S, L, o}",
+2961,scalar matrix,"{A, a, c, d, g, i, I}",
+2962,scalar potential,"{A, ϕ, ∇}",
+2963,scale height,"{H, k, M, T, g}",
+2964,scale invariance,"{x, λ, Δ, f}",
+2965,scattering,"{α, λ, D, π}",
+2966,secant,{sec},
+2967,secant method,"{i, x, f}",
+2968,secretary problem,"{Q, P}",
+2969,sectional curvature,"{K, R, u, v}",
+2970,security protocol notation,"{A, X, K, B}",
+2971,self-adjoint,"{y, x, A}",
+2972,semigroup,{S},
+2973,semiring,{a},
+2974,sensitivity and specificity,"{P, R, N, T, F}",
+2975,sequence of Lucas numbers,"{x, L, n}",
+2976,series and parallel circuits,"{M, T, D, N}",
+2977,shear flow,"{q, I, Q, V, y, x}",
+2978,shear strength,"{τ, σ}",
+2979,shellsort,"{D, θ, s, u, t, W, v, α}",
+2980,shift-share analysis,{M},
+2981,silver ratio,"{S, δ}",
+2982,simple random sample,"{I, t, ε, n}",
+2983,simplex algorithm,"{x, c, T}",
+2984,simplicial homology,"{i, c, σ, N}",
+2985,sine,{sin},
+2986,single loss expectancy,"{A, E, F, L, S, V, a, c, e, g, f, i, l, o, n, p, s, r, u, t, v, y, x}",
+2987,singleton,{a},
+2988,singleton of 0,{A},
+2989,singular matrix,"{A, e, d, t}",
+2990,singular value decomposition,"{U, Σ, M, V}",
+2991,sinusoidal spiral,"{a, cos, φ, n, θ, r, sin}",
+2992,skew-symmetric matrix,"{A, T}",
+2993,slice genus,"{K, B, s, g, T}",
+2994,smoothstep,"{x, smoothstep}",
+2995,softmax function,"{e, k, j, σ, z, K}",
+2996,soundness,"{y, P, ϵ, V}",
+2997,space-oblique Mercator projection,"{A, a, C, E, I, O, S, r, u}",
+2998,spacecraft propulsion,"{e, ln, M, P, v, Δ}",
+2999,sparse graph,"{E, D, V}",
+3000,sparse matrix,"{i, Δ, E, U}",
+3001,special linear group,"{A, K, SL, n}",
+3002,specific gravity,"{G, H, S, O, ρ}",
+3003,specific storage,"{A, b, d, h, s, S, w, V, y}",
+3004,specific weight,"{γ, g, ρ}",
+3005,spectral centroid,"{x, N, n, f}",
+3006,spectral power distribution,"{A, ∂, M, Φ, λ, Δ}",
+3007,spectrum,"{C, Σ, σ, T, Y, X}",
+3008,spectrum analyzer,"{a, B, k, n, p, S, R, T, W}",
+3009,sphere,"{y, x, r, z}",
+3010,spherical coordinate system,"{a, c, g, φ, θ, r, t, arccos, y, x, z}",
+3011,spheroid,"{a, x, z, b, y}",
+3012,spin quantum number,"{s, ℏ}",
+3013,spiric section,"{a, x, c, b, y}",
+3014,splitting field,"{a, i, L, p, X, deg}",
+3015,spontaneous process,"{H, S, Δ, T, G}",
+3016,square matrix,"{A, K, n}",
+3017,square root,{x},
+3018,square wave,"{a, c, b, d, f, z}",
+3019,square-free element,"{p, r, n}",
+3020,squeezed coherent state,"{p, ℏ, Δ, x}",
+3021,stability,"{X, c, d, n}",
+3022,stable vector bundle,"{deg, W, V}",
+3023,stack effect,"{a, C, i, h, o, P, T, Δ}",
+3024,standard deviation,"{μ, σ}",
+3025,standard score,"{x, z, μ, σ}",
+3026,statistical classification,"{i, X, k, score, β}",
+3027,statistical power,"{H, P}",
+3028,stella octangula number,"{m, n}",
+3029,steradian,{r},
+3030,stereographic projection,"{y, x, z, Y, X}",
+3031,strict diagonally dominant matrix,"{a, i, j}",
+3032,strictly consistent numerical method,"{g, F, ∀, N, x, n}",
+3033,structural analysis,"{A, R, B, M}",
+3034,stub,"{q, α, p, N}",
+3035,subadditive function,"{y, x, f}",
+3036,subcategory,"{C, H, m, o, S, Y, X}",
+3037,subderivative,"{x, c, f}",
+3038,sublinear function,"{y, x, γ, f}",
+3039,successor function,"{S, n}",
+3040,sum,"{a, k, m, n}",
+3041,summation by parts,"{k, f, m, g, n}",
+3042,supercompact cardinal,"{λ, M}",
+3043,superfactorial,"{s, k, f, $, n}",
+3044,superparticular number,{n},
+3045,superpotential,"{Q, p, b, i, W}",
+3046,surface area of a closed cylinder,"{A, B, d, h, L, π, r}",
+3047,surface area of a open cylinder,"{h, r, L, π}",
+3048,surface of revolution,"{a, A, b, d, π, t, y, x}",
+3049,surface phonon,"{i, j, m, u, α, ϕ, β}",
+3050,symmetric algebra,"{w, v}",
+3051,symmetric group,{f},
+3052,symmetric matrix,"{A, T}",
+3053,symmetric polynomial,"{a, P, t, n}",
+3054,symmetric relation,"{a, ∀, R, b, X}",
+3055,symmetric space,"{σ, G, g}",
+3056,symmetric successive over-relaxation,"{M, D, T, L}",
+3057,symmetry of second derivatives,"{y, x, ∂, f}",
+3058,symplectic group,"{Ω, S, Sp, F, n}",
+3059,tacit programming,"{A, C, hom, B}",
+3060,tangent,"{a, cos, f, θ, y, x, tan, sin}",
+3061,tangent bundle,"{a, b, e, f, i, l, o, n, s, r, t, v, X}",
+3062,tangent vector,"{r, T, ′, t}",
+3063,tautology,"{A, C, B}",
+3064,tensegrity,"{s, l, d}",
+3065,tesseract,"{i, x, R}",
+3066,tetration,"{a, None, n}",
+3067,thermal design power,"{P, C, V, f}",
+3068,thermistor,"{k, R, Δ, T}",
+3069,thermodynamic temperature,"{k, B, E, T}",
+3070,thinning,"{a, C, n, d, D}",
+3071,tidal heating,"{Q, e, d, i, ρ, n, q, r, μ, t}",
+3072,time constant,"{y, x, s, r}",
+3073,time-independent Schrödinger equation,"{Ψ, H, E}",
+3074,topological game,"{I, X, ∅, ω, n}",
+3075,torsion subgroup,"{a, A, ∃, N, p, T, n}",
+3076,torsion tensor,"{i, k, j, Γ, T}",
+3077,torus,"{y, x, R, r, z}",
+3078,torus knot,"{cos, q, p, r, y, x, ϕ, z, sin}",
+3079,total relation,"{a, X, R, b, ∀}",
+3080,toughness,"{ϵ, σ, d, f}",
+3081,trace,"{a, i, A, n}",
+3082,tractography,"{s, r, d, T}",
+3083,trajectory,"{d, i, h, m, ∇, t, w, V, y, x, z}",
+3084,transformation matrix,"{A, x, T}",
+3085,transition of state,"{x, k, V}",
+3086,translation,"{y, x, b, a}",
+3087,trapdoor function,"{n, f, e, x, mod}",
+3088,trapezoid,"{a, c, b, d}",
+3089,traveler's dilemma,"{y, x, sgn, F}",
+3090,triangular number,"{Δ, n}",
+3091,triatomic molecule,"{A, a, B, ω, M, k, m}",
+3092,trilateration,"{y, x, r, z}",
+3093,triple,"{a, c, b}",
+3094,trisectrix of Maclaurin,"{a, cos, θ, r, sec, y, x, sin}",
+3095,truncated dodecahedron,"{A, a}",
+3096,truncation,"{x, n, trunc}",
+3097,truth table,"{A, a, c, D, g, i, j, l, o, N, u, t, n}",
+3098,turbulent Prandtl number,"{c, P, p, r, t, η, ϰ}",
+3099,two envelopes problem,{A},
+3100,two-dimensional space,{R},
+3101,ultraviolet–visible spectroscopy,"{A, c, log, I, L, ε}",
+3102,unipotent matrix,"{A, I, ∃, m, N}",
+3103,unit vector,{v},
+3104,unitary matrix,"{I, U}",
+3105,universal parabolic constant,"{ln, P}",
+3106,universal quantification,{∀},
+3107,unordered n-tuple,"{a, n}",
+3108,unordered pair,"{a, b}",
+3109,v = d/t,"{s, t, v}",
+3110,valuation,"{R, v, T, ∞}",
+3111,variable speed of light,"{c, r, M, ν, G}",
+3112,variance,"{Var, X, μ, E}",
+3113,variance reduction,"{X, E, μ, ξ, j}",
+3114,vector field,"{p, V, f}",
+3115,vector space,{V},
+3116,velocity,"{t, r, d, v}",
+3117,versine,"{θ, versin, cos}",
+3118,vibration,"{x, ∞, e, n}",
+3119,viscosity,"{y, u, μ, d, F}",
+3120,voltage,"{A, B, E, d, l, r, V, x, Δ}",
+3121,volume form,"{X, ω, n}",
+3122,volume fraction,"{i, ϕ, j, V}",
+3123,voter turnout,"{P, C, B, D}",
+3124,water content,"{θ, w, V}",
+3125,wave equation,"{c, ◻, u}",
+3126,wavelet,"{a, b, t, ψ}",
+3127,wavelet transform,"{a, b, d, ψ, f, t, w, ∞, x}",
+3128,weak diagonally dominant matrix,"{i, a, j}",
+3129,wedge,"{A, P, B, v, F}",
+3130,weight,"{m, g, F}",
+3131,weighted geometric mean,"{w, ln, n, i, exp, x}",
+3132,weighted harmonic mean,"{i, x, w, n}",
+3133,weighted mean,"{i, x, w, n}",
+3134,well-posed problem,"{g, F, ∀, ∃, y, x, δ, K}",
+3135,wheel and axle,"{A, a, B, F, M, b}",
+3136,wind engineering,"{a, log}",
+3137,work,"{A, s, F}",
+3138,work function,"{e, ϕ, E, W, F}",
+3139,zero,"{a, z, g, f}",
+3140,zero function,"{y, x, z, f}",
+3141,zygosity,"{i, H, a, o, n}",
+3142,Čech-to-derived functor spectral sequence,"{E, F, H, q, p, U, X}",Fields of mathematics
+3143,Ε-quadratic form,"{Q, ϵ, B, M, T}",Fields of mathematics
+3144,δ13C,"{a, None, e, d, C, m, l, o, n, p, s, r, t, δ}",
+3145,сapacity of a set,"{C, ∂, d, K, Σ, σ, ∇, n, S, R, u, ν, x}",
+3146,сharacteristic,{n},
+3147,−1,{x},Fields of mathematics
