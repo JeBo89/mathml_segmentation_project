@@ -61,6 +61,14 @@ df = pd.DataFrame({'symbol_set' : df.groupby('formula_label').apply(make_set)}).
 # print(df)
 
 def get_broader(subject):
+    if (('sciences' in subject.lower()) or
+            ('fields' in subject.lower()) or
+            ('theories' in subject.lower()) or
+                ('branches') in subject.lower() or
+            ('studies' in subject.lower())):
+        print 'found'
+        return subject
+
     sparql = SPARQLWrapper("http://dbpedia.org/sparql")
     sparql.setQuery('''
         prefix dbc: <http://dbpedia.org/resource/Category:>
@@ -76,11 +84,10 @@ def get_broader(subject):
        	    skos:broader ?broader_subject.
         
         ?broader_subject rdfs:label ?broader_subject_label . filter(lang(?broader_subject_label) = "en")
-    }limit 10
+    }limit 20
      ''')
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
-
     for result in results["results"]["bindings"]:
         the_result = result["broader_subject_label"]["value"]
         print 'the_result  ', the_result
@@ -89,15 +96,17 @@ def get_broader(subject):
                 ('theories' in the_result.lower()) or
                 ('branches') in the_result.lower() or
                 ('studies' in the_result.lower())):
-            return the_result
+            # print 'found'
+            return  the_result
         elif (('main topic classifications' in the_result.lower()) or
                   ('academic disciplines' in the_result.lower()) or
                   ('wikipedia' in the_result.lower()) or
                   ('Contents' in the_result.lower()) or
                   ('Scientific disciplines') in the_result.lower()):
+            # print 'found'
             return subject
         else:
-            get_broader(the_result)
+            return get_broader(the_result)
 
 def get_subject(row):
     # print row
@@ -125,7 +134,7 @@ def get_subject(row):
         subject = result["subject_Label"]["value"]
 
         broader = get_broader(subject=subject)
-        print '-------------------------------'
+        print '-----------------------------------------------------------------------------'
         print 'broader = ' , broader
         return  broader
 
