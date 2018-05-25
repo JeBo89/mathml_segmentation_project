@@ -25,7 +25,7 @@ df_grouped = df.groupby(['subject']).size().reset_index(name='counts').sort_valu
 print(df_grouped.head())
 
 # exit()
-f  = df_grouped[df_grouped['counts']>100]['subject'].tolist()
+f  = df_grouped[df_grouped['counts']>10]['subject'].tolist()
 print(f)
 
 df = df.loc[df['subject'].isin(f)]

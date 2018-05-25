@@ -22,8 +22,12 @@ import numpy as np
 
 import gensim
 from gensim.models.doc2vec import TaggedDocument, LabeledSentence, Doc2Vec
-
+from sklearn.metrics import confusion_matrix,roc_curve
 import matplotlib.pyplot as plt
+
+from sklearn.model_selection import cross_val_score
+
+
 
 def plot_confusion_matrix(cm, classes,
                           normalize=False,
@@ -131,30 +135,69 @@ tagged_document = df['tagged'].tolist()
 
 
 
+from numpy import array
+from numpy import argmax
+from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import OneHotEncoder
+# define example
+data = list(set(symbol_set_all))
+values = array(data)
 
+# integer encode
+
+label_encoder = LabelEncoder()
+label_encoder_model = label_encoder.fit(values)
+integer_encoded = label_encoder_model.transform(values)
+integer_encoded = integer_encoded.reshape(len(integer_encoded), 1)
+
+onehot_encoder = OneHotEncoder(sparse=True)
+onehot_encoder_model =onehot_encoder.fit(integer_encoded)
+
+
+
+def encode_transform(data):
+    values = array(data)
+    integer_encoded = label_encoder_model.transform(values)
+    integer_encoded = integer_encoded.reshape(len(integer_encoded), 1)
+    onehot_encoded = onehot_encoder_model.transform(integer_encoded)
+    return onehot_encoded
+
+# print encode_transform(['a'])[0]
+#
+# exit()
 # word 2 vec experiment
 
 from gensim.models import Word2Vec
 # build vocabulary and train model
 Word2Vec_model = gensim.models.Word2Vec(
     symbol_list,
-    size=300,
+    size=100,
     window=4,
-    min_count=0,
+    min_count=1,
     workers=4)
 Word2Vec_model.train(symbol_list, total_examples=len(symbol_list))
 
 
+def vectorize(s):
+    v = Word2Vec_model[s]
+    # v = encode_transform([s])[0]
+    return v
+
+
+# print vectorize('a')
+
+
 d = []
 
-class_names = ['Life sciences', 'Physical sciences', 'Applied sciences']
+# class_names = ['Life sciences', 'Physical sciences', 'Applied sciences']
+class_names = ['Life sciences', 'Physical sciences', 'Applied sciences', 'Society', 'Professional studies', 'Auxiliary sciences of history', 'Humanities', 'Environmental studies', 'Categories by parameter']
 
 for t in tagged_document:
     v = []
     for s in t['words']:
-        v.append(Word2Vec_model[s])
+        v.append(vectorize(s))
         np.array(v)
-    meanv_v =    np.mean(v, axis=0)
+    meanv_v = np.mean(v, axis=0)
     # print  meanv_v
     t['features'] = meanv_v
     if t['tags'][0] == class_names[0]:
@@ -163,10 +206,20 @@ for t in tagged_document:
         t['tag'] = 1
     if t['tags'][0] == class_names[2]:
         t['tag'] = 2
+    if t['tags'][0] == class_names[3]:
+        t['tag'] = 3
+    if t['tags'][0] == class_names[4]:
+        t['tag'] = 4
+    if t['tags'][0] == class_names[5]:
+        t['tag'] = 5
+    if t['tags'][0] == class_names[6]:
+        t['tag'] = 6
+    if t['tags'][0] == class_names[7]:
+        t['tag'] = 7
+    if t['tags'][0] == class_names[8]:
+        t['tag'] = 8
 
-    # ['Life sciences' 'Fields of mathematics' 'Physical sciences'
-    #  'Applied sciences' 'Subfields of physics']
-    # t['tag'] = t['tags'][0]
+
     d.append(t)
 
 
@@ -188,12 +241,11 @@ X=sparse.csr_matrix(X)
 Y = df['tag']
 
 from sklearn.model_selection import train_test_split
-# X_train, X_test, y_train, y_test = train_test_split(X,Y , test_size=0.5,  random_state=42,stratify=Y)
-X_train, X_test, y_train, y_test = train_test_split(X,Y , test_size=0.5,  random_state=42)
+# X_train, X_test, y_train, y_test = train_test_split(X,Y , test_size=0.2,  random_state=42,stratify=Y)
+X_train, X_test, y_train, y_test = train_test_split(X,Y , test_size=0.2,  random_state=42)
 #
 
 
-# exit()
 print 'RandomForestClassifier'
 from sklearn.ensemble import RandomForestClassifier
 # rf = RandomForestClassifier()
@@ -205,18 +257,20 @@ from scipy.stats import spearmanr, pearsonr
 # predicted_train = rf.predict(X_train)
 predicted_test = rf.predict(X_test)
 # f1_score = f1_score(y_test, predicted_test,average=None)
-# roc_auc_score_test = roc_auc_score(y_test, predicted_test, average=None, sample_weight=None)
+
+# roc_curve_score_test = roc_curve(y_test, predicted_test,pos_label=0)
+# print('roc_auc_score: ',roc_curve_score_test)
 
 # print('Out-of-bag R-2 score estimate: ' , rf.oob_score_ )
 # print('F1 Score: ', f1_score )
-# print('roc_auc_score: ',roc_auc_score_test)
 
 
 
-from sklearn.model_selection import cross_val_score
+
+
 # 10-Fold Cross validation
 print 'cross_val_score: ', np.mean(cross_val_score(rf, X_train, y_train, cv=10))
-from sklearn.metrics import confusion_matrix
+
 #
 # print 'confusion_matrix',confusion_matrix(y_test, predicted_test)
 #
@@ -250,7 +304,8 @@ print '-------------------------------------------------------------------'
 print 'DecisionTreeClassifier'
 from sklearn.tree import DecisionTreeClassifier
 # rf = RandomForestClassifier()
-dt = DecisionTreeClassifier( random_state=42)
+dt = DecisionTreeClassifier( random_state=42 ,criterion = 'gini')
+
 dt.fit(X_train, y_train)
 
 # predicted_train = dt.predict(X_train)
@@ -281,7 +336,7 @@ print '-------------------------------------------------------------------'
 
 print 'MLPClassifier'
 from sklearn.neural_network import MLPClassifier
-mlp = MLPClassifier(hidden_layer_sizes=(100,100,13),max_iter=500)
+mlp = MLPClassifier(hidden_layer_sizes=(100,100),max_iter=100)
 
 mlp.fit(X_train, y_train)
 #
@@ -355,7 +410,6 @@ plot_confusion_matrix(cnf_matrix, classes=class_names, normalize=True,
 plt.savefig('plot_confusion_matrix_normal_LinearSVC')
 
 
-exit()
 
 
 
@@ -378,57 +432,6 @@ exit()
 
 # print list(set(symbol_set_all))
 # exit()
-
-from numpy import array
-from numpy import argmax
-from sklearn.preprocessing import LabelEncoder
-from sklearn.preprocessing import OneHotEncoder
-# define example
-data = list(set(symbol_set_all))
-values = array(data)
-
-# integer encode
-
-label_encoder = LabelEncoder()
-label_encoder_model = label_encoder.fit(values)
-integer_encoded = label_encoder.transform(values)
-# print(integer_encoded)
-# binary encode
-onehot_encoder = OneHotEncoder(sparse=False)
-integer_encoded = integer_encoded.reshape(len(integer_encoded), 1)
-onehot_encoder_model =onehot_encoder.fit(integer_encoded)
-
-onehot_encoded = onehot_encoder_model.transform(integer_encoded)
-
-# print(onehot_encoded)
-# invert first example
-inverted = label_encoder.inverse_transform([argmax(onehot_encoded[0, :])])
-# print(inverted)
-
-
-def encode_transform(data):
-    values = array(data)
-    integer_encoded = label_encoder.transform(values)
-    integer_encoded = integer_encoded.reshape(len(integer_encoded), 1)
-    onehot_encoded = onehot_encoder_model.transform(integer_encoded)
-    return onehot_encoded
-
-# print encode_transform(['n'])
-
-# df_2 = pd.get_dummies(df,drop_first=True)
-
-# print(df_2)
-# exit()
-def encode_set(row):
-
-    symbols_ = list(set(row['symbol_set']))
-
-    return list(encode_transform(symbols_))
-
-df['features'] = df.apply(encode_set,axis=1)
-
-# print df['features'].tolist()[0]
-
 
 
 
