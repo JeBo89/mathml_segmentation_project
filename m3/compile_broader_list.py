@@ -17,7 +17,7 @@ from rdflib import Dataset, URIRef, Literal, Namespace, RDF, RDFS, OWL, XSD
 
 sparql = SPARQLWrapper("http://localhost:5820/MATH/query")
 sparql.setQuery("""
-    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 SELECT distinct ?formula_Label ?symbol_label
 
@@ -46,6 +46,42 @@ for result in results["results"]["bindings"]:
     d["symbol_label"] = result["symbol_label"]["value"].encode("utf8")
     l.append(d)
 
+
+
+sparql = SPARQLWrapper("http://localhost:5820/MATH/query")
+sparql.setQuery("""
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT distinct ?formula_Label ?symbol_label
+
+WHERE {
+  GRAPH ?g {
+  ?s <http://localhost:5820/MATH/vocab/partOf> ?o;
+   	a <http://localhost:5820/MATH/vocab/Operator>;
+    <http://localhost:5820/MATH/vocab/label> ?symbol_label.
+
+  ?o <http://localhost:5820/MATH/vocab/label> ?formula_Label . 
+  }   
+}
+group by ?formula_Label  ?symbol_label
+order by ?formula_Label
+
+""")
+sparql.setReturnFormat(JSON)
+results = sparql.query().convert()
+
+
+print (len(l))
+for result in results["results"]["bindings"]:
+    # print result
+    d = {}
+    d["formula_label"] = result["formula_Label"]["value"].encode("utf8")
+    d["symbol_label"] = result["symbol_label"]["value"].encode("utf8")
+    l.append(d)
+
+
+
+print (len(l))
 # pprint(l)
 def make_set(x):
     # x is a DataFrame of group values
@@ -61,13 +97,13 @@ df = pd.DataFrame({'symbol_set' : df.groupby('formula_label').apply(make_set)}).
 found_subject_list = []
 def get_broader(subject):
     global found_subject_list
-    if (('sciences' in subject.lower()) or
-            ('fields' in subject.lower()) or
-            ('theories' in subject.lower()) or
-                ('branches') in subject.lower() or
-            ('studies' in subject.lower())):
-        print 'found'
-        return subject
+    # if (('sciences' in subject.lower()) or
+    #         ('fields' in subject.lower()) or
+    #         ('theories' in subject.lower()) or
+    #         ('branches') in subject.lower() or
+    #         ('studies' in subject.lower())):
+    #     print 'found'
+    #     return subject
 
     sparql = SPARQLWrapper("http://dbpedia.org/sparql")
     sparql.setQuery('''
@@ -96,16 +132,20 @@ def get_broader(subject):
         found_subject_list.append(the_result)
         # print 'the_result  ', the_result , ' for ', subject
 
-        if (('sciences' in the_result.lower()) or
-                ('fields' in the_result.lower()) or
-                ('theories' in the_result.lower()) or
-                ('branches') in the_result.lower() or
-                ('studies' in the_result.lower())):
+        if (
+                ('sciences' in the_result.lower())
+                # or
+                # ('fields' in the_result.lower())
+                # or
+                # ('theories' in the_result.lower())
+                # or
+                # ('branches') in the_result.lower()
+                # ('studies' in the_result.lower())
+            ):
             # print 'found'
             found_subject_list =[]
             return  the_result
-        elif (('main topic classifications' in the_result.lower()) or
-                  ('academic disciplines' in the_result.lower()) or
+        elif (('main topic' in the_result.lower()) or
                   ('wikipedia' in the_result.lower()) or
                   ('Contents' in the_result.lower()) or
                   ('disciplines') in the_result.lower()):
