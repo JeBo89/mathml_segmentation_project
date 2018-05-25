@@ -138,14 +138,16 @@ from gensim.models import Word2Vec
 # build vocabulary and train model
 Word2Vec_model = gensim.models.Word2Vec(
     symbol_list,
-    size=100,
-    window=2,
+    size=300,
+    window=4,
     min_count=0,
     workers=4)
 Word2Vec_model.train(symbol_list, total_examples=len(symbol_list))
 
 
 d = []
+
+class_names = ['Life sciences', 'Physical sciences', 'Applied sciences']
 
 for t in tagged_document:
     v = []
@@ -155,21 +157,19 @@ for t in tagged_document:
     meanv_v =    np.mean(v, axis=0)
     # print  meanv_v
     t['features'] = meanv_v
-    if t['tags'][0] == 'Life sciences':
-        t['tag'] = 10
-    if t['tags'][0] == 'Fields of mathematics':
-        t['tag'] = 200
-    if t['tags'][0] == 'Applied sciences':
-        t['tag'] = 3000
-    if t['tags'][0] == 'Subfields of physics':
-        t['tag'] = 40000
+    if t['tags'][0] == class_names[0]:
+        t['tag'] = 0
+    if t['tags'][0] == class_names[1]:
+        t['tag'] = 1
+    if t['tags'][0] == class_names[2]:
+        t['tag'] = 2
 
     # ['Life sciences' 'Fields of mathematics' 'Physical sciences'
     #  'Applied sciences' 'Subfields of physics']
     # t['tag'] = t['tags'][0]
     d.append(t)
 
-class_names = ['Life sciences' ,'Fields of mathematics' ,'Applied sciences', 'Subfields of physics']
+
 
 
 df =  pd.DataFrame(d)
@@ -188,8 +188,9 @@ X=sparse.csr_matrix(X)
 Y = df['tag']
 
 from sklearn.model_selection import train_test_split
-X_train, X_test, y_train, y_test = train_test_split(X,Y , test_size=0.1,  random_state=42,stratify=Y)
-
+# X_train, X_test, y_train, y_test = train_test_split(X,Y , test_size=0.5,  random_state=42,stratify=Y)
+X_train, X_test, y_train, y_test = train_test_split(X,Y , test_size=0.5,  random_state=42)
+#
 
 
 # exit()
@@ -214,7 +215,7 @@ predicted_test = rf.predict(X_test)
 
 from sklearn.model_selection import cross_val_score
 # 10-Fold Cross validation
-print 'cross_val_score: ', np.mean(cross_val_score(rf, X_train, y_train, cv=2))
+print 'cross_val_score: ', np.mean(cross_val_score(rf, X_train, y_train, cv=10))
 from sklearn.metrics import confusion_matrix
 #
 # print 'confusion_matrix',confusion_matrix(y_test, predicted_test)

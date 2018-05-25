@@ -22,15 +22,16 @@ df = pd.read_csv('formula_with_subject.csv',index_col=0).dropna(axis=0)
 
 # df_grouped = df.groupby('subject').agg('count')
 df_grouped = df.groupby(['subject']).size().reset_index(name='counts').sort_values(by='counts', ascending=False)
+print(df_grouped.head())
 
-
-f  = df_grouped[df_grouped['counts']>10]['subject'].tolist()
+# exit()
+f  = df_grouped[df_grouped['counts']>100]['subject'].tolist()
 print(f)
 
 df = df.loc[df['subject'].isin(f)]
 
 
-print(df)
+# print(df.head())
 print(df.count())
 
 df.to_csv('training.csv')

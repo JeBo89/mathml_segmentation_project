@@ -1,40 +1,23 @@
 ,formula_label,symbol_set,subject
 0,'t Hooft–Polyakov monopole,"{i, H, ,, ), (, =}",Physical sciences
 1,"(2,1)-Pascal triangle","{), (, +, n, y, x, −}",Life sciences
-2,1 + 1 + 1 + 1 + …,"{∑, n, =, ∞}",
-3,1 + 2 + 3 + 4 + …,"{∑, n, =, ∞}",
-4,1 + 2 + 4 + 8 + …,"{∑, n, =, ∞}",
-5,1 − 1 + 2 − 6 + 24 − 120 + ⋯,"{!, ), (, n, ∞, ∑, −, =}",
-6,1 − 2 + 3 − 4 + · · ·,"{), (, n, ∞, ∑, −, =}",
-7,1 − 2 + 4 − 8 + …,"{), (, k, n, ∞, ∑, −, =}",
 8,2-group,"{Π, (, ,, π, ), X, x, ., =}",Life sciences
 9,2-sided,"{−, ×, F, h, M, ,, →, [, :, ]}",Life sciences
 10,24-cell honeycomb,"{≅, π}",Life sciences
-11,277,"{+, ⋯, sec, ⁡, x, =}",Humanities
 12,3-manifold,"{×, S, =, T}",Life sciences
-13,353,"{+, =}",Humanities
-14,6÷2(1+2),"{), (, +, ÷}",
-15,6₃ knot,"{−, σ}",
 16,7₁ knot,"{), (, +, =, ,, t, −, Δ}",Life sciences
-17,88 Aquarii,"{i, (, k, σ, ), ∑, X, Z, =}",Society
 18,ADE classification,"{A, ,, E, D, n}",Life sciences
-19,ANF,"{e, g, f, ), h, …, ,, n, ⊕, r, w, (, x, =}",
-20,API gravity,"{−, =}",Environmental studies
 21,ARGUS distribution,"{=, c, r, M, G}",Life sciences
-22,ASC CDL,"{), ×, i, (, +, o, p, s, u, t, =}",People
 23,Abel–Ruffini theorem,"{a, c, b, ±, x, −, =}",Life sciences
-24,Abraham–Minkowski controversy,"{c, h, M, n, p, ν, ;, =}",Hermann Minkowski
 25,Absolute Galois group,"{lim, /, n, ←, ⁡, Z, =, ^}",Life sciences
 26,Absolute presentation of a group,"{⟨, ⟩, G, ∣, ≃, S, R}",Life sciences
 27,Absolutely integrable function,"{∫, f, +, −, =, |}",Physical sciences
 28,Accelerator effect,"{d, I, (, K, n, ), x, −, =}",Applied sciences
 29,Acceptance set,"{A, ), (, }, t, V, {, −, =, T}",Life sciences
-30,Accounting rate of return,{=},Professional studies
 31,Accumulation function,"{A, a, ⋅, ), (, k, t, =}",Life sciences
 32,Acid value,"{A, b, e, i, (, l, o, N, q, ), W, V, −, =}",Life sciences
 33,Ackermann function,"{A, None, ), (, +, m, ,, n, {, −, =, >}",Life sciences
 34,Acoustic ohm,"{a, ⋅, Ω, m, P, s, =}",Physical sciences
-35,Acousto-optic modulator,"{→, +, F, m, f}",Glass engineering and science
 36,Action angle coordinates,"{a, ), ∀, k, n, (, φ, <}",Physical sciences
 37,Actuarial notation,"{≈, i, (, +, ), v, −, =}",Life sciences
 38,Actuarial present value,"{−, e, i, (, +, =, ), T, v, Z, δ}",Life sciences
@@ -57,10 +40,7 @@
 55,Aggregate modulus,"{⁡, ∏, g, G, ), (, j, det, ,, n, P, r, …, x, X, =, deg}",Life sciences
 56,Agoh–Giuga conjecture,"{B, ), (, ≡, p, −, mod}",Life sciences
 57,Air flow bench,"{H, =, d, /, V}",Applied sciences
-58,Air-to-cloth ratio,"{A, Δ, V, /, t, v, =}",Professional studies
-59,Airborne particulate radioactivity monitoring,"{∥, +, =, v}",Society
 60,Akbulut cork,"{A, int, ×, K, ≅, M, ,, ), W, (, [, ], ∖}",Life sciences
-61,Albers projection,"{ρ, θ, ⁡, x, =, sin}",Society
 62,Aleksandrov–Clark measure,"{C, D, ), (, ,, H}",Life sciences
 63,Alexander's trick,"{None, f, ), (, ≤, J, ∥, ,, /, t, x, {, =, <}",Life sciences
 64,Alexander–Spanier cohomology,"{), d, f, i, (, +, ,, p, …, ∑, x, −, =}",Life sciences
@@ -71,23 +51,18 @@
 69,Alternating sign matrix,"{⟨, ⟩, ), (, j, m, l, ,, s, μ, z, =, |}",Life sciences
 70,Amitsur–Levitzki theorem,"{∈, ), (, ⋯, σ, ,, n, S, …, ∑, x, =}",Life sciences
 71,Ampère's circuital law,"{+, J, =}",Physical sciences
-72,Analyticity of holomorphic functions,"{a, c, −, f, ), (, n, ∞, ∑, z, =}",WikiProjects
 73,Andreotti–Norguet formula,"{⋯, f, ∂, n, α, z, =, |}",Life sciences
 74,Andronov–Pontryagin criterion,"{), (, v, x, ˙, =}",Life sciences
 75,Angular aperture,"{a, D, f, ), (, /, arctan, ⁡, =}",Life sciences
 76,Anisotropy,"{Ω, ∫, ), d, ⋅, i, (, ,, n, P, v, γ, =, ^}",Life sciences
-77,Annual percentage yield,"{A, ), i, (, +, N, P, Y, −, =}",Humanities
 78,Antenna factor,"{A, =, V, E, F}",Physical sciences
 79,Antenna gain-to-noise-temperature,"{∫, e, d, G, f, ), φ, =, ,, /, π, θ, r, T, ⁡, <, (, [, ], sin, >}",Physical sciences
 80,Apollonius point,"{a, c, b, ), (, +, −, :}",Life sciences
 81,Apollonius' theorem,"{A, C, B, D, ), (, +, =}",Life sciences
-82,Applied element method,"{a, ⋅, E, d, K, n, T, =}",Glass engineering and science
 83,Apply,"{), (, ], →, Y, [, Z, ×}",Life sciences
 84,Apéry's constant,"{), (, n, ∞, ∑, =, ζ}",Life sciences
 85,Archimedean circle,"{), (, ρ, r, −, =}",Life sciences
 86,Archimedes' quadruplets,"{⋅, r}",Life sciences
-87,Archimedes' twin circles,"{a, +, b, =, d}",
-88,Area theorem,"{a, ∫, d, ), H, Σ, m, π, (, −, =}",
 89,Arf invariant of a knot,"{g, i, (, ,, ), v, ∑, −, =, mod}",Life sciences
 90,Arg max,"{a, ⊆, ∈, g, f, ), ∀, ∣, =, m, ∧, S, r, (, x, y, X, {, }, ≤}",Life sciences
 91,Arithmetic coding,"{), log, i, (, p, ⁡, ∑, −, =}",Applied sciences
@@ -103,15 +78,12 @@
 101,Associate family,"{c, d, ), φ, k, =, ∫, ,, (, ℜ, x, {, z, }, +, ζ}",Life sciences
 102,Asymptotic gain model,"{G, ), (, +, T, ∞, =}",Physical sciences
 103,Asymptotic theory,"{A, C, B, ), (, /, y, x, −, =, |}",Life sciences
-104,Atkinson–Stiglitz theorem,"{), (, +, j, L, ,, q, T, w, ∑, x, −, =, t}",Society
 105,Atkin–Lehner theory,"{a, ∈, c, b, d, ), (, Z, =, }, N, {, Γ, ≡, ,, mod}",Life sciences
 106,Atom probe,"{e, F, ∇, n, ϕ, =}",Applied sciences
 107,"Atomic, molecular, and optical physics","{k, n, =, L, π}",Physical sciences
 108,Autocatalysis,"{A, B, ⇌, +, τ, σ, T, α, β}",Physical sciences
 109,Autocorrelation,"{cos, ), (, m, ,, ρ, n, R, ⁡, ϕ, Z, =}",Life sciences
-110,Automated Readability Index,"{=, +, e, v}",
 111,Automatic basis function construction,"{+, P, r, v, γ, =}",Applied sciences
-112,Autonomous consumption,"{c, d, +, C, Y, =}",Society
 113,Avogadro's law,"{=, k, V, ∝, n}",Life sciences
 114,Axial multipole moments,"{C, E, ), ∀, (, ↔, x}",Physical sciences
 115,Axiom of extensionality,"{A, ∈, B, ), ∀, ⟺, ⇒, (, X, =}",Life sciences
@@ -119,11 +91,8 @@
 117,Axiom schema of replacement,"{A, ∈, B, ), ∀, ∃, …, ,, ∧, n, ⇔, (, w, φ, x, [, ]}",Life sciences
 118,Azuma's inequality,"{c, k, ,, <, X, −, |}",Life sciences
 119,BCMP network,"{D, ), (, L, N, s, =}",Applied sciences
-120,BD09,"{a, ;, cos, b, e, d, g, ), ×, +, ,, n, θ, s, r, t, ⁡, (, ϕ, =, sin}",
 121,BEST theorem,"{⁡, ∈, ∏, G, ), (, v, ec, t, w, V, −, =, deg}",Life sciences
-122,BET theory,"{c, ), (, +, =, m, ,, /, p, v, [, −, ]}",Environmental studies
 123,Ba space,"{∈, B, f, ), }, Σ, N, μ, (, {, =}",Life sciences
-124,Baby Monster group,"{+, ∂, ∗, ¯}",
 125,Background field method,"{B, ), (, +, x, ϕ, =, η}",Physical sciences
 126,Balance wheel,"{I, κ, =, T, π}",Applied sciences
 127,Balanced budget,"{c, G, I, (, +, ), T, Y, −, =}",Applied sciences
@@ -140,26 +109,16 @@
 138,Barratt–Priddy theorem,"{≅, ), H, k, Σ, ,, n, S, (}",Life sciences
 139,Barth–Nieto quintic,"{x, +, =}",Life sciences
 140,Bartlett's bisection theorem,"{c, E, I, o, Z, =}",Physical sciences
-141,Batalin–Vilkovisky algebra,"{a, b, ), (, +, =, ,, −, Δ, |}",
 142,Batchelor vortex,"{h, b, e, t, ∗}",Life sciences
 143,Bateman polynomials,"{F, ), (, +, x, −, =}",Life sciences
 144,Baum–Sweet sequence,"{!, ⋅, ), (, +, o, n, s, λ, t, α, =}",Life sciences
 145,Baum–Welch algorithm,"{a, A, ), i, (, j, P, t, =, X, {, −, }, |}",Applied sciences
-146,Bayes factor,"{Pr, D, ), (, M, =, |}",Auxiliary sciences of history
 147,Bayes' theorem,"{A, B, ), (, P, =, |}",Life sciences
-148,Bayesian average,"{C, i, +, ¯, m, n, ∑, x, =}",Auxiliary sciences of history
-149,Bayesian hierarchical modeling,"{), (, ∣, ,, θ, P, y, =}",Auxiliary sciences of history
-150,Bayesian inference,"{⋅, E, ), H, ∣, P, (, =}",Auxiliary sciences of history
-151,Bayesian tool for methylation analysis,"{A, C, ∏, f, ), (, +, m, c, ,, p, r, ν, ∑, ϕ, −, =, ∣}",Auxiliary sciences of history
-152,Beal's conjecture,"{A, C, B, ,, −, y, x, ;, z, =, >}",
 153,Beam propagation method,"{◻, G, ), H, ≥, (, γ}",Applied sciences
 154,Beatty sequence,"{B, …, ), (, ≥, ,, n, r, ⌋, ⌊, =}",Life sciences
 155,Beilinson regulator,"{D, →, ), H, K, ≥, ,, n, Q, p, ⊕, (, X, −}",Life sciences
 156,Bejan number,"{B, e, g, P, =, +, L, n, p, S, ′, μ, T, ˙, Δ, ,, ν}",Physical sciences
 157,Bell number,"{×, =}",Life sciences
-158,Bellard's formula,"{−, ), (, +, n, ∞, ∑, π, =}",Humanities
-159,Belleville washer,"{g, i, k, n, ∑, =, K}",Professional studies
-160,Bending stiffness,"{p, K, =, w}",Professional studies
 161,Benford's law,"{log, ), (, +, P, ⁡, −, =, d}",Life sciences
 162,Bennett's inequality,"{), i, (, σ, n, ∑, ⁡, Var, X, =}",Life sciences
 163,Bernoulli distribution,"{Pr, ), (, ., q, p, X, −, =}",Life sciences
@@ -170,15 +129,12 @@
 168,Bessel's inequality,"{⟨, ⟩, e, k, ∥, ,, |, ∞, ∑, x, =, ≤}",Life sciences
 169,Beta prime distribution,"{B, f, ), (, +, ,, α, x, β, −, =}",Life sciences
 170,Better-quasi-ordering,"{A, ⊆, B, g, ω, f, ), (, ≤, ∈, ′, X, [, ], ∗}",Life sciences
-171,Betti's theorem,"{=, ∗}",Professional studies
 172,Beurling–Lax theorem,"{C, D, ), H, ,, θ, (}",Life sciences
 173,Bevan point,"{cos, −, ), (, +, :, ⁡, α, β, γ}",Life sciences
 174,Bhabha scattering,"{→, +, −, e}",Life sciences
-175,Bhatia–Davis inequality,"{), m, ≤, M, μ, (, −}",Auxiliary sciences of history
 176,Biaxial nematic,"{γ, ), (, p, T, −, =}",Life sciences
 177,Bicoherence,"{B, F, ), (, +, f, ,, =, ∗}",Life sciences
 178,Bicubic interpolation,"{a, ), i, (, j, ,, p, y, x, =, ∑}",Applied sciences
-179,Bidomain,"{⋅, ∫, d, g, f, ), (, k, M, r, y, x, =, K}",
 180,Bilinear filtering,"{′, ↦, f, ), (, +, p, r, t, −}",Physical sciences
 181,Bimonster group,"{B, i, M, ≀, Z, =}",Life sciences
 182,Binary octahedral group,"{i, (, k, j, ,, ), ±, {, }}",Life sciences
@@ -193,8 +149,6 @@
 191,Bispherical coordinates,"{a, cos, −, τ, σ, ,, cosh, sinh, ⁡, y, x, ϕ, z, =, sin}",Life sciences
 192,Bivector,"{a, c, b, ), (, =}",Life sciences
 193,Black's equation,"{A, e, F, ), (, k, j, M, n, Q, T, =}",Applied sciences
-194,Black–Derman–Toy model,"{′, d, ], ln, (, +, σ, θ, ), r, t, W, ⁡, [, =}",Professional studies
-195,Blade Element Momentum Theory,"{gr, I, +, ⁡, /, n, ⊕, R, ∞, =}",
 196,Blahut–Arimoto algorithm,"{), (, +, p, t, ∑, x, =, |, ^}",Life sciences
 197,Blake number,"{B, D, ), h, ρ, μ, (, u, ϵ, −, =}",Life sciences
 198,Bland–Altman plot,"{), (, +, ,, S, y, x, −, =}",Life sciences
@@ -202,25 +156,18 @@
 200,Bloch equations,"{B, d, ×, ), (, M, t, −, x, γ, =, T}",Life sciences
 201,Bloch wave,"{⋅, e, ψ, i, (, k, ), r, u, =}",Physical sciences
 202,Bloom filter,"{−, m}",Applied sciences
-203,Bogdanov-Takens bifurcation,"{A, Δ, Q, U, T, =}",
 204,Bohr compactification,"{b, G, ), h, o, →, r, (, B}",Life sciences
 205,Bolometric correction,"{C, B, M, l, o, b, V, −, =}",Life sciences
-206,Bolt thrust,"{A, a, ⋅, b, e, F, i, m, l, o, n, P, r, t, x, →, =}",
 207,Boltzmann constant,"{k, R, =, N}",Life sciences
 208,Bond valence method,"{), (, v, V, ∑, =}",Physical sciences
 209,Bondareva–Shapley theorem,"{∈, ), (, ≤, ∅, N, S, v, ∑, α, {, }, ∖}",Life sciences
 210,Bondy's theorem,"{), X, k, |, (}",Life sciences
 211,Bony–Brezis theorem,"{a, C, b, ), (, ≤, ., X, −, |}",Life sciences
 212,Boolean satisfiability algorithm heuristics,"{min, ∈, f, i, H, K, V, ∥, ,, ), (, ℓ, arg, y, x, γ, =, +, ∑}",Life sciences
-213,Booth's multiplication algorithm,"{′, ), (, +, =, M, ×}",
 214,Borel right process,"{E, f, i, =, ≤, j, ,, o, n, r, ≠, …, Y, X, [, ]}",Applied sciences
 215,Borel–Cantelli lemma,"{Pr, E, ), (, n, ∞, ∑, =, <}",Life sciences
 216,Born–Mayer equation,"{A, −, E, ), π, +, M, ρ, N, r, (, e, ϵ, z, =}",Physical sciences
-217,Bose-Einstein statistics,"{q, V, n, ≥, N}",
-218,Boundary-layer thickness#Momentum thickness,"{), (, o, u, y, =}",
 219,Bounded quantifier,"{), (, ∃, ∧, n, ⇔, t, ϕ, <}",Life sciences
-220,Boussinesq approximation,"{⋅, g, →, ), (, +, ∂, ,, ρ, p, ∇, u, t, =, v, x, T, −, Δ, η}",
-221,Boussinesq number,"{a, c, B, g, G, I, =, L, o, P, R, T, v, α, β, r, Δ}",
 222,Box–Cox distribution,"{E, log, H, +, =, s, ⁡, {, }}",Life sciences
 223,Boyle temperature,"{a, =, R, b, T}",Physical sciences
 224,Boyle's law,"{P, k, =, ∝, V}",Life sciences
@@ -233,11 +180,9 @@
 231,Brinell scale,"{d, BHN, ), (, π, P, −, =, D}",Life sciences
 232,Brocard's conjecture,"{a, c, b, +, −, y, x, z, =}",Life sciences
 233,Bromley equation,"{A, b, log, I, +, /, ±, ⁡, −, β, γ, =}",Life sciences
-234,Brownian motion,"{c, B, ), =, k, T, (, Δ}",
 235,Buddhabrot,"{c, z, =, +, n}",Life sciences
 236,Bulk Richardson number,"{B, g, ), (, +, v, /, N, θ, R, U, T, =, V, z, Δ}",Physical sciences
 237,Bullet-nose curve,"{a, b, y, x, −, =}",Life sciences
-238,Bundle adjustment,"{c, L, ρ, P, s, γ, =}",Society
 239,Burgers' equation,"{d, +, ∂, t, y, x, =}",Life sciences
 240,Burmester's theory,"{A, d, i, =, +, ,, W, T, w, …, [, ]}",Physical sciences
 241,Bézier curve,"{B, ), (, ≤, P, t, −, =, +}",Life sciences
@@ -248,16 +193,12 @@
 246,CT Value,"{C, ln, (, n, ), Λ, t, W, ⁡, N, =}",Physical sciences
 247,CW complex,"{C, log, ), (, ≥, ,, P, ⁡, x}",Life sciences
 248,Caccioppoli set,"{a, B, ), i, (, j, ,, p, =, Δ}",Life sciences
-249,Cache-oblivious matrix multiplication,"{a, c, b, i, k, j, m, ∑, =}",
 250,Cake number,"{!, ), (, k, n, −, =}",Life sciences
 251,Calabi conjecture,"{ϕ, ′, d, ω, +}",Life sciences
 252,Calabi–Eckmann manifold,"{∈, C, e, ×, ), (, m, ,, n, t, x, y, α, =, |, ∖}",Life sciences
 253,Calibration of radiocarbon dates,"{a, c, b, e, ), i, m, +, σ, l, o, p, s, t, (, =}",Physical sciences
-254,Camber,"{d, g, i, j, ♭, X, x, =}",
 255,Camera matrix,"{y, x, C, ∼}",Applied sciences
 256,Canonical coordinates,"{i, }, j, ,, q, p, =, {, δ}",Life sciences
-257,Cantor number,"{c, +, ≥, ,, ≡, n, ;, −}",
-258,Cantor set,"{a, C, ∪, d, ), ], +, ,, n, (, [, −, =}",
 259,Capillary number,"{a, C, σ, μ, V, =}",Life sciences
 260,Capillary pressure,"{p, c, −, =}",Physical sciences
 261,Cardy formula,"{c, ), (, L, π, S, −, =}",Physical sciences
@@ -277,7 +218,6 @@
 275,Cauchy horizon,"{B, +, ∝, ν, v, −}",Life sciences
 276,Cauchy principal value,"{a, c, b, d, f, ), (, +, ∫, →, lim, x, [, −, ], ε}",Life sciences
 277,Cauchy stress tensor,"{⋅, i, (, j, σ, n, ), T, ., =}",Physical sciences
-278,Cauchy–Riemann equations,"{∂, u, v, y, x, −, =}",Categories by parameter
 279,Cauchy–Schwarz inequality,"{⟨, ⟩, ⋅, ≤, ,, u, v, |}",Life sciences
 280,Cavalieri's quadrature formula,"{a, ∫, d, +, ≥, n, x, =}",Physical sciences
 281,Cavity optomechanics,"{=, ′, m, ±, ω}",Physical sciences
@@ -304,56 +244,41 @@
 302,Chemisorption,"{G, H, =, S, T, −, Δ}",Physical sciences
 303,Chen model,"{d, ), (, +, σ, θ, r, t, W, α, −, =}",Life sciences
 304,Chern–Weil homomorphism,"{C, g, G, ), H, M, ,, →, (, [, ], ∗}",Life sciences
-305,Chi-square distribution,"{), d, i, (, ,, N, q, χ, ∼, ., ∑, Z, =}",
 306,Chladni's law,"{C, f, ), (, +, m, n, p, =}",Physical sciences
 307,Chloridometer,"{C, ), =, l, n, s, u, t, (, −, ×}",Life sciences
-308,Choked flow,"{), (, k, p, −, =, +, ∗}",Professional studies
 309,Chomsky–Schützenberger enumeration theorem,"{a, f, ), (, k, ⋯, ∞, ∑, x, =, +}",Life sciences
 310,Chowla–Mordell theorem,"{a, G, χ, (, ), ∑, =, ζ}",Life sciences
-311,Chromatic adaptation,"{c, ′, D, f, S, T, =}",Society
 312,Chézy formula,"{i, C, R, =, v}",Physical sciences
 313,Circle criterion,"{A, B, +, w, x, ˙, =}",Applied sciences
 314,Circular-arc graph,"{C, ⊂, I, ,, n, …}",Life sciences
 315,Circumgon,"{A, B, G, ), (, /, ., =}",Life sciences
-316,Class membership probabilities,"{f, ), (, y, x, =, ^}",
 317,Classical Hamiltonian quaternions,"{), (, +, q, S, V, =}",Life sciences
-318,Classical nucleation theory,"{B, G, ), (, k, j, N, S, R, =, T, exp, ⁡, −, Z, Δ, ∗}",Categories by parameter
 319,Classification of electromagnetic fields,"{a, b, F, λ, r, =}",Life sciences
 320,Clausius theorem,"{Q, ≤, δ, T, ⁡}",Life sciences
 321,Clearing the neighbourhood,"{a, =, k, Λ, m}",Physical sciences
 322,Clebsch–Gordan coefficients,"{C, B, +, Q, s, =}",Life sciences
 323,Clenshaw algorithm,"{a, ), (, k, n, S, ∑, x, ϕ, =}",Applied sciences
-324,Clifton-Pohl torus,"{d, g, ), (, +, y, x, =}",
 325,Closed graph theorem,"{∈, ), (, ∣, =, ,, Y, }, T, X, y, x, {, ×}",Life sciences
-326,Closeness,"{A, d, ), (, ,, p, =}",
 327,Coble creep,"{D, C, b, e, d, g, σ, l, o, Q, R, t, ϵ, −, =, /, T}",Applied sciences
 328,Cochran's C test,"{C, i, j, N, S, ∑, =}",Applied sciences
 329,Cochrane–Orcutt estimation,"{+, ,, t, α, y, X, β, =, ε}",Applied sciences
-330,Cocks IBE scheme,"{Ω, f, Δ, ∂, ,, u, −, =, |}",Behavioural sciences
 331,Cocurvature,"{), =, ¯, ,, P, R, (, Y, X, [, −, ], Id}",Life sciences
-332,Coefficient of determination,"{i, ¯, n, ∑, y, =}",Auxiliary sciences of history
 333,Coefficient of restitution,"{k, =, s, F}",Physical sciences
-334,Coefficient of variation,"{σ, c, =, μ, v}",Auxiliary sciences of history
 335,Coercive function,"{⋅, f, ), (, +, ∥, →, ∞, x}",Life sciences
 336,Cofibration,"{i, A, →, :, X}",Life sciences
-337,Cogeneration,"{i, h, o, n, Q, u, t, W, ≡, η}",Environmental studies
 338,Cohen-Daubechies-Feauveau wavelet,"{A, ), (, +, Q, X, −, =}",Applied sciences
 339,Coherence time,"{c, ≈, =, τ, λ, ν, Δ}",Life sciences
 340,Coherent states,"{a, ⟩, α, =, |, ^}",Physical sciences
 341,Coherent states in mathematical physics,"{⟨, ⟩, ∫, d, I, H, ), ν, X, (, x, =, |}",Life sciences
 342,Cohomotopy group,"{→, ), lim, k, Σ, ], S, +, π, p, s, (, ⁡, X, [, =, ,}",Life sciences
 343,Cole–Cole equation,"{d, k, σ, y, =, +}",Physical sciences
-344,Collateralized mortgage obligation,"{×, +, %}",Professional studies
 345,Collision theory,"{a, −, E, ), (, k, ρ, R, T, exp, ⁡, Z, =}",Physical sciences
-346,Collocation,"{′, e, f, ), (, θ, −, =}",Humanities
 347,Collocation method,"{′, f, ), (, ,, t, y, =}",Life sciences
 348,Colpitts oscillator,"{C, f, ), (, +, L, π, =}",Life sciences
-349,Comb filter,"{C, ¯, →, +, Σ, π, p, −, K}",Professional studies
 350,Combinant,"{log, G, ), (, +, M, t, ⁡, X, =}",Life sciences
 351,Combinatorial species,"{:, →, ;, B, F}",Life sciences
 352,Combined gas law,"{P, k, =, T, V}",Life sciences
 353,Commensurate line circuit,"{ω, ), (, k, →, ⁡, tan}",Physical sciences
-354,Common-mode rejection,"{A, c, d, ), (, +, m, o, V, −, =}",
 355,Commutant lifting theorem,"{H, ≥, n, P, S, R, U, T, ∀, =, |}",Life sciences
 356,Comodule,"{C, M, ρ, ⊗, →, :}",Life sciences
 357,Comoving distance,"{a, c, ′, e, χ, (, ∫, ), t, =}",Life sciences
@@ -361,29 +286,20 @@
 359,Compact convergence,"{∈, f, ,, n, →, Y, X, N}",Life sciences
 360,Comparison of topologies,"{⊆, τ}",Life sciences
 361,Compartmental modelling of dendrites,"{a, c, b, e, f, i, h, m, l, o, n, p, s, r, t, V}",Life sciences
-362,Compartmental models in epidemiology,"{d, I, N, S, t, β, −, =}",Auxiliary sciences of history
-363,Competitiveness,"{C, I, +, T, −, =}",Social sciences
 364,Complete quotient,"{c, −, ), (, k, /, T, V, γ, =}",Life sciences
 365,Completely multiplicative function,"{D, ), (, =, n, −, δ}",Life sciences
 366,Complex beam parameter,"{z, i, (, π, q, ), λ, w, −, R, n, =}",Physical sciences
 367,Complex cobordism,"{C, E, ), (, ], P, ∞, x, [, =, ∗}",Life sciences
 368,Complex normal distribution,"{c, ), d, i, (, k, j, m, ,, ≤, ≡, P, +}",Life sciences
-369,Complex space,"{a, p, k, ⋯, +}",
 370,Complex squaring map,"{+, z, =, n}",Life sciences
 371,Complexification,"{C, G, }, o, ⊗, →, R, V, {, Γ, =}",Life sciences
 372,Compression theorem,"{∈, C, f, i, φ, ≤, =, }, Φ, ), R, (, ∞, x, {, ∀, |}",Life sciences
 373,Compton wavelength,"{c, h, m, ,, λ, =}",Physical sciences
-374,Computational formula for the variance,"{E, ), (, ], ⁡, Var, X, [, −, =}",
-375,Computational indistinguishability,"{A, Pr, E, D, ), (, =, ], n, ←, x, [, −, δ, |}",Formal sciences
 376,Computer representation of surfaces,"{), (, ,, u, v, x, =}",Physical sciences
 377,Concentration inequality,"{a, Pr, ), (, ≤, ≥, Φ, X, =}",Life sciences
-378,Conditional probability,"{A, ∩, B, ), (, P, =, |}",Auxiliary sciences of history
-379,Conductance,"{a, ∈, ¯, min, i, φ, j, ,, ), S, (, ∑, =}",
 380,Conference graph,"{,, −, ±, v}",Life sciences
-381,Configural frequency analysis,"{c, ), e, ∏, i, (, m, n, p, =}",Auxiliary sciences of history
 382,Conformal gravity,"{a, c, b, d, g, ∫, C, S, x, −, =}",Physical sciences
 383,Conformational entropy,"{), i, (, Σ, l, n, p, S, R, −, =}",Life sciences
-384,Congruence coefficient,"{′, f, ), (, +, y, x, =}",Auxiliary sciences of history
 385,Congruence lattice problem,"{F, ), (, ≥, n, →, ∞, x, ;, lim inf}",Life sciences
 386,Conjugate index,"{q, p, +, =}",Life sciences
 387,Conjugated system,"{−, E, ), (, ℏ, m, L, π, n, =, +}",Physical sciences
@@ -392,11 +308,7 @@
 390,Conoid,"{), (, ¨, ,, r, det, ˙, =}",Life sciences
 391,Consensus theorem,"{∨, ¯, y, x, z, =}",Life sciences
 392,Constant factor rule in integration,"{y, x, ∫, =, d}",Physical sciences
-393,Consumer leverage ratio,{=},Professional studies
 394,Contact process,{→},Physical sciences
-395,Content,"{x, +, −, =}",
-396,Continued fraction factorization,"{∈, k, ,, n, Z, +}",Behavioural sciences
-397,Continuous Ranked Probability Score,"{C, −, ), H, ≤, m, N, P, (, V, y, n, =, ∑}",
 398,Continuous knapsack problem,"{i, x, ≤, ∑, W}",Life sciences
 399,Continuous-wave radar,"{c, ′, f, ), (, +, /, r, t, v, −, =}",Life sciences
 400,Contract curve,"{), max, ,, u, (, x}",Life sciences
@@ -409,14 +321,9 @@
 407,Convolution,"{∫, e, d, g, f, ), (, τ, t, ∞, −, =, ∗}",Life sciences
 408,Convolution power,"{⏟, δ, ⋯, ,, n, x, =, ∗}",Life sciences
 409,Conway group,"{E, g, f, i, (, /, N, ), ∑, x, ;, =}",Life sciences
-410,Cooley–Tukey FFT algorithm,"{−, e, i, π, k, N, X, ∑, x, n, =}",Articles with example code
-411,Cooling flow,"{a, e, d, m, n, s, r, t, y, x, −, =}",Extragalactic astronomy
-412,Coordinate rotations and reflections,"{a, G, χ, (, ), ∑, =, ζ}",Humanities
 413,Cophenetic correlation,"{ψ, χ, ], +, ,, ϕ, =, [}",Life sciences
 414,Coplanarity,"{⋅, ×, ), ], (, x, [, −, =}",Life sciences
 415,Correlated equilibrium,"{Ω, ω, ∈, i, (, ≥, ,, q, ), s, u, ∑, ϕ, −}",Life sciences
-416,Correlation swap,"{), (, −, ρ, N}",Society
-417,Cosmic censorship hypothesis,"{=, ℏ, E, ω}",Society
 418,Cosmic neutrino background,"{∝, σ, T, g}",Life sciences
 419,Cost-of-living index,"{C, P, ), (, K, ,, p, u, =}",Applied sciences
 420,Couette flow,"{f, ), (, ,, V, y, x, =}",Physical sciences
@@ -426,8 +333,6 @@
 424,Cousin prime,"{B, ), (, +, ⋯, =}",Life sciences
 425,Covering problem of Rado,"{F, I, (, ), S, sup, X, inf, =, |}",Life sciences
 426,Cramér's theorem,"{∈, ), (, k, N, ∑, X, n, =}",Life sciences
-427,Cramér–Rao bound,"{→, p, S, ↪}",Auxiliary sciences of history
-428,Craps principle,"{∪, E, ], ∣, P, ⁡, [, =, +}",Auxiliary sciences of history
 429,Critical heat flux,"{f, ), h, q, T, w, (, −, =}",Physical sciences
 430,Critical ionization velocity,"{e, i, v, m, o, n, V, =}",Physical sciences
 431,Critical speed,"{g, ω, i, n, ∑, ≈, w, y, =}",Physical sciences
@@ -436,7 +341,6 @@
 434,Cross Gramian,"{A, C, B, e, d, ∫, :=, t, W, ∞, X}",Life sciences
 435,Cross-ratio,"{A, ⋅, C, B, D, ), (, ,, ;, =}",Life sciences
 436,Crosswind kite power,"{A, a, C, D, ), (, L, ρ, P, V, =}",Applied sciences
-437,Crowther Criterion,"{=, π, m, D, d}",
 438,Crystal momentum,"{p, ℏ, k, ≡}",Physical sciences
 439,Cuckoo search,"{E, +, s, t, x, =}",Life sciences
 440,Current algebra,"{a, c, b, f, i, =, ], ,, ρ, →, ), (, y, x, [, −, δ}",Life sciences
@@ -465,35 +369,26 @@
 463,Debye–Waller factor,"{⟨, ⋅, ⟩, i, (, q, ), u, exp, ⁡, =}",Physical sciences
 464,Decoding methods,"{), (, ∣, P, y, x}",Life sciences
 465,Decoherence-free subspaces,"{B, I, H, +, ⊗, S, =, ^}",Physical sciences
-466,Decomposition of spectrum,"{c, ∪, ), (, σ, p, r, T, =}",
 467,Deduction theorem,"{E, ⊢, ,, ., S, n, −}",Life sciences
 468,Degen's eight-square identity,"{−, $, ), (, +, =, A, C, B, E, D, G, F, H, a, c, b, e, d, g, f, h}",Life sciences
-469,Degree,"{⁡, ∈, E, ), (, V, v, ∑, =, |, deg}",
 470,Degree of an algebraic variety,"{d, i, (, +, m, L, n, ), V, =}",Life sciences
 471,Dehn twist,"{I, S, ×}",Life sciences
 472,Delta neutral,"{C, ′, ), (, +, ″, /, s, ϵ, =}",Life sciences
 473,Delta operator,"{a, g, f, ), (, +, Q, x, =}",Life sciences
 474,Deltoid curve,"{a, cos, ), (, +, t, ⁡, x, =}",Life sciences
-475,Demand for money,"{d, ), (, M, L, ,, P, R, Y, =, ∗}",Society
 476,Demographic gravitation,"{⋅, F, =, d, N}",Life sciences
 477,Denny's paradox,"{c, g, ), m, σ, ρ, /, (, =}",Life sciences
 478,Denoising Algorithm based on Relevance network Topology,"{A, Ψ, B, log, f, ), H, +, min, ,, /, (, =, ⁡, {, }, |}",Life sciences
 479,Denotational semantics of the Actor model,"{⊥, ), e, D, g, →, i, lim, S, o, n, p, s, r, t, ∞, (, ≡}",Life sciences
-480,Depletion,"{A, C, B, D, ), (, +, =, /, S, R, ×}",
-481,Depreciation,"{a, e, ), (, s, r, y, −, =}",Professional studies
 482,Deriche edge detector,"{e, ω, f, i, (, S, n, ), s, x, α, −, =, |}",Applied sciences
 483,Derivative of the exponential map,"{None, ′, e, d, ), (, ,, t, exp, ⁡, Y, X, Z, =, |}",Life sciences
-484,Derjaguin approximation,"{e, F, ), h, f, π, R, W, (, =}",
 485,Detective quantum efficiency,"{⊆, ∈, I, (, ∣, =, s, ), S, T, {, }}",Applied sciences
 486,Determinantal point process,"{i, (, K, j, det, ,, ρ, n, ), …, x, =, ≤}",Applied sciences
 487,Detrended fluctuation analysis,"{⟨, ⟩, i, (, ), t, X, ∑, x, −, =}",Life sciences
-488,Dewetting,"{−, S, γ, =}",Environmental studies
-489,Diagnostic odds ratio,"{F, /, N, P, T, =}",Auxiliary sciences of history
 490,Diamond anvil cell,"{A, p, =, F}",Physical sciences
 491,Dichromatic reflectance model,"{c, b, ), (, +, m, L, s, λ, =}",Life sciences
 492,Diesel cycle,"{a, c, e, f, i, h, m, l, n, s, r, t, y, [, ], η}",Applied sciences
 493,Difference quotient,"{f, ), h, +, (, x, −}",Life sciences
-494,Difference-map algorithm,"{∈, ′, F, ), (, +, …, ,, n, ∞, y, x, [, −, =}",Society
 495,Differential entropy,"{∫, log, f, ), h, ⁡, (, x, X, −, =, d}",Life sciences
 496,Differential optical absorption spectroscopy,"{F, ), h, n, (, z, =}",Applied sciences
 497,Diffraction efficiency,"{P, =, η}",Life sciences
@@ -501,12 +396,9 @@
 499,Diffusion creep,"{C, D, =, J, x, −, Δ}",Applied sciences
 500,Digital topology,"{g, ), (, +, M, ,, /, −, =}",Life sciences
 501,Dihedral group of order 6,"{a, ⟨, ⟩, ∣, ,, r, −, =}",Life sciences
-502,Dilution assay,"{e, F, ), (, +, f, u, z, =}",Pharmaceutical sciences
-503,Dimension reduction,"{A, cos, ), (, L, n, ⁡, x, ϕ, π, =}",
 504,Dimensional regularization,"{∫, d, ), (, +, m, π, p}",Physical sciences
 505,Diophantine set,"{∈, ), (, ∃, ¯, m, ,, N, P, S, ⟺, n, =, k}",Life sciences
 506,Diophantus II.VIII,"{∫, b, d, f, ), (, +, ¨, ,, ρ, R, u, t, V, x, −, =, ′}",Life sciences
-507,Dirac constant,"{i, p, /, h}",
 508,Dirac delta function,"{∫, d, f, ), }, =, (, ∞, x, {, −, δ}",Life sciences
 509,Dirac equation,"{Ψ, ⋅, c, ), i, (, ℏ, ∂, m, p, t, α, β, =, +, ^}",Life sciences
 510,Dirac equation in curved spacetime,"{Ψ, a, −, e, D, i, m, μ, γ, =}",Life sciences
@@ -520,39 +412,27 @@
 518,Dirichlet series,"{a, n, s, ∞, ∑, =}",Life sciences
 519,Dirichlet's principle,"{Δ, +, =, u, f}",Life sciences
 520,Dirichlet's unit theorem,"{log, ], +, ,, ⁡, [, −, ×, |}",Life sciences
-521,Discounted utility,"{), (, u, t, x, β}",Society
 522,Discrete series representation,"{⟨, ⋅, g, ⟩, ), (, ,, ρ, w, v}",Life sciences
 523,Discrete-time Fourier transform,"{e, G, ), (, s, ,, S, x, α, =}",Applied sciences
 524,Discretization,"{A, B, ), (, +, u, t, w, x, ˙, =}",Life sciences
-525,Disk integration,"{a, ∫, b, d, ), (, π, R, x, [, ]}",
 526,Dispersion relation,"{), (, λ, =, v}",Physical sciences
 527,Dispersionless equation,"{), (, +, ,, u, t, y, x, =}",Life sciences
 528,Distributive law between monads,"{→, S, l, T}",Life sciences
-529,Diversification,"{E, i, ], n, P, R, ∑, x, [, =}",
 530,Dividing a circle into areas,"{f, i, (, +, n, ), ∑, −, =}",Physical sciences
-531,Dixon's Q test,"{Q, =}",Formal sciences
 532,Dixon's identity,"{a, !, ), (, k, ∑, −, =, +}",Life sciences
 533,Dodgson condensation,"{⟨, ⟩, ), (, j, m, l, ,, s, μ, z, =, |}",Life sciences
-534,Dolbear's Law,"{C, F, ), (, +, N, T, −, =}",
-535,Dominator,"{Dom, ), }, o, n, (, ⁡, {, =}",
 536,Doomsday rule,"{a, c, D, ), h, +, m, o, n, s, r, (, ⌋, ⌊, y, mod, =, d}",Applied sciences
 537,Doppler broadening,"{c, f, ln, σ, k, =, m, T, ⁡, Δ}",Physical sciences
 538,Doppler effect,"{c, f, ), (, +, v, =}",Physical sciences
-539,Dot gain,"{a, −, =, D, G}",Society
 540,Douady rabbit,"{γ, ), (, +, z, M, n, −, =}",Life sciences
-541,Double Fourier sphere method,"{∈, cos, f, ), ×, =, ,, π, θ, λ, (, ⁡, [, −, ], sin}",Society
 542,Double coset,"{H, K, /, G, ∖}",Life sciences
-543,Double integrator,"{max, ), (, ,, n, p, add, r, ⁡, −, =, |}",
 544,Double origin topology,"{∈, ∪, ), =, +, ,, /, n, R, (, y, x, {, N, }, <, >}",Life sciences
-545,Double-layer capacitance,"{E, =, U, d, ,}",Professional studies
 546,Double-well potential,"{A, a, c, ), h, /, n, r, t, (, =}",Physical sciences
-547,Dow Jones Industrial Average,"{∑, p, =, d}",
 548,Downforce,"{D, F, H, ρ, W, v, =}",Applied sciences
 549,Drude model,"{B, E, d, ), (, +, τ, m, q, p, t, =, −, ×}",Physical sciences
 550,Dual basis,"{B, m, ,, …, α, −, =}",Life sciences
 551,Dual curve,"{f, ), (, +, ∂, ,, q, p, r, y, x, z, =}",Life sciences
 552,Dual quaternion,"{i, k, j, =, −}",Life sciences
-553,Dubins–Spanier theorems,"{], i, (, j, M, ,, ), V, X, [, =}",Humanities
 554,Dukhin number,"{a, D, σ, K, m, ., κ, u, =}",Physical sciences
 555,Dulong–Petit law,"{=, K, M, c}",Life sciences
 556,Dunford–Pettis property,"{⟨, ⟩, e, ,, n, =}",Life sciences
@@ -562,31 +442,24 @@
 560,Dynamical system,"{⊂, M, Φ, →, U, T, ×}",Life sciences
 561,Dynamo theory,"{B, ), (, +, ∂, ∇, u, t, =, ×, η}",Physical sciences
 562,Dynamometer,"{P, τ, =, ω, ⋅}",Physical sciences
-563,Earnings surprise,"{E, ), (, σ, Q, S, U, t, −, =}",Professional studies
 564,Earth potential rise,"{d, g, f, I, =, i, r, V, Z, ×}",Applied sciences
-565,Earth's magnetic field,"{B, ), (, +, ∂, ∇, u, t, =, ×, η}",Society
-566,Eckert IV projection,"{), (, +, ,, p, ⇒, v, x, −, =}",Society
 567,Econometric model,"{a, C, b, e, +, t, Y, −, =}",Life sciences
 568,Edge crush test,"{C, B, E, d, =, U, T, ×}",Applied sciences
 569,Edge detection,"{f, I, (, +, σ, l, ), erf, r, ⁡, x, −, =}",Applied sciences
 570,EdgeRank,"{e, d, g, s, u, w, ∑}",Applied sciences
 571,Edwards curve,"{y, x, +, =, d}",Life sciences
 572,Effective number of bits,"{A, B, E, D, I, O, N, S, −, =}",Life sciences
-573,Efficiency wage,"{E, ), (, L, P, w, V, −, =}",Humanities
 574,Ehrenfest model,"{), log, i, H, ⁡, π, P, t, (, ∑, X, −, =}",Physical sciences
 575,Ehrenfeucht–Mycielski sequence,"{), f, i, lim, →, (, ∞, =}",Life sciences
 576,Eigendecomposition of a matrix,"{A, Λ, =, −, V}",Life sciences
 577,Einselection,"{Ψ, log, ), H, Tr, ρ, t, ⁡, (, −, =}",Physical sciences
-578,Einstein field equations,"{c, G, g, +, π, Λ, μ, ν, =, T}",
 579,Einstein notation,"{c, i, +, ∑, y, x, =}",Life sciences
-580,Einstein relation,"{B, D, k, μ, T, =}",
 581,Eisenbud–Levine–Khimshiashvili signature formula,"{⋯, f, ), (, +, ∂, n, X, x, =}",Life sciences
 582,Eisenstein prime,"{a, b, e, ω, i, (, +, /, π, ), z, =}",Life sciences
 583,Eisenstein triple,"{a, c, b, +, −, =}",Life sciences
 584,Ekman velocity,"{∂, ×, f, ), (, +, τ, ,, ∇, u, −, ϕ, z, =, ^}",Physical sciences
 585,ElGamal encryption,"{⟨, ⋅, c, g, ⟩, h, m, ,, :=, y}",Applied sciences
 586,ElGamal signature scheme,"{), H, k, m, ≡, p, s, r, (, x, −, +, mod}",Applied sciences
-587,Elasticity of intertemporal substitution,"{c, ), (, U, t, ∑, u, β, =, T}",Society
 588,Electric field gradient,"{∂, i, j, ., V, x, =}",Physical sciences
 589,Electric-field screening,"{F, π, q, ^, R, r, =, ε, |}",Physical sciences
 590,Electrical length,"{c, p, κ, v, ϵ, =}",Physical sciences
@@ -594,7 +467,6 @@
 592,Electrokinematics theorem,"{A, Ω, ⋅, J, d, F, ∂, ∫, Φ, q, S, r, t, −, =, ε}",Life sciences
 593,Electromagnetic wave equation,"{d, g, +, θ, t, ℓ, ⁡, =, sin}",Life sciences
 594,Electron affinity,"{a, A, C, E, c, ≡, v, −}",Physical sciences
-595,Electron magnetic dipole moment,"{e, m, L, μ, −, =}",
 596,Electron nuclear double resonance,"{E, F, H, +, N, Q, S, Z, =}",Physical sciences
 597,Electrophile,"{χ, =, ω, η}",Physical sciences
 598,Electrovacuum solution,"{a, ⋆, B, E, F, I, (, ∥, ∧, →, ), b, −, =}",Life sciences
@@ -613,8 +485,6 @@
 611,Engine efficiency,"{a, b, e, d, h, k, o, n, Q, s, r, t, w, −, =, η}",Applied sciences
 612,Enriques surface,"{), (, +, ,, Q, w, y, x, z, =}",Life sciences
 613,Ensemble Kalman filter,"{∝, ), (, Q, p, μ, T, exp, ⁡, x, −}",Physical sciences
-614,Ensemble interpretation,"{⟩, +, =, |, ψ}",Society
-615,Entanglement witness,"{A, B, i, k, ρ, ⊗, p, ξ, ∑, =}",Formal sciences
 616,Entropy in thermodynamics and information theory,"{B, i, ln, k, ,, p, S, ⁡, ∑, −, =}",Life sciences
 617,Entropy rate,"{), lim, …, ,, n, →, (, H, ∞, X, =}",Applied sciences
 618,Enumerator polynomial,"{A, ∈, C, #, ), (, ∣, =, c, t, w, {, }}",Life sciences
@@ -628,17 +498,14 @@
 626,Equivalent impedance transforms,"{q, =, +, m}",Physical sciences
 627,Equivalent noise resistance,"{e, f, =, k, n, R, T, Δ}",Life sciences
 628,Erdős–Borwein constant,"{B, E, n, ∞, ∑, −, =}",Life sciences
-629,Erdős–Rényi model,"{), (, M, n, p, −}",Paul Erdős
 630,Erdős–Turán inequality,"{a, C, m, n, θ, ⁡, x, =, sin}",Life sciences
 631,Ergodic sequence,"{A, →, ), (, k, ,, N, q, lim, t, ∞, =}",Life sciences
 632,Ermakov–Lewis invariant,"{Ω, ), H, +, =, q, p, t, (, [, ], ^}",Physical sciences
-633,Error analysis for the Global Positioning System,"{σ, +, R, m, =}",Categories by parameter
 634,Essential manifold,"{), H, K, M, ,, n, →, (, π}",Life sciences
 635,Essential supremum and essential infimum,"{a, ∈, f, ), (, ∞, ,, =, x, X, {, −, }, >}",Physical sciences
 636,Eternal dominating set,"{≥, G, ), H, ◻, (, ∞, γ}",Life sciences
 637,Euclidean quantum gravity,"{a, ∫, e, D, g, ), (, +, m, L, R, r, t, exp, ⁡, x, ϕ, |, d}",Physical sciences
 638,Euler characteristic,"{b, E, F, χ, k, ,, ., V, −, =, +}",Life sciences
-639,Euler equations,"{⋅, g, ), (, +, ∂, ρ, p, ∇, t, v, −, =}",
 640,Euler method,"{None, −, f, ), (, +, τ, ,, N, U, t, …, v, {, n, =}",Life sciences
 641,Euler tour technique,"{g, ), (, ,, v, x}",Life sciences
 642,Euler's Disk,"{a, M, π, μ, t, α, =}",Life sciences
@@ -651,39 +518,30 @@
 649,Eulerian number,"{A, ), (, k, m, ,, n, t, ∑, −, =, +}",Life sciences
 650,Euler–Maclaurin formula,"{∑, −, !, ∫, ), (, +, ,, =, <, None, B, R, a, b, d, f, k, m, ⩽, x, {, }, |}",Life sciences
 651,Euler–Tricomi equation,"{y, x, +, =, u}",Life sciences
-652,European Commission number,"{), (, +, N, R, =, mod}",
 653,Evenly spaced integer topology,"{a, ∈, }, k, λ, {, Z, =, +}",Life sciences
-654,Event calculus,"{⇆, C, D, G, F}",Humanities
 655,Evolvability,"{∈, Perf, f, ), (, ⁡, ,, n, r, X, ∑, x, =, D}",Life sciences
 656,Examples of generating functions,"{G, ), (, n, ∞, ∑, x, ;, −, =}",Life sciences
-657,Excess demand function,"{⋅, d, f, ), (, ,, ., P, λ, t, =}",Society
 658,Excursion probability,"{∈, f, ), (, ≥, P, u, t, sup, {, }, T}",Applied sciences
 659,Existential generalization,"{a, ), (, ∃, Q, →, x}",Life sciences
-660,Expected value of including uncertainty,"{−, =}",Society
 661,Explicit algebraic stress model,"{b, G, i, (, j, ), λ, T, ∑, =}",Physical sciences
 662,Exponential decay,"{d, N, λ, t, −, =}",Life sciences
 663,Exponential factorial,"{), (, −, ⋯, n}",Life sciences
 664,Exponential object,"{g, ), (, ,, λ, y, x, =}",Life sciences
 665,Exponential sheaf sequence,"{M, O, →, exp, ⁡, ∗}",Life sciences
 666,Exponential smoothing,"{a, A, f, ), (, k, n, ∑, x, =}",Applied sciences
-667,Exponential utility,"{a, c, e, ), (, None, /, u, ≠, {, −, =}",Society
 668,Exponentially modified Gaussian distribution,"{c, B, e, ω, M, =}",Life sciences
-669,Extended Kalman filter,"{f, ), (, k, ,, u, w, x, −, =, +}",Professional studies
 670,Extensions of symmetric operators,"{i, +, z, −, ↦}",Life sciences
 671,Extouch triangle,"{A, C, B, ), (, csc, T, ⁡, ;, :, =, /}",Life sciences
 672,Extremal graph theory,"{⌊, ⌋, n}",Life sciences
 673,Extreme learning machine,"{f, i, h, L, ), (, ∑, x, β, =}",Life sciences
 674,F-algebra,"{), lim, −, e, f, i, H, +, =, ,, /, →, Q, P, (, E, Γ, Δ, ε}",Life sciences
-675,F-distribution,"{∈, ∏, ), (, K, p, t, x, −, =}",Auxiliary sciences of history
 676,FEE method,"{I, A, ∝, L}",Applied sciences
-677,FIDSAM,"{A, e, F, ), (, τ, /, t, −, =}",
 678,FIFA World Rankings,"{), (, −, =, /}",Applied sciences
 679,Factor graph,"{∏, g, f, ), (, j, m, ,, n, S, …, X, =}",Life sciences
 680,Factor of safety,{=},Applied sciences
 681,Fan-out,"{min, I, (, ⁡, ,, ), ⌋, ⌊, =}",Applied sciences
 682,Faraday constant,"{A, =, F, e, N}",Physical sciences
 683,Faraday's law of induction,"{A, ⋅, B, d, ), (, Σ, ,, Φ, r, t, =, ∬}",Life sciences
-684,Faro shuffle,"{+, σ, ,, [, −, ]}",Society
 685,Farrell–Jones conjecture,"{G, ), (, K, n, R}",Life sciences
 686,Fast marching method,"{Ω, f, ), (, ∈, ∇, u, /, x, =, |}",Life sciences
 687,Fatou–Lebesgue theorem,"{), (, →, SO, ⁡, Spin}",Life sciences
@@ -694,14 +552,9 @@
 692,Fermat's little theorem,"{a, ), (, ≡, p, −, mod}",Life sciences
 693,Fermi level,"{A, B, e, μ, V, −, =}",Physical sciences
 694,Fermion doubling,"{∫, ¯, d, ψ, ), (, +, ∂, m, /, S, x, =}",Physical sciences
-695,Fermi–Dirac statistics,"{A, ∩, B, i, (, +, j, ,, ), S, ∑, X, −, =, |}",Auxiliary sciences of history
 696,Fermi–Walker transport,"{d, F, ), (, +, ,, s, V, X, −, =, D}",Life sciences
 697,Fiber Bragg grating,"{B, e, Λ, n, λ, =}",Applied sciences
-698,Fibonacci coding,"{d, F, i, (, k, ,, N, ), ∑, −, =, +}",Society
-699,Fibonacci series,"{F, ), (, +, f, ,, n, x, −, =}",
 700,Field electron emission,"{=, γ, M, F}",Physical sciences
-701,Filbert matrix,"{F, f, i, +, j, −, =}",
-702,Filtration,"{⊆, ≤, ⟹, t, F}",Humanities
 703,Final value theorem,"{f, ), (, ∞, →, t, lim}",Life sciences
 704,Financial correlation,"{d, ), (, +, σ, S, μ, t, z, =}",Life sciences
 705,Fineness modulus,"{a, e, d, F, i, f, m, l, o, n, s, r, u, t}",Physical sciences
@@ -709,35 +562,23 @@
 707,First fundamental form,"{⟨, ⟩, I, (, ,, ), y, x, =}",Life sciences
 708,First law of thermodynamics,"{E, d, +, Q, t, W, =}",Life sciences
 709,Fischer group Fi24,"{), (, +, N, T, ∑, x, n, =}",Life sciences
-710,Fisher consistency,"{F, ), (, n, θ, T, =, ^}",Auxiliary sciences of history
-711,Fisher-Kolmogorov equation,"{), (, k, ∂, q, u, t, α, x, −, =}",
 712,Fitting subgroup,"{C, Fit, G, ), H, K, ⁡, /, =, (, ⋂, {, }}",Life sciences
 713,Flatness problem,"{a, c, G, H, k, ρ, π, −, =}",Physical sciences
 714,Fleming–Tamao oxidation,"{Ω, f, =, ∂, ,, u, −, Δ, |}",Life sciences
 715,Flipped SU(5),"{a, c, d, →, ), (, ¯, l, /, n, <, p, s, ⊕, u, −, ,, >}",Physical sciences
-716,Flops,"{=, ×}",
-717,Foldback,"{a, ), e, d, g, p, I, i, =, l, o, n, P, s, r, u, t, V, (, −, ×}",
 718,Folded unipole antenna,"{I, P, R, =}",Physical sciences
 719,Forces on sails,"{E, D, F, +, L, R, T, V, =}",Applied sciences
-720,Foreign-exchange option,"{c, e, d, f, ), (, K, N, S, r, T, −, =}",
-721,Form factor,"{), (, +, ¯, σ, N, q, κ, μ, ν, α, β, γ, ε}",
-722,Fouling,"{P, k, =, d, t}",Professional studies
 723,Foundational relation,"{A, ⊆, ∈, ), ∀, ∃, ∅, ⇒, ≠, ∩, S, R, ∧, (, }, x, {, −, =, ,}",Life sciences
 724,Four-acceleration,"{A, a, c, d, ⋅, ), (, +, τ, ,, U, u, ˙, γ, =}",Physical sciences
 725,Four-current,"{c, j, ), (, J, ,, ρ, μ, =}",Physical sciences
 726,Four-frequency,"{a, ), (, ,, N, ν, n, =, ^}",Life sciences
-727,Fourt-Woodlock equation,"{⋅, ), H, +, M, R, U, T, V, (, =}",
 728,Fractional Brownian motion,"{B, E, ), H, +, ], s, t, (, [, −, =, |}",Applied sciences
 729,Fractional Schrödinger equation,"{⋅, log, ), (, k, m, N, S, r, ⁡, −, =, +}",Physical sciences
 730,Fractional coloring,"{b, G, f, χ, lim, →, ), (, ∞, inf, =}",Life sciences
 731,Fracture toughness,"{d, ), (, L, O, P, S}",Physical sciences
-732,Frame problem,"{¬, ), (}",
 733,Fransén–Robinson constant,"{∫, d, F, ), (, ∞, x, Γ, =}",Life sciences
-734,Free boundary problem,"{⋅, ), (, +, ∂, ∇, Q, T, α, =, t}",
-735,Free cash flow,"{C, B, F, I, O, t, −, =}",Professional studies
 736,Free energy perturbation,"{d, ), (, cosh, s, sinh, ⁡, −, =}",Applied sciences
 737,Free regular set,"{Ω, ¯, ∈, ), H, +, τ, ,, |, (, }, {, Γ, =, <, >}",Life sciences
-738,Free variables and bound variables,"{f, ), (, k, ,, n, ∑, =}",Society
 739,Free-air gravity anomaly,"{b, g, F, =, +, o, s, λ, −, δ}",Physical sciences
 740,Free-electron laser,"{λ, ), (, K, r, u, γ, =, +}",Applied sciences
 741,Freiheitssatz,"{⟨, ⟩, G, ,, n, r, …, x, =, |}",Life sciences
@@ -746,14 +587,11 @@
 744,Fresnel number,"{a, λ, =, L, F}",Life sciences
 745,Friedmann–Lemaître–Robertson–Walker metric,"{a, d, χ, (, k, ), s, t, x, −, =, +}",Life sciences
 746,Friedrichs extension,"{⟨, ∈, dom, ∣, ≥, T, ξ, ⁡, ⟩}",Life sciences
-747,Frobenius norm,"{A, ‖, ), (, F, =, ∗}",
 748,Frobenius pseudoprime,"{≡, ), (, k, ,, n, Q, P, U, −, mod}",Applied sciences
-749,Frobenius theorem,"{f, i, k, ,, n, →, R, {, r, }, ≤}",Science disambiguation pages
 750,Frobenius–Schur indicator,"{∈, ∫, d, g, χ, (, G, ), μ}",Life sciences
 751,Frontogenesis,"{A, a, b, ), h, q, T, (, −, =}",Physical sciences
 752,Froude–Krylov force,"{=, c, Λ, m, κ}",Physical sciences
 753,Fuchsian model,"{A, →, ), (, =, L, ρ, P, S, R, {, Γ, }}",Life sciences
-754,Fuel fraction,"{=, Δ, ζ, W}",Professional studies
 755,Fugacity,"{P, =, φ, f}",Physical sciences
 756,Fuhrmann circle,"{a, c, b, +, R, −}",Life sciences
 757,Fujiki class C,"{C, d, ω, i, M, m, ∫, >}",Life sciences
@@ -765,24 +603,18 @@
 763,G Scorpii,"{a, λ, e, d, F, i, (, +, m, l, π, ), s, r, μ, T, ⁡, ϕ, −, =, tan}",Applied sciences
 764,G.711,"{⋅, e, min, ), (, +, m, ,, s, }, max, y, {, −, =}",Applied sciences
 765,GC-content,"{A, C, T, G, +}",Life sciences
-766,GCJ02,"{⁡, −, ), (, +, ,, π, ϕ, =, sin, θ, ;, _, a, c, e, d, g, i, k, l, o, n, p, s, r, t, w, y, x, Δ, |}",
-767,Galilean invariance,"{′, ), (, r, t, v, −, =}",Galileo Galilei
 768,Galilei number,"{a, G, g, L, ν, =}",Life sciences
-769,Gall–Peters projection,"{A, Pr, ⋂, ∏, i, (, n, ), =}",Society
 770,Galois connection,"{∩, ⊆, B, G, g, ∈, ∀, =, ∅, ,, o, r, x, X, ;, }, {}",Life sciences
 771,Galois module,"{C, K, →, r, W, ~}",Life sciences
-772,Galton–Watson process,"{), (, +, j, n, ξ, ∑, X, =}",Humanities
 773,Gambler's ruin,"{P, +, =, n}",Life sciences
 774,Gamma diversity,"{α, β, γ, =, ×}",Life sciences
 775,Gas-phase ion chemistry,"{A, B, e, +, ∙, →, −, ∗}",Applied sciences
-776,Gauss's law,"{Q, =, E, ε, Φ}",Carl Friedrich Gauss
 777,Gauss's law for magnetism,"{A, =, B, ×, ∇}",Physical sciences
 778,Gaussian function,"{a, c, b, e, f, ), (, x, −, =}",Life sciences
 779,Gaussian orbital,"{), (, m, l, Φ, ,, θ, R, Y, ϕ, r, =}",Physical sciences
 780,Gaussian process,"{), (, k, ,, t, …, X, =}",Applied sciences
 781,Gaussian q-distribution,"{c, −, E, ), (, ≤, ], ,, <, q, s, ν, None, x, [, ., =, {, >}",Life sciences
 782,Gaussian quadrature,"{∫, d, f, i, (, n, ), w, ∑, x, −, =}",Physical sciences
-783,Gaussian year,"{k, =, π}",Society
 784,Gauss–Jacobi quadrature,"{∫, d, f, ), (, +, α, x, β, −}",Physical sciences
 785,Gauss–Kuzmin distribution,"{log, ), (, k, p, ⁡, −, =, +}",Life sciences
 786,Gauss–Laguerre quadrature,"{∫, e, d, f, ), (, +, ∞, x, −}",Physical sciences
@@ -795,7 +627,6 @@
 793,Gene expression programming,"{a, c, b, d, ), (, +, −}",Life sciences
 794,General Leibniz rule,"{⋅, C, g, f, ), (, k, n, ∑, −, =}",Life sciences
 795,General linear methods,"{′, f, ), (, ,, t, y, =}",Life sciences
-796,General linear model,"{B, +, U, Y, X, =}",Auxiliary sciences of history
 797,Generalization error,"{x, ∫, ), d, f, I, ], =, ,, ρ, n, Y, (, V, y, X, [, ×}",Applied sciences
 798,Generalized Clifford algebra,"{=, k, j, e, ω}",Life sciences
 799,Generalized Fourier series,"{a, b, F, φ, ], ,, Φ, n, →, ∞, }, {, =, [}",Life sciences
@@ -806,30 +637,21 @@
 804,Generalized flag variety,"{⊂, }, k, ⋯, V, {, =}",Life sciences
 805,Generalized hypergeometric function,"{a, ⩾, b, ⋯, F, ), (, +, …, ,, n, q, p, !, ∞, ∑, β, z, =, ;}",Life sciences
 806,Generalized quadrangle,"{), H, ,, q, s, t, (, =}",Life sciences
-807,Generalized second-price auction,"{α, k, ⋯, ≥}",Professional studies
 808,Generalized symmetric group,"{C, −, d, G, ), (, ∫, ,, ., S, ′, ∞, y, x, z, =}",Life sciences
 809,Genetic algebra,"{B, e, K, ⊕, U, Z, =}",Life sciences
 810,Genetic load,"{), max, ¯, L, w, (, −, =}",Life sciences
 811,Genotype frequency,"{ω, χ, M, /, γ, =}",Life sciences
-812,Geometric dimensioning and tolerancing,"{A, ◂, ◻, |, −}",
 813,Geometric feature learning,"{a, F, ), (, ∃, x}",Applied sciences
 814,Geometric mean theorem,"{q, h, =, p}",Life sciences
 815,Geometric phase,"{⟨, ⟩, C, i, (, =, ,, ∇, n, ), R, t, [, γ, ], |}",Physical sciences
 816,Geometric separator,"{), (, ≤, j, /, n, intersect, ⁡, ∑, −, =, |}",Applied sciences
 817,Geometrical frustration,"{⋅, G, I, H, k, ,, S, μ, ν, ∑, −, =}",Physical sciences
-818,Giant Magneto Resistance,"{), H, =, R, (, −, δ}",
-819,Gibbs free energy,"{G, ), (, +, ,, p, S, U, T, V, −, =}",Environmental studies
 820,Gibbs isotherm,"{Γ, d, +, μ, −, γ, =}",Physical sciences
-821,Gibbs' phase rule,"{C, F, +, P, −, =}",
 822,Gijswijt's sequence,"{a, lim, →, i, (, n, ), ∞, ∑, =, <}",Life sciences
 823,Gilbert–Varshamov bound,"{A, d, ), (, ,, n, q}",Life sciences
 824,Gilbreath's conjecture,"{d, +, n, p, −, =}",Life sciences
 825,Gimel function,"{c, ↦, f, ), (, κ, ℷ, :}",Life sciences
 826,Gingerbreadman map,"{d, f, i, +, o, =}",Life sciences
-827,Glomerular filtration rate,"{×, R, =, G, F}",
-828,Glossary of category theory,"{C, D, G, F, ), (, Hom, ,, ≃, ⁡, Y, X, ;}",Glossaries of mathematics
-829,Glossary of game theory,"{∈, ∏, i, Σ, N, →, R, π}",Glossaries of mathematics
-830,Glossary of module theory,"{M, ∈, ∀, m, ,, n, s, r, R}",Glossaries of mathematics
 831,Glove problem,"{min, ), (, +, M, ,, /, N, ⌉, ⌈}",Life sciences
 832,Goertzel algorithm,"{log, ), (, ≤, M, N, ⁡}",Applied sciences
 833,Goldbach's conjecture,"{≈, ln, (, m, /, n, ), ⁡, ∑, −, =}",Life sciences
@@ -845,7 +667,6 @@
 843,Granger causality,"{ln, (, m, ), r, ⁡, −, =}",Life sciences
 844,Graph dynamical system,"{F, i, (, +, f, ], ,, n, ), …, x, [, −, =}",Life sciences
 845,Grassmann integral,"{a, ∫, b, d, g, f, ), =, +, θ, (, [, ]}",Life sciences
-846,Greeks,"{d, ln, (, K, τ, σ, /, q, ), S, r, ⁡, −, =, +}",Humanities
 847,Green's matrix,"{), (, …, ,, n, t, =, x, X, [, ]}",Life sciences
 848,Griffiths group,"{a, g, ), h, k, ⁡, m, l, o, Griff, (, X, Z, =, /}",Life sciences
 849,Griffiths inequality,"{A, ), H, J, σ, (, ∑, −, =}",Life sciences
@@ -854,10 +675,8 @@
 852,Grothendieck inequality,"{a, i, ≤, j, ,, s, t, ∑, |}",Life sciences
 853,Grothendieck topology,"{A, ∈, ∏, F, ), (, ,, →, X, α, β, ×, ⟶}",Life sciences
 854,Grothendieck universe,"{∈, c, ), (, U, sup, x, =, |}",Life sciences
-855,Grothendieck–Hirzebruch–Riemann–Roch theorem,"{), X, K, (}",
 856,Grothendieck–Ogg–Shafarevich formula,"{∈, C, g, F, χ, (, +, ,, n, ), S, w, x, ∑, X, −, =}",Life sciences
 857,Group code,"{cos, i, θ, I, ⁡, =}",Life sciences
-858,Growth curve,"{A, C, B, E, +, Σ, /, X, =}",
 859,Grötzsch graph,"{), x, +, −, (}",Life sciences
 860,Grünwald–Letnikov derivative,"{lim, ′, f, ), (, +, →, h, x, −, =}",Life sciences
 861,Gudermannian function,"{), (, k, ,, t, …, X, =}",Life sciences
@@ -870,17 +689,14 @@
 868,Hadamard matrix,"{I, H, =, T, n}",Life sciences
 869,Hadamard's dynamical system,"{), g, i, H, j, m, ,, q, p, (, =}",Life sciences
 870,Hadjicostas's formula,"{∫, −, d, ), (, +, s, ⁡, y, x, Γ, =, ζ, log}",Life sciences
-871,Hadwiger conjecture,"{⊆, ⋃, i, K, n, s, v, =, +}",
 872,Hadwiger–Finsler inequality,"{a, c, b, ), (, +, ≥, T, −}",Life sciences
 873,Hagen number,"{d, g, H, L, ρ, p, ν, x, −, =}",Life sciences
 874,Hahn polynomials,"{−, F, ), (, +, ,, N, Q, x, α, β, n, =, ;}",Life sciences
 875,Hall algebra,"{∈, g, ), (, ,, q, λ, μ, ν, [, Z, ]}",Life sciences
 876,Hall effect,"{B, E, F, ), =, +, ], q, (, v, [, ×}",Physical sciences
 877,Halting problem,"{X, R, ×, /, →}",Life sciences
-878,Hamiltonian,"{a, f, ), (, +, ⋯, m, x, −, =}",Science disambiguation pages
 879,Hamiltonian matrix,"{A, P, ), (, +, ⋯, n, p, ∑, x, =}",Life sciences
 880,Hamilton–Jacobi equation,"{+, n, Y, X, Z, =}",Physical sciences
-881,Hammer projection,"{a, e, ), φ, l, ,, λ, (, x, =}",Society
 882,Hamming scheme,"{′, e, g, ), (, +, ↔, O, ∙, V, x}",Life sciences
 883,Hardy's inequality,"{a, ), (, +, ⋯, n, p, ∞, ∑, −, =, <}",Life sciences
 884,Hardy–Littlewood circle method,"{a, f, ), (, n, ∑, z, =}",Life sciences
@@ -894,15 +710,11 @@
 892,Hat operator,"{y, H, =, ^}",Life sciences
 893,Hauptvermutung,"{∈, ), H, M, /, κ, (, ;, Z}",Life sciences
 894,Hausdorff density,"{a, B, ), (, ,, Θ, →, s, r, μ, =, ∗, lim sup}",Life sciences
-895,Hausdorff moment problem,"{∫, d, ), (, m, n, μ, x, =}",Society
-896,Hausner ratio,"{H, B, =, T, ρ}",Pharmaceutical sciences
-897,Hawking radiation,"{H, =, M, T, π}",Stephen Hawking
 898,Hayashi track,"{=, ⋆, j, σ, T}",Physical sciences
 899,Heaps' law,"{), (, K, n, R, V, β, =}",Life sciences
 900,Heat generation in integrated circuits,"{C, g, ), (, +, ∂, ∇, t, κ, ρ, =, T}",Physical sciences
 901,Heat index,"{c, I, H, +, R, T, =}",Physical sciences
 902,Heat kernel signature,"{Ψ, E, ), (, ℏ, =, m, ∇, r, V, [, −, ], +}",Life sciences
-903,Heat-affected zone,"{c, ), E, f, I, (, =, n, Q, i, S, V, y, e, ×}",Environmental studies
 904,Heath–Jarrow–Morton framework,"{∫, e, d, f, ), (, ,, P, s, t, −, =, T}",Life sciences
 905,Heaviside cover-up method,"{a, A, C, B, ), (, +, m, c, n, b, ℓ, x, −, =}",Life sciences
 906,Heavy Rydberg system,"{μ, +, =, m}",Physical sciences
@@ -911,12 +723,8 @@
 909,Heilbronn triangle problem,"{c, f, ), (, ≤, n, Δ}",Life sciences
 910,Heine–Borel theorem,"{C, ∪, }, K, U, T, {, =}",Life sciences
 911,Heinz mean,"{A, B, ), H, +, ,, (, x, −, =}",Life sciences
-912,Helicity,"{→, =, L, p, r, ×}",
 913,Helly–Bray theorem,"{∫, d, g, F, ), (, n, →, R, ∞, x}",Life sciences
-914,Helmholtz decomposition,"{A, F, =, +, Φ, ∇, −, ×}",Hermann von Helmholtz
 915,Helmholtz equation,"{A, k, =, +, ∇}",Life sciences
-916,Helmholtz free energy,"{A, ≡, S, U, T, −, =}",Hermann von Helmholtz
-917,Helmholtz's theorems,"{A, ⋅, c, d, ω, ∮, ∫, n, →, s, u, Γ, =}",Hermann von Helmholtz
 918,Herbrand–Ribet theorem,"{a, ω, ), (, σ, n, p, ∑, ϵ, −, =}",Life sciences
 919,Hereditarily finite set,"{ω, ⋃, k, V, ∞, =}",Life sciences
 920,Herglotz–Zagier function,"{′, log, F, ), (, ⁡, }, n, ∑, ∞, −, x, {, Γ, =}",Life sciences
@@ -925,15 +733,12 @@
 923,Hermite–Minkowski theorem,"{!, d, ), (, K, ≥, /, π, n, |}",Life sciences
 924,Hermitian matrix,"{A, ¯, =}",Life sciences
 925,Heron's formula,"{A, a, c, b, ), (, +, −, =}",Life sciences
-926,Heron's method,"{a, ), (, +, n, x, =}",
 927,Herschel–Bulkley fluid,"{+, τ, n, ˙, γ, =, k}",Life sciences
 928,Hesse normal form,"{⟨, ⟩, d, ∈, H, ∣, ,, n, R, v, }, x, {, =}",Life sciences
 929,Hessenberg matrix,"{), h, ⋮, ⋯, n, ⋱, (, −}",Life sciences
 930,Hessian form of an elliptic curve,"{Y, X, +, =, a}",Life sciences
 931,Heston model,"{), (, ≤, p, x, <}",Life sciences
 932,Heterodyne detection,"{cos, E, ω, g, i, φ, +, ), s, t, ⁡, (}",Applied sciences
-933,Hick's law,"{⋅, b, log, ), (, +, n, T, ⁡, =}",Experimental social sciences
-934,Hicks-neutral technical change,"{A, F, ), (, K, L, ,, Y, =, ∗}",Professional studies
 935,Hierarchical generalized linear model,"{d, /, Q, S, r, T, =}",Applied sciences
 936,Hierarchical network model,"{c, −, ), (, k, P, ∼, γ}",Physical sciences
 937,High energy nuclear physics,"{−, ), (, p, T, γ, =}",Physical sciences
@@ -942,9 +747,6 @@
 940,Highly abundant number,"{), m, σ, n, (, >}",Life sciences
 941,Highly structured ring spectrum,"{→, Ω, ×, X}",Life sciences
 942,Hilbert's Nullstellensatz,"{), (, J, =}",Life sciences
-943,Hilbert's irreducibility theorem,"{f, ), (, ,, n, s, r, …, Y, X}",Society
-944,Hilbert's seventh problem,"{Q, ∈, ?}",Society
-945,Hilbert's theorem,"{′, ψ, φ, ∘, p, S, R, exp, ⁡, =, ⟶}",
 946,Hilbert–Burch theorem,"{I, m, /, n, →, R}",Life sciences
 947,Hilbert–Schmidt integral operator,"{Ω, ∫, d, ), (, k, ,, |, ∞, y, x, <}",Life sciences
 948,Hilbert–Schmidt theorem,"{i, lim, +, →, λ, ∞, =}",Life sciences
@@ -952,7 +754,6 @@
 950,Himmelblau's function,"{f, ), (, +, ,, y, x, −, =}",Life sciences
 951,Hirzebruch surface,"{), (, +, O, n, −}",Life sciences
 952,Histogram equalization,"{,, ), i, (, ≤, L, n, p, x, =, <}",Applied sciences
-953,History of general relativity,"{=, R, μ, ν, T}",
 954,History of quaternions,"{i, k, j, =, −}",Life sciences
 955,Hit-or-miss transform,"{A, ∩, C, B, D, ), (, c, ⊖, =, ⊙}",Applied sciences
 956,Hitchin–Thorpe inequality,"{≥, χ, (, τ, M, ), |}",Life sciences
@@ -968,12 +769,9 @@
 966,Hooke's atom,"{), H, k, ∇, r, (, +, −, =, |, ^}",Physical sciences
 967,Hooke's law,"{X, k, =, F}",Physical sciences
 968,Hoover index,"{:, →, B, E, π}",Life sciences
-969,Hopkinson's law,"{⋅, m, Φ, Θ, R, =}",
 970,Hotelling's rule,"{′, ), (, =, P, t, δ}",Applied sciences
 971,Hough transform,"{cos, +, θ, r, ⁡, y, x, =, sin}",Applied sciences
 972,Householder's method,"{a, ⋅, e, d, f, K, ≤, m, ,, o, n, s, r, |, x, −, +, >}",Life sciences
-973,How Long Is the Coast of Britain? Statistical Self-Similarity and Fractional Dimension,"{D, G, ), (, M, L, −, =}",Categories by parameter
-974,Hubbert linearization,"{d, ), (, K, Q, P, R, U, t, −, =}",Society
 975,Hubble–Reynolds law,"{I, H, +, /, ), R, (, =}",Physical sciences
 976,Humbert polynomials,"{a, !, e, ), (, +, n, t, exp, ⁡, ∑, x, β, −, =}",Life sciences
 977,Hume-Rothery rules,"{e, ), (, ≤, =, l, o, n, s, r, u, t, v, %, −, ×}",Physical sciences
@@ -1000,12 +798,9 @@
 998,Implicational propositional calculus,"{log, ), (, ≤, p, ⁡, ∑, x, =, ϑ}",Life sciences
 999,Implicit curve,"{F, ), (, ,, y, x, =}",Applied sciences
 1000,Incidence structure,"{B, ), I, (, ,, p, =}",Life sciences
-1001,Indeterminate,"{g, f, ), (, +, ,, x, =}",
 1002,Indeterminate form,"{c, g, f, ), lim, ., →, (, x}",Life sciences
 1003,Index of dispersion,"{μ, =, σ, D}",Life sciences
-1004,Inertance,"{A, ⋅, I, ρ, ℓ, =}",Environmental studies
 1005,Information gain in decision trees,"{a, ∈, G, ⋅, I, H, l, ,, ), s, }, T, v, (, x, {, −, =, |, ∑}",Applied sciences
-1006,Information theory and measure theory,"{∫, d, f, ), h, ⁡, R, (, X, x, −, =, log}",Formal sciences
 1007,Inhomogeneous electromagnetic wave equation,"{=, c, μ, ε}",Physical sciences
 1008,Initial condition,"{a, k, ⋯, t, x, −, =, +}",Life sciences
 1009,Inner model,"{⟨, ∈, =, L, ⟩}",Life sciences
@@ -1015,16 +810,13 @@
 1013,Integration along fibers,"{∫, b, ), (, k, m, ,, π, w, …, α, β, −, =, ∗}",Life sciences
 1014,Integration by reduction formulae,"{∫, f, I, (, ,, n, ), x, =}",Physical sciences
 1015,Intermediate Jacobian,"{C, ), H, ⋯, M, ,, n, ⊗, ⊕, R, (, =}",Life sciences
-1016,Intrinsic value,"{e, f, I, h, m, o, n, u, t, V, y, −, =}",
 1017,Introduction to entropy,"{q, =, S, δ, T}",Life sciences
 1018,Invariance mechanics,"{′, R, x, −, =, |}",Physical sciences
 1019,Inverse gas chromatography,"{F, ), (, j, m, o, ∘, R, t, V, −, =, T}",Life sciences
-1020,Inverse-gamma distribution,"{∫, ¯, d, ψ, ), (, +, ∂, m, /, S, x, =}",Auxiliary sciences of history
 1021,Ising model,"{⟨, ⟩, j, i, h, J, σ, ), μ, (, H, ∑, −, =}",Life sciences
 1022,Iso-damping,"{c, G, ω, ), ∠, j, s, (, =, |, d}",Applied sciences
 1023,Isotypic component,"{i, ⊕, N, =, V}",Life sciences
 1024,Isserlis' theorem,"{A, ≏, C, B, +}",Life sciences
-1025,Itō isometry,"{∫, E, d, ), =, t, W, (, X, [, ], T}",
 1026,J-homomorphism,"{), (, +, J, O, π, q, →, S, r, :}",Life sciences
 1027,J1 J2 model,"{⟨, ⋅, j, ⟩, i, H, +, J, →, S, ∑, =, ^}",Physical sciences
 1028,Jackson network,"{j, ), i, (, +, J, ,, ., p, λ, …, ∑, α, =}",Applied sciences
@@ -1034,15 +826,12 @@
 1032,Jacobi triple product,"{∈, ∏, i, Σ, π, →, R, N}",Life sciences
 1033,Jacobian conjecture,"{b, ], ,, †, [, −, =, ^}",Life sciences
 1034,Jacobian ideal,"{⟨, ⟩, ∂, f, J, ,, n, …, x, =}",Life sciences
-1035,Jacobian matrix,"{J, f, ), m, ⋮, ∂, M, n, ⋱, (, x, ⋯, =}",
 1036,Jacobsthal number,"{−, +, J, =, n}",Life sciences
 1037,Janko group J1,"{d, ), (, +, ,, y, x, z, =}",Life sciences
 1038,Jefimenko's equations,"{∂, ′, ϵ, −, ×, ∫, ), (, +, ,, ρ, π, =, B, E, J, μ, [, ], c, d, r, t, |}",Life sciences
 1039,Jensen's inequality,"{f, ), (, +, t, x, −, ≤}",Life sciences
 1040,Jet group,"{), ×, k, ⋯, m, S, R, W, (, =, ∗}",Life sciences
 1041,Jiles-Atherton model,"{α, +, =, M, H}",Physical sciences
-1042,Johnson SU distribution,"{z, sinh, ), (, +, =, λ, ξ, ⁡, −, x, γ, δ}",
-1043,Joint quantum entropy,"{A, B, log, ), (, Tr, ,, ρ, S, ⁡, −, =}",Formal sciences
 1044,Joint spectral radius,"{B, ), (, L, W, Y, X, −, =}",Applied sciences
 1045,Jordan curve theorem,"{None, −, ), H, k, ,, n, q, ., (, Y, {, Z, =, ~}",Life sciences
 1046,Jordan's lemma,"{∈, C, e, i, }, ∣, ], ,, π, θ, R, [, =, {}",Life sciences
@@ -1051,33 +840,22 @@
 1049,Jørgensen's inequality,"{A, B, ), (, +, ≥, −, |}",Life sciences
 1050,K-convex function,"{b, g, ), (, K, z, u, +, [, −, ], ≤}",Life sciences
 1051,K-function,"{∫, Γ, d, ln, (, K, ], /, π, ), t, exp, ⁡, −, [, z, =, +}",Life sciences
-1052,Kalai–Smorodinsky bargaining solution,"{B, e, d, F, ), (, s, μ, t, −, =}",Humanities
 1053,Kalman–Yakubovich–Popov lemma,"{A, +, Q, P, T, −, =}",Life sciences
-1054,Kamal,"{s, S, =, d, D}",
 1055,Kaplansky density theorem,"{a, f, ), lim, (, α, =}",Life sciences
 1056,Kaplan–Yorke conjecture,"{i, j, λ, ∑, =, >}",Life sciences
 1057,Karhunen–Loève theorem,"{e, ), (, k, t, ∞, ∑, X, Z, =}",Life sciences
 1058,Karmarkar's algorithm,"{⋅, log, ), (, L, O, n, ⁡}",Life sciences
-1059,KeeLoq,"{a, c, b, e, d, F, ), (, ,, ⊕, =}",
-1060,Kepler orbit,"{a, cos, e, ), (, +, θ, r, ⁡, −, =}",Johannes Kepler
-1061,Kernel,"{∈, f, ), =, ∣, (, w, x, X, {, }}",
-1062,Key encapsulation,"{c, e, ), (, m, n, ≡, mod}",Behavioural sciences
 1063,Khinchin integral,"{a, ∫, d, g, f, ), (, t, x, =}",Physical sciences
 1064,Khmaladze transformation,"{F, ), (, ], n, v, x, [, −, =}",Life sciences
 1065,Killing spinor,"{⋅, ψ, ∇, λ, X, =}",Life sciences
 1066,Kinetic Monte Carlo,"{∫, ′, d, ln, (, k, =, /, Q, ), u, t, ⁡, Δ}",Physical sciences
 1067,Kirchhoff's diffraction formula,"{∫, −, e, d, ), i, (, k, ∂, s, n, P, S, U, =, [, π, ]}",Life sciences
 1068,Kirwan map,"{G, →, ), H, M, /, p, (, ∗}",Life sciences
-1069,Klecka's tau,"{c, −, i, τ, o, n, p, r, T, ∑, N, =}",Auxiliary sciences of history
 1070,Klein cubic threefold,"{+, W, V, Y, X, Z, =}",Life sciences
 1071,Klein quartic,"{y, x, +, z, =}",Life sciences
 1072,Klein–Gordon equation,"{c, ψ, ℏ, ∂, m, ∇, t, −, =, +}",Life sciences
 1073,Kobayashi metric,"{d, f, ), (, ≤, ,, ρ, y, x}",Life sciences
 1074,Koide formula,"{e, ≈, ), (, +, τ, m, Q, μ, =}",Life sciences
-1075,Kolchuga passive sensor,"{d, ), h, k, m, r, t, (, =, +}",Professional studies
-1076,Kolmogorov structure function,"{∈, log, min, ), h, K, ⁡, ≤, ,, S, (, x, }, α, {, =, |}",Formal sciences
-1077,Koopman–von Neumann classical mechanics,"{), i, (, ∂, L, ρ, ,, p, t, x, =, ^}",Articles containing video clips
-1078,Korringa–Kohn–Rostoker approximation,"{c, ′, E, ), m, k, M, l, ,, (, ∑, =}",
 1079,Kosmann lift,"{q, E, ⊂, ×, ∈, i, =, ∣, τ, ,, Q, ), T, v, (, {, }, ∗}",Life sciences
 1080,Koszul algebra,"{b, ), i, (, k, ⋯, →, R, −}",Life sciences
 1081,Koszul duality,"{A, ), (, /, R, T, V, =}",Life sciences
@@ -1095,13 +873,8 @@
 1093,LU decomposition,"{A, =, U, L}",Life sciences
 1094,Lagged Fibonacci generator,"{a, b, i, (, k, m, ., ), X, −, =, +, mod}",Life sciences
 1095,Lagrange multiplier,"{⋅, g, f, ), (, L, ∇, ,, λ, y, x, −, =}",Life sciences
-1096,Lagrange's theorem,"{⋅, G, H, ], [, =, |}",
-1097,Lagrangian and Eulerian specification of the flow field,"{), (, ,, u, t, x}",Professional studies
 1098,Laguerre form,"{a, D, ), (, +, L, w, =}",Life sciences
-1099,Lahun Mathematical Papyri,"{d, ), h, +, V, /, (, =}",Society
-1100,Lamb waves,"{A, −, e, ω, f, i, (, k, ), t, ξ, x, z, =}",Society
 1101,Lamplighter group,"{−, ⨁, Z, /, ∞}",Life sciences
-1102,Lanczos approximation,"{A, Γ, e, g, ), (, +, π, −, z, =}",Articles with example code
 1103,Landau pole,"{g, ln, (, +, m, /, ), Λ, ⁡, β, =}",Physical sciences
 1104,Landau prime ideal theorem,"{′, ), (, +, r, X}",Life sciences
 1105,Landau theory,"{a, Ψ, F, H, +, s, r, =}",Physical sciences
@@ -1113,12 +886,10 @@
 1111,Laplace number,"{a, σ, L, ρ, S, μ, u, =}",Life sciences
 1112,Laplace operator,"{⋅, ∇}",Life sciences
 1113,Laplace operators in differential geometry,"{=, −, Δ, T, ∇}",Life sciences
-1114,Laplace principle,"{A, ∫, e, d, ), φ, +, (, ∞, x, −, <}",
 1115,Laplace transform,"{∫, e, d, F, ), (, f, s, t, ∞, −, =}",Life sciences
 1116,Laplace–Beltrami operator,"{⋅, =, ∇, f}",Life sciences
 1117,Laplacian matrix,"{d, ), H, +, ,, s, u, (, v, y, x, =}",Life sciences
 1118,Laplacian of the indicator,"{∂, ∇, ⁡, ), (, +, ρ, ϕ, =, ⋅, E, S, R, a, e, f, i, o, n, q, u, t, Γ, grad, |}",Life sciences
-1119,Lapse Function,"{g, ), (, ¯, ,, L, N, =}",
 1120,Large deviations theory,"{i, M, N, ∑, X, =}",Life sciences
 1121,Las Vegas algorithm,"{∩, =, ,}",Applied sciences
 1122,Latent class model,"{≈, i, j, p, t, ∑, T}",Applied sciences
@@ -1135,7 +906,6 @@
 1133,Lee distance,"{min, i, (, ,, n, q, ), y, x, −, =, ∑}",Life sciences
 1134,Left quotient,"{∈, ), }, ∃, L, ∧, w, (, x, {, =, |, ∖}",Life sciences
 1135,Legendre symbol,"{a, None, ≡, ), (, ≢, ,, ., p, {, −, =, mod}",Life sciences
-1136,Legendre's theorem,"{a, c, b, +, y, x, z, =}",
 1137,Legendre–Clebsch condition,"{a, ∫, b, d, ), (, L, ,, ′, t, x}",Life sciences
 1138,Lehmer matrix,"{A, i, (, j, ,, ), =}",Life sciences
 1139,Lehmer random number generator,"{⋅, g, k, n, X, =, +, mod}",Life sciences
@@ -1155,10 +925,7 @@
 1153,Lidstone series,"{A, C, −, f, ), (, k, ⁡, +, π, N, n, =, ∞, ∑, [, z, ], sin}",Life sciences
 1154,Lie algebra representation,"{g, ), (, l, ρ, →, V, :}",Life sciences
 1155,Lieb's square ice constant,"{f, ), lim, …, n, →, (, ∞, =}",Life sciences
-1156,Lieb–Liniger model,"{), (, +, s, r, ℓ, −, =}",Auxiliary sciences of history
-1157,Light cone coordinates,"{d, i, =, +, j, s, t, x, −, δ}",
 1158,Light scattering by particles,"{x, r, λ, =, π}",Physical sciences
-1159,Likelihood ratios in diagnostic testing,"{−, +, R, =, L}",Auxiliary sciences of history
 1160,Limit cardinal,"{ℵ, ℶ, =}",Life sciences
 1161,Limit comparison test,"{a, c, b, <, −, n, ε}",Life sciences
 1162,Lindström quantifier,"{A, a, ∈, ], ¯, ,, ⊨, =, [, x, ϕ, :, }, {}",Life sciences
@@ -1171,29 +938,21 @@
 1169,Linearity of differentiation,"{⋅, g, f, ), (, +, α, x, β}",Life sciences
 1170,Linearized gravity,"{h, +, =, g, η}",Life sciences
 1171,Lineweaver–Burk plot,"{max, K, =, m, S, V, [, ], +}",Physical sciences
-1172,Link budget,"{), (, +, =, u, t, x, −, Δ}",Society
-1173,Liouville's theorem,"{a, c, D, +, ⋯, n, u, v, =}",
 1174,Liouville–Neumann series,"{), (, n, λ, ∞, ∑, x, ϕ, =}",Life sciences
-1175,Lipophilic efficiency,"{C, I, g, p, i, L, o, P, E, −, =}",Pharmaceutical sciences
-1176,Lippmann Schwinger equation,"{⟩, E, ψ, i, H, +, =, |, ), (, V, ϕ, −, ., ϵ, ±}",
 1177,Lipschitz domain,"{∈, B, ), =, ∥, n, <, p, r, (, x, R, −, }, {, |}",Life sciences
 1178,Lissajous knot,"{cos, ), (, +, ,, n, t, ⁡, y, x, ϕ, z, =}",Life sciences
 1179,List of integrals of logarithmic functions,"{a, ∫, log, ln, ⁡, x, −, =, d}",Physical sciences
 1180,Littlewood conjecture,"{‖, n, →, ∞, α, β, =, lim inf}",Life sciences
 1181,Littlewood's 4/3 inequality,"{B, e, i, (, ≤, j, ∥, ,, /, ), ∞, ∑, =, |}",Life sciences
-1182,Liu Hui's π algorithm,"{A, −, =, D, N}",Categories by parameter
 1183,Live variable analysis,"{y, x, +, =, N}",Life sciences
 1184,Liénard equation,"{d, g, f, ), (, +, t, x, =}",Life sciences
-1185,Loading dose,"{C, d, F, p, S, V, =}",Pharmaceutical sciences
 1186,Local boundedness,"{f, ), (, ≤, M, x, |}",Life sciences
 1187,Local field,"{a, ), (, μ, X, =, |}",Life sciences
 1188,Local martingale,"{min, =, k, τ, ,, t, X, {, }}",Applied sciences
-1189,Local volatility,"{d, ), (, +, σ, S, r, t, W, −, =}",Professional studies
 1190,Locally compact quantum group,"{∈, C, I, (, ∣, }, |, ), ℑ, y, {, z, =, ≤}",Life sciences
 1191,Lockhart–Martinelli parameter,"{d, I, (, +, J, ,, ), y, x, =}",Life sciences
 1192,Log amplifier,"{ln, (, K, V, ), ⁡, =}",Applied sciences
 1193,Log area ratio,"{A, log, k, r, ⁡, −, =, +}",Applied sciences
-1194,Logarithmic Loss,"{), log, g, i, (, +, l, o, N, p, s, ⁡, y, −, =, ∑}",
 1195,Logarithmic convolution,"{a, ∫, d, ), (, l, s, r, t, ∞, =, ∗}",Life sciences
 1196,Logarithmic growth,"{+, ⋯}",Life sciences
 1197,Logarithmically concave measure,"{A, B, ), (, +, ≥, λ, μ, −}",Life sciences
@@ -1212,14 +971,12 @@
 1210,Lorentz–Lorenz equation,"{−, π, +, N, α, n, =}",Physical sciences
 1211,Lorenz gauge condition,"{A, ∂, ,, ≡, μ, =}",Physical sciences
 1212,Lottery mathematics,"{!, ), (, k, n, −, =}",Life sciences
-1213,Low Exercise Price Option,"{e, D, ), (, L, /, n, S, r, y, X, −, =, ,}",Professional studies
 1214,Low level injection,"{=, +, Δ, n}",Physical sciences
 1215,Low-discrepancy sequence,"{∫, d, ≈, f, i, (, N, ), u, ∑, x, =}",Life sciences
 1216,Low-energy electron microscopy,"{B, f, ), (, k, ∇, s, T, x, =, +}",Physical sciences
 1217,Lower convex envelope,"{∫, E, d, ), (, t, ∞, =}",Life sciences
 1218,Lower hybrid oscillation,"{Ω, ), e, ω, i, (, +, =, ,, /, p, [, −, ]}",Physical sciences
 1219,Lucas primality test,"{a, ≡, ), (, n, −, mod}",Applied sciences
-1220,Lucas pseudoprime#Fibonacci pseudoprimes,"{D, ), (, =, n, −, δ}",
 1221,Lucas sequence,"{⋅, ), (, +, ≥, ,, n, Q, P, U, V, ;, −, =}",Life sciences
 1222,Lucas–Kanade method,"{I, (, +, q, ), t, V, y, x, −, =}",Applied sciences
 1223,Luce's choice axiom,"{), i, (, j, P, w, ∑, =}",Life sciences
@@ -1228,16 +985,13 @@
 1226,Luttinger's theorem,"{∫, D, ω, ), (, k, ,, π, G, p, n, =, >, d}",Physical sciences
 1227,Lyapunov–Schmidt reduction,"{f, ), (, ,, λ, x, =}",Life sciences
 1228,Lyman series,"{c, ≈, λ, ), h, =, n, R, (, −, ×}",Physical sciences
-1229,Lévy arcsine law,"{⁡, cos, i, (, k, j, θ, ), r, +, −, =, sin}",Paul Lévy (mathematician)
 1230,Lévy's continuity theorem,"{∈, e, i, φ, =, ,, n, ), R, t, ∀, (, X, N, E}",Life sciences
 1231,Löb's theorem,"{A, #, B, e, ⊢, f, i, h, ,, n, P, t, w, (, →, )}",Life sciences
 1232,Löwenheim–Skolem theorem,"{→, φ, n, M, f}",Life sciences
 1233,M. Riesz extension theorem,"{∩, ∈, F, ), (, K, ≥, x, ϕ}",Life sciences
 1234,M2-brane,"{c, G, M, θ, r, =}",Life sciences
-1235,MICEX 10,"{⋅, ), i, (, k, P, ∑, =}",Professional studies
 1236,MacMahon Master theorem,"{∈, }, ∥, R, S, r, x, {, =}",Life sciences
 1237,Macaulay brackets,"{None, }, ≥, ,, x, {, =, <}",Life sciences
-1238,Macaulay's method,"{y, ln, ′, =, ⁡}",Professional studies
 1239,Maclaurin's inequality,"{S, ≥, ⋯, n}",Life sciences
 1240,Macrodiversity,"{H, +, n, y, x, =}",Physical sciences
 1241,Madelung equations,"{⋅, ρ, ), (, +, ∂, ∇, u, t, =}",Life sciences
@@ -1245,16 +999,11 @@
 1243,Magnetic anisotropy,"{−, E, ), (, K, ⁡, θ, V, γ, =, sin}",Physical sciences
 1244,Magnetic dipole,"{A, ), (, =, m, π, r, μ, ×}",Physical sciences
 1245,Magnetoelectric effect,"{i, H, k, j, P, …, ∑, α, β, =, +}",Physical sciences
-1246,Magnetorheological fluid,"{d, ), H, +, τ, ,, >, (, v, y, z, =, η}",Professional studies
 1247,Mahler polynomial,"{!, e, g, ), (, +, /, n, t, exp, ⁡, ∑, x, −, =}",Life sciences
-1248,Maintenance dose,"{p, C, =, L, F}",Pharmaceutical sciences
 1249,Malliavin calculus,"{∫, d, f, ), (, +, λ, ∞, x, −, =, ε}",Life sciences
 1250,Malthusian growth model,"{e, ), (, P, r, t, =}",Life sciences
-1251,Mandel Q Parameter,"{⟨, ⟩, g, ), (, =, n, Q, −, Δ, ^}",
-1252,Mandelbrot set,"{c, z, =, +, n}",Articles containing video clips
 1253,Mandelstam variables,"{⋅, ≈, ), (, +, p, s, =}",Physical sciences
 1254,Manning formula,"{h, k, /, n, S, R, V, =}",Physical sciences
-1255,Mann–Whitney U,"{−, σ, m, ,, U, z, =}",
 1256,Many-sorted logic,{⊆},Life sciences
 1257,Marconi's law,"{H, c, =, D}",Life sciences
 1258,Margaria-Kalamen power test,"{g, h, m, P, t, =}",Applied sciences
@@ -1263,52 +1012,31 @@
 1261,Marginal revenue productivity theory of wages,"{=, P, R, M, ×}",Applied sciences
 1262,Market concentration,"{f, ), (, Q, P, S, R, x, −, =}",Life sciences
 1263,Markov additive process,"{J, E, g, f, ), (, +, F, ,, s, t, =, X, [, −, ], |}",Applied sciences
-1264,Markov process,"{A, ∈, F, ), (, P, s, t, X, =, |}",
-1265,Markovian arrival processes,"{′, F, ), (, +, α, y, x, −, =}",
-1266,Markup rule,"{⋅, C, ), (, π, Q, P, −, =}",Social sciences terminology
 1267,Martingale central limit theorem,"{∈, ∞, ⁡, −, ∫, ), lim, +, τ, ,, π, =, <, Φ, P, R, ν, X, d, →, u, exp, (, x}",Life sciences
 1268,Martingale difference sequence,"{a, E, d, ,, n, t, ∞, X, [, ], <}",Applied sciences
-1269,Mash ingredients,"{∘, +, =}",Health
 1270,Mason's invariant,"{d, ), H, +, n, s, (, ∞, Z, =}",Applied sciences
 1271,Mason–Stothers theorem,"{a, c, b, ), max, ≤, rad, ,, (, ⁡, {, −, }, deg}",Life sciences
 1272,Mason–Weaver equation,"{a, C, ), i, h, =, o, P, T, (, −, Δ}",Applied sciences
-1273,Mass action law,"{i, p, =, n}",
 1274,Mass attenuation coefficient,"{m, μ, ρ}",Physical sciences
 1275,Massieu function,"{Ψ, i, (, +, ,, ), r, …, Y, X, =}",Physical sciences
-1276,Master stability of the synchronized state,"{A, g, f, i, (, +, j, σ, N, ), ∑, x, ˙, =}",
 1277,Material failure theory,"{), H, N, (, −, =}",Physical sciences
-1278,Material implication,"{∨, →, ¬, Q, P, ⇔}",
-1279,Material requirements planning,"{′, i, (, J, ,, ., ), x, =}",Professional studies
-1280,Mathematical coincidence,"{=, …}",Categories by parameter
 1281,Matsumoto zeta function,"{A, ∏, ), (, p, s, ϕ, −, =}",Life sciences
 1282,Matérn covariance function,"{), h, +, π, r, (, V, =}",Applied sciences
-1283,Mauchly's sphericity test,"{−, H, =, σ}",Auxiliary sciences of history
-1284,Maximum a posteriori estimation,"{↦, f, ), (, ∣, θ, x}",Auxiliary sciences of history
 1285,Maximum entropy spectral estimation,"{), (, k, R, x, α, =}",Life sciences
 1286,Maximum length sequence,"{{, ξ, ], F, ), (, +, σ, ,, /, μ, exp, ⁡, }, x, [, −, =, ;}",Life sciences
 1287,Maximum likelihood sequence estimation,"{), (, ∣, L, p, r, x, =}",Applied sciences
-1288,Maximum-margin hyperplane,"{⟨, ⟩, c, ≤, ≥, ,, v, y, x}",
 1289,Maxwell's equations,"{⋅, B, E, ×, ), (, J, ∂, ,, ρ, ∇, μ, t, +, −, =, ε}",Physical sciences
 1290,Maxwell–Boltzmann distribution,"{e, f, ), (, k, m, π, T, v, −, =}",Life sciences
-1291,Maxwell–Jüttner distribution,"{), F, i, (, +, ⋯, P, V, =}",Environmental studies
 1292,Mazur–Ulam theorem,"{→, :, f, W, V}",Life sciences
-1293,Mean Directional Accuracy,"{A, −, g, F, i, (, ), N, ==, s, t, ∑, n}",
-1294,Mean absolute error,"{A, e, f, i, M, n, ∑, y, E, −, =, |}",Auxiliary sciences of history
-1295,Mean circulatory filling pressure,"{A, M, ≃, P, S, R, V, −}",
 1296,Mean curvature,"{), H, +, κ, (, =}",Life sciences
 1297,Mean curvature flow,"{c, ), (, ▹, /, ., λ, u, v, x, [, ]}",Life sciences
-1298,Mean log deviation,"{∈, d, i, }, Rep, ⁡, ,, Q, ), (, V, {, =}",Auxiliary sciences of history
-1299,Mean reciprocal rank,"{i, ., Q, ∑, =, |}",Auxiliary sciences of history
-1300,Mean square weighted deviation,"{i, ¯, N, ∑, x, =}",
 1301,Mean value analysis,"{≈, ), (, k, m, L, −}",Applied sciences
-1302,Measurable Riemann mapping theorem,"{¯, f, ), (, ∂, μ, z, =}",Categories by parameter
 1303,Measure-preserving dynamical system,"{B, ), (, ,, μ, T, X}",Life sciences
 1304,Mehler–Fock transform,"{∫, ), d, f, i, (, ≤, F, ,, /, P, t, ∞, x, −, =}",Life sciences
 1305,Mellin transform,"{∫, d, f, ), φ, M, }, s, (, ∞, x, {, −, =}",Life sciences
 1306,Mercator series,"{ln, (, +, ⋯, ), ⁡, x, −, =}",Life sciences
 1307,Mersenne number,"{=, −, M, n}",Life sciences
 1308,Mersenne prime,"{e, i, M, m, ,, n, p, r, −, =}",Life sciences
-1309,Meschersky equation,"{d, F, ), m, +, M, u, t, v, (, −, =}",
 1310,Meshedness coefficient,"{+, m, n, α, −, =}",Life sciences
 1311,Mesopic vision,"{′, ), (, +, m, λ, V, x, −, =}",Life sciences
 1312,Metadynamics,"{H, +, =, T, V}",Physical sciences
@@ -1316,21 +1044,15 @@
 1314,Method of distinguished element,"{A, ), (, +, x, −, =, |}",Life sciences
 1315,Methods of contour integration,"{Γ, +, ⋯, n, γ, =}",Life sciences
 1316,Metropolis–Hastings algorithm,"{dim, ), (, Ann, M, /, R, ⁡, =}",Physical sciences
-1317,Mex,"{), =, ∅, (}",
 1318,Micro-mechanics of failure,"{!, ⋅}",Physical sciences
-1319,Microcanonical ensemble,"{P, =, /, W}",Auxiliary sciences of history
 1320,Microdispensing,"{e, D, σ, ρ, W, v, =}",Applied sciences
 1321,Microplasma,"{A, B, d, ), ln, (, +, ⁡, /, p, b, V, γ, =}",Physical sciences
-1322,Mie-Grüneisen equation of state,"{e, d, ), (, p, V, Γ, =}",
-1323,Miles per gallon gasoline equivalent,"{e, G, M, ,, P, E, =, ∗}",Professional studies
 1324,Milner–Rado paradox,"{;, ⋃, }, +, n, X, α, β, γ, =, {, ∖}",Life sciences
 1325,Milnor number,"{C, f, ), (, ,, n, →}",Life sciences
 1326,Milstein method,"{a, b, d, ), (, +, t, W, X, =}",Life sciences
 1327,Minimax approximation algorithm,"{a, b, f, ), (, ≤, p, max, x, −, |}",Applied sciences
 1328,Minimum overlap problem,"{A, B, min, ), max, k, M, ,, n, (, ., =}",Life sciences
-1329,Minkowski's bound,"{!, D, ), (, K, M, π, r, n, =, |}",Hermann Minkowski
 1330,Minkowski's second theorem,"{∈, g, ), }, K, inf, λ, (, x, R, =, {}",Life sciences
-1331,Mired,"{=, M, T}",Society
 1332,Misorientation,"{A, =, B, Δ, g}",Life sciences
 1333,Misunderstandings of p-values,"{), (, m, α, −, =}",Life sciences
 1334,Mittag-Leffler polynomials,"{z, g, ), (, +, n, t, ∑, −, =}",Life sciences
@@ -1348,7 +1070,6 @@
 1346,Monge–Ampère equation,"{a, c, b, ), (, +, ∂, −, y, x, ϕ, z, =}",Life sciences
 1347,Monoid ring,"{g, ψ, ), (, k, ℓ, ∑, ϕ, =}",Life sciences
 1348,Monoidal natural transformation,"{a, ⊗, C, D, G, F, I, (, J, m, ,, n, ∙, ), →, d}",Life sciences
-1349,Monotonicity,"{i, +, R, v, X, ⟶}",
 1350,Moore graph,"{d, i, (, k, ), ∑, −, =, +}",Life sciences
 1351,Moore matrix,"{i, j, M, ,, q, α, −, =}",Life sciences
 1352,Morava K-theory,"{), (, K, ≅, n, ⊗, Y, X, ×, ∗}",Life sciences
@@ -1356,13 +1077,10 @@
 1354,Morphological skeleton,"{B, ⋂, ⋃, ), (, ¯, ], ρ, ⊖, ∘, S, μ, X, [, −, =, >}",Applied sciences
 1355,Morse potential,"{a, e, D, ), (, r, V, −, =}",Physical sciences
 1356,Morse/Long-range potential,"{e, D, f, ), (, p, r, u, V, y, β, −, =}",Physical sciences
-1357,Motion ratio,"{a, c, e, D, g, i, m, =, M, l, n, p, s, R, t, W, h, r, S}",Professional studies
 1358,Motor variable,"{∈, f, ), (, +, j, ,, R, u, v, y, x, z, =}",Life sciences
 1359,Mountain pass theorem,"{∈, C, g, ), H, =, ], ,, ;, (, v, [, {, Γ, }, |}",Life sciences
-1360,Moving cluster method,"{a, c, e, d, i, (, n, θ, ), s, u, t, v, =}",
 1361,Muller's method,"{f, ), (, k, =, ,, ., ±, w, x, [, −, ], +}",Life sciences
 1362,Multi-index notation,"{), (, ,, n, …, α, =}",Life sciences
-1363,Multidimensional systems,"{A, ⋅, e, Pr, ¯, /, t, [, −, ], ≤}",
 1364,Multinomial logistic regression,"{⋅, i, (, k, ,, ), score, ⁡, X, β, =}",Applied sciences
 1365,Multiplication theorem,"{⁡, ∇, Li, ∞, ∑, −, log, ψ, ), (, +, ,, /, π, ., ;, =, ⋅, F, ξ, [, ], ζ, z, e, d, f, i, k, ⋯, m, n, q, s, t, Γ}",Life sciences
 1366,Multiplicative order,"{a, ), (, k, ≡, n, mod}",Life sciences
@@ -1371,54 +1089,39 @@
 1369,Multiply–accumulate operation,"{a, c, b, ), (, +, ←, ×}",Life sciences
 1370,Multisymplectic integrator,"{), (, K, L, ∇, S, t, x, z, =, +}",Life sciences
 1371,Multivariate probit model,"{C, g, ), (, L, o, n, →, R, {, }, ∖}",Applied sciences
-1372,Murnaghan-Nakayama rule,"{χ, h, ρ, ), λ, t, (, ∑, −, =, T}",
 1373,Møller scattering,"{⟨, ⟩, i, N, θ, =}",Life sciences
 1374,N-electron valence state perturbation theory,"{Ψ, A, C, ⟩, I, (, m, ,, ), S, ∑, ∈, =, |}",Applied sciences
 1375,N-ellipse,"{∈, −, d, ), i, =, +, ,, n, ∑, R, u, (, v, y, x, {, :, }}",Life sciences
 1376,"NTRU Cryptosystems, Inc.","{), (, /, N, R, x, [, −, ]}",Applied sciences
 1377,Naimark's dilation theorem,"{C, i, =, +, ], L, o, S, [, ×}",Life sciences
-1378,Nakajima-Zwanzig equation,"{i, H, ℏ, ∂, ], L, ρ, ,, t, [, =}",
 1379,Nanothermometry,"{d, /, Q, S, r, T, =}",Applied sciences
-1380,Naor-Reingold Pseudorandom Function,"{a, ∈, g, F, ), (, f, n, p, x, ., =}",Behavioural sciences
 1381,Napierian logarithm,"{a, log, g, ), (, L, o, N, p, ⁡, x, −, =}",Life sciences
 1382,Napkin ring problem,"{h, ., V, =, π}",Life sciences
 1383,Nash embedding theorem,"{⟨, ⟩, d, g, f, ), (, ,, w, v, ϵ, =}",Life sciences
-1384,Nash equilibrium,"{∈, f, i, ∀, ≥, ,, ., ), S, (, x, −, ∗}",
 1385,Navier–Stokes equations,"{A, ), (, +, t, y, x, =}",Life sciences
 1386,Near-field scanning optical microscope,"{A, λ, =, d, N}",Applied sciences
 1387,Nearly completely decomposable Markov chain,"{′, log, f, ), (, ≤, ⁡, −, z, +, |}",Applied sciences
 1388,Nearly free electron model,"{Ω, ⋅, e, ψ, i, (, k, ), r, =}",Physical sciences
 1389,Necklace polynomial,"{d, ), (, M, ,, n, ∑, α, =, |}",Life sciences
-1390,Negative refraction,"{+, |, r, μ, ϵ, <}",Articles containing video clips
 1391,Nekhoroshev estimates,"{I, (, ε, n, <, ), t, −, |, /}",Life sciences
-1392,Nernst-Einstein equation,"{Λ, D, F, ), (, +, m, R, T, −, z, =, ν}",
 1393,Nesbitt's inequality,"{a, c, b, ≥, +}",Life sciences
 1394,Nested RAID levels,"{a, c, e, D, f, i, o, n, s, r, t, v, =}",Applied sciences
-1395,Network performance,"{c, m, /, s, t, =}",Formal sciences
 1396,Neumann series,"{∑, k, =, T, ∞}",Life sciences
-1397,Neural cryptography,"{∈, i, +, j, ,, x, {, −, }}",Behavioural sciences
 1398,Neural modeling fields,"{d, ), =, ,, n, →, (, X, {, }, D}",Applied sciences
-1399,Neutral density filter,"{I, −, =, d, ≡}",
-1400,New Keynesian economics,"{a, i, (, +, ¯, π, ), r, t, y, −, =, ∗}",Humanities
 1401,Newey–West estimator,"{!, ,, e, d, f, i, +, l, o, n, w, r, t, ℓ, −, =, <, L, >}",Applied sciences
 1402,Newman–Keuls method,"{A, B, E, ¯, M, n, q, S, X, −, =}",Applied sciences
 1403,Newman–Shanks–Williams prime,"{), (, +, m, S, −, =}",Life sciences
 1404,Newton's identities,"{), i, (, k, ⋯, ,, n, p, …, ∑, x, =, +}",Life sciences
 1405,Newton's law of cooling,"{A, ⋅, d, ), h, =, Q, t, (, −, Δ, T}",Physical sciences
-1406,Newton's law of universal gravitation,"{=, m, d, G, F}",Articles containing video clips
 1407,Newton's rings,"{λ, −, ), ], /, N, R, (, [, r, =}",Physical sciences
-1408,Newton's second law of motion,"{a, ⋅, F, m, →, =}",
 1409,Newtonian gauge,"{Ψ, a, b, d, ), =, +, Φ, s, t, (, x, −, δ}",Life sciences
 1410,Newtonian potential,"{ρ, V, x, =, |, ∗}",Life sciences
-1411,Neyman–Pearson lemma,"{), (, ≤, L, θ, Λ, x, =, ∣, η}",Auxiliary sciences of history
 1412,No free lunch in search and optimization,"{a, d, f, ), (, m, ,, P, y, =, |, ∑}",Life sciences
-1413,Nodal period,"{), B, F, I, (, ], P, t, [, −, =}",Professional studies
 1414,Nodary,"{a, E, ), (, k, ,, /, u, sn, ⁡, x, −, =, +}",Life sciences
 1415,Node influence metric,"{), log, i, h, j, p, κ, (, exp, ⁡, ∑, −, =}",Life sciences
 1416,Noether inequality,"{c, g, ), (, +, p, X, ≤}",Life sciences
 1417,Noetherian ring,"{⊆, I, k, ⋯, −, +}",Life sciences
 1418,Non-associative algebra,"{−, ), =, ,, (, y, x, [, z, ]}",Life sciences
-1419,Non-circular gear,"{a, ), (, +, θ, r, =}",Professional studies
 1420,Non-exact solutions in general relativity,"{g, ), h, +, O, μ, ν, (, =, η}",Life sciences
 1421,Non-local means,"{Ω, C, d, f, ), (, ∫, ,, q, p, u, v, =}",Applied sciences
 1422,Non-random two-liquid model,"{a, c, b, d, f, i, (, +, τ, ), j, ln, T, ⁡, =}",Physical sciences
@@ -1426,18 +1129,13 @@
 1424,Nonlinear Schrödinger equation,"{∫, d, ψ, H, +, ∂, κ, =, x, [, ], |}",Life sciences
 1425,Nonlinear autoregressive exogenous model,"{F, ), (, +, ,, u, t, …, y, −, =, ε}",Applied sciences
 1426,Nonlinear eigenproblem,"{A, ), (, ,, λ, x, =}",Life sciences
-1427,Nordström's theory of gravitation,"{d, ∇, →, u, t, ϕ, −, =}",Categories by parameter
 1428,Normal family,"{f, ), (, n, →, z}",Life sciences
 1429,Normal force,"{cos, g, ), (, m, N, θ, ⁡, =}",Physical sciences
 1430,Normal probability plot,"{a, −, i, (, +, Φ, n, ), z, =}",Life sciences
-1431,Normalization,"{I, (, +, N, ), −, =}",
-1432,Normalized Compression Distance,"{), max, K, =, ,, |, p, (, y, x, {, }, ∣}",
-1433,Normalized frequency,"{A, a, −, π, N, λ, V, n, =}",
 1434,Normally distributed and uncorrelated does not imply independent,"{C, d, ), h, m, ,, o, (, =, D}",Life sciences
 1435,Norton's theorem,"{), (, =, →, t, x, [, ]}",Physical sciences
 1436,Nowhere-zero flow,"{∈, e, ), φ, +, =, (, v, ∑, −, δ}",Life sciences
 1437,Nuclear cross section,"{a, b, ), (, +, j, σ, p, B, T, v, =, |}",Physical sciences
-1438,Nuclear density,"{A, π, R, =, n}",Environmental studies
 1439,Number theoretic Hilbert transform,"{c, i, =, m, N, ln, S, R, ⁡, ∑, x, −, Δ}",Applied sciences
 1440,Numerical methods in fluid mechanics,"{′, f, ), (, +, =, →, lim, x, −, Δ}",Physical sciences
 1441,Nusselt number,"{h, k, L, N, u, =}",Physical sciences
@@ -1447,10 +1145,8 @@
 1445,Néel relaxation theory,"{⁡, ), (, K, τ, T, exp, V, =, k}",Physical sciences
 1446,Néron differential,"{a, x, +, =, y}",Life sciences
 1447,Observed information,"{log, f, i, (, …, ,, n, θ, ), ℓ, ⁡, ∑, X, =, |}",Applied sciences
-1448,Octave,"{a, c, e, log, f, ), (, ⁡, o, s, t, v, =}",Society
 1449,Ohm's law,"{I, R, =, V}",Physical sciences
 1450,Ohnesorge number,"{h, σ, L, O, μ, ρ, =}",Life sciences
-1451,Old quantum theory,"{⋅, f, i, ], +, J, M, ), R, (, α, β, −, =, [}",Categories by parameter
 1452,On shell and off shell,"{c, E, →, m, p, −, =, |}",Physical sciences
 1453,On-balance volume,"{c, E, h, n, R, −, =}",Life sciences
 1454,One-loop Feynman diagram,"{ln, =, +, ⁡, ), S, r, T, …, (, ϕ, Γ, ], [}",Life sciences
@@ -1461,12 +1157,9 @@
 1459,Optical autocorrelation,"{A, ∫, E, d, ), (, +, τ, t, ∞, −, =, ∗}",Applied sciences
 1460,Optical medium,"{E, H, y, x, =, η}",Physical sciences
 1461,Optical modulation amplitude,"{P, −, =}",Applied sciences
-1462,Optical properties of carbon nanotubes,"{a, d, ), (, +, m, π, n, =}",Professional studies
 1463,Optical transfer function,"{), e, F, i, h, M, O, P, T, (, =, ν}",Physical sciences
-1464,Optical window in biological tissue,"{a, C, b, ln, H, +, ⁡, O, ), λ, μ, (, =, ε}",
 1465,Optimal stopping,"{E, G, ≤, τ, T, V, =, sup, ∗, t}",Life sciences
 1466,Optional stopping theorem,"{≥, E, τ, X, [, ]}",Life sciences
-1467,Orbit phasing,"{e, ), (, π, T, ⁡, E, −, =, sin, t}",Professional studies
 1468,Orbit portrait,"{c, f, ), (, +, z, =}",Life sciences
 1469,Orbital state vectors,"{=, ^, u, t, v}",Life sciences
 1470,Orientation of a vector bundle,"{−, ), (, π, →, R, U, ϕ, n, ×}",Life sciences
@@ -1480,43 +1173,30 @@
 1478,Oseen equations,"{G, K, ⋯, m, n, →, +}",Life sciences
 1479,Ostrowski's theorem,"{∈, c, K, x, =, |, ∗}",Life sciences
 1480,Ostrowski–Hadamard gap theorem,"{p, λ, j, +, >}",Life sciences
-1481,Oudin coil,"{C, f, L, /, π, =}",Professional studies
 1482,Outer measure,"{A, ⋃, i, φ, ), (, ∞, ∑, =}",Life sciences
 1483,Output power of an analog TV transmitter,"{⋅, ∫, ), e, d, i, (, P, t, =, T}",Applied sciences
-1484,Overlap,"{g, f, ), (, ,, ρ, →, y, x}",
 1485,Overlap–save method,"{E, f, i, (, +, =, m, ), R, β, −, ], [}",Life sciences
 1486,Overspill,"{∈, f, +, ∀, ∃, ,, ≤, |, ), R, (, h, x, ϵ, −, δ, ε, ⟹}",Life sciences
-1487,P versus NP problem,"{P, =, ?, ≠, N}",
 1488,P-adic L-function,"{), ∏, χ, (, L, n, p, s, ∑, −, =, ,}",Life sciences
 1489,P-adically closed field,"{γ, ), (, z, π, q, −, =}",Life sciences
 1490,PCP theorem,"{C, log, ), (, ], ,, O, N, P, ⁡, [, n, =}",Life sciences
-1491,PDF417,"{b, ), (, K, −, =, +, mod}",Society
 1492,PH,"{∈, ⋃, H, k, =, N, P, Δ}",Physical sciences
 1493,PI curve,"{e, P, I, (, /, ), max, α, β, −, =}",Physical sciences
 1494,Padovan sequence,"{f, ), (, +, ,, n, P, x, −, =}",Life sciences
 1495,Paillier cryptosystem,"{⋅, c, ), (, +, m, N, :=, r, [, ], mod}",Applied sciences
-1496,Pairing function,"{→, N, ×, π}",
-1497,Palladium-hydrogen electrode,"{a, b, d, H, s, =}",Professional studies
 1498,Panjer recursion,"{f, i, h, k, ], P, X, [, =}",Life sciences
 1499,Paper bag problem,"{), h, /, π, (, w, V, −, =}",Life sciences
-1500,Pappus' area theorem,"{A, C, B, E, D, G, F, +, M, L, =}",
 1501,Paradox of enrichment,"{d, f, ), (, K, ,, t, y, x, −, =, +}",Life sciences
 1502,Paradox of the pesticides,"{K, m, s, λ, μ, ∑, =}",Life sciences
-1503,Parallel axis theorem,"{=, +, J, m, d}",People
 1504,Paris–Harrington theorem,"{⏟, ), (, k, ≥, m, ,, n, P, S, R, …, N, =, |}",Life sciences
-1505,Parry point,"{a, :, c, b, −}",
 1506,Parshall flume,"{a, C, H, n, Q, =}",Applied sciences
-1507,Partial residual plot,"{∩, X}",Society
 1508,Particle in a ring,"{E, ψ, ℏ, m, ∇, −, =}",Physical sciences
 1509,Particle shower,"{c, E, ln, (, /, ), ⁡, X, =}",Physical sciences
 1510,Particular point topology,"{c, ), (, +, N, P, r, −, =}",Life sciences
-1511,Partition function,"{∫, e, d, i, (, +, J, ], ), S, x, ϕ, Z, =, [, D}",
 1512,Pascal matrix,"{!, i, (, +, j, ,, n, ), S, r, −, =}",Life sciences
-1513,Pascal's triangle,"{), (, k, n, ∑, y, x, −, =, +}",Scholars and academics by discipline
 1514,Pauli equation,"{A, ⟩, ⋅, ), ψ, i, m, ℏ, ∂, σ, +, |, q, p, t, ], (, ϕ, −, =, [}",Physical sciences
 1515,Pauli group,"{c, ′, E, F, ln, (, K, n, ), R, T, ⁡, =, +}",Life sciences
 1516,Peak signal-to-noise ratio,"{), E, ], I, M, K, j, m, ,, n, i, S, (, ∑, [, −, =}",Life sciences
-1517,Pearson product-moment correlation coefficient,"{cov, ), (, σ, ,, ρ, ⁡, Y, X, =}",Auxiliary sciences of history
 1518,Peek's law,"{e, g, ln, (, ⁡, m, ), S, r, v, =}",Physical sciences
 1519,Peierls transition,"{e, i, m, M, T, =}",Physical sciences
 1520,Pell's equation,"{y, x, −, =, n}",Life sciences
@@ -1534,9 +1214,7 @@
 1532,Photochemical Reflectance Index,"{), I, (, +, ρ, P, R, −, =}",Life sciences
 1533,Photon Doppler velocimetry,"{a, j, E, i, ∂, n, ∑, x, =}",Life sciences
 1534,Photon diffusion,"{c, F, σ, ∇, π, →, U, −, =}",Physical sciences
-1535,Photon entanglement,"{Ψ, ⟩, H, ,, V, =, |}",
 1536,Phylogenetic comparative methods,"{+, n, r, y, x, =}",Life sciences
-1537,Piano key frequencies,"{a, E, =, ¯, R, U, W, V, −, Δ}",Society
 1538,Picard–Fuchs equation,"{d, g, f, ), (, +, j, −, =}",Life sciences
 1539,Picard–Lindelöf theorem,"{′, f, ), (, ,, t, y, =}",Life sciences
 1540,Piecewise linear continuation,"{), (, +, ,, s, t, y, x, −, =}",Applied sciences
@@ -1544,14 +1222,12 @@
 1542,Pincherle polynomials,"{a, !, e, ), (, +, n, t, exp, ⁡, ∑, x, β, −, =}",Life sciences
 1543,Plancherel theorem for spherical functions,"{⋅, ∫, ), d, G, f, χ, φ, π, g, λ, (, =}",Life sciences
 1544,Planck charge,"{c, e, ℏ, π, q, α, ϵ, =}",Physical sciences
-1545,Planck time,"{c, G, ℏ, ≡, P, t}",Max Planck
 1546,Plane of rotation,"{a, b, ∧, ≠}",Life sciences
 1547,Plug flow,"{δ, s, u, ν, =, ∗}",Physical sciences
 1548,Plummer model,"{a, ), (, +, M, ρ, π, P, r, −, =}",Physical sciences
 1549,Pluriharmonic function,"{a, ∈, C, b, ⊂, +, n, {, z, }, ∣}",Life sciences
 1550,Plücker's conoid,"{y, x, +, z, =}",Life sciences
 1551,Pneumatic cylinder,"{Ψ, ∂, i, (, ℏ, j, m, ), x, −, =, ∗}",Physical sciences
-1552,Pochhammer symbol,"{), (, +, ⋯, n, x, −, =, _}",
 1553,Pocket set theory,"{∈, ), ∀, →, (, ↔, Y, X, z, =}",Life sciences
 1554,Poincaré group,"{), (, ,, O, S, R, ⋊}",Life sciences
 1555,Poincaré inequality,"{Ω, C, ‖, ), (, ≤, L, ∇, p, u}",Life sciences
@@ -1561,15 +1237,11 @@
 1559,Poisson binomial distribution,"{i, n, p, μ, ∑, =}",Life sciences
 1560,Poisson distribution,"{!, e, ), (, k, p, λ, X, −, =}",Life sciences
 1561,Poisson kernel,"{cos, ), e, Re, i, (, +, ⁡, <, ,, n, θ, P, r, ≤, ∞, ∑, −, =, |}",Life sciences
-1562,Poisson sampling,"{i, =, j, ×, π}",Auxiliary sciences of history
 1563,Poisson–Boltzmann equation,"{⋅, c, B, e, ψ, ), (, k, =, ,, ρ, −, T, y, x, [, z, ], +}",Physical sciences
 1564,Polar sine,"{⁡, Ω, Π, (, psin, …, ,, n, ), v, =}",Life sciences
 1565,Polarization identity,"{b, ), (, μ, T, exp, ⁡, −, =}",Life sciences
-1566,Poloidal toroidal decomposition,"{⋅, =, ∇, F}",
 1567,Polygamma function,"{z, d, ψ, ln, (, +, m, ), ⁡, Γ, =}",Life sciences
-1568,Polynomial basis,"{a, A, λ, ), i, (, k, m, ,, ρ, n, I, r, …, −, =}",Behavioural sciences
 1569,Polynomial long division,"{x, +, −}",Life sciences
-1570,Ponderal index,"{a, C, e, g, i, h, m, I, s, t, =}",
 1571,Pontryagin duality,"{∈, e, ↦, G, χ, (, =, ), T, v, x, {, }}",Life sciences
 1572,Pontryagin's maximum principle,"{∈, f, ), ∀, ≤, ], ,, λ, u, t, H, (, x, [, U, ∗}",Life sciences
 1573,Pore water pressure,"{g, h, p, s, w, =}",Applied sciences
@@ -1577,23 +1249,17 @@
 1575,Positive and negative sets,"{A, n, =, ⋃, ∞}",Life sciences
 1576,Positive-real function,"{A, ≏, C, B, +}",Life sciences
 1577,Possibility theory,"{∈, max, ω, ), (, =, pos, U, ⁡, {, }}",Life sciences
-1578,Post-modern portfolio theory,"{∫, d, f, ), (, r, t, ∞, −, =}",Professional studies
 1579,Potential method,"{−, ), (, +, =, ⋅, C, Φ, S, T, a, c, b, e, d, f, i, m, l, o, r, u, t, z}",Applied sciences
 1580,Potts model,"{J, g, i, H, j, ,, ), s, (, =, h, ∑, β, −, δ}",Life sciences
 1581,Power number,"{D, P, ρ, N, p, n, =}",Life sciences
 1582,Power series solution of differential equations,"{a, ″, ′, f, ), (, +, z, =}",Life sciences
-1583,Power transform,"{M, e, V}",Auxiliary sciences of history
-1584,Power-law fluid,"{∂, ), (, K, τ, n, u, y, =}",Environmental studies
 1585,Power-law index profile,"{cos, θ, P, S, ⁡, =, |}",Applied sciences
 1586,Poynting vector,"{H, S, =, E, ×}",Life sciences
 1587,Poynting's theorem,"{⋅, J, E, +, ∂, ∇, S, u, t, −, =}",Physical sciences
-1588,Practical number,"{d, i, ≤, j, n, ∑, =, +}",Categories by parameter
 1589,Prandtl number,"{c, P, k, ρ, p, r, μ, ν, α, =, /}",Physical sciences
 1590,Precipitation hardening,"{A, =, r, b, π}",Life sciences
 1591,Precision tests of QED,"{c, e, ℏ, m, π, R, ∞, α, =}",Life sciences
 1592,Predicative programming,"{⋅, b, ), (, ≡, Q, P, ⇒, ⊑, ∀}",Applied sciences
-1593,Price of fairness,"{a, ∈, max, ), e, D, F, i, (, f, l, o, n, P, s, r, O, w, v, =}",Humanities
-1594,Primary pseudoperfect number,"{+, N, p, ∑, =, |}",Categories by parameter
 1595,Prime-factor FFT algorithm,"{A, ⋅, −, k, M, ,, W, …, z, =}",Applied sciences
 1596,Primitive element theorem,"{f, +, ⋯, n, α, x, −, =}",Life sciences
 1597,Prince Rupert's cube,{≈},Life sciences
@@ -1603,30 +1269,23 @@
 1601,Principle of distributivity,"{A, ∨, C, B, ), (, ∧, ⟺}",Life sciences
 1602,Principle of explosion,"{), ⊢, ¬, ∀, ∧, Q, P, (, :}",Life sciences
 1603,Principle of indifference,"{f, ), (, ∂, L, V, =, |}",Life sciences
-1604,Prior probability,"{A, B, ), i, (, j, P, ∑, =, |}",Auxiliary sciences of history
 1605,Probability measure,"{), Ω, =, μ, (}",Life sciences
 1606,Probit model,"{Pr, ′, ), (, x, Y, X, β, =, |}",Applied sciences
-1607,Procept,"{a, c, e, d, g, f, i, h, +, m, l, o, n, p, s, r, u, t, w}",Society
 1608,Product integral,"{a, ∫, b, d, f, i, (, =, →, ), lim, ∑, x, Δ}",Physical sciences
 1609,Product of rings,"{p, k, ⋯, =, n}",Life sciences
 1610,Product rule,"{⋅, ′, g, f, ), (, +, =}",Life sciences
 1611,Product state,"{⊗, =, ρ}",Physical sciences
-1612,Proizvolov's identity,"{A, B, +, ⋯, N, −, =, |}",Society
 1613,Projection-valued measure,"{), (, π, H, X, =, id}",Life sciences
 1614,Projective frame,"{+, ⋯, n, λ, v, =}",Life sciences
 1615,Prony equation,"{a, b, D, f, ), h, +, L, (, V, =}",Life sciences
 1616,Prony's method,"{A, cos, e, f, i, M, +, ⁡, σ, π, ), t, (, ∑, ϕ, =, ^}",Applied sciences
-1617,Proof of Bertrand's postulate,"{), (, ≤, n}",WikiProjects
 1618,Proof of knowledge,"{a, b, g, ), }, K, ∧, P, (, y, x, {, =}",Life sciences
 1619,Proof sketch for Gödel's first incompleteness theorem,"{G, ), ∀, ,, q, P, (, y, =}",Life sciences
-1620,Proofs related to chi-squared distribution,"{∈, V, ), (, J, inf, u, ∞, {, −, }, |, >}",WikiProjects
-1621,Propulsive efficiency,"{c, d, ), h, Q, W, (, −, =}",Professional studies
 1622,Protein precipitation,"{G, H, =, S, T, −, Δ}",Applied sciences
 1623,Prothrombin time,"{), (, =}",Applied sciences
 1624,Prune and search,"{), (, +, n, p, S, T, −, =}",Applied sciences
 1625,Pseudo-random number sampling,"{f, F, i, (, j, ), ∑, =}",Physical sciences
 1626,Pseudo-spectral method,"{ψ, i, (, +, ∂, ,, ), t, =, V, x, [, −, ]}",Applied sciences
-1627,Pseudolikelihood,"{Pr, ∈, ∏, ), (, ,, =, E, X, a, c, f, i, h, j, l, o, r, w, x, {, }, |}",Auxiliary sciences of history
 1628,Pseudometric space,"{d, g, f, ), (, ,, x, −, =, |}",Life sciences
 1629,Pseudorandom binary sequence,"{a, ∈, −, f, =, j, ,, o, N, r, {, ., }}",Life sciences
 1630,Pseudoscalar,"{=, e}",Life sciences
@@ -1634,13 +1293,9 @@
 1632,Ptolemy's table of chords,"{⋅, chord, ), (, π, θ, ∘, ⁡, =, sin}",Life sciences
 1633,Pulmonary compliance,"{a, c, e, P, i, =, m, l, o, n, p, V, C, Δ}",Life sciences
 1634,Pulse repetition frequency,"{=, T}",Life sciences
-1635,Pulse-Doppler radar,"{), (, C, =, ×}",Professional studies
-1636,Pulsed EPR,"{B, ω, L, γ, −, =}",
 1637,Purcell effect,"{c, F, ), (, n, Q, P, λ, V, π, =}",Physical sciences
 1638,Pure submodule,"{a, i, j, m, ,, n, ∑, …, y, x, =}",Life sciences
 1639,Purification of quantum state,"{⟨, ⟩, B, ψ, ), (, ρ, r, t, ⁡, =, |}",Life sciences
-1640,Putnam model,"{⋅, B, =, /}",Society
-1641,Pythagorean comma,"{−, ≈}",Society
 1642,Pythagorean theorem,"{a, c, b, =, +}",Life sciences
 1643,Pythagorean trigonometric identity,"{cos, +, θ, ⁡, =, sin}",Life sciences
 1644,Pythagorean triple,"{a, c, b, +, m, ,, n, −, =}",Life sciences
@@ -1650,10 +1305,8 @@
 1648,Q-Vandermonde identity,"{), (, k, j, m, n, q, ∑, −, =, +}",Life sciences
 1649,Q-analog,"{lim, n, q, →, −, =}",Life sciences
 1650,Q-gamma function,"{a, ∫, b, d, f, ), (, ′, x, −, =}",Life sciences
-1651,Q10,"{), (, /, Q, R, T, −, =}",
 1652,Quadratic integer,"{∏, p, ,, P, U, =, |}",Life sciences
 1653,Quadratic residue,"{), (, n, q, x, ≡, mod}",Life sciences
-1654,Quadratic sieve,"{e, ln, (, +, =, L, o, n, ), /, ⁡, [, ], ,}",Behavioural sciences
 1655,Quadratrix,"{a, cot, π, ⁡, y, x, =}",Physical sciences
 1656,Quadratrix of Hippias,"{a, ⋅, cot, f, ), (, π, ⁡, x, =}",Physical sciences
 1657,Quadrature amplitude modulation,"{′, i, j, n, w, ∑, =}",Applied sciences
@@ -1662,9 +1315,7 @@
 1660,Quantized state systems method,"{A, ∈, B, min, i, (, +, ,, N, ), R, ∑, −}",Life sciences
 1661,Quantum circuit,"{⁡, ), H, =, ,, n, QB, ℓ, (, {, }}",Applied sciences
 1662,Quantum cloning,"{A, ⟩, B, e, ψ, U, =, |}",Physical sciences
-1663,Quantum concentration,"{), (, ℏ, M, /, n, Q, T, π, =, k}",Auxiliary sciences of history
 1664,Quantum convolutional code,"{a, y, +, =, x}",Physical sciences
-1665,Quantum excitation,"{∫, d, ), (, K, ¯, /, π, S, ξ, ∞, =}",
 1666,Quantum limit,"{F, ℏ, /, ⩾, O, Δ}",Physical sciences
 1667,Quantum nonlocality,"{a, A, B, ), (, ,, y, b, X, Y, x}",Physical sciences
 1668,Quantum phase estimation algorithm,"{⟩, ψ, n, ⊗, ∑, x, |}",Applied sciences
@@ -1678,35 +1329,25 @@
 1676,Quasi-finite field,"{:, ), (, K, /, →, s, Gal, ⁡, ϕ, Z, ^}",Life sciences
 1677,Quasi-relative interior,"{A, ∈, c, e, ), qri, ¯, o, n, =, (, x, {, −, }, ⁡}",Life sciences
 1678,Quasiconvex function,"{f, ), max, ≤, ,, λ, (, y, x, {, −, }, +}",Life sciences
-1679,Quasilinear utility,"{), (, +, L, ,, θ, u, x, ., =}",Society
 1680,Quasinormal mode,"{cos, ′, e, ≈, ω, ψ, ), (, t, ⁡, −}",Life sciences
-1681,Quasiprobability distribution,"{H, =, G, O, N}",Auxiliary sciences of history
 1682,Quincunx matrix,"{A, ), −, =, (}",Life sciences
 1683,Quotient rule,"{g, f, ), (, h, x, =}",Life sciences
 1684,Quotient stack,"{G, /, →, X, [, ]}",Life sciences
 1685,RANDU,"{⋅, +, j, V, =, mod}",Applied sciences
 1686,RKKY interaction,"{⁡, −, ∗, ), (, π, =, sin, ⋅, I, H, R, [, ], cos, i, k, j, m, |, Δ, ℏ}",Physical sciences
-1687,RSA,"{e, d, ), (, m, n, ≡, mod}",
 1688,Rabi problem,"{a, E, ω, ), ¨, +, τ, m, ,, r, t, x, (, e, ˙, =}",Physical sciences
 1689,Racks and quandles,"{a, c, b, ), (, ◃, =}",Life sciences
 1690,Radiant exposure,"{A, ∫, E, d, ), H, ∂, Q, t, (, e, =, T}",Physical sciences
 1691,Radical polymerization,"{⋅, d, f, I, =, k, ⁡, M, /, i, t, v, [, ]}",Physical sciences
 1692,Radon–Riesz property,"{⟨, ⟩, +, ,, n, x, −, =}",Life sciences
-1693,Rail adhesion,"{d, k, π, λ, r, =}",
 1694,Rainflow-counting algorithm,"{B, f, ), (, k, N, ., =, +}",Physical sciences
 1695,Rainville polynomials,"{), e, I, (, n, p, w, ∑, z, =}",Life sciences
-1696,Ramanujan prime,"{), π, ≥, /, n, R, (, x, −}",Categories by parameter
-1697,Ramanujan's master theorem,"{!, f, ), (, k, ∞, ∑, x, ϕ, −, =}",Categories by parameter
-1698,Ramanujan–Soldner constant,"{∫, d, ln, μ, t, ⁡, :, =}",Categories by parameter
 1699,Ramberg–Osgood relationship,"{a, c, e, i, (, m, S, l, ), s, r, t, [, n, ], ε, |}",Physical sciences
 1700,Ramification group,"{⊃, G, =, …, {, −, }, ∗}",Life sciences
 1701,Ramsey–Cass–Koopmans model,"{c, g, f, ), (, k, =, n, ˙, −, δ, +}",Life sciences
-1702,Randolph diagram,"{∨, ), ¬, (, ∧, Q, P, ↔}",
 1703,Range accrual,"{∈, ), i, ×, N, P, (, ∑, =}",Life sciences
 1704,Range expansion index,"{k, j, m, S, n, s, ∑, =}",Life sciences
 1705,Rankine vortex,"{None, Γ, ), (, ≤, ,, /, π, θ, ., R, u, {, r, =, >}",Life sciences
-1706,Rao–Blackwell theorem,"{f, i, (, +, n, ), ∑, −, =}",Auxiliary sciences of history
-1707,Rassias conjecture,"{p, +, =}",
 1708,Rate of return on a portfolio,"{A, +, ⋯, n, r, =}",Life sciences
 1709,Rate-monotonic scheduling,"{C, i, (, ≤, /, n, ), U, T, ∑, −, =}",Applied sciences
 1710,Ratio test,"{a, ∑, n, =, ∞}",Life sciences
@@ -1714,7 +1355,6 @@
 1712,Raven paradox,"{a, E, F, ), (, +, n, P, λ, =, |}",Life sciences
 1713,Ray transfer matrix analysis,"{A, C, B, D, ), (, θ, x, =}",Physical sciences
 1714,Rayl,"{a, ⋅, C, b, d, G, S, c, k, m, M, l, N, P, s, R, g, y, n, =, K}",Life sciences
-1715,Rayleigh,"{I, −, =, L, π}",
 1716,Rayleigh distribution,"{e, f, ), (, ≥, σ, ,, /, x, ;, −, =}",Life sciences
 1717,Rayleigh number,"{a, b, g, ), (, L, R, u, T, α, β, −, =, ν}",Physical sciences
 1718,Rayleigh sky model,"{a, cos, =, +, m, ⁡, x, γ, δ, sin}",Physical sciences
@@ -1722,44 +1362,34 @@
 1720,Reactions on surfaces,"{A, C, d, k, θ, S, r, t, −, =}",Physical sciences
 1721,Reaction–diffusion system,"{D, ), (, +, ∂, ∇, q, R, t, =, _}",Life sciences
 1722,Real analytic Eisenstein series,"{E, ), (, +, m, ,, n, ∑, s, y, z, =, |}",Life sciences
-1723,Real gas,"{a, b, ), (, +, P, R, T, V, −, =}",Environmental studies
 1724,Real point,"{), (, ,, n, u, …}",Life sciences
 1725,Real projective plane,"{cos, ), (, +, ⁡, ,, r, u, v, X, =}",Life sciences
 1726,Reality structure,"{i, ⊕, R, =, V}",Life sciences
 1727,Recessional velocity,"{H, =, D, v}",Life sciences
 1728,Reciprocal Fibonacci constant,"{F, ψ, k, ⋯, ∞, ∑, =, +}",Life sciences
-1729,Reciprocal Gamma function,"{z, f, ), (, Γ, =}",
 1730,Reciprocal distribution,"{a, b, e, log, f, ), (, ≤, =, ,, ⁡, x, [, −, ], ;, >}",Life sciences
 1731,Reciprocal rule,"{′, d, g, ), (, x, −, =}",Life sciences
-1732,Recrystallization,"{b, E, d, G, ρ, s, r, ≈, o, γ, Δ, /}",
 1733,Recurrence period density entropy,"{], ), (, +, τ, M, ,, n, …, X, x, [, −, =}",Life sciences
 1734,Recursive tree,"{!, ), (, n, T, −, =}",Life sciences
 1735,Recursively enumerable set,"{∈, ∏, ), (, K, p, t, x, −, =}",Life sciences
-1736,Reduced form,"{e, +, ,, π, Q, Z, =}",Auxiliary sciences of history
 1737,Reduced homology,"{f, ), (, ¯, x, −, =}",Life sciences
 1738,Reduced product,"{I, i, S, ∏, ∈}",Life sciences
 1739,Reductions with hydrosilanes,"{B, ,, n, r, …, =}",Life sciences
 1740,Reference dose,"{∗, ), (, /, =, E, D, L, O, N, R, U, a, e, d, g, f, i, h, k, m, o, n, r, t, y}",Life sciences
-1741,Reference range,"{−, e, d, i, ×, +, m, L, o, l, ., s, r, t, w, n, =, ,}",Wikipedia articles with sections published in WikiJournal of Medicine
 1742,Reflectance difference spectroscopy,"{∈, C, −, D, +, ,, S, R, α, β, r, =}",Life sciences
 1743,Regularity theorem for Lebesgue measure,"{A, △, B, ), (, N, ∪, =, ∖}",Life sciences
 1744,Regulated function,"{∈, ;, f, ), φ, sup, ], ,, ∥, t, =, ∞, (, X, [, −, δ, <, T}",Life sciences
 1745,Reid index,"{a, d, g, I, l, n, R, w, =}",Life sciences
-1746,Reinforced solid,"{A, /, r, ρ, x, =}",Professional studies
-1747,Relational quantum mechanics,"{a, f, ), (, t, y, x, =}",Society
 1748,Relative biological effectiveness,"{B, E, D, R, X, =}",Physical sciences
-1749,Relative viscosity,"{s, r, =, η}",Environmental studies
 1750,Relativistic Doppler effect,"{c, f, ), (, s, λ, t, v, β, −, =}",Physical sciences
 1751,Relativistic Euler equations,"{=, μ, ν, ∇, T}",Life sciences
 1752,Remez algorithm,"{b, e, f, i, h, +, ,, n, ), r, (, w, x, −, E, ., =}",Life sciences
-1753,Removal of Hell Gate rocks,"{C, =, L, ;}",Categories by parameter
 1754,Representation of a Lie group,"{∈, G, g, F, ), =, ∣, J, L, n, q, p, S, t, (, {, }}",Life sciences
 1755,Representativeness heuristic,"{D, ), H, P, (, =, |}",Life sciences
 1756,Reproducing kernel Hilbert space,"{∈, ↦, f, ), (, L, H, ∀, x}",Life sciences
 1757,Reptation,"{A, =, e, n}",Physical sciences
 1758,Residual (numerical analysis),"{≈, g, F, ), (, ,, n, r, x, =}",Applied sciences
 1759,Residual-resistance ratio,"{K, R, =, ρ}",Physical sciences
-1760,Resolution proof compression by splitting,"{), max, ,, n, p, add, r, (, ⁡, −, =, |}",Auxiliary sciences of history
 1761,Resolvent formalism,"{A, −, I, (, ), R, ;, z, =}",Life sciences
 1762,Respiratory minute volume,"{f, =, T, V, ˙, ×}",Life sciences
 1763,Restricted representation,"{:, f, ≥, ⋯, N}",Life sciences
@@ -1767,13 +1397,9 @@
 1765,Retina Display,"{d, ), (, ∘, r, ⁡, tan}",Applied sciences
 1766,Retkes convergence criterion,"{), →, Π, (, k, …, ⟺, n, lim, s, ∞, ∑, z, =, ,}",Life sciences
 1767,Returns-based style analysis,"{i, +, m, I, R, t, ∑, α, β, =, ϵ}",Life sciences
-1768,Reverberation,"{a, c, ≈, ln, ⁡, m, s, S, R, T, V, −, =}",Society
 1769,Reynolds number,"{e, L, R, ν, V, =}",Physical sciences
-1770,Rhind Mathematical Papyrus,"{d, ), h, V, ], /, (, [, −, =}",Society
-1771,Ribaucour curve,"{c, d, ), (, ∫, n, y, x, −, =}",
 1772,Ribbon Hopf algebra,"{), (, ,, S, u, ν, =, ε}",Life sciences
 1773,Riccati equation,"{′, ), (, +, q, y, x, =}",Life sciences
-1774,Ricci scalars,"{a, ¯, m, l, n, =}",
 1775,Ricco's law,"{a, A, C, e, K, o, n, s, r, t, =}",Applied sciences
 1776,Rice distribution,"{f, I, (, +, σ, ,, ), ν, exp, ⁡, x, −, =, ∣}",Life sciences
 1777,Richards equation,"{), h, K, ∂, ], θ, t, (, [, z, =, +}",Physical sciences
@@ -1781,15 +1407,12 @@
 1779,Riemann curvature tensor,"{), =, ,, ∇, R, u, (, w, v, [, −, ]}",Life sciences
 1780,Riemann zeta function,"{), (, n, s, ∞, ∑, =, ζ}",Life sciences
 1781,Riemann–Hurwitz formula,"{⋅, ′, e, g, ∈, ), (, N, P, S, ∑, −, =}",Life sciences
-1782,Riemann–Siegel theta function,"{−, log, i, (, +, ⁡, π, θ, ), t, arg, Γ, =}",Categories by parameter
-1783,Riemann–von Mangoldt formula,"{−, log, ), (, +, O, N, T, ⁡, π, =}",Categories by parameter
 1784,Riesz mean,"{λ, ), =, k, n, s, R, (, ∑, −, δ}",Life sciences
 1785,Riesz rearrangement inequality,"{d, g, f, I, h, =, ,, n, ), R, (, y, x, −, ×, ∬}",Life sciences
 1786,Riesz's lemma,"{∈, d, ), (, ,, y, Y, x, inf, −, =, |}",Life sciences
 1787,Right quotient,"{∈, ), (, ∃, L, ∧, /, w, }, x, {, =, |}",Life sciences
 1788,Rijndael key schedule,"{b, i, (, ), −, =}",Applied sciences
 1789,Ring Learning with Errors,"{a, ), (, +, n, …, x, −, =}",Life sciences
-1790,Risk management in Indian banks,"{p, R, =}",Society
 1791,Risk-neutral measure,"{E, ), H, ,, Q, P, T, ⁡, (, =}",Life sciences
 1792,Robbins constant,"{a, c, ], ), (, +, σ, l, T, α, [, −, =}",Life sciences
 1793,Robin boundary condition,"{a, Ω, b, g, +, ∂, n, u, =}",Life sciences
@@ -1797,40 +1420,29 @@
 1795,Roche limit,"{d, ), m, M, ρ, R, (, =}",Life sciences
 1796,Rogers–Szegő polynomials,"{), h, k, n, q, (, ∑, x, ;, −, =}",Life sciences
 1797,Rokhlin's theorem,"{), H, M, ,, Q, →, (, Z, ×}",Life sciences
-1798,Root-mean-square speed,"{M, m, s, r, T, v, R, =}",Environmental studies
 1799,Rose–Vinet equation of state,"{V, =, η}",Physical sciences
 1800,Roshko number,"{f, L, o, R, ν, =}",Life sciences
-1801,Rossby parameter,"{a, c, d, ω, f, i, (, ∂, o, n, ), s, y, β, =, ϕ}",Society
 1802,Rotary disc shutter,"{∘, =}",Applied sciences
 1803,Rotating unbalance,"{=, U, ω, F}",Physical sciences
-1804,Rotation operator,"{e, ,, ^}",
 1805,Rotational spectroscopy,"{B, ), (, +, v, α, −, =}",Physical sciences
 1806,Rota–Baxter algebra,"{), (, +, θ, R, y, x, =}",Life sciences
 1807,Rothe–Hagen identity,"{−, ), (, k, n, ∑, y, x, z, =, +}",Life sciences
 1808,Round-trip gain,"{a, ∫, d, g, ), (, ,, G, y, x, z, =}",Applied sciences
-1809,Routhian,"{d, i, (, L, ,, q, ), t, …, ˙, =}",
 1810,Row and column spaces,"{Ω, e, d, I, O, N, i, R, U, o, −, =, T}",Life sciences
 1811,Roy's safety-first criterion,"{Pr, min, i, (, ), R, <, _}",Life sciences
 1812,Rubber elasticity,"{b, d, ), (, ,, n, P, r, exp, ⁡, −, π, =}",Physical sciences
 1813,Rubik's Revenge,"{!, ×, ≈}",Life sciences
 1814,Rubin causal model,"{c, ), (, +, u, t, Y, =, T}",Life sciences
 1815,Ruelle zeta function,"{cos, ), (, ,, /, θ, r, ⁡, x, −, =}",Life sciences
-1816,Rugosity,"{A, =, /, f}",Professional studies
-1817,Runge–Kutta method,"{a, b, d, ), (, +, t, W, X, =}",
-1818,Rutherford backscattering spectrometry,"{⋅, k, =, E}",Ernest Rutherford
 1819,Rössler attractor,"{a, c, b, ), (, +, ,, −}",Life sciences
 1820,S-plane,"{∈, C, e, d, f, ), (, ∫, s, t, ∞, −, |}",Life sciences
 1821,SL2(R),"{a, ∈, c, b, d, ), (, ,, R, :, −, =}",Life sciences
 1822,STO-nG basis sets,"{c, G, ψ, ), (, +, S, O, s, T, ϕ, −, =}",Physical sciences
 1823,Saha ionization equation,"{B, e, g, i, (, k, ⁡, ], n, ), Λ, T, exp, +, ϵ, −, =, [}",Physical sciences
-1824,Sammon projection,"{E, d, i, (, j, ), ∑, −, =, <, ∗}",
 1825,Sample complexity,"{∫, E, d, ×, ), h, (, ], L, o, ,, y, s, ρ, X, Y, x, [, =}",Applied sciences
-1826,Samuelson's inequality,"{⋯, +, ¯, n, x, =}",Auxiliary sciences of history
-1827,Sangaku,"{+, r, =}",Humanities
 1828,Sard's theorem,"{f, m, n, →, R, :}",Life sciences
 1829,Sauerbrey equation,"{A, f, =, m, ρ, q, μ, −, Δ}",Physical sciences
 1830,Scalar curvature,"{S, =, Ric, g, .}",Life sciences
-1831,Scalar-tensor theory,"{∂, −, ×, ∫, ω, ), (, +, σ, ,, =, Ψ, L, Φ, S, R, μ, ν, V, [, ], c, d, g, m, x}",
 1832,Scale factor,"{a, d, ), (, ,, t, =}",Life sciences
 1833,Scale space,"{e, g, ), (, +, ,, /, π, t, y, x, ;, −, =}",Applied sciences
 1834,Scale-invariant feature transform,"{A, ⋅, ∫, d, φ, ℏ, q, P, x, =}",Applied sciences
@@ -1852,18 +1464,15 @@
 1850,Schur complement,"{A, C, B, D, S, −, =}",Life sciences
 1851,Schur orthogonality relations,"{⟨, ∈, G, g, ⟩, ), (, ¯, ,, :=, ∑, α, β, |}",Life sciences
 1852,Schur–Horn theorem,"{d, i, ≤, ,, N, λ, …, ∑, n, =}",Life sciences
-1853,Schwarzschild radius,"{c, G, M, s, r, =}",Society
 1854,Schwarz–Christoffel mapping,"{∈, C, Im, {, }, ζ, >}",Life sciences
 1855,Secchi disk,"{−, e, I, k, z, =}",Life sciences
 1856,Second-order arithmetic,"{), ∀, m, ∧, n, ∙, →, S, (, φ, X}",Life sciences
-1857,Secondary plot,"{j, L, π, λ, −, =}",
 1858,Secondary polynomials,"{∫, d, ), (, ρ, n, q, p, R, t, x, −, =}",Life sciences
 1859,Secondary vector bundle structure,"{E, ), (, +, ,, →, λ, T, ×, ∗}",Life sciences
 1860,Segre class,"{A, +, P, R, t, =}",Life sciences
 1861,Seiberg–Witten invariant,"{A, ϕ, =, D}",Life sciences
 1862,Seiche,"{h, =, L, g, T}",Applied sciences
 1863,Self-concordant function,"{″, ‴, f, ), (, ≤, /, x, |}",Life sciences
-1864,Self-consistent mean field,"{′, ), (, k, ¯, u, =, +}",
 1865,Self-energy,"{+, Σ, =, G}",Life sciences
 1866,Self-focusing,"{c, λ, n, P, r, α, π, =}",Applied sciences
 1867,Self-ionization of water,"{a, ⋅, e, H, K, O, q, −, =, +}",Physical sciences
@@ -1873,12 +1482,9 @@
 1871,Semi-orthogonal matrix,"{I, A, =, T, ∨}",Life sciences
 1872,Semimartingale,"{A, +, M, t, X, =}",Applied sciences
 1873,Semiparametric model,"{A, ∈, ), (, ⊕, S, U, V, α, =}",Life sciences
-1874,Sensitivity analysis,"{C, π, =, L, f}",Professional studies
 1875,Separation logic,"{), h, ,, ⊨, Q, P, s, (, −, ∗}",Life sciences
 1876,Separation principle,"{a, ), e, g, i, h, l, n, p, s, r, u, t, (}",Applied sciences
-1877,Separative Work Unit,"{⋅, F, ), (, +, f, p, P, S, U, t, W, V, x, −, =, T}",
 1878,Sequence logo,"{a, log, ×, f, i, H, ,, ⁡, ∑, −, =}",Life sciences
-1879,Sequent,"{A, B, ⊢, m, ,, n, …}",Society
 1880,Sequential quadratic programming,"{⋅, C, f, i, (, N, ), ∑, =}",Applied sciences
 1881,Sequential space,"{A, a, ∈, ], ∃, }, n, →, X, [, x, {, =, ,}",Life sciences
 1882,Serpentine curve,"{a, b, +, ,, y, x, −, =, >}",Life sciences
@@ -1889,23 +1495,16 @@
 1887,Shape context,"{∈, #, ), i, h, k, =, ≠, q, p, (, {, −, }}",Applied sciences
 1888,Shapiro delay,"{⋅, c, log, G, ), =, M, R, t, ⁡, (, x, −, Δ}",Applied sciences
 1889,Shapiro–Wilk test,"{a, i, (, ¯, n, ), W, ∑, x, −, =}",Life sciences
-1890,Shapley value,"{⊆, ∑, −, ∖, !, ∪, ), (, ,, ϕ, =, S, …, a, i, j, l, p, v, x, {, }, |}",Humanities
-1891,Sharpe ratio,"{a, b, E, ], σ, S, r, v, R, −, =, [}",Auxiliary sciences of history
 1892,Shell theorem,"{d, G, F, m, M, s, =}",Physical sciences
 1893,Shifted Gompertz distribution,"{b, e, f, ), ], +, ≥, ,, (, x, ;, −, =, [, η}",Life sciences
 1894,Shifted log-logistic distribution,"{F, ), (, +, σ, ,, /, μ, ξ, x, ;, −, =}",Life sciences
-1895,Shockley Ramo theorem,"{i, q, =, E, v}",
-1896,Short circuit test,"{a, c, e, d, f, i, h, l, o, p, s, r, u, t, W, −}",
-1897,Shorted monopole antenna,"{c, b, f, ), (, +, r, w, =, ε}",
 1898,Sierpiński's constant,"{), ln, lim, k, ⁡, ], n, →, r, −, ∞, ∑, (, [, π, =, K}",Life sciences
-1899,Sigma Andromedae,"{X, ⋯, ,, ∗, ⊠}",Society
 1900,Sign convention,"{), (, −}",Life sciences
 1901,Signal reconstruction,"{e, i, (, k, π, ), t, =}",Applied sciences
 1902,Signal velocity,"{c, s, r, v, =, ε}",Life sciences
 1903,Signature operator,"{Ω, d, →, ), (, +, M, p}",Life sciences
 1904,Signorini problem,"{a, i, h, k, j, ), W, (, x, =, ε}",Life sciences
 1905,Silicon bandgap temperature sensor,"{i, ], ⋯, ,, ≠, n, U, …, }, x, {, =, [}",Applied sciences
-1906,Simpson's rule,"{a, ∫, b, d, ≈, f, ), (, +, x, [, −, ]}",Articles with example code
 1907,Simultaneous localization and mapping,"{), (, m, ,, o, P, t, x, |}",Applied sciences
 1908,Singlet state,"{⟩, ), (, ↑↓, ↓↑, −, |}",Physical sciences
 1909,Singleton bound,"{∈, C, d, min, ), (, ,, ≠, }, y, x, {, =}",Life sciences
@@ -1915,7 +1514,6 @@
 1913,Singular solution,"{′, ), (, +, ,, y, x, =}",Life sciences
 1914,Singularity function,"{⟨, ⟩, +, m, N, w, x, −, =}",Life sciences
 1915,Sinhc function,"{), (, Sinhc, sinh, ⁡, z, =}",Life sciences
-1916,Situation calculus,"{c, ), e, d, →, ¬, (, k, l, o, n, p, s, r, u, t, ,}",
 1917,Six exponentials theorem,"{d, i, (, ≤, j, l, ,, ), exp, ⁡, y, x}",Life sciences
 1918,Sliced inverse regression,"{a, ∈, b, +, ,, ⇒, U, _}",Applied sciences
 1919,Sliding mode control,"{i, n, →, R, U, ϕ}",Applied sciences
@@ -1924,16 +1522,12 @@
 1922,Slowly varying function,"{a, ), lim, L, →, (, ∞, x, =}",Life sciences
 1923,Small-angle approximation,"{θ, sin, ≈, ⁡}",Life sciences
 1924,Small-bias sample space,"{λ, c, n, P, r, α, π, =}",Life sciences
-1925,Smith–Minkowski–Siegel mass formula,"{f, ), (, m, Λ, Aut, ⁡, ∑, =, |}",Hermann Minkowski
 1926,Smooth number,"{Ψ, !, B, log, ∏, ), (, ≤, ,, π, p, ∼, ⁡, x}",Life sciences
 1927,Snell envelope,"{X, =, U, N}",Life sciences
 1928,Snell's law,"{v, n, θ, λ, ⁡, =, sin}",Physical sciences
-1929,Snellius–Pothenot problem,"{C, +, π, α, y, x, β, −, =}",Society
 1930,Sobolev inequality,"{k, n, q, p, ℓ, −, =}",Life sciences
-1931,Sodium adsorption ratio,"{a, C, g, ), (, +, M, N, =}",Environmental studies
 1932,Sol-air temperature,"{a, ⋅, ), I, h, +, =, l, o, Q, i, s, r, T, (, −, Δ}",Applied sciences
 1933,Solar balloon,"{F, ), π, N, S, (, −, =}",Applied sciences
-1934,Solenoid,"{B, I, l, N, μ, =}",Professional studies
 1935,Solid-state nuclear magnetic resonance,"{d, ℏ, π, r, μ, γ, =}",Life sciences
 1936,Soliton distribution,"{⋅, Ad, ), (, k, ⁡, v, X, =}",Life sciences
 1937,Solvency ratio,"{a, e, i, m, n, p, s, r, u, t, w, ., ÷}",Life sciences
@@ -1942,11 +1536,9 @@
 1940,Sound energy density,"{V, =, w, W, d}",Applied sciences
 1941,Souček space,"{Ω, ), lim, k, m, L, →, R, u, (, ∞, ;, =}",Life sciences
 1942,Space cardioid,"{⁡, cos, ), (, k, j, ,, t, +, X, =, sin}",Life sciences
-1943,Spatial multiplexing,"{min, ), (, ,, N, s, r, t, =}",
 1944,Spearman's rank correlation coefficient,"{cov, ), (, σ, ,, ρ, s, r, rg, ⁡, Y, X, =}",Life sciences
 1945,Specific fan power,"{F, q, P, S, v, ∑, =}",Physical sciences
 1946,Specific force,"{a, c, e, g, F, i, M, l, o, n, s, r, t, v, −, =}",Physical sciences
-1947,Specific relative angular momentum,"{h, =, m, L, →}",Professional studies
 1948,Specker sequence,"{a, i, n, q, ∑, −, =}",Life sciences
 1949,Spectral abscissa,"{A, λ, e, i, =, ), R, (, max, {, }, η}",Life sciences
 1950,Spectral asymmetry,"{B, ω, ), lim, ⁡, n, →, t, exp, sgn, ∑, (, −, =, |}",Life sciences
@@ -1954,18 +1546,14 @@
 1952,Spectral risk measure,"{∫, d, F, ), (, M, p, X, ϕ, −, =}",Life sciences
 1953,Spectral theory of compact operators,"{C, i, k, n, ⨁, Y, =}",Life sciences
 1954,Spectrum of a matrix,"{A, ), =, ⋯, ,, n, λ, (, {, }}",Life sciences
-1955,SpeedStep,"{P, C, V, =, f}",Professional studies
 1956,Spekkens Toy Model,"{⟩, ⟺, |, ∨}",Physical sciences
-1957,Sphere of influence,"{a, ≈, I, m, M, O, ), S, r, /, (}",Society
 1958,Sphere–cylinder intersection,"{y, x, +, r, =}",Life sciences
-1959,Spherical pendulum,"{A, cos, ω, ψ, ), φ, k, ⁡, ,, t, (, x, −, =, +}",People
 1960,Spherical sector,"{h, r, π, =, V}",Applied sciences
 1961,Spieker center,"{a, c, b, ), (, +, :}",Life sciences
 1962,Spike-triggered covariance,"{A, C, ), i, (, S, n, ∑, s, T, y, x, −, =}",Life sciences
 1963,Spin glass,"{E, F, χ, +, V, −, =}",Physical sciences
 1964,Spin network,"{A, G, ), (, M, π, r, U, ×, y, =, ⊙}",Physical sciences
 1965,Spin-exchange interaction,"{A, B, ), (, +, ↓, →, ↑}",Physical sciences
-1966,Spinning drop method,"{E, k, s, γ, =, +}",Environmental studies
 1967,Spinodal decomposition,"{+, ∂, ∇, y, x, z, =, ^}",Physical sciences
 1968,Spitzer's formula,"{⁡, ), ], +, v, ,, n, (, [, u, t, exp, ∞, ∑, α, β, −, =, ϕ}",Life sciences
 1969,Spring (mathematics),"{cos, ), (, +, ⁡, ,, r, u, v, x, R, =}",Life sciences
@@ -1975,23 +1563,15 @@
 1973,Stagnation point,"{C, q, p, ∞, −, =}",Physical sciences
 1974,Stagnation pressure,"{P, +, =, ρ, v}",Physical sciences
 1975,Stagnation temperature,"{h, +, =, V}",Physical sciences
-1976,Standard Reference Method,"{A, D, ×, M, S, R, =}",Health
-1977,Standard Weight in Fish,"{a, b, =, L, W}",
-1978,Standard asteroid physical characteristics,"{a, d, ), (, μ, ν, =}",Society
-1979,Standard linear solid model,"{E, s, =, σ, ε}",Environmental studies
-1980,Standard normal table,"{Z, σ, μ, X, −, =}",Humanities
 1981,Standard probability space,"{A, ∩, B, ), (, +, m, p, ∪, mes, ⁡, −, Z, =, ∖}",Life sciences
 1982,Standard translation,"{→, ), ∀, ◻, ,, p, S, R, T, (, y, x}",Life sciences
-1983,Standardized moment,"{∫, E, d, ), (, t, ∞, x, −, =, |}",Auxiliary sciences of history
 1984,Static forces and virtual-particle exchange,"{A, ), (, }, t, V, {, −, =, T}",Physical sciences
 1985,Stationary phase approximation,"{∫, ), e, d, g, f, I, (, k, i, x, =}",Life sciences
 1986,Stefan–Boltzmann law,"{c, h, k, σ, π, =}",Life sciences
 1987,Stein factorization,"{∘, ′, =, g, f}",Life sciences
 1988,Stein's example,"{), (, ,, N, θ, ∼, X}",Applied sciences
-1989,Stein's method,"{⋅, e, ), (, +, L, y, x, −, =}",Auxiliary sciences of history
 1990,Steinhart–Hart equation,"{A, C, B, ln, =, +, ⁡, ), R, T, (, [, ]}",Physical sciences
 1991,Steinhaus theorem,"{A, a, b, ∈, =, ∣, ,, {, −, }}",Life sciences
-1992,Sterling ratio,"{−, %, ), (, ., =, A, C, B, D, O, S, R, a, d, g, m, l, o, n, p, u, v}",Professional studies
 1993,Stewart–Walker lemma,"{), h, +, L, O, T, (, X, ϵ, =, ∗}",Life sciences
 1994,Sticking coefficient,"{a, d, +, m, P, =}",Physical sciences
 1995,Stieltjes constants,"{!, −, ), (, +, n, s, ∞, ∑, γ, =, ζ}",Life sciences
@@ -2001,7 +1581,6 @@
 1999,Stochastic chains with memory of variable length,"{), (, n, P, ξ, −, =, ε}",Life sciences
 2000,Stochastic control,"{=, +, Q, ∑, S, R, u, t, y, [, ], T}",Applied sciences
 2001,Stochastic processes and boundary value problems,"{∈, None, D, g, ), (, ∂, ,, ., →, u, =, lim, y, x, ;, −, Δ, {}",Life sciences
-2002,Stock and flow,"{D, g, I, (, K, n, ), t, −, =, d}",Professional studies
 2003,Stokes flow,"{⋅, f, +, ∇, P, =}",Life sciences
 2004,Stokes number,"{k, l, S, u, t, =}",Physical sciences
 2005,Stokes wave,"{A, E, ρ, t, v, =}",Physical sciences
@@ -2010,9 +1589,7 @@
 2008,Stolz–Cesàro theorem,"{a, b, lim, +, n, →, ∞, −, =}",Life sciences
 2009,Stone's theorem on one-parameter unitary groups,"{∈, ), (, R, U, t}",Life sciences
 2010,Strain rate,"{), (, L, t, ϵ, −, =}",Physical sciences
-2011,Strain wave gearing,"{−, =}",Professional studies
 2012,Strategic complements,"{F, ), (, +, ,, /, p, U, y, x, ;, −, =}",Life sciences
-2013,Stream power law,"{A, E, K, m, n, S, =}",Earth sciences
 2014,Streaming algorithm,"{h, m, L, ,, →, [, −, ]}",Applied sciences
 2015,Stretched exponential function,"{e, f, ), (, t, β, −, =}",Life sciences
 2016,Strictly positive measure,"{∈, ), ∀, ∅, ,, ≠, μ, T, (, U, >}",Life sciences
@@ -2036,10 +1613,8 @@
 2034,Supercommutative algebra,"{), (, y, x, −, =, |}",Life sciences
 2035,Superdense coding,"{A, ⟩, B, ), (, +, ⊗, =, |}",Physical sciences
 2036,Superellipse,"{a, b, +, n, y, x, =, |}",Life sciences
-2037,Superellipsoid,"{), (, ≤, /, r, t, +, y, x, z, |}",Society
 2038,Supermembranes,"{), (, k, σ, ,, O, θ, μ, X, x, =, +}",Life sciences
 2039,Supermodule,"{=, ⊕, E}",Life sciences
-2040,Superpartient number,"{a, +, n}",
 2041,Superperfect number,"{), (, =, σ, n}",Life sciences
 2042,Supersingular elliptic curve,"{None, ≅, E, ), (, K, ¯, /, p, r, {, Z, ], [}",Life sciences
 2043,Supersolvable group,"{G, H, ⋯, }, s, ◃, {, −, =}",Life sciences
@@ -2047,7 +1622,6 @@
 2045,Suspension polymerization,"{⋅, C, d, k, ¯, m, l, N, s, R, ν, v, ϵ, =, D}",Physical sciences
 2046,Swap regret,"{a, i, (, j, L, ), s, w, ∑, =}",Life sciences
 2047,Sylow theorems,"{!, ), (, ≡, p, −, mod}",Life sciences
-2048,Symbolic Cholesky decomposition,"{), (, y, x, z, =}",Articles with example code
 2049,Symmetric closure,"{∈, ∪, ), =, ,, S, R, (, y, x, {, }}",Applied sciences
 2050,Symmetric decreasing rearrangement,"{A, ∈, ω, ⋅, }, n, R, x, {, =, <, ∗, |}",Life sciences
 2051,Symmetric spectrum,"{→, +, ⋯, ∧, n, p, S, X, −}",Life sciences
@@ -2062,74 +1636,49 @@
 2060,Szegő kernel,"{↦, f, ), (, P, z}",Life sciences
 2061,T pad,"{a, c, e, d, g, f, i, h, m, o, n, p, r, t, Z}",Physical sciences
 2062,T-J model,"{a, ), (, /, θ, r, sec, ⁡, =}",Physical sciences
-2063,T-aerial,"{), h, π, λ, (, R, =}",
 2064,T-duality,"{c, e, i, φ, +, m, ≠, n, θ, ), R, (, ∑, x, =}",Physical sciences
-2065,TITAN2D,"{a, ), (, k, ,, n, s, ∑, −, =}",Earth sciences
-2066,TRevPAR,"{A, a, b, e, /, i, m, l, o, n, P, s, R, u, T, v, =, t}",Professional studies
-2067,Table of Clebsch–Gordan coefficients,"{), (, +, =}",Humanities
 2068,Tangent half-angle formula,"{+, ⁡, α, tan, =, sin}",Life sciences
 2069,Tangential and normal components,"{∥, ⊥, =, +, v}",Life sciences
 2070,Tanh-sinh quadrature,"{tanh, ), (, π, t, sinh, ⁡, x, =}",Physical sciences
 2071,Tanner graph,"{−, ), (, ≥, m, R, r}",Life sciences
 2072,Target Motion Analysis,"{A, B, O, S, R, −, r, =}",Applied sciences
 2073,Tautological one-form,"{q, d, i, θ, p, ∑, =}",Physical sciences
-2074,Taylor circle,"{cos, :, ), (, +, R, T, ⁡, −, α, β, γ, =, sin}",
 2075,Taylor series,"{a, !, ″, ′, f, ), (, +, ⋯, x, −}",Life sciences
-2076,Technological theory of social production,"{E, ), ], k, =, ,, O, n, /, (, [, −, ×}",
 2077,Teichmüller character,"{lim, ω, p, ), (, n, →, ∞, x, =}",Life sciences
 2078,Teichmüller space,"{∈, C, ), (, Im, ⁡, {, z, }, >}",Life sciences
 2079,Telecine,"{−, =}",Applied sciences
 2080,Telescoping Markov chain,"{∈, ×, ), (, k, ,, N, θ, S, ., =}",Applied sciences
 2081,Tellegen's theorem,"{b, F, k, W, ∑, =}",Physical sciences
-2082,Temperature dependence of liquid viscosity,"{b, ), (, μ, T, exp, ⁡, −, =}",Environmental studies
 2083,Temperature jump,"{d, ln, H, K, =, o, ., R, T, ⁡, Δ}",Physical sciences
 2084,Tensor density,"{⋅, =, ∇, f}",Life sciences
 2085,Tensor-hom adjunction,"{≅, ), (, Hom, ,, ⊗, ⁡, Y, X, Z}",Life sciences
 2086,Tent map,"{min, =, f, ,, μ, x, {, −, }}",Life sciences
 2087,Term symbol,"{), i, (, l, ,, P, ∑, −, =}",Physical sciences
-2088,Texture,"{d, g, F, ), (, O, V, =, D}",
-2089,The Complexity of Songs,"{k, ≥, ,, S, V, ϵ, −, =}",Society
-2090,The Magnificent Seven,"{D, F, ), (, σ, R, T, =}",
-2091,The Product Space,"{Pr, ≥, min, i, }, ∣, j, ,, ), (, x, ϕ, =, {}",Humanities
 2092,Theorem on friends and strangers,"{), (, R, =, ,}",Life sciences
-2093,Theory of reasoned action,"{A, B, I, (, +, N, ), S, W, =}",Society
-2094,Thermal de Broglie wavelength,"{A, ∫, E, d, ), (, +, τ, t, ∞, −, =, ∗}",Auxiliary sciences of history
-2095,Thermal history modelling,"{z, d, k, Q, T, −, =}",Earth sciences
 2096,Thermal mass,"{C, h, =, Q, t, Δ, T}",Physical sciences
 2097,Thermal shock,"{E, ), (, k, σ, R, T, α, −, =, ν}",Applied sciences
 2098,Thermodynamic integration,"{A, B, ), (, +, λ, U, −, =}",Applied sciences
 2099,Thermodynamic limit,"{∞, ,, /, N, →, V, =}",Physical sciences
-2100,Thin set,"{log, ), H, ⁡, O, N, n, /, (, −, =}",
 2101,Thom conjecture,"{d, g, ), (, ≥, /, −}",Life sciences
 2102,Thompson groups,"{A, ⟩, B, d, i, =, ∣, ,, [, −, ], ⟨}",Life sciences
 2103,Thomson problem,"{e, i, (, k, j, N, ), r, U, =}",Physical sciences
 2104,Thomson scattering,"{⋅, ), i, (, K, ,, N, p, T, v, ∑, =}",Physical sciences
 2105,Thomson's lamp,"{), [, ⋯, ,}",Life sciences
-2106,Thue–Siegel–Roth theorem,"{<, +, ε, q, p, α, −, |}",
-2107,Time of flight detector,"{c, ≈, ), =, m, L, p, t, v, (, −, δ}",Humanities
 2108,Time value of money,"{F, ), (, +, P, r, V, =}",Life sciences
 2109,Time–frequency analysis,"{e, ψ, ), (, σ, π, t, −, =}",Applied sciences
-2110,Tisserand's criterion,"{a, cos, e, i, (, +, ), ⁡, −, =}",
 2111,Titration curve,"{a, log, ), H, K, =, p, (, ⁡, [, ], +}",Life sciences
 2112,Toda bracket,"{g, f, h, →, W, Y, X, Z}",Life sciences
 2113,Toda–Smith complex,"{→, S}",Life sciences
-2114,Tonelli's theorem,"{Ω, ∫, d, F, ), (, f, ], u, x, [, =}",
 2115,Topological conjugacy,"{g, f, h, ∘, −, =}",Life sciences
 2116,Topological indistinguishability,"{∈, }, ≤, ⁡, ↓, X, y, x, {, =}",Life sciences
-2117,Topology optimization,"{Ω, ∫, d, min, ), (, ρ, ϕ}",Professional studies
 2118,Torricelli's equation,"{a, d, f, i, =, +, v, Δ}",Physical sciences
 2119,Torsion of a curve,"{b, ×, ,, n, κ, ′, t, =}",Life sciences
 2120,Total curvature,"{a, ∫, b, d, ), (, k, s}",Life sciences
-2121,Total maximum daily load,"{A, D, +, M, L, O, S, T, W, =}",Environmental studies
 2122,Touschek effect,"{A, a, C, b, ,, ⁡, tan, =}",Physical sciences
 2123,TraPPE force field,"{log, d, i, (, +, W, ), t, ξ, ⁡, ∑, X, γ, =, ν}",Physical sciences
 2124,Trace distance,"{), =, σ, ,, ρ, †, r, T, (, [, −, ], |}",Physical sciences
-2125,Tractive effort,"{c, d, P, s, t, =, D}",Professional studies
 2126,Trailing zero,"{−, =}",Life sciences
-2127,Transconductance,"{g, I, Δ, m, V, =}",Categories by parameter
 2128,Transfer operator,"{∈, g, f, ), (, L, Φ, ∑, y, x, −, =}",Life sciences
-2129,Transfer-matrix method,"{cos, +, n, θ, P, W, ⁡, Y, X, =, sin}",Auxiliary sciences of history
-2130,Translation operator,"{⟩, ), (, +, r, T, x, =, |, ^}",
 2131,Transmission disequilibrium test,"{b, i, h, +, j, ), (, −, =}",Life sciences
 2132,Transvectant,"{Ω, ), (, ⋯, n, Q, ⊗, r, t}",Life sciences
 2133,Treynor–Black model,"{−, F, i, (, +, M, ), R, α, ϵ, r, =, β}",Life sciences
@@ -2137,16 +1686,13 @@
 2135,Trigamma function,"{z, d, ψ, ln, (, ), ⁡, Γ, =}",Life sciences
 2136,Trivialism,"{∀, T, p}",Life sciences
 2137,Trochoidal wave,"{ϕ, −, ∥, ψ}",Physical sciences
-2138,Trouton's ratio,"{a, b, ≈, g, i, K, J, m, l, o, L, p, T, v, −, n}",Environmental studies
 2139,True arithmetic,"{a, #, d, f, i, φ, l, o, n, θ, ), ⊨, (, y, N, _}",Life sciences
 2140,Truncated tesseract,"{), (, +, ±, ,}",Life sciences
 2141,Trust region,"{a, c, f, ), =, +, l, u, t, (, x, −, Δ}",Life sciences
 2142,Tschirnhausen cubic,"{a, cos, ), (, +, /, θ, r, ⁡, y, x, −, =}",Life sciences
-2143,Tsiolkovsky rocket equation,"{f, ln, =, ⁡, m, v, Δ}",Professional studies
 2144,Tsirelson's bound,"{A, ⟩, B, ≤, −, ⟨, +}",Physical sciences
 2145,Tukey lambda distribution,"{ω, ), (, ≤, σ, Φ, n, P, μ, X, −, =}",Life sciences
 2146,Tunnell's theorem,"{ω, g, i, n, ∑, ≈, w, y, =}",Life sciences
-2147,Turbine Inlet Air Cooling,"{A, ⋅, ), e, p, i, (, ,, Θ, P, u, v, x, =}",
 2148,Tutte matrix,"{A, ∈, E, i, ∀, j, ,, ∉, ), u, ∧, v, (, x, =}",Life sciences
 2149,Tweedie distribution,"{a, E, p, ), =, Y, (, ⁡, Var, [, ]}",Life sciences
 2150,Two-dimensional flow,"{¯, i, (, +, j, ,, ), t, v, y, x, z, =, ^}",Physical sciences
@@ -2167,15 +1713,12 @@
 2165,Unitary representation,"{G, ), H, π, →, U, (, ⁡}",Life sciences
 2166,Univalent function,"{a, −, ), (, ¯, ϕ, z, =}",Life sciences
 2167,Upper hybrid oscillation,"{B, e, ), (, k, /, n, T, ϕ, −, =}",Physical sciences
-2168,Upper-convected Maxwell model,"{D, +, ∇, λ, T, =, η}",Environmental studies
 2169,Upwind scheme,"{a, None, i, =, +, n, u, t, x, {, −, Δ, <, >}",Life sciences
-2170,Urania Propitia,"{⋅, e, M, ⁡, E, −, =, sin}",Society
 2171,Ursell number,"{), H, λ, U, (, h, =}",Physical sciences
 2172,V-Cube 6,"{!, ×, ≈}",Life sciences
 2173,V-statistic,"{⋅, chord, ), (, π, θ, ∘, ⁡, =, sin}",Life sciences
 2174,Vacuum angle,"{Ψ, A, d, ), (, =, ,, U, ϕ, −, ], [}",Physical sciences
 2175,Vague topology,"{∫, d, f, I, (, ), μ, X, =}",Life sciences
-2176,Value product,"{o, c, G, P, f, s, +, C, O, n, p, S, r, u, t, V, =}",Society
 2177,Van Houtum distribution,"{a, b, ), =, +, p, (, δ}",Life sciences
 2178,Van Hove singularity,"{k, L, n, λ, π, =}",Physical sciences
 2179,Van der Pol oscillator,"{d, ), (, +, μ, t, x, −, =}",Life sciences
@@ -2184,24 +1727,20 @@
 2182,Vandermonde polynomial,"{∏, i, (, ≤, j, n, ), V, X, −, =, <}",Life sciences
 2183,Vantieghems theorem,"{≡, ∏, ), (, k, n, −, ≤, mod}",Life sciences
 2184,Vapnik–Chervonenkis theory,"{Q, ∫, =, d, f}",Life sciences
-2185,Variable hybridization,"{λ, i, +, ,, o, r, ∑, =}",
 2186,Variable kernel density estimation,"{ln, (, ), ≈, ⁡}",Applied sciences
 2187,Varian's theorems,"{A, ), (, +, ,, u, y, x, =}",Life sciences
 2188,Vector algebra relations,"{A, =, +, ∥}",Life sciences
 2189,Vector area,"{S, ^, =, n}",Life sciences
 2190,Vector calculus identities,"{A, ), (, =, ∇, ⁡, grad}",Life sciences
 2191,Vector optimization,"{∈, C, min, ), (, f, S, ⁡, x}",Life sciences
-2192,Veech surface,"{d, g, j, m, ∑, −, =}",
 2193,Vehicle-specific power,"{a, g, ψ, ), =, +, V, ⁡, P, S, (, v, ϕ, ×, sin, ζ}",Applied sciences
 2194,Venn diagram,"{∈, −, i, (, ≤, N, ), ⁡, y, x, n, =, sin}",Life sciences
 2195,Versor,"{i, ), =, ,, (}",Life sciences
 2196,Vickers hardness test,"{A, d, ), (, /, ∘, ⁡, =, sin}",Applied sciences
 2197,View factor,"{F, i, j, n, →, S, ∑, =}",Physical sciences
-2198,Vinculum,"{a, c, b, ), (, +, ¯, −}",
 2199,Virasoro algebra,"{c, ], ), (, +, =, m, L, n, [, −, δ, ,}",Physical sciences
 2200,Virbhadra–Ellis lens equation,"{−, D, ), =, +, θ, s, (, ⁡, [, α, tan, ^, ], β, d}",Physical sciences
 2201,Virtual displacement,"{None, δ, ∂, ϵ, =, |}",Physical sciences
-2202,Vis viva,"{i, ∑, m, v}",Categories by parameter
 2203,Viscosity solution,"{D, F, ), (, ,, u, x, =}",Life sciences
 2204,Vitale's random Brunn–Minkowski inequality,"{∈, None, max, =, K, ∥, n, R, v, {, }, |}",Life sciences
 2205,Vitali covering lemma,"{⊆, B, ⋃, J, ∈, j, ′}",Life sciences
@@ -2212,7 +1751,6 @@
 2210,Von Neumann algebra,"{′, ), (, M, N, ⊗, =}",Life sciences
 2211,Von Neumann entropy,"{log, Tr, ρ, S, ⁡, −, =}",Life sciences
 2212,Von Neumann's theorem,"{), (, =, T, ∗}",Life sciences
-2213,Von Zeipel theorem,"{g, G, F, ), (, M, L, π, P, −, =, ∗}",Stellar astronomy
 2214,Wallis product,"{⋅, ∏, ), (, +, π, n, ∞, −, =}",Life sciences
 2215,Wallis' integrals,"{∫, d, ), (, n, W, ⁡, x, π, =, sin}",Physical sciences
 2216,Wannier function,"{⋅, e, ψ, i, (, k, ), r, u, =}",Physical sciences
@@ -2221,15 +1759,11 @@
 2219,Wave field synthesis,"{A, ′, d, G, ), (, ∂, ,, n, P, w, −, z, =, |, ∬}",Life sciences
 2220,Wave front set,"{∈, C, −, f, ), (, ≤, ∧, N, ξ, ϕ, Γ, +, |}",Life sciences
 2221,Wavelet vanishing moment,"{≦, f, ), =, K, |, p, t, v, (, α, −, +, ε}",Applied sciences
-2222,Waveshaper,"{a, f, ), (, t, y, x, =}",Society
-2223,Weak convergence,"{⟨, ⟩, ,, n, →, y, x}",
 2224,Weak solution,"{), (, +, ∂, u, t, x, =}",Life sciences
 2225,Weak topology,"{′, ), (, σ, ≃, ,, Y, X}",Life sciences
 2226,Weibull distribution,"{None, e, f, ), (, k, ≥, ,, /, λ, ;, x, {, −, =, <}",Applied sciences
 2227,Weierstrass factorization theorem,"{a, −, e, ∏, f, ), h, +, ⋯, n, p, λ, (, exp, ∞, z, =, ⁡}",Life sciences
 2228,Weierstrass point,"{), (, ,, L, P, …}",Life sciences
-2229,Weierstrass substitution,"{f, ), (, /, Q, P, z, =}",
-2230,Weighted average cost of carbon,"{a, C, E, ), (, +, L, o, /, V, =, ∗}",Professional studies
 2231,Weighted sum model,"{a, A, i, j, m, ,, n, w, …, ∑, =}",Life sciences
 2232,Weil cohomology theory,"{C, ), i, H, n, ⊗, →, (, X, −}",Life sciences
 2233,Weil restriction,"{e, S, =, k, L, /, ), s, R, (, X, ×}",Life sciences
@@ -2241,30 +1775,24 @@
 2239,Weyl–Brauer matrices,"{), (, k, ⋯, n, q, p, +}",Life sciences
 2240,Wheeler–Feynman absorber theory,"{), (, +, J, O, π, q, →, S, r, :}",Physical sciences
 2241,White noise,"{a, ∫, w, ), =, +, ,, r, t, W, (, [, ], d}",Life sciences
-2242,White's law,"{k, n, N, =, K, ^}",Humanities
 2243,Wick rotation,"{−, d, ), (, +, s, t, y, x, z, =}",Physical sciences
 2244,Widom scaling,"{f, ), (, M, ,, o, ≃, ↑, r, t, β, −}",Physical sciences
 2245,Wiedemann–Franz law,"{=, κ, σ, L, T}",Physical sciences
 2246,Wien's displacement law,"{λ, b, =, T}",Physical sciences
 2247,Wiener equation,"{d, g, ), (, t, v, x, =}",Life sciences
 2248,Wiener–Hopf method,"{C, −, d, i, (, +, ∫, Φ, π, ), α, z, =}",Life sciences
-2249,Wigner quasiprobability distribution,"{∞, −, ∗, ∫, ), φ, +, ,, /, π, =, ⟨, ⟩, C, P, μ, [, ], e, d, i, ℏ, q, p, t, (, y, x}",Articles containing video clips
 2250,Wigner's theorem,"{Ψ, ∈, e, i, H, =, ∅, ,, ≠, R, α, {, }, |, _}",Life sciences
 2251,Wilhelmy plate,"{cos, F, ), (, l, θ, ⁡, γ, =}",Applied sciences
 2252,Wilkinson matrix,"{B, F, ×, q, v, =}",Life sciences
 2253,Wilkinson's polynomial,"{∏, i, (, ⋯, ), w, x, −, =}",Applied sciences
 2254,Williams %R,"{a, c, e, d, g, i, h, l, o, N, s, R, t, w, ×, y, %, −, =}",Life sciences
-2255,Williams' p + 1 algorithm,"{A, j, ,, V, −, =}",Behavioural sciences
 2256,Wiman's sextic,"{), (, +, y, x, z, =}",Life sciences
 2257,Wind chill,"{a, ⋅, C, I, (, +, ), T, W, V, −, =}",Physical sciences
-2258,Wirtinger inequality,"{!, ω, ), (, k, ≤, ζ}",
 2259,Wishart distribution,"{), i, (, …, ,, N, p, ∼, X, V, x, =}",Life sciences
 2260,Wold's decomposition,"{A, ∈, ), (, ⊕, S, U, V, α, =}",Life sciences
-2261,Wold's theorem,"{b, +, j, ∑, t, ∞, Y, −, =, ε, η}",Auxiliary sciences of history
 2262,Wolfram axiom,"{a, c, b, ), (, =, |}",Life sciences
 2263,Womersley number,"{ω, ), (, L, ρ, μ, α, =}",Life sciences
 2264,Wonderland model,"{−, ), (, +, ,, y, x, z, =}",Life sciences
-2265,Wood method,"{c, i, +, ,, =, K, η}",Professional studies
 2266,Woodall number,"{−, =, W, n}",Life sciences
 2267,Woodbury matrix identity,"{A, C, ), (, +, U, V, −, =}",Life sciences
 2268,Wrapped Lévy distribution,"{i, (, j, ), x, ϕ, −}",Life sciences
@@ -2272,940 +1800,19 @@
 2270,YIQ,"{∈, B, G, I, ,, Q, R, Y, [, −, ]}",Applied sciences
 2271,Yang–Mills theory,"{a, g, f, ), (, F, Tr, L, μ, ν, ⁡, −, =}",Physical sciences
 2272,Yang–Mills–Higgs equations,"{A, D, F, ], +, ,, Φ, [, =, ∗}",Life sciences
-2273,Yield,"{y, ≤, σ}",
 2274,Young symmetrizer,"{∈, g, }, n, P, S, λ, {, =}",Life sciences
 2275,Young tableau,"{!, dim, ∏, ∈, ), h, k, ⁡, o, n, λ, (, Y, x, π, =}",Life sciences
 2276,Yukawa interaction,"{≈, g, ψ, i, ¯, V, ϕ, γ}",Physical sciences
 2277,Yukawa potential,"{e, g, ), (, k, m, ,, r, V, −, =}",Physical sciences
-2278,Z-matrix,"{z, i, (, ≤, j, ,, ≠, ), ;, Z, =}",
 2279,Z-test,"{E, S, =, σ, n}",Life sciences
-2280,Z-transform,"{z, ), (, ∞, ], n, −, =, x, ∑, X, {, Z, }, [}",Pierre-Simon Laplace
 2281,Zadoff–Chu sequence,"{−, ), (, +, j, ,, π, q, N, u, x, n, =}",Applied sciences
 2282,Zariski topology,"{A, ∈, f, ), ∀, ∣, =, ,, n, S, (, V, x, {, }}",Life sciences
 2283,Zeller's congruence,"{), h, K, J, m, q, ⌋, (, ⌊, −, =, +, mod}",Applied sciences
 2284,Zero-crossing rate,"{c, z, ), (, −, s, R, t, ∑, r, =, <, T}",Life sciences
-2285,Zero-fuel weight,"{B, F, +, O, T, W, Z, =}",Professional studies
 2286,Zeta distribution,"{f, ), (, k, /, s, −, =, ζ}",Applied sciences
 2287,Zeuthen strategy,"{+, λ, =, z, Å}",Applied sciences
-2288,Zipf's law,"{f, ), H, k, ,, /, N, s, (, ∑, ;, n, =}",Humanities
 2289,Zolotarev's lemma,"{a, p, ), (}",Life sciences
 2290,Zone melting,"{a, o, c, e, g, f, i, k, O, n, S, r, t}",Physical sciences
-2291,absolute condition number,"{∈, ′, D, g, ), =, K, ¯, ∥, ,, ., ≈, (, x, {, −, }, sup}",
-2292,absolute deviation,"{D, i, (, m, ), X, x, −, =, |}",
-2293,absolute difference,"{Y, X, −, |}",
-2294,absolute magnitude,"{lg, d, M, m, ⁡, −, =}",
-2295,absorbance (chemistry),"{A, e, log, i, (, Φ, ), T, ⁡, −, =, t}",
-2296,absorbing set,"{∈, F, ∀, ≥, ⇒, S, r, α, x, |}",
-2297,acceleration of the universe,"{a, c, G, ), (, +, ¨, ρ, π, P, −, =}",
-2298,acentric factor,"{a, log, ω, ), (, ,, p, s, r, t, ⁡, −, =, T}",
-2299,acid dissociation constant,"{A, a, H, K, ], O, [, −, =, +}",
-2300,activity,"{a, e, i, ⊖, R, μ, T, −, =}",
-2301,adaptation,"{a, o, e, d, i, h, +, ⇌, l, O, n, p, s, R, t}",
-2302,adaptive system,"{′, E, →, ), (, P, S, |, >}",
-2303,additive function,"{a, b, f, ), (, +, =}",
-2304,admissable set (well-posed problem),"{!, ∈, D, g, F, ), (, ∃, ,, ⇔, x, =}",
-2305,admittance,"{R, =, G}",
-2306,adsorption,"{k, m, n, P, x, =}",
-2307,aeroelasticity,"{′, d, G, J, M, θ, y, −, =}",
-2308,affine rotation,"{Ω, →, ), (, Q, P, r, =}",
-2309,affine transformation,"{f, ), φ, →, Q, P, (, =}",
-2310,aggregate demand,"{A, C, D, G, I, (, +, M, ), X, −, =}",
-2311,airport reference temperature,"{a, +, −, m, T}",
-2312,algebra over a field,"{A, B, ), H, K, m, ,, o, (}",
-2313,algebraic curve,"{a, ), i, (, k, ,, P, y, x, =, ∑}",
-2314,algebraic cycle,"{′, f, ), (, =, Y, [, −, ], ∗}",
-2315,algebraic extension,"{∈, ), (, N, p, y, {, }, |}",
-2316,algebraic torus,"{∈, d, F, ), (, L, ,, q, S, u, t, }, {, −, =, ⊂}",
-2317,almost Mathieu operator,"{cos, −, ω, ), H, +, =, ,, n, λ, u, (, ⁡, α, [, π, ]}",
-2318,almost everywhere,"{a, ∫, b, d, f, ), (, ≥, x}",
-2319,amplitude versus offset,"{−, Z, R, =, +}",
-2320,analysis of algorithms,"{+, T}",
-2321,analytic torsion,"{i, (, j, ), s, λ, ∑, −, =, ζ, >}",
-2322,angular resolution,"{D, θ, λ, ⁡, =, sin}",
-2323,angular velocity,"{θ, =, d, ω, t}",
-2324,anion gap,"{), (, +, ], [, −, =}",
-2325,annihilator,"{A, ∈, ), ∀, ∣, S, n, s, R, (, }, {, r, =, ,}",
-2326,antisymmetric relation,"{a, ∈, b, ), ∀, ,, ∧, ⇒, R, (, X, =}",
-2327,arc length,"{lim, ), f, i, (, L, N, →, r, t, ∞, ∑, −, =, |}",
-2328,arcoth,"{ln, (, +, ,, ), arcoth, ⁡, x, −, =, |, >}",
-2329,arcsch,"{ln, (, +, arcsch, ), ⁡, x, =}",
-2330,area of a disk,"{A, r, =, π}",
-2331,arithmetic mean,"{A, a, i, +, ⋯, n, ∑, =}",
-2332,arithmetic number,"{+, =}",
-2333,arithmetico-geometric sequence,"{a, b, d, ), (, +, n, r, [, −, ]}",
-2334,arsech,"{ln, (, arsech, ), ⁡, x, −, =, +}",
-2335,arsinh,"{), ln, (, +, arsinh, ⁡, x, =}",
-2336,associative algebra,"{⋅, ), (, r, y, x, =}",
-2337,astroid,"{+, /, R, y, x, =}",
-2338,asymmetric relation,"{a, ∈, b, ¬, ∀, ,, ), ⇒, R, (, X}",
-2339,asymptote,"{lim, →, ∞, x, −, =}",
-2340,asymptotic equipartition property,"{log, →, ), H, ⁡, ,, n, p, (, …, ∞, X, −}",
-2341,at rest,"{→, =, v}",
-2342,atlas,"{∈, ⋃, I, i, S, U, =}",
-2343,atomic layer deposition,"{a, b, F, s, S, R, =, ∗}",
-2344,atto,{−},
-2345,axiom of union,"{A, ∈, c, B, D, ), ∀, ∃, ∧, ⟺, (}",
-2346,axion,"{ln, (, +, ), r, T, ⁡, =}",
-2347,balance spring,"{I, /, π, κ, T, =}",
-2348,band matrix,"{a, ≥, i, k, j, ,, <, ;, −, =, +, >}",
-2349,barycentric coordinate system,"{⋅, →, +, M, n, P, …, α, ;, =}",
-2350,baryon number,"{B, ), (, ¯, n, −, =}",
-2351,base,"{∈, χ, (, sup, ,, ), ≜, X, x, {, }}",
-2352,basic hypergeometric series,"{a, ;, b, ), (, k, j, m, ,, n, q, ∑, =, −, …, ∞, [, ϕ, z, ], +}",
-2353,basis,"{a, b, ), (, +, ,, −, =}",
-2354,beam,"{a, A, B, e, +, m, L, O, /, =}",
-2355,bel,"{⋅, B, ln, N, p, ⁡, =}",
-2356,belief propagation,"{′, ), i, (, ≠, p, X, ∑, x, =}",
-2357,bending,"{E, d, I, (, M, ), w, x, =}",
-2358,beta-binomial distribution,"{∈, #, E, F, ), H, +, C, /, ,, (}",
-2359,bifolium,"{a, ), (, +, y, x, =}",
-2360,big O notation,"{g, f, ), (, O, →, ∞, x, =}",
-2361,binary function,"{:, f, →, Y, X, Z, ×}",
-2362,binary logarithm,"{log, n, ⟺, ⁡, x, =}",
-2363,binomial coefficient,"{!, ), (, k, n, −, =}",
-2364,binomial theorem,"{), (, +, ⋯, n, y, x, −, =}",
-2365,birefringence,"{e, Δ, o, n, −, =}",
-2366,birthday problem,"{!, ⋅, None, ¯, ×, P, ), (, +, ⋯, n, p, −, =}",
-2367,bisymmetric matrix,"{a, c, b, e, d, g, f, i, h, ), (}",
-2368,blind signature,"{′, e, d, ), (, m, o, N, r, ≡}",
-2369,blood flow,"{a, I, d, i, m, l, o, n, P, s, t, v, y, e, −, =}",
-2370,blood volume,"{C, B, H, P, V, −, =}",
-2371,body mass index,"{×, =}",
-2372,bolted joint,"{e, d, P, K, p, r, T, =}",
-2373,bounded function,"{f, ), (, ≤, M, x, |}",
-2374,braid group,"{⟨, ⟩, B, i, +, j, σ, ,, n, …, −, =, |}",
-2375,brightness,"{B, G, +, R, μ, =}",
-2376,brightness temperature,"{c, e, I, h, k, T, −, =, ν}",
-2377,buffer capacity,"{d, ), H, +, =, n, p, (, β, ], [}",
-2378,bulk density,"{b, M, ρ, s, t, V, =}",
-2379,capital accumulation,"{Δ, K, s, Y, =, k}",
-2380,cardinal number,"{,, n, ℵ, …, α, ;}",
-2381,cardioid,"{a, cos, ), φ, +, ⁡, r, (, y, x, −, =}",
-2382,cartesian product,"{a, A, B, ∈, ), ×, ∣, =, ,, b, (, {, }}",
-2383,cas function,"{cos, cas, (, +, θ, ), ⁡, =, sin}",
-2384,catenary,"{a, cosh, ⁡, y, x, =}",
-2385,catenoid,"{c, ⁡, cos, cosh, u, v, x, =}",
-2386,center of mass,"{i, (, m, n, ), r, ∑, R, −, =}",
-2387,centered hexagonal number,"{), (, +, n, −, =}",
-2388,centered square number,"{C, ), (, +, ,, n, −, =}",
-2389,centi,{−},
-2390,centrifuge,"{r, =, ω, g}",
-2391,centrosymmetric matrix,"{a, A, b, i, (, ⋮, j, ,, n, ), ⋱, =, ⋯, [, −, ], +}",
-2392,chain homotopy,"{A, B, d, g, f, h, +, n, −, =}",
-2393,chain rule,"{⋅, ′, g, f, ), (, ∘, =}",
-2394,change of basis,"{=, S, r, E, C}",
-2395,character table,"{⟨, ∈, G, g, ⟩, ), (, ¯, ,, ∑, α, β, =, |}",
-2396,characteristic energy,"{a, c, C, o, n, s, r, μ, t, v, ϵ, −, =, /}",
-2397,characteristic equation,"{A, I, (, det, ), λ, −, =}",
-2398,characteristic polynomial,"{A, ), I, (, det, p, λ, −, =}",
-2399,charge conservation,"{I, (, +, O, N, Q, ), U, t, −, =, T}",
-2400,chord,"{c, d, ), (, +, cos, θ, r, ⁡, −, =, sin}",
-2401,circle bundle,"{A, d, F, π, =, ∗}",
-2402,circle map,"{Ω, −, ), (, K, +, π, θ, ⁡, n, =, sin}",
-2403,circular cone,"{a, b, +, −, y, x, z, =}",
-2404,circular cylinder,"{a, y, +, =, x}",
-2405,circular hyperboloid of one sheet,"{a, b, +, −, y, x, z, =}",
-2406,circular hyperboloid of two sheets,"{a, b, +, −, y, x, z, =}",
-2407,circular paraboloid,"{a, −, +, y, x, z, =}",
-2408,circumference,"{⋅, C, d, π, r, =}",
-2409,circumradius,"{a, c, b, ), (, +, R, −, =}",
-2410,cis(x),"{cos, i, (, +, cis, ), ⁡, x, =, sin}",
-2411,cissoid of Diocles,"{a, cos, φ, ρ, ⁡, y, x, −, =, sin}",
-2412,class (set theory),"{A, ), (, ∣, x, {, }}",
-2413,classifying space for U(n),"{∈, E, …, i, H, j, }, n, ), U, =, (, e, {, δ, ,}",
-2414,closed interval from −π/2 to +π/2,"{), (, ,, /, π, −}",
-2415,closed-loop transfer function,"{G, ), (, +, s, H, Y, X, =}",
-2416,codimension,"{dim, ), codim, ⁡, (, W, V, −, =}",
-2417,codomain,"{A, B, f, →, ⇔, :}",
-2418,coherence,"{≲, c, τ, Δ, f}",
-2419,cohomology operation,"{G, ), (, ,, n, q, π}",
-2420,cohomology ring,"{), H, k, →, R, ℓ, (, X, ;, ×, +}",
-2421,collaborative filtering,"{∈, ′, i, ⁡, ,, r, u, aggr, U, =}",
-2422,color histogram,"{f, ), H, ≤, }, μ, (, y, x, {, =}",
-2423,combination,"{), (, k, ⋯, n, −, =, +}",
-2424,common logarithm,"{log, ln, (, ), ⁡, x, =}",
-2425,commutator,"{), (, ], ,, y, x, [, =}",
-2426,comparative statics,"{a, f, ), (, ,, x, =}",
-2427,complement,"{A, ∈, B, =, ∣, ∉, x, {, }, ∖}",
-2428,complementary cumulative distribution function,"{x, F, ), (, ¯, P, ⁡, X, −, =, >}",
-2429,complete metric space,"{∈, d, g, f, ), (, sup, ,, ≡, x, }, X, {, ], [}",
-2430,complex conjugate,"{−, ‖, i, (, ¯, ), ⇔, z, =}",
-2431,complex quadratic polynomial,"{c, e, i, (, π, θ, ), −, =}",
-2432,compressible flow,"{i, →, d, ≠, v}",
-2433,compression ratio,"{c, b, e, h, +, ,, π, s, r, w, V, =}",
-2434,conchoid of de Sluze,"{a, cos, ), (, +, θ, r, sec, ⁡, y, x, −, =}",
-2435,condition number,"{∈, ′, D, g, ‖, ), (, K, =, ,, ., ≈, sup, x, {, −, }, ¯}",
-2436,configuration,"{p, γ, =, ℓ, π}",
-2437,conformal dimension,"{dim, C, d, G, ∈, i, H, m, ⁡, Y, X, inf, =}",
-2438,conformational isomerism,"{e, G, =, K, /, R, T, −, Δ}",
-2439,conic section,"{A, C, B, E, D, F, +, y, x, =}",
-2440,conical surface,"{a, c, b, +, −, y, x, z, =}",
-2441,conifold,"{−, +, z, =, ψ}",
-2442,connection,"{C, H, T, −, =, η}",
-2443,conservation of angular momentum,"{c, i, L, o, n, →, s, t, ∑, =}",
-2444,conserved current,"{Q, ∂, =, t}",
-2445,conserved quantity,"{H, =, t, d}",
-2446,consistent numerical method,"{g, F, ), (, ,, n, →, x, =}",
-2447,constant-recursive sequence,"{c, d, ), (, +, ⋯, n, s, −, =}",
-2448,context-free grammar,"{∈, G, ⇒, ), (, Σ, L, S, w, }, {, =, ∗}",
-2449,continued fraction,"{a, None, b, +, ⋱}",
-2450,continuum hypothesis,"{ℵ, S, <, |}",
-2451,convection–diffusion equation,"{⋅, c, D, ), (, +, ∂, ∇, →, R, t, v, −, =}",
-2452,convergent numerical method,"{∈, ∀, ∃, −, ), lim, +, ∥, ,, ⇒, :, =, <, >, F, N, δ, ε, g, l, n, (, x, {, }}",
-2453,convex lattice polytope,"{c, ), (, ,, o, n, v, {, }}",
-2454,convex set,"{∈, k, ,, S, λ, u, ∑, r, =}",
-2455,copositive matrix,"{A, x, ≥, T}",
-2456,core,"{∈, C, e, ⋂, ), H, s, o, S, r, (, −, =}",
-2457,correlation function,"{d, G, ), (, +, r, ≈, exp, ⁡, −, ξ, η}",
-2458,cosecant,{cosec},
-2459,cosine,{cos},
-2460,cosmic distance ladder,"{⋅, log, M, m, ⁡, −, =, D}",
-2461,covariance,"{C, E, ), ], ,, o, (, v, Y, X, [, −, =}",
-2462,coversine,"{), (, θ, coversin, ⁡, −, =, sin}",
-2463,creep,"{C, b, e, d, m, k, σ, Q, T, −, =, ε, t}",
-2464,cross product,"{a, b, ‖, ), (, =, n, θ, ⁡, ×, sin}",
-2465,cross section,"{=, j, σ, d, N}",
-2466,crossed module,"{d, G, H, ,, :, ⟶}",
-2467,crossing number,"{), (, K, m, ,, n, ⌋, ⌊, −, ≤}",
-2468,cubic Hermite spline,"{), (, +, m, p, t, −, =}",
-2469,cubic function,"{a, ∈, c, b, d, f, ), (, +, ,, R, x, =}",
-2470,cumulative distribution function,"{x, F, ), (, ≤, P, ⁡, X, =}",
-2471,curve of constant width,"{A, C, +, L, π, =, |, ~}",
-2472,curved mirror,"{d, f, i, +, o, =}",
-2473,cycle graph,"{C, n}",
-2474,cyclic homology,"{A, Ω, C, ⨁, d, i, H, ≥, ≃, /, n, ), ⊕, R, (, V, −, D}",
-2475,cyclic quadrilateral,"{=, +, π, ∘, α, β, γ, δ}",
-2476,dagger compact category,"{A, †, σ, ,, ∘, =, ε, ∗, η}",
-2477,damping coefficient,"{=, τ, δ}",
-2478,damping ratio,"{=, ζ}",
-2479,de Moivre's formula,"{cos, i, (, +, n, ), ⁡, x, =, sin}",
-2480,decay energy,"{Q, (, ), =, −}",
-2481,deci,{−},
-2482,decimal representation,"{a, i, r, ∞, ∑, =}",
-2483,deformation,"{E, =, σ, ε}",
-2484,degree of freedom,"{+, =, N}",
-2485,delayed neutron,"{∫, E, d, F, ), (, ], ,, Q, P, s, r, T, exp, ⁡, None, [, −, =, |, t}",
-2486,delta-functor,"{→, ′, M}",
-2487,dense graph,"{E, ≫, ), (, V, −, =, |, D}",
-2488,dense set,"{a, A, ¯, ∈, ∀, ≥, }, n, ∪, lim, {, =, ,}",
-2489,density,"{=, m, ρ, V}",
-2490,depth,"{dim, e, d, ), h, ≤, M, p, t, ⁡, (}",
-2491,derivative,"{a, ′, f, ), lim, +, =, →, (, x, −, Δ, |}",
-2492,derived category,"{A, H, +, Q, X, −, =}",
-2493,determinant,"{A, a, ∏, ∈, i, det, ⁡, σ, ,, n, ), S, (, sgn, ∑, =}",
-2494,dew point,"{a, b, ), H, ,, p, R, T, (, −, γ, =}",
-2495,diagonalizable matrix,"{A, ∈, :, D, ), (, ∃, n, S, ⁡, −, GL, =, K}",
-2496,dielectric loss,"{″, ′, j, −, =, ε}",
-2497,differential,"{y, x, =, d}",
-2498,differintegral,"{q, D, f}",
-2499,digamma function,"{′, d, ψ, ln, (, ), ⁡, x, Γ, =}",
-2500,digital filter,"{A, a, B, ), H, +, ⋯, M, N, b, (, −, z, =}",
-2501,dihedral group,"{i, +, j, ,, s, r, −, =}",
-2502,dilation,"{A, ∈, B, ⋃, ⊕, b, =}",
-2503,direct product,"{g, h, ⋯, ,, n, [, ]}",
-2504,direct sum,"{⊕, W, V}",
-2505,directivity,"{D, ), (, ,, /, π, θ, P, U, ϕ, =}",
-2506,discrete valuation ring,"{), (, ν, y, x, −, =, |}",
-2507,dispersion,"{c, v, =, n}",
-2508,distance,"{d, ), =, +, (, y, x, z, Δ}",
-2509,distance geometry,"{⊗, −, w, v}",
-2510,distributive property,"{), (, +, y, x, z, =, ∗}",
-2511,divergence,"{⁡, ⋅, F, ), (, ∂, ,, ∇, n, …, x, div, =}",
-2512,divisible group,"{G, ), (, /, ⊕, r, o, =, T}",
-2513,divisor,"{a, b, |}",
-2514,divisor set,"{∈, :, d, =, ∣, n, T, {, N, }}",
-2515,dodecagonal number,"{−, ;, >, n}",
-2516,dominical letter,"{c, ×, ), (, +, y, =, mod}",
-2517,double Mersenne number,"{a, e, d, i, M, m, ,, n, p, s, r, −, =}",
-2518,double factorial,"{!, ∏, ), (, k, n, ⌉, ⌈, −, =}",
-2519,drag equation,"{A, C, D, F, ρ, v, =}",
-2520,dragon curve,"{f, i, (, +, ), z, =}",
-2521,drift velocity,"{μ, u, =, E}",
-2522,drop,"{γ, π, =, d, F}",
-2523,dynamic pressure,"{q, =, u, ρ}",
-2524,e,"{e, ), (, +, ∞, n, →, lim, =}",
-2525,eccentricity vector,"{⋅, e, ), ], r, μ, (, v, [, −, =, |}",
-2526,effect size,"{S, =, η}",
-2527,effective potential,"{E, ≤, U}",
-2528,effective radius,"{−, log, ), (, +, O, π, T, ⁡, N, =}",
-2529,efficiency gap,"{A, B, E, G, o, t, w, v, −, =}",
-2530,efficient energy use,"{a, c, B, E, d, g, i, m, l, o, n, s, r, u, t, y, e}",
-2531,eigenvectors and eigenvalues,"{:, λ, T, ↦, v}",
-2532,elastic energy,"{U, k, =, Δ, x}",
-2533,elastic modulus,"{λ, =}",
-2534,electric dipole moment,"{q, p, =, d}",
-2535,electric potential energy,"{⋅, ∫, E, d, f, q, s, r, U, e, −, =}",
-2536,electric power,"{I, P, R, U, =}",
-2537,electric susceptibility,"{χ, P, =, E, ε}",
-2538,electrical conductance,"{I, R, =, G, V}",
-2539,electrical reactance,"{C, ω, f, π, X, −, =}",
-2540,electrical resistance,"{I, R, =, V}",
-2541,electro-osmosis,"{=, U, ∇, ⋅}",
-2542,electromagnet,"{A, C, F, I, l, /, n, =}",
-2543,electromotive force,"{A, ⋅, c, B, E, d, ∫, s, ℓ, −, =}",
-2544,electron,"{λ, v, =, f}",
-2545,electron acceptor,"{A, E, I, =, −, Δ}",
-2546,electron density,"{), (, ρ, P, r, μ, ν, ∑, ϕ, =}",
-2547,electronvolt,"{⋅, c, ×, ), (, /, −, =}",
-2548,electropermanent magnet,"{A, ⋅, C, −, F, i, H, M, l, o, L, N, =}",
-2549,electrostatic force microscope,"{a, c, e, F, i, =, ∂, l, o, s, r, t, V, C, z, Δ}",
-2550,ellipse,"{a, b, ), (, +, y, x, =}",
-2551,ellipsoid,"{a, c, b, +, y, x, z, =}",
-2552,elliptic cone,"{a, c, b, +, −, y, x, z, =}",
-2553,elliptic cylinder,"{a, b, +, y, x, =}",
-2554,elliptic differential equation,"{A, C, B, E, D, G, F, +, ,, u, y, x, =}",
-2555,elliptic function,"{∈, −, ω, ), (, +, }, Λ, ∑, {, z, =, ℘, ∖}",
-2556,elliptic hyperboloid of one sheet,"{a, c, b, +, −, y, x, z, =}",
-2557,elliptic hyperboloid of two sheets,"{a, c, b, +, −, y, x, z, =}",
-2558,elliptic orbit,"{ϵ, <}",
-2559,elliptic paraboloid,"{a, b, +, −, y, x, z, =}",
-2560,elliptic rational function,"{c, −, d, ), (, K, L, /, n, R, ξ, x, ≡, ,}",
-2561,empty product,"{a, ∏, i, ⋯, m, P, =}",
-2562,endergonic reaction,"{∘, Δ, G, >}",
-2563,energy efficiency,"{Q, A, =, η}",
-2564,entire function,"{a, f, ), (, n, ∞, ∑, z, =}",
-2565,entropy,"{∫, δ, Q, S, T, =}",
-2566,epicycloid,"{cos, ), (, +, θ, r, ⁡, x, R, −, =}",
-2567,equaliser,"{∈, E, g, f, ), }, ∣, ,, q, (, X, x, {, =}",
-2568,equation of exchange,"{⋅, M, Q, P, V, =}",
-2569,equivalence relation,"{!, B, e, k, n, ∞, ∑, =}",
-2570,error function,"{∫, e, d, π, erf, t, x, −, =}",
-2571,estimator,"{e, ), (, θ, x, −, =, ^}",
-2572,etale cohomology,"{), →, Γ, (, F}",
-2573,eutectic,"{α, β, +, →}",
-2574,evolute,"{E, ), (, +, s, N, κ, R, γ, =}",
-2575,excosecant,"{excsc, ), (, csc, θ, ⁡, −, =}",
-2576,expansive homeomorphism,"{ε, >}",
-2577,expected value,"{x, E, =, k, ⋯, p, ⁡, X, [, ], +}",
-2578,expenditure function,"{A, ∉, None, ∈, ), (, =, ,, ., x, {, δ, ;}",
-2579,exponential family,"{A, ⋅, f, ), h, ∣, ⁡, θ, T, exp, X, (, x, −, =, η}",
-2580,exponential function,"{b, f, ), (, x, =}",
-2581,exponential growth,"{), (, +, r, t, x, =}",
-2582,exposure,"{H, =, E, t, e}",
-2583,exsecant,"{), (, θ, exsec, sec, ⁡, −, =}",
-2584,extensive function,"{A, a, f, ), (, ≤, ∈, ,, ∀}",
-2585,exterior derivative,"{d, g, i, φ, k, ⋯, ∧, I, x, =}",
-2586,factorial,"{!, k, =, ∏, n}",
-2587,femto,{−},
-2588,ferromagnetism,"{a, c, ), ×, ±, (, −, =}",
-2589,fiber bundle,"{→, :, B, E, π}",
-2590,figure-eight knot,"{cos, ), (, +, t, ⁡, y, x, z, =, sin}",
-2591,filling radius,"{a, C, d, F, i, (, l, ), R, =, ⊂}",
-2592,filter,"{H, B, μ, =}",
-2593,financial independence,"{⋅, −, =}",
-2594,fine-structure constant,"{c, e, ℏ, ε, π, R, μ, α, Z, =, k}",
-2595,finite difference method,"{None, ′, ≈, f, ), h, +, =, n, →, R, (, x, −, Δ, |}",
-2596,finitely generated abelian group,"{⋯, n, q, ⊕, t, Z}",
-2597,first law of thermodynamics,"{Δ, Q, U, W, −, =}",
-2598,fixed-rate mortgage,"{c, ), (, +, N, P, r, −, =}",
-2599,flag,"{⊂, =, k, ⋯, V, {, }}",
-2600,flattening,"{a, b, =, −, f}",
-2601,flip and flop,"{f, ), (, K, m, O, ⊕, X, ∗}",
-2602,fluctuation-dissipation theorem,"{B, D, k, μ, T, =}",
-2603,folding,"{D, F, ), (, +, →, −, =}",
-2604,folk psychology,"{), E, ∏, i, (, k, ,, P, s, =}",
-2605,force,"{a, d, F, m, →, p, t, =}",
-2606,force of infection,"{=, λ, ×}",
-2607,forcing,"{=, ,, V, }, {, ×, ∗}",
-2608,fossil-fuel power station,"{c, h, T, −, =, η}",
-2609,four-momentum,"{c, E, →, /, p, μ, y, x, z, =}",
-2610,four-vector,"{), X, =, ,, (}",
-2611,fractal dimension,"{D, ), (, ⁡, N, →, lim, ϵ, =, log}",
-2612,fracture,"{a, c, E, i, h, σ, l, o, r, t, e, γ, =}",
-2613,free fall,"{g, ), (, +, t, v, −, =}",
-2614,free group,"{a, c, b, −}",
-2615,frequency,"{=, T, f}",
-2616,frequency mixer,"{e, D, I, (, k, n, q, ), S, T, V, −, =}",
-2617,frequency modulation,"{A, c, d, f, ), (, τ, cos, π, ∫, t, ⁡, y, =}",
-2618,frequency multiplier,"{A, f, ), (, π, t, ⁡, x, =, sin}",
-2619,function,"{Y, X, →, :, f}",
-2620,function composition,"{∘, C, =, g, f}",
-2621,function series,"{f, ), (, n, ∞, ∑, x, =}",
-2622,functional equation,"{A, C, ), (, Φ, →, X}",
-2623,fundamental group,"{f, ), (, ], }, ,, →, X, x, [, =, {}",
-2624,fundamental matrix,"{A, ), (, t, x, ˙, =}",
-2625,fundamental theorem of linear programming,"{∈, c, min, P, T, x}",
-2626,galvanostat,"{I, =, R, U}",
-2627,gamma function,"{∫, Γ, e, d, ), (, ⁡, t, ∞, −, z, =}",
-2628,gas,"{n, P, R, T, V, =}",
-2629,gas constant,"{c, e, P, i, f, m, n, p, s, R, T, V, =}",
-2630,gas law,"{,, o, P, r, ∝, V}",
-2631,gauge,"{d, ), (, n, π, =}",
-2632,gauge anomaly,"{F, =, ,, δ, ϵ, ], [}",
-2633,gear ratio,"{A, B, ω, M, N, r, v, =}",
-2634,general Dirichlet series,"{a, e, n, s, λ, ∞, ∑, −, =}",
-2635,general linear group,"{A, ∈, ), }, K, =, det, ≠, n, (, ⁡, {, GL, ×, |}",
-2636,generalized mean,"{), i, (, M, ,, n, p, …, ∑, x, =}",
-2637,generating function,"{a, G, ), (, n, ∞, ∑, x, ;, =}",
-2638,genome size,"{×, =}",
-2639,geometric distribution,"{Pr, ), (, k, p, X, −, =}",
-2640,geometric lattice,"{∨, ), (, +, ≥, ∧, r, y, x}",
-2641,geometric mean,"{∏, i, (, ⋯, n, ), x, =}",
-2642,geopotential,"{C, ), (, W, −, =}",
-2643,global-warming potential,"{∑, ), (, /, =, A, ⋅, F, R, a, b, e, d, g, i, h, l, n, p, s, t, y}",
-2644,golden ratio,"{φ, +, =}",
-2645,graded Lie algebra,"{∈, ), g, i, (, ⨁, Z, =}",
-2646,graded vector space,"{∈, ⨁, n, V, N, =}",
-2647,gradient descent,"{a, b, F, ), (, ∇, −, γ, =}",
-2648,granny knot,"{), Δ, +, t, (, −, =}",
-2649,granulometry,"{B, ⏟, k, ⊕, …, =}",
-2650,graph isomorphism,"{G, f, ), H, →, (, V, :}",
-2651,gravitational lensing,"{c, G, M, θ, r, =}",
-2652,gray,"{G, g, k, J, m, s, y, =}",
-2653,grill,"{!, =, ,}",
-2654,group,"{), (, ∗, ,, G}",
-2655,groupoid,"{G, ), (, ,, y, x, −, ∗}",
-2656,half-space,"{a, b, +, ⋯, n, x, >}",
-2657,halved cube graph,"{Q, −, =, n}",
-2658,happy number,"{>, −, m, ≥, n}",
-2659,harmonic mean,"{i, H, +, ⋯, n, ), (, ∑, x, −, =}",
-2660,harmonic series,"{∑, n, =, ∞}",
-2661,harshad number,"{A, a, i, m, ∑, X, −, =}",
-2662,hash chain,"{), x, h, (, n}",
-2663,haversine,"{cos, ), (, θ, ⁡, haversin, −, =}",
-2664,heat equation,"{∂, ∇, u, t, α, −, =}",
-2665,helicoid,"{cos, ), (, ⁡, None, u, v, y, x, {, z, =, sin}",
-2666,helium atom,"{∇, ∑, ϵ, −, ), (, +, ,, π, =, ⋅, H, M, μ, [, Z, ], e, i, ℏ, →, r}",
-2667,heptagonal pyramidal number,"{), (, +, −, n}",
-2668,high-leg delta,"{∈, ), ∀, ,, S, x, (, α, =}",
-2669,hippopede,"{c, d, ), (, +, m, y, x, −, =}",
-2670,history of logarithms,"{cos, ), ], +, ⁡, (, α, β, −, =, [}",
-2671,holomorphic function,"{z, f, ), (, →, ′, lim, −, =}",
-2672,homogeneous polynomial,"{d, ), (, ,, n, P, λ, …, x, =}",
-2673,homogeneous space,"{A, C, G, ), (, ρ, →, u, t, X}",
-2674,homography,"{a, ∫, b, d, ), φ, K, ,, λ, (, y, x, −, =}",
-2675,homomorphism,"{i, k, m, n, ∑, =}",
-2676,horn antenna,"{a, E, H, L, λ, =}",
-2677,hydraulic radius,"{A, h, R, =, P}",
-2678,hydrogen spectral series,"{−, ), (, n, λ, R, z, =, ′}",
-2679,hyperbolic arccosine,"{arcosh, ln, (, +, ), ⁡, x, −, =}",
-2680,hyperbolic arctangent,"{ln, (, +, ,, <, ), ⁡, artanh, x, −, =, |}",
-2681,hyperbolic cosecant,"{e, sinh, x, −, =, cosech}",
-2682,hyperbolic cosine,"{e, ), (, +, cosh, ⁡, x, −, =}",
-2683,hyperbolic cotangent,"{e, ), =, +, cosh, (, sinh, ⁡, x, −, ctgh}",
-2684,hyperbolic cylinder,"{a, b, y, x, −, =}",
-2685,hyperbolic geometry,"{⁡, R, r, sinh, π}",
-2686,hyperbolic motion,"{c, d, ), (, /, u, t, α, −, =}",
-2687,hyperbolic paraboloid,"{a, b, z, y, x, −, =}",
-2688,hyperbolic secant,"{e, sech, +, cosh, x, −, =}",
-2689,hyperbolic sine,"{e, ), (, sinh, ⁡, x, −, =}",
-2690,hyperbolic tangent,"{e, tanh, ), (, +, cosh, sinh, ⁡, x, −, =}",
-2691,hyperboloid,"{a, c, b, +, −, y, x, z, =, ±}",
-2692,hyperboloid model,"{), (, ,, n, Q, …, x, −, =}",
-2693,hypercharge,"{C, B, +, S, ′, T, Y, =}",
-2694,hypercone,"{−, +, w, y, x, z, =}",
-2695,hyperfactorial,"{∏, ), H, k, n, (, =}",
-2696,hyperfocal distance,"{c, f, H, +, N, =}",
-2697,hypergeometric function,"{a, !, c, Γ, F, ), (, k, ,, b, ∞, ∑, ;, z, =, +}",
-2698,hyperoperation,"{a, b, ⏟, ), =, ≥, m, ,, ↑, …, (, [, −, ]}",
-2699,hyperplane,"{∈, ∣, H, +, ⋯, ,, n, p, s, R, u, =, …, x, ;, −, }, {}",
-2700,hyperreal number,"{+, ⋯, >}",
-2701,icosahedral number,"{), (, +, −, n}",
-2702,ideal gas,"{n, P, R, T, V, =}",
-2703,ideal gas law,"{n, P, R, T, V, =}",
-2704,idempotent function,"{∘, =, f}",
-2705,idempotent matrix,"{A, ⋅, =}",
-2706,image,"{A, ∈, B, f, ), (, ∃, ,, /, →, ⇔, y, x, :, =}",
-2707,impedance of free space,"{=, c, Z, μ}",
-2708,impedance parameters,"{I, Z, =, V}",
-2709,incidence algebra,"{a, b, g, f, ), (, ≤, ,, ∑, x, =, ∗}",
-2710,incidence geometry,"{), (, +, m, O, n}",
-2711,inclusion,{⊆},
-2712,inclusion map,"{A, B, →, ), (, ,, ι, x, =}",
-2713,incompressible flow,"{i, →, =, d, v}",
-2714,indicated airspeed,"{a, A, C, ), ], +, c, q, P, S, (, [, −, =}",
-2715,inductance,"{d, i, (, L, ), t, v, =}",
-2716,induction motors modelling in ABC frame of reference,"{A, e, d, i, φ, +, r, t, =}",
-2717,infinite alleles model,"{e, F, +, N, u, =}",
-2718,information flow,"{⊢, h, ], l, o, w, [, =}",
-2719,input-output model,"{a, b, ), i, (, +, n, ∑, −, y, x, ., =}",
-2720,inradius,"{A, p, r, =}",
-2721,inseparable differential equation,"{d, ), (, +, q, p, y, x, =}",
-2722,integer function,"{→, X, Z, :, f}",
-2723,integral equation,"{a, ∫, b, d, f, ), φ, K, ,, t, (, x, =}",
-2724,intensive function,"{A, ∈, f, ), ∀, ≤, ,, a, (}",
-2725,interaction,"{a, c, b, +, Y, x, =}",
-2726,interior point method,"{c, B, log, f, i, (, m, ,, ), μ, ⁡, ∑, x, −, =}",
-2727,intermodulation,"{a, c, b, f, ), (, +, M, π, t, ⁡, x, ϕ, =, sin}",
-2728,interquartile range,"{Q, ), −, =, (}",
-2729,intertemporal choice,"{), (, C, U, ,}",
-2730,interval,"{⋅, log, f, ), (, n, ⁡, =}",
-2731,intransitive relation,"{a, c, b, ¬, ∀, ,, ∧, ), ⇒, R, (}",
-2732,inverse Laplace transform,"{F, ), (, f, L, s, t, =, {, }}",
-2733,inverse distance weighting,"{None, d, i, (, ,, ≠, N, ), u, w, ∑, x, {, =}",
-2734,inverse function,"{y, x, =}",
-2735,inverse matrix,"{A, =, −, E}",
-2736,invertible matrix,"{A, e, t, ≠, d}",
-2737,involutory matrix,"{I, A, =}",
-2738,ion transport number,"{i, I, =, t, o}",
-2739,ionic product of water,"{⋅, ], K, [, −, =, +}",
-2740,irreducible fraction,"{), (, ,, q, p, =}",
-2741,isogonal conjugate,"{a, c, b, :, −, y, x, z, ⟶}",
-2742,isotomic conjugate,"{a, c, b, :, −, y, x, z, ⟶}",
-2743,iterative deepening depth-first search,"{b, d, ), (, +, ⋯, −}",
-2744,j-invariant,"{e, i, (, j, ,, π, ), =}",
-2745,jounce,"{a, d, ȷ, →, s, r, t, v, =}",
-2746,kinetic theory,"{), f, i, =, m, ,, p, (, v, x, −, Δ}",
-2747,laser diode rate equations,"{−, e, d, G, I, τ, M, N, P, μ, t, V, ∑, n, =}",
-2748,law of sines,"{A, a, c, B, ), (, C, b, ⁡, =, sin}",
-2749,leaky bucket,"{=, +, τ, M, T, ⌋, ⌊, −, δ}",
-2750,lemniscate of Bernoulli,"{c, ), φ, +, cos, ρ, (, ⁡, y, x, −, =}",
-2751,lens,"{d, f, ), (, +, ], n, R, [, −, =}",
-2752,level,"{log, ), (, L, Q, r, =}",
-2753,level of a field quantity,"{ln, ⁡, =, L, F}",
-2754,level of a power quantity,"{ln, l, n, P, ⁡, =, L}",
-2755,limit,"{∈, ∏, ∀, ∃, ∞, ϵ, −, lim, ), ⇉, ,, :, =, <, >, F, H, J, L, O, ⟺, c, b, d, f, i, m, o, n, →, s, t, (, x, |}",
-2756,limit set,"{∈, ¯, ⋂, ω, f, ), (, k, =, ,, N, x, {, n, }, >}",
-2757,linear energy transfer,"{x, =, Δ, L, E}",
-2758,linear equation,"{b, +, m, y, x, =}",
-2759,liquid bubble,"{f, ρ, π, p, R, γ, =}",
-2760,load transfer,"{a, e, w, g, f, i, h, =, m, o, n, r, t, W, Δ}",
-2761,local parameter,"{∈, ;, d, f, ), max, …, m, ,, P, (, =, ⁡, ord, }, {}",
-2762,local quantum field theory,"{A, ∪, i, (, ,, ), U, V}",
-2763,logarithmic decrement,"{=, Λ, δ, T}",
-2764,logarithmic derivative,"{′, f}",
-2765,logarithmically concave function,"{⋅, ×, ), (, =, x, [, −, ]}",
-2766,logic equality,"{), (, /, q, p, u, ⌋, ⌊, ∑, −, =}",
-2767,logical equivalence,"{q, p, ⟺}",
-2768,logistic function,"{e, f, ), (, k, L, x, −, =, +}",
-2769,logistic map,"{), (, +, n, r, x, −, =}",
-2770,loss function,"{a, Θ, ∫, d, ), (, L, ρ, π, θ, ⁡, =, ,, ∗}",
-2771,luminiferous aether,"{c, ), (, +, n, v, −}",
-2772,luminosity function,"{⋅, ∫, ¯, e, d, ), (, v, m, l, Φ, ,, λ, /, W, ∞, y, =}",
-2773,lumped element model,"{∂, ϕ, B, =, t}",
-2774,magma,"{), (, M, ,, =, ∗}",
-2775,magnet,"{A, =, B, μ, F}",
-2776,magnetic energy,"{⋅, B, E, m, ,, p, −, =}",
-2777,magnetic flux,"{⋅, B, ∬, Σ, Φ, S, =}",
-2778,magnetic induction,"{→, B}",
-2779,magnetic levitation,"{a, B, g, m, P, μ, =}",
-2780,magnetic moment,"{τ, B, μ, =, ×}",
-2781,magnetomotive force,"{R, =, Φ, F}",
-2782,magnification,"{A, e, d, f, M, o, ⁡, tan, −, =, ε}",
-2783,magnitude,"{d, ), m, M, (, ⁡, −, =, log}",
-2784,margin of error,"{≈, ), (, n, p, −}",
-2785,marginalism,"{), =, S, U, (, −, Δ}",
-2786,mass index,"{A, a, ), E, g, f, i, h, ], M, s, o, l, m, S, u, w, (, [, −, =}",
-2787,mass matrix,"{q, =, ˙, M, T}",
-2788,mass–energy equivalence,"{m, c, =, E}",
-2789,matching,"{A, ≤, B, |, ∖}",
-2790,mathematical principles of reinforcement,"{b, e, ), (, τ, t, =, −, ×}",
-2791,matrix,"{A, a, ⋯, ∈, i, =, K, j, m, n, ), (, ×, ⋮}",
-2792,matrix function,"{!, ⋅, ″, ′, f, ), (, +, ⋯, x, =}",
-2793,matrix polynomial,"{A, a, ), P, I, (, +, ⋯, n, i, ∑, =}",
-2794,matrix space,"{a, ∈, ×, i, (, K, j, m, ,, n, ), …, }, {, =, ∣}",
-2795,maximal or minimal element,"{∈, B, ⪯, ⟹, y, x}",
-2796,mean absolute difference,"{E, D, =, M, Y, X, [, −, ], |}",
-2797,mean anomaly,"{∘, n, =, T, π}",
-2798,mean squared error,"{), i, (, n, ∑, Y, MSE, −, =, ^}",
-2799,mean value theorem,"{a, b, f, ), (, ′, ξ, −, =}",
-2800,measurable function,"{∈, E, f, ), ∀, Σ, ,, }, T, x, (, X, {, −, =, |}",
-2801,measurable space,"{A, Ω, ), ,, (}",
-2802,measure,"{E, ⋃, ), (, k, ≥, ∅, ,, μ, ∞, ∑, =}",
-2803,mechanical advantage,"{A, E, F, M, L, =}",
-2804,median,"{), (, ≤, ≥, m, P, ⁡, X}",
-2805,median absolute deviation,"{f, i, ≥, N, ∘, T, sup, ∑, −, =, ∗}",
-2806,mediant,"{a, c, b, d}",
-2807,melting,"{c, d, g, f, ln, H, +, ⁡, ), S, R, T, (, −, =}",
-2808,membrane potential,"{E, F, ln, =, K, ,, o, q, i, R, T, ⁡, e, [, z, ], +}",
-2809,meridian arc,"{a, ∫, e, d, ), φ, ⁡, M, m, (, −, =, sin}",
-2810,metabolic engineering,"{G, ), (, m, V, x, −, =, ∗}",
-2811,metric,"{d, ), ,, →, ∞, X, [, ×}",
-2812,metric map,"{d, f, ), (, ≤, ,, ., Y, x, y, X}",
-2813,metric signature,"{), (, −, ,}",
-2814,micro,{−},
-2815,microclimate,"{A, ⋅, B, ), (, O, Λ, =, |}",
-2816,milli,{−},
-2817,mixing,"{A, ∈, B, ), (, +, sup, ,, ∩, ≡, <, P, s, t, α, ∞, X, {, −, }, |}",
-2818,mixture model,"{A, C, ], ⋮, O, n, [, −, =}",
-2819,modern portfolio theory,"{), E, i, (, p, R, w, ⁡, ∑, =}",
-2820,modified Allan variance,"{⟨, ⟩, i, (, +, τ, σ, n, ), =, ⁡, y, x, [, −, ], ∑, mod}",
-2821,modular exponentiation,"{a, e, i, n, ∑, −, =}",
-2822,modus ponens,"{⊢, →, ,, Q, P, ∴}",
-2823,molality,"{b, e, m, l, o, n, s, u, t, v, =}",
-2824,molar conductivity,"{=, κ, Λ, m, c}",
-2825,molar mass,"{i, ¯, M, ∑, x, =}",
-2826,moment of inertia,"{∫, d, I, M, m, n, r, ∑, =}",
-2827,momentum,"{p, =, m, v}",
-2828,money multiplier,"{a, C, e, d, i, (, +, m, c, o, n, ), s, r, u, t, v, y, R, =, D}",
-2829,monic polynomial,"{c, +, ⋯, n, x, −}",
-2830,monochromatic electromagnetic plane wave,"{C, d, ω, ), (, +, v, ,, q, s, u, ∞, y, x, −, =, <}",
-2831,monodomain model,"{⋅, C, Σ, I, ), i, (, +, ∂, m, ∇, χ, λ, t, v, =}",
-2832,monoid,"{e, ), (, M, ,, ∗}",
-2833,monoidal monad,"{C, ), I, (, ,, ⊗, →, T}",
-2834,monomial basis,"{a, d, i, ,, …, ∑, x, =}",
-2835,motivation,"{a, i, M, o, n, t, v, =}",
-2836,movable cellular automaton,"{C, ), d, ψ, i, h, k, j, m, l, ≠, ,, p, t, (, ∑, α, =, +}",
-2837,multilinear form,"{f, K, n, →, V, :}",
-2838,multiset,"{A, ), m, M, ,, N, →, (, ;, :, =}",
-2839,n-tuple,"{a, ), (, ,, n, …, −, =}",
-2840,nano,{−},
-2841,natural exponential function,"{e, f, ), (, exp, ⁡, x, =}",
-2842,natural logarithm,"{e, log, ln, (, ,, ), ⁡, x, =, >}",
-2843,natural logarithm of 2,"{ln, ), (, ≈, ⁡}",
-2844,natural number object,"{A, q, →, f}",
-2845,negative base,"{a, d, i, (, n, ), r, ∑, −, =}",
-2846,negative pedal curve,"{′, ), (, ], ,, X, y, x, [, −, =}",
-2847,negative temperature,"{c, ), (, K, m, ,, /, n, r, ⌋, ⌊, −, =}",
-2848,neper,"{ln, =, e, ⁡}",
-2849,network analysis,"{a, c, b, +, R, =}",
-2850,noise,"{∈, ;, −, ), (, +, ¯, ], Q, Re, R, ⁡, x, [, z, =, |}",
-2851,noise temperature,"{A, G, F, /, λ, T, =}",
-2852,non-empty set,"{∅, M, ≠}",
-2853,non-equilibrium thermodynamics,"{E, I, ∂, /, i, S, =}",
-2854,non-positive real number,"{−, R}",
-2855,noncentral F-distribution,"{a, ), (, n, q, S, ∞, ∑, −, =}",
-2856,noncommutative projective geometry,"{⟨, ⟩, ), (, k, ,, /, q, y, x, −}",
-2857,normal distribution,"{−, e, f, ), (, σ, ,, π, μ, x, N, =, |}",
-2858,normal matrix,"{A, =, ∗}",
-2859,normal mode,"{A, ∈, B, d, ), max, ,, (, y, x, {, }}",
-2860,nth root,"{x, ⇒, r, =, n}",
-2861,nuclear thermal rocket,"{⁡, e, ln, =, v, m, V, Δ}",
-2862,null set,"{A, ⊂, ⋃, ), ∀, ∃, ∧, n, <, U, (, ∞, ∑, {, ϵ, }, |, >}",
-2863,nullor,"{Ω, ), lim, k, m, L, →, R, u, (, ∞, ;, =}",
-2864,number density,"{N, n, =, V}",
-2865,number of divisors,"{a, ∏, i, (, +, τ, σ, n, ), r, ≡, =}",
-2866,numerical differentiation,"{f, ), h, +, (, x, −}",
-2867,numerical method,"{∈, g, F, ), }, ,, n, →, ., (, x, {, N, =}",
-2868,odds,"{logit, log, ), (, p, ⁡, −, =}",
-2869,one-form,"{M, ,, →, R, T, α, x, =, |}",
-2870,online machine learning,"{∫, ), E, d, f, I, (, ], ,, p, V, y, x, [, =}",
-2871,opacity,"{e, I, (, ρ, ), κ, ν, x, −, =}",
-2872,open interval from 0 to π,"{), (, ,, π}",
-2873,operating temperature,"{a, j, D, ×, +, J, P, R, T, =}",
-2874,ophiurid,"{a, b, ), (, +, y, x, −, =}",
-2875,optical aberration,"{cos, ′, ), (, ⁡, c, /, θ, u, v, y, x, ϕ, −, =, sin, tan}",
-2876,orbit,"{A, G, m, r, −, =}",
-2877,orbital eccentricity,"{e, +, m, L, α, E, =}",
-2878,orbital period,"{a, =, μ, T, π}",
-2879,ordered pair,"{a, b, ), }, ,, ⇔, (, {, =}",
-2880,orientation,"{e, ω, ), (, =, m, /, π, p, n, ×}",
-2881,orthocentre,"{A, cos, B, ), (, C, S, ⁡, :}",
-2882,orthocentric system,"{A, C, B, H, +, R, =}",
-2883,orthogonal group,"{A, ∈, I, =, K, ⁡, }, O, n, ), T, (, {, ×, |}",
-2884,orthogonal matrix,"{Q, I, =, T}",
-2885,orthogonal transformation,"{⟨, ⟩, ,, u, T, v, =}",
-2886,orthographic projection,"{b, e, d, l, ,, T, w, ϵ, −, =}",
-2887,outer automorphism group,"{), (, λ, v, ϕ, −, ∗}",
-2888,oxygen balance,"{−, ×, %, ), (, +, /, ., =, B, M, O, Y, X, Z, c, d, f, m, l, o, n, p, u, t, w}",
-2889,pH,"{log, ], +, ⁡, [, −, =}",
-2890,pOH,"{K, −, =}",
-2891,pairing,"{e, ), (, m, ,, n, r, =}",
-2892,parabolic cylinder,"{a, +, y, x, z, =}",
-2893,parabolic differential equation,"{A, C, B, E, D, F, +, None, u, y, x, {, −, =}",
-2894,parabolic fractal distribution,"{c, b, log, f, ), (, ,, n, ∝, exp, ⁡, ;, −}",
-2895,parabolic trajectory,"{ϵ, =}",
-2896,paraboloid,"{a, c, b, +, y, x, z, =}",
-2897,parallelogram law,"{A, C, B, D, ), (, +, =}",
-2898,parasitic drag,"{A, a, C, D, g, F, q, s, r, =, d}",
-2899,parimutuel betting,"{i, n, T, W, ∑, =}",
-2900,partial fraction decomposition,"{), x, (, g, f}",
-2901,partial function,"{:, Z, g, →}",
-2902,particle decay,"{−, e, ), (, τ, /, P, t, γ, =}",
-2903,particle size,"{V, =, D, π}",
-2904,pascal,"{a, ⋅, g, k, m, N, P, s, =}",
-2905,path integral formulation,"{), H, +, L, q, p, t, (, ϵ, −, =}",
-2906,pentagonal number,"{−, n}",
-2907,percentile rank,"{%, f, i, +, N, ℓ, ×}",
-2908,periodic function,"{f, ), (, +, T, x, =}",
-2909,permutation,"{σ, ,, n, →, …, {, :, }}",
-2910,phase-shift keying,"{∫, ≥, e, d, ), (, ⁡, ,, /, π, Q, erfc, t, ∞, x, −, =}",
-2911,pico,{−},
-2912,plane,"{⋅, ), (, n, r, −, =}",
-2913,plane wave,"{A, ⋅, c, f, ), (, ,, n, →, t, x, −, =}",
-2914,plastic number,"{+, −, =, ρ}",
-2915,platonic solid,"{E, F, q, p, V, =}",
-2916,point process,"{B, ↦, ), (, +, N, →, :, Z, ϱ}",
-2917,point reflection,"{a, e, f, ), (, p, R, −, =}",
-2918,pointed set,"{f, ), (, ,, →, Y, X, y, x}",
-2919,polar set,"{A, ⟨, ∘, }, ≤, ∈, ,, o, n, y, R, u, ⟩, sup, Y, x, {, =, |}",
-2920,polylogarithm,"{), (, k, ⁡, Li, s, ∞, ∑, z, =}",
-2921,polynomial,"{a, ), (, k, n, P, ∑, x, =}",
-2922,polynomial identity ring,"{), (, ,, N, P, r, …, =}",
-2923,polytrope,"{), (, K, ρ, n, P, /, =, +}",
-2924,polytropic process,"{p, C, v, =, n}",
-2925,pooled variance,"{), i, (, k, n, p, s, ∑, −, =}",
-2926,positive linear functional,"{), (, f, ≥, v}",
-2927,positive-definite matrix,"{A, x, T, >}",
-2928,potential flow,"{=, ∇, →, v, ϕ, ×}",
-2929,power,"{P, =, E, t}",
-2930,power of a point,"{−, h, s, r, =}",
-2931,power series,"{a, n, ∞, ∑, x, =}",
-2932,power set,"{⊆, ), }, ∣, P, U, (, X, {, =}",
-2933,power-weighted mean,"{i, (, ¯, /, n, q, ), w, ∑, x, =}",
-2934,pressure,"{p, S, =, F}",
-2935,prime number theorem,"{log, ), lim, ⁡, /, π, →, (, ∞, x, =}",
-2936,principal bundle,"{C, G, ), (, /, π, p, X, =, ∗}",
-2937,principal component analysis,"{⋅, i, (, k, ), t, w, x, =}",
-2938,probability,"{A, P, ), (}",
-2939,probability amplitude,"{∫, d, ψ, ), (, ∞, |, μ, X, x, ;, <}",
-2940,probability mass function,"{Pr, ∈, f, ), (, S, s, X, }, x, {, =}",
-2941,probit,"{), (, ,, Φ, p, probit, ⁡, z, =}",
-2942,product,"{), (, ≃, Y, X, Z, ×}",
-2943,projection,"{a, ∈, Π, }, ], ,, n, ), R, t, (, [, ., =, {}",
-2944,projective module,"{A, P, B, →}",
-2945,projective object,"{C, −, e, →, ), (, Hom, ,, P, S, t, ⁡, :}",
-2946,projective plane,"{∈, K, x, {, }, k}",
-2947,projective space,"{,, i, =, ⋯, }, ≠, n, U, …, x, [, ], {}",
-2948,pronic number,"{), ⋅, +, (, n}",
-2949,propositional logic,"{Q, P, →, ,, ⊢}",
-2950,pseudo-Riemannian manifold,"{g, →, M, p, R, T, ×}",
-2951,pseudosphere,"{↦, tanh, ), sech, ≤, ⁡, ,, t, ∞, (, −, <}",
-2952,pseudovector,"{a, p, b, =, ×}",
-2953,pycnometer,"{c, +, P, s, r, V, −, =}",
-2954,quadratic equation,"{a, c, b, ±, x, −, =}",
-2955,quadratic form,"{y, x, +, −}",
-2956,quadratic formula,"{a, c, b, +, ,, ∧, ⟹, ≠, x, −, =, ∗, ±}",
-2957,quadratic function,"{a, c, b, e, d, g, f, i, h, +, j, ,, ), (, y, x, z, =}",
-2958,quadric,"{A, ∈, c, b, =, ∣, n, Q, R, T, x, {, }, +}",
-2959,quantum fluctuation,"{E, h, ≥, π, t, Δ}",
-2960,quantum stochastic calculus,"{−, ω, ), H, +, κ, n, q, p, s, (, y, X, Z, =, ∑}",
-2961,quantum superposition,"{∣↑, ⟩, c, ∣↓, +}",
-2962,quantum teleportation,"{⟩, C, ψ, +, α, β, =, |}",
-2963,quark model,"{⊗, ⊕, ¯, =}",
-2964,quasi-arithmetic mean,"{), (, k, …, M, ,, n, φ, ∑, x, −, =, +}",
-2965,quasi-isometry,"{∈, C, d, ), ∀, K, ≤, ,, s, R, t, (, ϕ, −, +, |}",
-2966,quaternion,"{i, k, j, =, −}",
-2967,quiver diagram,"{), (, ¯, M, ,, N}",
-2968,quotient ring,"{⟨, ⟩, ), (, +, ,, /, R, Y, X}",
-2969,radian,"{⋅, r, =, ∘, π}",
-2970,radio propagation,"{P, r, ∝, ρ}",
-2971,radius of convergence,"{a, c, −, f, ), (, n, ∞, ∑, z, =}",
-2972,random element,"{∈, F, t, {, }, T}",
-2973,random graph,"{⋯, ⊂, i, =, ≤, j, ,, ≠, n, ), (, V, {, }}",
-2974,range,"{∫, g, G, F, ), (, +, =, n, t, ∞, x, [, −, ]}",
-2975,range of a projectile,"{cos, d, g, ), (, +, ⁡, θ, v, y, =, sin}",
-2976,rapidity,"{A, c, ln, h, +, ⁡, θ, r, t, v, −, =}",
-2977,rational normal curve,"{:, P, n, →, s, t, …, [, −, ], ν}",
-2978,rational number,"{a, ∈, b, ,, N, Q, ⇔, Z}",
-2979,rational root theorem,"{a, +, ⋯, n, x, −, =}",
-2980,rational singularity,"{Y, X, →, :, f}",
-2981,reaction rate,"{A, Q, b, d, P, ], q, p, r, t, a, B, −, =, [}",
-2982,reaction rate constant,"{A, B, ), (, k, =, m, n, r, T, [, ]}",
-2983,real numbers without multiples of π,"{k, π, R, {, }, ∖}",
-2984,real numbers without odd multiples of π/2,"{), (, k, π, R, {, }, +, ∖}",
-2985,rectangle,"{A, C, B, D, ), (, +, P, =}",
-2986,rectifier,"{f, ), max, ,, (, x, =}",
-2987,recurrence plot,"{≈, →, i, (, j, ,, ), x}",
-2988,reduced ring,"{=, r, ⇔, n}",
-2989,reduction,"{C, ≅, ), (, Σ, →, ∪, Y, X}",
-2990,redundancy,"{i, p, =, ∏, n}",
-2991,refractive index,"{c, v, =, n}",
-2992,regular measure,"{A, ⊆, F, ), (, ,, μ, sup, }, {, =, |}",
-2993,relative humidity,"{H, O, p, ϕ, =, ∗}",
-2994,rename,"{a, ∈, b, ), }, =, ρ, R, t, (, {, ], [, /}",
-2995,rendering equation,"{Ω, ⋅, ), e, d, f, i, (, +, ∫, L, o, n, →, r, w, x, =, ,, ′}",
-2996,replicator equation,"{f, i, (, j, ,, ˙, n, ), =, ∑, x, ϕ, −, ], [}",
-2997,representable functor,"{A, d, i, (, Φ, ), u, =}",
-2998,representation theory of finite groups,"{g, ), h, ], ,, (, [, −, =}",
-2999,residence time distribution,"{∫, E, d, ), (, t, ∞, =}",
-3000,residual sum of squares,"{f, i, (, n, ), S, R, y, x, −, =, ∑}",
-3001,resolvent (direct problem),"{g, F, ), (, ,, ⇔, y, x, =}",
-3002,resonator,"{∈, d, =, ,, N, λ, …, {, }}",
-3003,retract,"{A, X, r, :, →}",
-3004,right kite,"{a, A, C, b, ,, ⁡, tan, =}",
-3005,right triangle,"{a, b, =, T}",
-3006,rigid rotor,"{B, E, ), H, k, Φ, n, →, :, T, (, ;, Z, +, ~}",
-3007,ring of integers,"{a, b, i, n, ∑, x, =}",
-3008,risk assessment,"{), i, (, L, p, R, =}",
-3009,rocket engine nozzle,"{⋅, −, e, ), =, M, /, p, R, T, v, (, [, γ, ]}",
-3010,root mean square,"{a, +, n, s, …, =}",
-3011,root of unity,"{z, =, n}",
-3012,rose,"{cos, ), (, k, θ, r, ⁡, =}",
-3013,rotary variable differential transformer,"{⋅, G, ), (, +, θ, V, −, =}",
-3014,rotation group SO(4),"{a, c, b, d, ), i, (, k, j, ,, q, p, s, r, u, y, x, z, =, +, ′}",
-3015,rotational invariance,"{f, ), (, +, ,, y, x, =}",
-3016,runcinated 5-cell,"{), (, ±, ,}",
-3017,scalar field theory,"{C, i, ], +, =, L, o, S, [, ×}",
-3018,scalar matrix,"{A, a, c, ), d, g, ⋅, i, (, ,, I, …, =}",
-3019,scalar potential,"{A, ∇, →, ϕ, :, =}",
-3020,scale height,"{g, H, k, M, T, =}",
-3021,scale invariance,"{f, ), (, =, λ, x, Δ}",
-3022,scattering,"{D, /, π, λ, α, =}",
-3023,secant,{sec},
-3024,secant method,"{⋅, f, i, (, +, ), x, −, =}",
-3025,secretary problem,"{), (, ∥, Q, P, ;}",
-3026,sectional curvature,"{⟨, ⟩, ), (, K, ,, R, u, v, −, =}",
-3027,security protocol notation,"{A, B, K, ,, →, X, {, }}",
-3028,self-adjoint,"{⟨, A, ⟩, ,, y, x, =}",
-3029,semigroup,"{), (, ,, S, =, ∗}",
-3030,semiring,"{a, +, =, ∗}",
-3031,sensitivity and specificity,"{F, ), (, +, /, N, P, R, T, =}",
-3032,sequence of Lucas numbers,"{), (, +, L, n, x, −, =, ,}",
-3033,series and parallel circuits,"{D, M, N, T, −, =}",
-3034,shear flow,"{q, I, Q, V, y, x, =}",
-3035,shear strength,"{−, =, τ, σ}",
-3036,shellsort,"{⋅, D, ), (, +, ,, θ, s, u, t, W, v, α, −, =}",
-3037,shift-share analysis,"{=, M}",
-3038,silver ratio,"{=, S, δ, +}",
-3039,simple random sample,"{I, (, /, n, <, ), t, −, ε, |}",
-3040,simplex algorithm,"{x, c, T, ⋅}",
-3041,simplicial homology,"{c, i, σ, N, ∑, =}",
-3042,sine,{sin},
-3043,single loss expectancy,"{−, ×, ), (, =, A, E, F, L, S, V, a, c, e, g, f, i, l, o, n, p, s, r, u, t, v, y, x}",
-3044,singleton,"{a, {, }}",
-3045,singleton of 0,"{A, =, {, }}",
-3046,singular matrix,"{A, =, e, d, t}",
-3047,singular value decomposition,"{Σ, M, U, V, =, ∗}",
-3048,sinusoidal spiral,"{a, cos, ), φ, ⁡, n, θ, r, (, =, sin}",
-3049,skew-symmetric matrix,"{A, −, =, T}",
-3050,slice genus,"{B, g, ), (, K, ≥, /, s, T, +}",
-3051,smoothstep,"{), (, smoothstep, ⁡, x, −, =}",
-3052,softmax function,"{e, ), (, k, j, σ, ∑, z, =, K}",
-3053,soundness,"{Pr, ⊥, ), (, ↔, ,, <, P, ←, V, y, ϵ, ], [, ~}",
-3054,space-oblique Mercator projection,"{A, a, C, E, ≈, ⋅, I, (, +, O, ), S, r, u, =, |}",
-3055,spacecraft propulsion,"{⁡, ), e, ln, (, +, =, M, P, v, Δ}",
-3056,sparse graph,"{E, D, ), (, V, ≪, −, =, |}",
-3057,sparse matrix,"{E, i, =, U, ∑, Δ}",
-3058,special linear group,"{A, ∈, ×, ), =, K, ⁡, det, n, (, SL, {, }, |}",
-3059,specific gravity,"{G, H, O, S, ρ, =}",
-3060,specific storage,"{A, b, d, h, +, s, S, w, V, y, =}",
-3061,specific weight,"{γ, =, g, ρ}",
-3062,spectral centroid,"{−, f, ), (, N, ∑, x, n, =}",
-3063,spectral power distribution,"{A, ≈, ), (, ∂, M, Φ, λ, =, Δ}",
-3064,spectrum,"{C, ≅, ), (, Σ, σ, →, ∪, T, Y, X}",
-3065,spectrum analyzer,"{a, B, ), (, k, n, p, S, R, T, W, =}",
-3066,sphere,"{+, →, r, y, x, z, =, |}",
-3067,spherical coordinate system,"{a, c, g, ), φ, +, (, ,, θ, r, t, =, arccos, y, x, {, z, }, ⁡}",
-3068,spheroid,"{a, b, +, y, x, z, =}",
-3069,spin quantum number,"{‖, ), (, ℏ, s, =, +}",
-3070,spiric section,"{a, c, b, ), (, +, y, x, =}",
-3071,splitting field,"{a, ∈, ), ∏, i, ], L, p, (, ⁡, X, [, −, =, deg}",
-3072,spontaneous process,"{G, H, Δ, S, T, −, =}",
-3073,square matrix,"{A, ∈, K, ×, n}",
-3074,square root,{x},
-3075,square wave,"{a, c, b, d, f, ), (, +, z, =}",
-3076,square-free element,"{p, r, =, ⋯, n}",
-3077,squeezed coherent state,"{p, ℏ, =, Δ, x}",
-3078,stability,"{c, d, +, n, …, X, =}",
-3079,stable vector bundle,"{), (, ⁡, W, V, <, deg}",
-3080,stack effect,"{a, C, ), i, h, =, o, P, T, (, −, Δ}",
-3081,standard deviation,"{μ, =, σ}",
-3082,standard score,"{z, σ, μ, x, −, =}",
-3083,statistical classification,"{⋅, i, (, k, ,, ), score, ⁡, X, β, =}",
-3084,statistical power,"{), (, P, H, =, |}",
-3085,stella octangula number,"{), (, m, n, −, =, ∗}",
-3086,steradian,"{r, =}",
-3087,stereographic projection,"{−, ), (, ,, Y, X, y, x, z, =}",
-3088,strict diagonally dominant matrix,"{a, i, j, ≠, ∑, |, >}",
-3089,strictly consistent numerical method,"{∈, :, g, F, ), ∀, ,, N, (, x, n, =}",
-3090,structural analysis,"{A, B, +, M, ⇒, R, ∑, −, =, ∗}",
-3091,stub,"{−, <, q, p, α, N, |}",
-3092,subadditive function,"{f, ), (, +, ⩽, y, x}",
-3093,subcategory,"{C, ), H, m, ,, o, S, (, Y, X, =}",
-3094,subderivative,"{c, f, ), (, ≥, x, −}",
-3095,sublinear function,"{f, ), (, +, ⩽, y, x, ;, γ, =}",
-3096,successor function,"{), (, +, n, S, =}",
-3097,sum,"{a, k, ⋯, m, n, ∑, =, +}",
-3098,summation by parts,"{g, f, ), (, k, m, n, ], ∑, [, −, =, +}",
-3099,supercompact cardinal,"{⊆, λ, M}",
-3100,superfactorial,"{!, ⋅, $, ∏, f, ), (, k, ⏟, n, s, ≡, =}",
-3101,superparticular number,"{+, =, n}",
-3102,superpotential,"{†, b, ), i, (, +, =, Q, p, W, [, −, ]}",
-3103,surface area of a closed cylinder,"{A, B, d, ), h, +, L, π, r, (, =}",
-3104,surface area of a open cylinder,"{h, r, =, L, π}",
-3105,surface of revolution,"{a, A, ∫, b, d, ), (, +, π, t, y, x, =}",
-3106,surface phonon,"{i, ¨, j, m, ,, u, ∑, α, ϕ, −, =, β}",
-3107,symmetric algebra,"{⊗, −, w, v}",
-3108,symmetric group,"{), (, =, f}",
-3109,symmetric matrix,"{A, =, T}",
-3110,symmetric polynomial,"{a, +, ⋯, n, P, t, −, =}",
-3111,symmetric relation,"{a, ∈, b, ), ∀, ,, R, ⇔, (, X}",
-3112,symmetric space,"{∈, g, G, ), (, =, σ, {, }}",
-3113,symmetric successive over-relaxation,"{D, ), (, +, M, L, T, −, =}",
-3114,symmetry of second derivatives,"{f, ), (, ∂, ,, y, x, =}",
-3115,symplectic group,"{Ω, F, ), (, Sp, ∈, ,, n, S, ⁡, =}",
-3116,tacit programming,"{A, C, B, ), (, ≅, hom, ,, ⁡, ×}",
-3117,tangent,"{a, cos, ′, f, ), (, +, θ, ⁡, y, x, tan, −, =, sin}",
-3118,tangent bundle,"{a, b, e, f, i, =, …, l, o, n, s, r, t, v, X, {, }, ,}",
-3119,tangent vector,"{′, ), (, r, T, =, |, t}",
-3120,tautology,"{A, C, B, ), (, ∧, →, ⇔}",
-3121,tensegrity,"{d, ), (, +, l, s, −, =}",
-3122,tesseract,"{∈, i, (, ≤, ,, ), R, x, {, −, }}",
-3123,tetration,"{a, None, ), (, ], ,, n, [, −, =, {, >}",
-3124,thermal design power,"{P, C, V, =, f}",
-3125,thermistor,"{=, k, R, Δ, T}",
-3126,thermodynamic temperature,"{B, E, k, ¯, T, =}",
-3127,thinning,"{a, C, d, ), (, ,, n, }, {, −, =, D}",
-3128,tidal heating,"{Q, e, d, i, (, ρ, n, q, ), r, μ, t, =, /}",
-3129,time constant,"{), (, ], ,, s, r, y, x, [, =}",
-3130,time-independent Schrödinger equation,"{Ψ, E, H, ⁡, =, ^}",
-3131,topological game,"{∩, ∈, ⋂, ω, I, ∅, ≠, n, X}",
-3132,torsion subgroup,"{a, A, ∈, =, ∃, ,, N, p, T, ., {, n, }, |}",
-3133,torsion tensor,"{−, i, k, j, T, Γ, =}",
-3134,torus,"{z, ), (, +, R, −, y, x, r, =}",
-3135,torus knot,"{cos, −, ), (, ,, q, p, r, ⁡, y, x, ϕ, z, =, sin}",
-3136,total relation,"{a, ∈, b, ∨, ), ∀, ,, R, (, X}",
-3137,toughness,"{∫, d, f, σ, ϵ, =}",
-3138,trace,"{a, A, i, (, n, ), ∑, =}",
-3139,tractography,"{d, ), (, s, r, T, =}",
-3140,trajectory,"{−, d, →, i, h, (, m, ,, ∇, ), t, w, V, y, x, z, =}",
-3141,transformation matrix,"{A, ), (, →, T, x, =}",
-3142,transition of state,"{x, k, =, V}",
-3143,translation,"{a, b, ↦, ), (, +, ,, y, x}",
-3144,trapdoor function,"{e, f, ), (, n, x, =, mod}",
-3145,trapezoid,"{a, c, b, d, +, <, −, |}",
-3146,traveler's dilemma,"{⁡, ⋅, min, ), (, +, F, ,, sgn, y, x, −, =}",
-3147,triangular number,"{⋅, ), (, +, n, Δ, =}",
-3148,triatomic molecule,"{A, a, B, ω, M, k, m, =}",
-3149,trilateration,"{+, r, y, x, z, =}",
-3150,triple,"{a, c, b, ), }, ,, (, {, =}",
-3151,triplet state,"{↓↓, ↑↑, ↓↑, ↑↓, ,}",
-3152,trisectrix of Maclaurin,"{a, cos, ), (, +, θ, r, sec, ⁡, y, x, −, =, sin}",
-3153,truncated dodecahedron,"{A, a, ≈, ), (, +, =}",
-3154,truncation,"{⋅, ), (, ⁡, ,, n, ⌋, ⌊, x, =, trunc}",
-3155,truth table,"{A, a, c, D, g, i, (, j, ], l, o, N, ), ∧, u, t, [, n, =, |}",
-3156,turbulent Prandtl number,"{c, P, p, r, t, η, =, ϰ}",
-3157,two envelopes problem,"{A, ), +, =, (}",
-3158,two-dimensional space,{R},
-3159,ultraviolet–visible spectroscopy,"{A, c, log, I, (, L, /, ), ⁡, =, ε}",
-3160,unipotent matrix,"{A, ∈, :, I, (, ∃, m, N, ), −, =}",
-3161,unit interval,"{[, ], ,}",
-3162,unit vector,"{→, ‖, =, v}",
-3163,unitary matrix,"{I, =, U, ∗}",
-3164,universal parabolic constant,"{), ln, (, +, …, P, ⁡, =}",
-3165,universal quantification,{∀},
-3166,unordered n-tuple,"{a, ,, n, …, {, }}",
-3167,unordered pair,"{a, {, b, }, ,}",
-3168,v = d/t,"{s, =, t, v}",
-3169,valuation,"{∪, +, ∞, →, R, T, v, {, }}",
-3170,variable speed of light,"{c, G, ), (, +, M, r, ν, =}",
-3171,variance,"{E, ), (, =, μ, ⁡, Var, X, [, −, ]}",
-3172,variance reduction,"{E, ), (, j, μ, ξ, X, −, =}",
-3173,vector field,"{f, ), (, p, V, =}",
-3174,vector space,"{), (, ,, ⊕, V, =, ⊙}",
-3175,velocity,"{d, →, r, t, v, =}",
-3176,versine,"{cos, ), (, θ, ⁡, versin, −, =}",
-3177,vibration,"{!, e, n, ∞, ∑, x, =}",
-3178,viscosity,"{d, F, u, y, μ, =}",
-3179,visual acuity,{=},
-3180,voltage,"{A, ⋅, ∫, B, E, d, ), =, l, →, r, (, V, x, −, Δ}",
-3181,volume form,"{ω, ), (, ,, n, …, X, >}",
-3182,volume fraction,"{i, j, V, ∑, ϕ, =}",
-3183,voter turnout,"{C, B, D, +, P, >}",
-3184,water content,"{θ, =, w, V}",
-3185,wave equation,"{=, c, ◻, u}",
-3186,wavelet,"{a, b, ψ, ), (, ,, t, −, =}",
-3187,wavelet transform,"{a, ∫, b, d, ψ, ), (, f, ,, t, w, ∞, x, −, =}",
-3188,weak diagonally dominant matrix,"{a, ≥, i, j, ≠, ∑, |}",
-3189,wedge,"{A, B, F, ,, P, v, =}",
-3190,weight,"{=, m, g, F}",
-3191,weighted geometric mean,"{), w, ∏, ln, (, ¯, /, n, i, exp, ⁡, ∑, x, =}",
-3192,weighted harmonic mean,"{i, ¯, /, n, w, ∑, x, =}",
-3193,weighted mean,"{⋅, i, ¯, n, w, ∑, x, =}",
-3194,well-posed problem,"{:, g, F, ), ∀, ∃, ¯, ∥, ,, <, ⇒, =, (, y, x, −, δ, K, >}",
-3195,wheel and axle,"{A, a, B, F, M, b, =}",
-3196,wind engineering,"{a, log, =, +, ⁡, [, −, ]}",
-3197,work,"{A, s, =, F}",
-3198,work function,"{e, F, W, E, ϕ, −, =}",
-3199,yocto,{−},
-3200,zepto,{−},
-3201,zero,"{a, −, g, f, ), (, z, =}",
-3202,zero function,"{f, ), (, ,, y, x, z, =}",
-3203,zygosity,"{a, i, H, o, n, ), ≠, (, ∑, =}",
 3204,Čech-to-derived functor spectral sequence,"{E, F, ), H, +, ˇ, ,, q, p, ⇒, U, (, X, =}",Life sciences
 3205,Ε-quadratic form,"{B, ), (, M, Q, →, T, ϵ, −, ⟶}",Life sciences
-3206,δ13C,"{a, None, ), e, d, C, (, =, m, l, o, n, p, s, r, t, −, δ, ∗, /}",
-3207,сapacity of a set,"{∂, ∇, −, ∖, ∫, ), (, σ, ,, =, C, ′, K, Σ, S, R, ν, d, n, u, x, |}",
-3208,сharacteristic,"{+, ⏟, =, ⋯, n}",
 3209,−1,"{⋅, ), (, +, x, −, =}",Life sciences
